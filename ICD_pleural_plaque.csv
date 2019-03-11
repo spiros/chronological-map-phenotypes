@@ -1,0 +1,3 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Pleural plaque","J92.0","Pleural plaque with presence of asbestos","Diagnosis of Pleural plaque"
+"Pleural plaque","J92.9","Pleural plaque without asbestos","Diagnosis of Pleural plaque"

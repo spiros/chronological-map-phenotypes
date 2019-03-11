@@ -1,0 +1,4 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Sarcoidosis","D86","Sarcoidosis","Diagnosis of Sarcoidosis"
+"Sarcoidosis","G53.2","Multiple cranial nerve palsies in sarcoidosis","Diagnosis of Sarcoidosis"
+"Sarcoidosis","M63.3","Myositis in sarcoidosis","Diagnosis of Sarcoidosis"

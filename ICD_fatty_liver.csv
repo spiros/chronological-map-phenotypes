@@ -1,0 +1,4 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Fatty Liver","K70.0","Alcoholic fatty liver","Diagnosis of Fatty Liver"
+"Fatty Liver","K75.8","Other specified inflammatory liver diseases","Diagnosis of Fatty Liver"
+"Fatty Liver","K76.0","Fatty (change of) liver, not elsewhere classified","Diagnosis of Fatty Liver"

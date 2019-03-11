@@ -1,0 +1,4 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Rheumatoid Arthritis","J99.0","Rheumatoid lung disease","Diagnosis of Rheumatoid Arthritis"
+"Rheumatoid Arthritis","M05","Seropositive rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
+"Rheumatoid Arthritis","M06","Other rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"

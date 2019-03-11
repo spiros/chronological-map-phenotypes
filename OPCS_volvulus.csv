@@ -1,0 +1,5 @@
+"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Volvulus","H17.2","Open reduction of volvulus of caecum","Procedure for Volvulus"
+"Volvulus","H17.3","Open reduction of volvulus of sigmoid colon","Procedure for Volvulus"
+"Volvulus","H17.4","Open reduction of volvulus of colon NEC","Procedure for Volvulus"
+"Volvulus","H30.3","Passage of flatus tube to reduce volvulus of sigmoid colon","Procedure for Volvulus"

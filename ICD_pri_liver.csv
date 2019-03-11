@@ -1,0 +1,7 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Primary Malignancy_Liver","C22.0","Malignant neoplasm: Liver cell carcinoma","Diagnosis of Primary Malignancy_Liver"
+"Primary Malignancy_Liver","C22.2","Malignant neoplasm: Hepatoblastoma","Diagnosis of Primary Malignancy_Liver"
+"Primary Malignancy_Liver","C22.3","Malignant neoplasm: Angiosarcoma of liver","Diagnosis of Primary Malignancy_Liver"
+"Primary Malignancy_Liver","C22.4","Malignant neoplasm: Other sarcomas of liver","Diagnosis of Primary Malignancy_Liver"
+"Primary Malignancy_Liver","C22.7","Malignant neoplasm: Other specified carcinomas of liver","Diagnosis of Primary Malignancy_Liver"
+"Primary Malignancy_Liver","C22.9","Malignant neoplasm: Liver, unspecified","Diagnosis of Primary Malignancy_Liver"

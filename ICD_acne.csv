@@ -1,0 +1,7 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Acne","L70.0","Acne vulgaris","Diagnosis of Acne"
+"Acne","L70.1","Acne conglobata","Diagnosis of Acne"
+"Acne","L70.2","Acne varioliformis","Diagnosis of Acne"
+"Acne","L70.3","Acne tropica","Diagnosis of Acne"
+"Acne","L70.8","Other acne","Diagnosis of Acne"
+"Acne","L70.9","Acne, unspecified","Diagnosis of Acne"

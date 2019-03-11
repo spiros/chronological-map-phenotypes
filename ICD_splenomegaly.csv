@@ -1,0 +1,5 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Splenomegaly","D73.1","Hypersplenism","Diagnosis of Splenomegaly"
+"Splenomegaly","D73.2","Chronic congestive splenomegaly","Diagnosis of Splenomegaly"
+"Splenomegaly","R16.1","Splenomegaly, not elsewhere classified","Diagnosis of Splenomegaly"
+"Splenomegaly","R16.2","Hepatomegaly with splenomegaly, not elsewhere classified","Diagnosis of Splenomegaly"

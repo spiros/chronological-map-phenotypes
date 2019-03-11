@@ -1,0 +1,4 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Osteoporosis","M80","Osteoporosis with pathological fracture","Diagnosis of Osteoporosis"
+"Osteoporosis","M81","Osteoporosis without pathological fracture","Diagnosis of Osteoporosis"
+"Osteoporosis","M82","Osteoporosis in diseases classified elsewhere","Diagnosis of Osteoporosis"

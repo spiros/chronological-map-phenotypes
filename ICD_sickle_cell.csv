@@ -1,0 +1,5 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Sickle-cell anaemia","D57.0","Sickle-cell anaemia with crisis","Diagnosis of Sickle-cell anaemia"
+"Sickle-cell anaemia","D57.1","Sickle-cell anaemia without crisis","Diagnosis of Sickle-cell anaemia"
+"Sickle-cell anaemia","D57.2","Double heterozygous sickling disorders","Diagnosis of Sickle-cell anaemia"
+"Sickle-cell anaemia","D57.8","Other sickle-cell disorders","Diagnosis of Sickle-cell anaemia"

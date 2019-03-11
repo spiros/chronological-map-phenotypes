@@ -1,0 +1,5 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Spondylosis","M47.1","Other spondylosis with myelopathy","Diagnosis of Spondylosis"
+"Spondylosis","M47.2","Other spondylosis with radiculopathy","Diagnosis of Spondylosis"
+"Spondylosis","M47.8","Other spondylosis","Diagnosis of Spondylosis"
+"Spondylosis","M47.9","Spondylosis, unspecified","Diagnosis of Spondylosis"

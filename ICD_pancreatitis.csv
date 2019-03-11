@@ -1,0 +1,5 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Pancreatitis","K85","Acute pancreatitis","Diagnosis of Pancreatitis"
+"Pancreatitis","K86.0","Alcohol-induced chronic pancreatitis","Diagnosis of Pancreatitis"
+"Pancreatitis","K86.1","Other chronic pancreatitis","Diagnosis of Pancreatitis"
+"Pancreatitis","K86.3","Pseudocyst of pancreas","Diagnosis of Pancreatitis"

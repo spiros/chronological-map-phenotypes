@@ -1,0 +1,5 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Hyperparathyroidism","E21.0","Primary hyperparathyroidism","Diagnosis of Hyperparathyroidism"
+"Hyperparathyroidism","E21.1","Secondary hyperparathyroidism, not elsewhere classified","Diagnosis of Hyperparathyroidism"
+"Hyperparathyroidism","E21.2","Other hyperparathyroidism","Diagnosis of Hyperparathyroidism"
+"Hyperparathyroidism","E21.3","Hyperparathyroidism, unspecified","Diagnosis of Hyperparathyroidism"

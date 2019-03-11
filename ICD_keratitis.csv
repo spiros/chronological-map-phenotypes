@@ -1,0 +1,5 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Keratitis","H16","Keratitis","Diagnosis of Keratitis"
+"Keratitis","H19.1","Herpesviral keratitis and keratoconjunctivitis","Diagnosis of Keratitis"
+"Keratitis","H19.2","Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere","Diagnosis of Keratitis"
+"Keratitis","H19.3","Keratitis and keratoconjunctivitis in other diseases classified elsewhere","Diagnosis of Keratitis"

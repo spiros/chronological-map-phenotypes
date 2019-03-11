@@ -1,0 +1,8 @@
+"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Spina bifida","A49","Repair of spina bifida","Diagnosis of Spina bifida"
+"Spina bifida","A49.1","Freeing of spinal tether NEC","Diagnosis of Spina bifida"
+"Spina bifida","A49.2","Closure of spinal myelomeningocele","Diagnosis of Spina bifida"
+"Spina bifida","A49.3","Closure of spinal meningocele","Diagnosis of Spina bifida"
+"Spina bifida","A49.4","Complex freeing of spinal tether","Diagnosis of Spina bifida"
+"Spina bifida","A49.8","Other specified repair of spina bifida","Diagnosis of Spina bifida"
+"Spina bifida","A49.9","Unspecified repair of spina bifida","Diagnosis of Spina bifida"

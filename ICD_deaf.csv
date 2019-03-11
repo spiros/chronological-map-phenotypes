@@ -1,0 +1,6 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Hearing loss","H90","Conductive and sensorineural hearing loss","Diagnosis of Hearing loss"
+"Hearing loss","H91","Other hearing loss","Diagnosis of Hearing loss"
+"Hearing loss","Z45.3","Adjustment and management of implanted hearing device","Diagnosis of Hearing loss"
+"Hearing loss","Z46.1","Fitting and adjustment of hearing aid","Diagnosis of Hearing loss"
+"Hearing loss","Z97.4","Presence of external hearing-aid","Diagnosis of Hearing loss"

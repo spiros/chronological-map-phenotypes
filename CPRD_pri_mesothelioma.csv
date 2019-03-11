@@ -1,0 +1,5 @@
+"Disease","Read code","Medcode","Descr","Category"
+"Primary Malignancy_Mesothelioma","BBP1.00","27509.0","[M]Mesothelioma, malignant","Diagnosis of Primary Malignancy_Mesothelioma"
+"Primary Malignancy_Mesothelioma","BBP3.11","104720.0","[M]Sarcomatoid mesothelioma","Diagnosis of Primary Malignancy_Mesothelioma"
+"Primary Malignancy_Mesothelioma","BBP5.00","47734.0","[M]Epithelioid mesothelioma, malignant","Diagnosis of Primary Malignancy_Mesothelioma"
+"Primary Malignancy_Mesothelioma","BBP7.00","86820.0","[M]Mesothelioma, biphasic type, malignant","Diagnosis of Primary Malignancy_Mesothelioma"

@@ -1,0 +1,5 @@
+"Disease","ICD10codes","ICD10codeDescr","Category"
+"Heart failure","I11.0","Hypertensive heart disease with (congestive) heart failure","Diagnosis of Heart failure"
+"Heart failure","I13.0","Hypertensive heart and renal disease with (congestive) heart failure","Diagnosis of Heart failure"
+"Heart failure","I13.2","Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","Diagnosis of Heart failure"
+"Heart failure","I50","Heart failure","Diagnosis of Heart failure"

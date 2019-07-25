@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Include"
+"Disease","Read code","Medcode","Descr","Category"
 "Peptic ulcer disease","14C1.00","2812.0","H/O: peptic ulcer","History of Peptic ulcer disease"
 "Peptic ulcer disease","14C1.11","6321.0","H/O: duodenal ulcer","History of Peptic ulcer disease"
 "Peptic ulcer disease","14C1.12","7108.0","H/O: gastric ulcer","History of Peptic ulcer disease"

@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Incl_Cat"
+"Disease","Read code","Medcode","Descr","Category"
 "Cystic Fibrosis","66k0.00","100520.0","Cystic fibrosis annual review","History of Cystic Fibrosis"
 "Cystic Fibrosis","66k..00","100430.0","Cystic fibrosis monitoring","History of Cystic Fibrosis"
 "Cystic Fibrosis","C10N100","93380.0","Cystic fibrosis related diabetes mellitus","History of Cystic Fibrosis"

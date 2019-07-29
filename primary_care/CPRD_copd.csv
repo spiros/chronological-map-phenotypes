@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Include"
+"Disease","Read code","Medcode","Descr","Category"
 "COPD","14B3.12","103494.0","History of chronic obstructive pulmonary disease","History of COPD"
 "COPD","H310000","15626.0","Chronic catarrhal bronchitis","Diagnosis of COPD"
 "COPD","H310.00","25603.0","Simple chronic bronchitis","Diagnosis of COPD"

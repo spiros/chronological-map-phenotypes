@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Incl_Cat"
+"Disease","Read code","Medcode","Descr","Category"
 "Obesity","1444.00","16196.0","H/O: obesity","History of Obesity"
 "Obesity","212Q.00","52703.0","Obesity resolved","History of Obesity"
 "Obesity","222A.00","59780.0","O/E - obese","Diagnosis of Obesity"

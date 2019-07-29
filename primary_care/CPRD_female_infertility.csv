@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Include"
+"Disease","Read code","Medcode","Descr","Category"
 "Female infertility","K26y300","101598.0","Infertility due to radiation","Possible diagnosis of Female Infertility"
 "Female infertility","K26y400","108577.0","Infertility in systemic disease","Possible diagnosis of Female Infertility"
 "Female infertility","K5B0000","52132.0","Primary anovulatory infertility","Diagnosis of Female Infertility"

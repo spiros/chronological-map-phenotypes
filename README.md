@@ -1,4 +1,4 @@
-# chronological-map-phenotypes
+# A chronological map of 308 physical and mental health conditions from 4 million patients
 
 [![DOI](https://zenodo.org/badge/175040221.svg)](https://zenodo.org/badge/latestdoi/175040221)
 

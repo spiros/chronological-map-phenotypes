@@ -1525,8 +1525,21 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Folate deficiency anaemia or history of diagnosis during a hospitalization
 </pre>
-<h4>Primary care (Clinical Practice Research Datalink)</h4><table class='table table-striped table-sm table-condensed'> 
-<tr><th>Read code</th><th>Read term</th></tr><tr><td>C262000</td><td>Folic acid deficiency</td></tr><tr><td>D01..00</td><td>Other deficiency anaemias</td></tr><tr><td>D01..11</td><td>Megaloblastic anaemia</td></tr><tr><td>D012100</td><td>Folate-deficiency anaemia due to dietary causes</td></tr><tr><td>D012111</td><td>Goat's milk anaemia</td></tr><tr><td>D012112</td><td>Megaloblastic anaemia due to dietary causes</td></tr><tr><td>D012200</td><td>Folate-deficiency anaemia, drug induced</td></tr><tr><td>D012300</td><td>Folate-deficiency anaemia due to malabsorption</td></tr><tr><td>D012400</td><td>Folate-deficiency anaemia due to liver disorders</td></tr><tr><td>D012500</td><td>Macrocytic anaemia unspecified cause</td></tr><tr><td>D012.00</td><td>Folate-deficiency anaemia</td></tr><tr><td>D012.11</td><td>Folic acid deficiency anaemia</td></tr><tr><td>D012z00</td><td>Folate-deficiency anaemia NOS</td></tr><tr><td>D013000</td><td>Combined B12 and folate deficiency anaemia</td></tr><tr><td>D013.00</td><td>Other specified megaloblastic anaemia NEC</td></tr><tr><td>D013z00</td><td>Other specified megaloblastic anaemia NEC NOS</td></tr><tr><td>D01y.00</td><td>Other specified nutritional deficiency anaemia</td></tr><tr><td>D01yy00</td><td>Other specified other nutritional deficiency anaemia</td></tr><tr><td>D01yz00</td><td>Other specified nutritional deficiency anaemia NOS</td></tr><tr><td>D01z000</td><td>[X]Megaloblastic anaemia NOS</td></tr><tr><td>D01z.00</td><td>Other deficiency anaemias NOS</td></tr><tr><td>D01z.11</td><td>Megaloblastic anaemia NOS</td></tr><tr><td>D0...00</td><td>Deficiency anaemias</td></tr><tr><td>D0y..00</td><td>Other specified deficiency anaemias</td></tr><tr><td>D0z..00</td><td>Deficiency anaemias NOS</td></tr><tr><td>D21z.13</td><td>Macrocytic anaemia of unspecified cause</td></tr><tr><td>Dyu0300</td><td>[X]Other folate deficiency anaemias</td></tr><tr><td>Dyu0.00</td><td>[X]Nutritional anaemias</td></tr></table><h4>Secondary care diagnoses (Hospital Episode Statistics)</h4><table class='table table-striped table-sm table-condensed'> 
+<h4>Primary care (Clinical Practice Research Datalink)</h4><table class='table table-striped table-sm table-condensed'>
+<tr><th>Readcode</td><th>Readterm</th></tr>
+<tr><td>C262000</td><td>Folic acid deficiency</td></tr>
+<tr><td>D012100</td><td>Folate-deficiency anaemia due to dietary causes</td></tr>
+<tr><td>D012111</td><td>Goat's milk anaemia</td></tr>
+<tr><td>D012200</td><td>"Folate-deficiency anaemia</td></tr>
+<tr><td>D012300</td><td>Folate-deficiency anaemia due to malabsorption</td></tr>
+<tr><td>D012400</td><td>Folate-deficiency anaemia due to liver disorders</td></tr>
+<tr><td>D012.00</td><td>Folate-deficiency anaemia</td></tr>
+<tr><td>D012.11</td><td>Folic acid deficiency anaemia</td></tr>
+<tr><td>D012z00</td><td>Folate-deficiency anaemia NOS</td></tr>
+<tr><td>D013000</td><td>Combined B12 and folate deficiency anaemia</td></tr>
+<tr><td>Dyu0300</td><td>[X]Other folate deficiency anaemias</td></tr>
+</table>
+<h4>Secondary care diagnoses (Hospital Episode Statistics)</h4><table class='table table-striped table-sm table-condensed'> 
 <tr><th>ICD10 code</th><th>ICD10 term</th></tr><tr><td>D52</td><td>Folate deficiency anaemia</td></tr></table><hr>
 
 
@@ -2158,8 +2171,28 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Iron deficiency anaemia or history of diagnosis during a hospitalization
 </pre>
-<h4>Primary care (Clinical Practice Research Datalink)</h4><table class='table table-striped table-sm table-condensed'> 
-<tr><th>Read code</th><th>Read term</th></tr><tr><td>D000.00</td><td>Iron deficiency anaemia due to chronic blood loss</td></tr><tr><td>D000.11</td><td>Normocytic anaemia due to chronic blood loss</td></tr><tr><td>D000.12</td><td>Iron deficiency anaemia due to blood loss</td></tr><tr><td>D001.00</td><td>Iron deficiency anaemia due to dietary causes</td></tr><tr><td>D00..00</td><td>Iron deficiency anaemias</td></tr><tr><td>D00..11</td><td>Hypochromic - microcytic anaemia</td></tr><tr><td>D00..12</td><td>Microcytic - hypochromic anaemia</td></tr><tr><td>D00y000</td><td>Sideropenic dysphagia</td></tr><tr><td>D00y011</td><td>Kelly-Paterson syndrome</td></tr><tr><td>D00y012</td><td>Plummer-Vinson syndrome</td></tr><tr><td>D00y100</td><td>Microcytic hypochromic anaemia</td></tr><tr><td>D00y.00</td><td>Other specified iron deficiency anaemia</td></tr><tr><td>D00y.11</td><td>Kelly - Paterson syndrome</td></tr><tr><td>D00y.12</td><td>Plummer - Vinson syndrome</td></tr><tr><td>D00yz00</td><td>Other specified iron deficiency anaemia NOS</td></tr><tr><td>D00z000</td><td>Achlorhydric anaemia</td></tr><tr><td>D00z100</td><td>Chlorotic anaemia</td></tr><tr><td>D00z200</td><td>Idiopathic hypochromic anaemia</td></tr><tr><td>D00z.00</td><td>Unspecified iron deficiency anaemia</td></tr><tr><td>D00zz00</td><td>Iron deficiency anaemia NOS</td></tr><tr><td>D01..00</td><td>Other deficiency anaemias</td></tr><tr><td>D01z.00</td><td>Other deficiency anaemias NOS</td></tr><tr><td>D0...11</td><td>Asiderotic anaemia</td></tr><tr><td>D0...12</td><td>Sideropenic anaemia</td></tr><tr><td>D0...00</td><td>Deficiency anaemias</td></tr><tr><td>D0y..00</td><td>Other specified deficiency anaemias</td></tr><tr><td>D0z..00</td><td>Deficiency anaemias NOS</td></tr><tr><td>D01yy00</td><td>Other specified other nutritional deficiency anaemia</td></tr><tr><td>D01yz00</td><td>Other specified nutritional deficiency anaemia NOS</td></tr><tr><td>Dyu0000</td><td>[X]Other iron deficiency anaemias</td></tr><tr><td>Dyu0.00</td><td>[X]Nutritional anaemias</td></tr></table><h4>Secondary care diagnoses (Hospital Episode Statistics)</h4><table class='table table-striped table-sm table-condensed'> 
+<h4>Primary care (Clinical Practice Research Datalink)</h4><table class='table table-striped table-sm table-condensed'>
+<tr><th>Readcode</td><th>Readterm</th></tr>
+<tr><td>D000.00</td><td>Iron deficiency anaemia due to chronic blood loss</td></tr>
+<tr><td>D000.11</td><td>Normocytic anaemia due to chronic blood loss</td></tr>
+<tr><td>D000.12</td><td>Iron deficiency anaemia due to blood loss</td></tr>
+<tr><td>D001.00</td><td>Iron deficiency anaemia due to dietary causes</td></tr>
+<tr><td>D00..00</td><td>Iron deficiency anaemias</td></tr>
+<tr><td>D00y000</td><td>Sideropenic dysphagia</td></tr>
+<tr><td>D00y011</td><td>Kelly-Paterson syndrome</td></tr>
+<tr><td>D00y012</td><td>Plummer-Vinson syndrome</td></tr>
+<tr><td>D00y.00</td><td>Other specified iron deficiency anaemia</td></tr>
+<tr><td>D00y.11</td><td>Kelly - Paterson syndrome</td></tr>
+<tr><td>D00y.12</td><td>Plummer - Vinson syndrome</td></tr>
+<tr><td>D00yz00</td><td>Other specified iron deficiency anaemia NOS</td></tr>
+<tr><td>D00z000</td><td>Achlorhydric anaemia</td></tr>
+<tr><td>D00z100</td><td>Chlorotic anaemia</td></tr>
+<tr><td>D00z.00</td><td>Unspecified iron deficiency anaemia</td></tr>
+<tr><td>D00zz00</td><td>Iron deficiency anaemia NOS</td></tr>
+<tr><td>D0...11</td><td>Asiderotic anaemia</td></tr>
+<tr><td>D0...12</td><td>Sideropenic anaemia</td></tr>
+<tr><td>Dyu0000</td><td>[X]Other iron deficiency anaemias</td></tr>
+</table><h4>Secondary care diagnoses (Hospital Episode Statistics)</h4><table class='table table-striped table-sm table-condensed'> 
 <tr><th>ICD10 code</th><th>ICD10 term</th></tr><tr><td>D50</td><td>Iron deficiency anaemia</td></tr></table><hr>
 
 
@@ -4917,8 +4950,41 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Vitamin B12 deficiency anaemia or history of diagnosis during a hospitalization
 </pre>
-<h4>Primary care (Clinical Practice Research Datalink)</h4><table class='table table-striped table-sm table-condensed'> 
-<tr><th>Read code</th><th>Read term</th></tr><tr><td>1452.00</td><td>H/O: Anaemia vit.B12 deficient</td></tr><tr><td>66E1.00</td><td>B12 defic. initial assessment</td></tr><tr><td>66E2.00</td><td>B12 defic.follow-up assessment</td></tr><tr><td>66E3.00</td><td>B12 injections started</td></tr><tr><td>66E4.00</td><td>B12 injections - at home</td></tr><tr><td>66E5.00</td><td>B12 injections - at surgery</td></tr><tr><td>66E6.00</td><td>Reticulcytosis after B12</td></tr><tr><td>66E..00</td><td>B12 deficiency monitoring</td></tr><tr><td>66E7.00</td><td>B12 def.-dubious diag.criteria</td></tr><tr><td>66E8.00</td><td>B12 injections stopped</td></tr><tr><td>66EZ.00</td><td>B12 defic. monitoring NOS</td></tr><tr><td>C262100</td><td>Vitamin B12 deficiency</td></tr><tr><td>D010.00</td><td>Pernicious anaemia</td></tr><tr><td>D010.11</td><td>Addison's anaemia</td></tr><tr><td>D010.12</td><td>Biermer's congenital pernicious anaemia</td></tr><tr><td>D010.13</td><td>Congenital deficiency of intrinsic factor</td></tr><tr><td>D011000</td><td>Vitamin B12 deficiency anaemia due to dietary causes</td></tr><tr><td>D011011</td><td>Imerslund - Grasbeck syndrome</td></tr><tr><td>D011013</td><td>Vegan's anaemia</td></tr><tr><td>D011100</td><td>Vit B12 defic anaemia due to malabsorption with proteinuria</td></tr><tr><td>D011200</td><td>Transcobalamin II deficiency</td></tr><tr><td>D011.00</td><td>Other vitamin B12 deficiency anaemias</td></tr><tr><td>D011.11</td><td>Vitamin B12 deficiency anaemia</td></tr><tr><td>D011X00</td><td>Vitamin B12 deficiency anaemia, unspecified</td></tr><tr><td>D011z00</td><td>Other vitamin B12 deficiency anaemia NOS</td></tr><tr><td>D01..00</td><td>Other deficiency anaemias</td></tr><tr><td>D01..11</td><td>Megaloblastic anaemia</td></tr><tr><td>D012112</td><td>Megaloblastic anaemia due to dietary causes</td></tr><tr><td>D012500</td><td>Macrocytic anaemia unspecified cause</td></tr><tr><td>D013000</td><td>Combined B12 and folate deficiency anaemia</td></tr><tr><td>D013.00</td><td>Other specified megaloblastic anaemia NEC</td></tr><tr><td>D013z00</td><td>Other specified megaloblastic anaemia NEC NOS</td></tr><tr><td>D01y.00</td><td>Other specified nutritional deficiency anaemia</td></tr><tr><td>D01yy00</td><td>Other specified other nutritional deficiency anaemia</td></tr><tr><td>D01yz00</td><td>Other specified nutritional deficiency anaemia NOS</td></tr><tr><td>D01z000</td><td>[X]Megaloblastic anaemia NOS</td></tr><tr><td>D01z.00</td><td>Other deficiency anaemias NOS</td></tr><tr><td>D01z.11</td><td>Megaloblastic anaemia NOS</td></tr><tr><td>D0...00</td><td>Deficiency anaemias</td></tr><tr><td>D0y..00</td><td>Other specified deficiency anaemias</td></tr><tr><td>D0z..00</td><td>Deficiency anaemias NOS</td></tr><tr><td>D21z.13</td><td>Macrocytic anaemia of unspecified cause</td></tr><tr><td>Dyu0100</td><td>[X]Other dietary vitamin B12 deficiency anaemia</td></tr><tr><td>Dyu0200</td><td>[X]Other vitamin B12 deficiency anaemias</td></tr><tr><td>Dyu0600</td><td>[X]Vitamin B12 deficiency anaemia, unspecified</td></tr><tr><td>Dyu0.00</td><td>[X]Nutritional anaemias</td></tr><tr><td>F11x600</td><td>Cerebral degeneration due to vitamin B12 deficiency</td></tr><tr><td>F162.00</td><td>Subacute combined degeneration of spinal cord</td></tr><tr><td>F381500</td><td>Myasthenic syndrome due to pernicious anaemia</td></tr></table><h4>Secondary care diagnoses (Hospital Episode Statistics)</h4><table class='table table-striped table-sm table-condensed'> 
+<h4>Primary care (Clinical Practice Research Datalink)</h4><table class='table table-striped table-sm table-condensed'>
+<tr><th>Readcode</td><th>Readterm</th></tr>
+<tr><td>1452</td><td>H/O: Anaemia vit.B12 deficient</td></tr>
+<tr><td>66E1.00</td><td>B12 defic. initial assessment</td></tr>
+<tr><td>66E2.00</td><td>B12 defic.follow-up assessment</td></tr>
+<tr><td>66E3.00</td><td>B12 injections started</td></tr>
+<tr><td>66E4.00</td><td>B12 injections - at home</td></tr>
+<tr><td>66E5.00</td><td>B12 injections - at surgery</td></tr>
+<tr><td>66E6.00</td><td>Reticulcytosis after B12</td></tr>
+<tr><td>66E..00</td><td>B12 deficiency monitoring</td></tr>
+<tr><td>66E7.00</td><td>B12 def.-dubious diag.criteria</td></tr>
+<tr><td>66E8.00</td><td>B12 injections stopped</td></tr>
+<tr><td>66EZ.00</td><td>B12 defic. monitoring NOS</td></tr>
+<tr><td>C262100</td><td>Vitamin B12 deficiency</td></tr>
+<tr><td>D010.00</td><td>Pernicious anaemia</td></tr>
+<tr><td>D010.11</td><td>Addison's anaemia</td></tr>
+<tr><td>D010.12</td><td>Biermer's congenital pernicious anaemia</td></tr>
+<tr><td>D010.13</td><td>Congenital deficiency of intrinsic factor</td></tr>
+<tr><td>D011000</td><td>Vitamin B12 deficiency anaemia due to dietary causes</td></tr>
+<tr><td>D011011</td><td>Imerslund - Grasbeck syndrome</td></tr>
+<tr><td>D011013</td><td>Vegan's anaemia</td></tr>
+<tr><td>D011100</td><td>Vit B12 defic anaemia due to malabsorption with proteinuria</td></tr>
+<tr><td>D011200</td><td>Transcobalamin II deficiency</td></tr>
+<tr><td>D011.00</td><td>Other vitamin B12 deficiency anaemias</td></tr>
+<tr><td>D011.11</td><td>Vitamin B12 deficiency anaemia</td></tr>
+<tr><td>D011X00</td><td>"Vitamin B12 deficiency anaemia</td></tr>
+<tr><td>D011z00</td><td>Other vitamin B12 deficiency anaemia NOS</td></tr>
+<tr><td>D013000</td><td>Combined B12 and folate deficiency anaemia</td></tr>
+<tr><td>Dyu0100</td><td>[X]Other dietary vitamin B12 deficiency anaemia</td></tr>
+<tr><td>Dyu0200</td><td>[X]Other vitamin B12 deficiency anaemias</td></tr>
+<tr><td>Dyu0600</td><td>"[X]Vitamin B12 deficiency anaemia</td></tr>
+<tr><td>F11x600</td><td>Cerebral degeneration due to vitamin B12 deficiency</td></tr>
+<tr><td>F162.00</td><td>Subacute combined degeneration of spinal cord</td></tr>
+<tr><td>F381500</td><td>Myasthenic syndrome due to pernicious anaemia</td></tr>
+</table><h4>Secondary care diagnoses (Hospital Episode Statistics)</h4><table class='table table-striped table-sm table-condensed'> 
 <tr><th>ICD10 code</th><th>ICD10 term</th></tr><tr><td>D51</td><td>Vitamin B12 deficiency anaemia</td></tr></table><hr>
 
 

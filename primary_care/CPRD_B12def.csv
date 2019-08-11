@@ -1,50 +1,33 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Vitamin B12 deficiency anaemia","1452.00","54738.0","H/O: Anaemia vit.B12 deficient","History of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","66E1.00","11126.0","B12 defic. initial assessment","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","66E2.00","8013.0","B12 defic.follow-up assessment","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","66E3.00","31126.0","B12 injections started","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","66E4.00","42928.0","B12 injections - at home","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","66E5.00","12329.0","B12 injections - at surgery","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","66E6.00","66935.0","Reticulcytosis after B12","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","66E..00","7403.0","B12 deficiency monitoring","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","66E7.00","48714.0","B12 def.-dubious diag.criteria","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","66E8.00","58599.0","B12 injections stopped","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","66EZ.00","36840.0","B12 defic. monitoring NOS","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","C262100","2515.0","Vitamin B12 deficiency","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","D010.00","2464.0","Pernicious anaemia","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D010.11","2813.0","Addison's anaemia","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D010.12","55370.0","Biermer's congenital pernicious anaemia","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D010.13","46289.0","Congenital deficiency of intrinsic factor","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D011000","32953.0","Vitamin B12 deficiency anaemia due to dietary causes","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D011011","72895.0","Imerslund - Grasbeck syndrome","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D011013","69275.0","Vegan's anaemia","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D011100","2482.0","Vit B12 defic anaemia due to malabsorption with proteinuria","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D011200","62637.0","Transcobalamin II deficiency","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D011.00","29486.0","Other vitamin B12 deficiency anaemias","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D011.11","5271.0","Vitamin B12 deficiency anaemia","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D011X00","6028.0","Vitamin B12 deficiency anaemia, unspecified","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D011z00","31270.0","Other vitamin B12 deficiency anaemia NOS","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D01..00","11961.0","Other deficiency anaemias","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D01..11","4475.0","Megaloblastic anaemia","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D012112","59103.0","Megaloblastic anaemia due to dietary causes","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D012500","3981.0","Macrocytic anaemia unspecified cause","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D013000","22715.0","Combined B12 and folate deficiency anaemia","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D013.00","51489.0","Other specified megaloblastic anaemia NEC","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D013z00","56348.0","Other specified megaloblastic anaemia NEC NOS","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D01y.00","58136.0","Other specified nutritional deficiency anaemia","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D01yy00","100576.0","Other specified other nutritional deficiency anaemia","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D01yz00","92106.0","Other specified nutritional deficiency anaemia NOS","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D01z000","10506.0","[X]Megaloblastic anaemia NOS","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D01z.00","57274.0","Other deficiency anaemias NOS","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D01z.11","53799.0","Megaloblastic anaemia NOS","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D0...00","7841.0","Deficiency anaemias","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D0y..00","26327.0","Other specified deficiency anaemias","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D0z..00","8054.0","Deficiency anaemias NOS","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","D21z.13","797.0","Macrocytic anaemia of unspecified cause","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","Dyu0100","47952.0","[X]Other dietary vitamin B12 deficiency anaemia","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","Dyu0200","35092.0","[X]Other vitamin B12 deficiency anaemias","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","Dyu0600","53846.0","[X]Vitamin B12 deficiency anaemia, unspecified","Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","Dyu0.00","71840.0","[X]Nutritional anaemias","Possible Diagnosis of Vitamin B12 deficiency anaemia"
-"Vitamin B12 deficiency anaemia","F11x600","24581.0","Cerebral degeneration due to vitamin B12 deficiency","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","F162.00","7736.0","Subacute combined degeneration of spinal cord","Vitamin B12 deficiency"
-"Vitamin B12 deficiency anaemia","F381500","56973.0","Myasthenic syndrome due to pernicious anaemia","Diagnosis of Vitamin B12 deficiency anaemia"
+Disease,Read code,Medcode,Descr,Category
+Vitamin B12 deficiency anaemia,1452,54738,H/O: Anaemia vit.B12 deficient,History of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,66E1.00,11126,B12 defic. initial assessment,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,66E2.00,8013,B12 defic.follow-up assessment,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,66E3.00,31126,B12 injections started,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,66E4.00,42928,B12 injections - at home,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,66E5.00,12329,B12 injections - at surgery,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,66E6.00,66935,Reticulcytosis after B12,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,66E..00,7403,B12 deficiency monitoring,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,66E7.00,48714,B12 def.-dubious diag.criteria,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,66E8.00,58599,B12 injections stopped,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,66EZ.00,36840,B12 defic. monitoring NOS,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,C262100,2515,Vitamin B12 deficiency,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,D010.00,2464,Pernicious anaemia,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D010.11,2813,Addison's anaemia,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D010.12,55370,Biermer's congenital pernicious anaemia,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D010.13,46289,Congenital deficiency of intrinsic factor,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D011000,32953,Vitamin B12 deficiency anaemia due to dietary causes,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D011011,72895,Imerslund - Grasbeck syndrome,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D011013,69275,Vegan's anaemia,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D011100,2482,Vit B12 defic anaemia due to malabsorption with proteinuria,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D011200,62637,Transcobalamin II deficiency,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D011.00,29486,Other vitamin B12 deficiency anaemias,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D011.11,5271,Vitamin B12 deficiency anaemia,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D011X00,6028,"Vitamin B12 deficiency anaemia, unspecified",Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D011z00,31270,Other vitamin B12 deficiency anaemia NOS,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,D013000,22715,Combined B12 and folate deficiency anaemia,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,Dyu0100,47952,[X]Other dietary vitamin B12 deficiency anaemia,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,Dyu0200,35092,[X]Other vitamin B12 deficiency anaemias,Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,Dyu0600,53846,"[X]Vitamin B12 deficiency anaemia, unspecified",Diagnosis of Vitamin B12 deficiency anaemia
+Vitamin B12 deficiency anaemia,F11x600,24581,Cerebral degeneration due to vitamin B12 deficiency,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,F162.00,7736,Subacute combined degeneration of spinal cord,Vitamin B12 deficiency
+Vitamin B12 deficiency anaemia,F381500,56973,Myasthenic syndrome due to pernicious anaemia,Diagnosis of Vitamin B12 deficiency anaemia

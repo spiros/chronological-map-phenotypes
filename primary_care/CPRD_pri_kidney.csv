@@ -1,14 +1,14 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_Kidney and Ureter","B4A0000","7978.0","Hypernephroma","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","B4A0.00","1599.0","Malignant neoplasm of kidney parenchyma","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","B4A1000","27540.0","Malignant neoplasm of renal calyces","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","B4A1100","101608.0","Malignant neoplasm of ureteropelvic junction","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","B4A1.00","12389.0","Malignant neoplasm of renal pelvis","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","B4A1z00","54184.0","Malignant neoplasm of renal pelvis NOS","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","B4A2.00","15223.0","Malignant neoplasm of ureter","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","B4A..11","18712.0","Renal malignant neoplasm","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","BB5a000","10668.0","[M]Renal cell carcinoma","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","BB5a011","52266.0","[M]Grawitz tumour","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","BB5a012","15419.0","[M]Hypernephroma","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","ZV10512","47683.0","[V]Personal history of malignant neoplasm of kidney","History of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","ZV10513","28881.0","[V]Personal history of malignant neoplasm of kidney","History of Primary Malignancy_Kidney and Ureter"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_Kidney and Ureter,B4A0000,7978.0,Hypernephroma,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,B4A0.00,1599.0,Malignant neoplasm of kidney parenchyma,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,B4A1000,27540.0,Malignant neoplasm of renal calyces,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,B4A1100,101608.0,Malignant neoplasm of ureteropelvic junction,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,B4A1.00,12389.0,Malignant neoplasm of renal pelvis,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,B4A1z00,54184.0,Malignant neoplasm of renal pelvis NOS,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,B4A2.00,15223.0,Malignant neoplasm of ureter,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,B4A..11,18712.0,Renal malignant neoplasm,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,BB5a000,10668.0,[M]Renal cell carcinoma,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,BB5a011,52266.0,[M]Grawitz tumour,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,BB5a012,15419.0,[M]Hypernephroma,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,ZV10512,47683.0,[V]Personal history of malignant neoplasm of kidney,History of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,ZV10513,28881.0,[V]Personal history of malignant neoplasm of kidney,History of Primary Malignancy_Kidney and Ureter

@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Subdural haemorrhage (acute)(nontraumatic)","I62.0","Subdural haemorrhage (acute)(nontraumatic)","Diagnosis of Subdural haemorrhage (acute)(nontraumatic)"
+Disease,ICD10code,ICD10codeDescr,Category
+Subdural haemorrhage (acute)(nontraumatic),I62.0,Subdural haemorrhage (acute)(nontraumatic),Diagnosis of Subdural haemorrhage (acute)(nontraumatic)

@@ -1,129 +1,129 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Epilepsy","1473.00","3783.0","H/O: epilepsy","History of Epilepsy"
-"Epilepsy","1B1W.00","38919.0","Transient epileptic amnesia","History of Epilepsy"
-"Epilepsy","1O30.00","22341.0","Epilepsy confirmed","Diagnosis of Epilepsy"
-"Epilepsy","2126000.0","8385.0","Epilepsy resolved","History of Epilepsy"
-"Epilepsy","212J.00","12848.0","Epilepsy resolved","History of Epilepsy"
-"Epilepsy","6110.00","100652.0","Contraceptive advice for patients with epilepsy","History of Epilepsy"
-"Epilepsy","6674.00","50012.0","Epilepsy associated problems","History of Epilepsy"
-"Epilepsy","667..00","6983.0","Epilepsy monitoring","History of Epilepsy"
-"Epilepsy","6677.00","13073.0","Epilepsy drug side effects","History of Epilepsy"
-"Epilepsy","6678.00","26512.0","Epilepsy treatment changed","History of Epilepsy"
-"Epilepsy","6679.00","34473.0","Epilepsy treatment started","History of Epilepsy"
-"Epilepsy","667A.00","20566.0","Epilepsy treatment stopped","History of Epilepsy"
-"Epilepsy","667B.00","4602.0","Nocturnal epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","667C.00","19550.0","Epilepsy control good","History of Epilepsy"
-"Epilepsy","667D.00","13220.0","Epilepsy control poor","History of Epilepsy"
-"Epilepsy","667E.00","19551.0","Epilepsy care arrangement","History of Epilepsy"
-"Epilepsy","667F.00","11015.0","Seizure free >12 months","History of Epilepsy"
-"Epilepsy","667G.00","26620.0","Epilepsy restricts employment","History of Epilepsy"
-"Epilepsy","667H.00","50702.0","Epilepsy prevents employment","History of Epilepsy"
-"Epilepsy","667J.00","40863.0","Epilepsy impairs education","History of Epilepsy"
-"Epilepsy","667K.00","26619.0","Epilepsy limits activities","History of Epilepsy"
-"Epilepsy","667L.00","19552.0","Epilepsy does not limit activities","History of Epilepsy"
-"Epilepsy","667M.00","55706.0","Epilepsy management plan given","History of Epilepsy"
-"Epilepsy","667N.00","22991.0","Epilepsy severity","History of Epilepsy"
-"Epilepsy","667P.00","13219.0","No seizures on treatment","History of Epilepsy"
-"Epilepsy","667Q.00","26618.0","1 to 12 seizures a year","History of Epilepsy"
-"Epilepsy","667R.00","13221.0","2 to 4 seizures a month","History of Epilepsy"
-"Epilepsy","667S.00","19549.0","1 to 7 seizures a week","History of Epilepsy"
-"Epilepsy","667T.00","18899.0","Daily seizures","History of Epilepsy"
-"Epilepsy","667V.00","39160.0","Many seizures a day","History of Epilepsy"
-"Epilepsy","667W.00","46603.0","Emergency epilepsy treatment since last appointment","History of Epilepsy"
-"Epilepsy","667X.00","52632.0","No epilepsy drug side effects","History of Epilepsy"
-"Epilepsy","667Z.00","36696.0","Epilepsy monitoring NOS","History of Epilepsy"
-"Epilepsy","67AF.00","102359.0","Pregnancy advice for patients with epilepsy","History of Epilepsy"
-"Epilepsy","67IJ000","100920.0","Pre-conception advice for patients with epilepsy","History of Epilepsy"
-"Epilepsy","8BIF.00","9326.0","Epilepsy medication review","History of Epilepsy"
-"Epilepsy","9Of3.00","45757.0","Epilepsy monitoring verbal invite","History of Epilepsy"
-"Epilepsy","9Of4.00","72384.0","Epilepsy monitoring telephone invite","History of Epilepsy"
-"Epilepsy","9Of5.00","98442.0","Epilepsy monitoring call first letter","History of Epilepsy"
-"Epilepsy","9Of6.00","98536.0","Epilepsy monitoring call second letter","History of Epilepsy"
-"Epilepsy","9Of7.00","98977.0","Epilepsy monitoring call third letter","History of Epilepsy"
-"Epilepsy","Eu05212","31877.0","[X]Schizophrenia-like psychosis in epilepsy","History of Epilepsy"
-"Epilepsy","Eu05y11","6709.0","[X]Epileptic psychosis NOS","History of Epilepsy"
-"Epilepsy","Eu06013","48462.0","[X]Limbic epilepsy personality","History of Epilepsy"
-"Epilepsy","Eu80300","43679.0","[X]Acquired aphasia with epilepsy [Landau - Kleffner]","Diagnosis of Epilepsy"
-"Epilepsy","F132100","37644.0","Progressive myoclonic epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F132111","63826.0","Unverricht - Lundborg disease","Diagnosis of Epilepsy"
-"Epilepsy","F132200","45602.0","Myoclonic encephalopathy","Diagnosis of Epilepsy"
-"Epilepsy","F142200","49737.0","Dyssynergia cerebellaris myoclonica","Diagnosis of Epilepsy"
-"Epilepsy","F250000","2907.0","Petit mal (minor) epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F250011","1715.0","Epileptic absences","Diagnosis of Epilepsy"
-"Epilepsy","F250100","99548.0","Pykno-epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F250200","24309.0","Epileptic seizures - atonic","Diagnosis of Epilepsy"
-"Epilepsy","F250300","31830.0","Epileptic seizures - akinetic","Diagnosis of Epilepsy"
-"Epilepsy","F250400","17399.0","Juvenile absence epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F250500","34792.0","Lennox-Gastaut syndrome","Diagnosis of Epilepsy"
-"Epilepsy","F250.00","11186.0","Generalised nonconvulsive epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F250y00","59185.0","Other specified generalised nonconvulsive epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F250z00","44252.0","Generalised nonconvulsive epilepsy NOS","Diagnosis of Epilepsy"
-"Epilepsy","F251000","988.0","Grand mal (major) epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F251011","22804.0","Tonic-clonic epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F251100","37782.0","Neonatal myoclonic epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F251111","49340.0","Otohara syndrome","Diagnosis of Epilepsy"
-"Epilepsy","F251200","18471.0","Epileptic seizures - clonic","Diagnosis of Epilepsy"
-"Epilepsy","F251300","4801.0","Epileptic seizures - myoclonic","Diagnosis of Epilepsy"
-"Epilepsy","F251400","5152.0","Epileptic seizures - tonic","Diagnosis of Epilepsy"
-"Epilepsy","F251500","8187.0","Tonic-clonic epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F251.00","26144.0","Generalised convulsive epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F251y00","45927.0","Other specified generalised convulsive epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F251z00","40806.0","Generalised convulsive epilepsy NOS","Diagnosis of Epilepsy"
-"Epilepsy","F252.00","9886.0","Petit mal status","Diagnosis of Epilepsy"
-"Epilepsy","F253.00","5117.0","Grand mal status","Diagnosis of Epilepsy"
-"Epilepsy","F253.11","4093.0","Status epilepticus","Diagnosis of Epilepsy"
-"Epilepsy","F254000","3175.0","Temporal lobe epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F254100","23634.0","Psychomotor epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F254200","36203.0","Psychosensory epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F254300","55665.0","Limbic system epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F254400","34079.0","Epileptic automatism","Diagnosis of Epilepsy"
-"Epilepsy","F254500","11394.0","Complex partial epileptic seizure","Diagnosis of Epilepsy"
-"Epilepsy","F254.00","32288.0","Partial epilepsy with impairment of consciousness","Diagnosis of Epilepsy"
-"Epilepsy","F254z00","31920.0","Partial epilepsy with impairment of consciousness NOS","Diagnosis of Epilepsy"
-"Epilepsy","F255000","9569.0","Jacksonian, focal or motor epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F255011","5525.0","Focal epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F255012","65699.0","Motor epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F255100","48134.0","Sensory induced epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F255200","37592.0","Somatosensory epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F255300","73542.0","Visceral reflex epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F255311","98870.0","Partial epilepsy with autonomic symptoms","Diagnosis of Epilepsy"
-"Epilepsy","F255400","55739.0","Visual reflex epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F255500","68946.0","Unilateral epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F255600","40105.0","Simple partial epileptic seizure","Diagnosis of Epilepsy"
-"Epilepsy","F255.00","26015.0","Partial epilepsy without impairment of consciousness","Diagnosis of Epilepsy"
-"Epilepsy","F255y00","26733.0","Partial epilepsy without impairment of consciousness OS","Diagnosis of Epilepsy"
-"Epilepsy","F255z00","27526.0","Partial epilepsy without impairment of consciousness NOS","Diagnosis of Epilepsy"
-"Epilepsy","F256000","7945.0","Hypsarrhythmia","Diagnosis of Epilepsy"
-"Epilepsy","F256100","23415.0","Salaam attacks","Diagnosis of Epilepsy"
-"Epilepsy","F256.00","4478.0","Infantile spasms","Diagnosis of Epilepsy"
-"Epilepsy","F256.11","68486.0","Lightning spasms","Diagnosis of Epilepsy"
-"Epilepsy","F256.12","39023.0","West syndrome","Diagnosis of Epilepsy"
-"Epilepsy","F256z00","49322.0","Infantile spasms NOS","Diagnosis of Epilepsy"
-"Epilepsy","F257.00","71719.0","Kojevnikov's epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F258.00","21885.0","Post-ictal state","Diagnosis of Epilepsy"
-"Epilepsy","F259.00","37906.0","Early infant epileptic encephalopathy wth suppression bursts","Diagnosis of Epilepsy"
-"Epilepsy","F259.11","51998.0","Ohtahara syndrome","Diagnosis of Epilepsy"
-"Epilepsy","F25A.00","19363.0","Juvenile myoclonic epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25B.00","30604.0","Alcohol-induced epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25C.00","30816.0","Drug-induced epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25D.00","56359.0","Menstrual epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25E.00","65673.0","Stress-induced epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25..00","573.0","Epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25F.00","30635.0","Photosensitive epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25G.00","108409.0","Severe myoclonic epilepsy in infancy","Diagnosis of Epilepsy"
-"Epilepsy","F25G.11","105679.0","Dravet syndrome","Diagnosis of Epilepsy"
-"Epilepsy","F25X.00","6271.0","Status epilepticus, unspecified","Diagnosis of Epilepsy"
-"Epilepsy","F25y000","55260.0","Cursive (running) epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25y100","53483.0","Gelastic epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25y200","9887.0","Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset","Diagnosis of Epilepsy"
-"Epilepsy","F25y300","25330.0","Complex partial status epilepticus","Diagnosis of Epilepsy"
-"Epilepsy","F25y400","19170.0","Benign Rolandic epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25y500","96641.0","Panayiotopoulos syndrome","Diagnosis of Epilepsy"
-"Epilepsy","F25y.00","38307.0","Other forms of epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","F25yz00","9979.0","Other forms of epilepsy NOS","Diagnosis of Epilepsy"
-"Epilepsy","F25z.00","9747.0","Epilepsy NOS","Diagnosis of Epilepsy"
-"Epilepsy","F25z.11","3607.0","Fit (in known epileptic) NOS","Diagnosis of Epilepsy"
-"Epilepsy","Fyu5000","99731.0","[X]Other generalized epilepsy and epileptic syndromes","Diagnosis of Epilepsy"
-"Epilepsy","Fyu5100","69831.0","[X]Other epilepsy","Diagnosis of Epilepsy"
-"Epilepsy","Fyu5200","59120.0","[X]Other status epilepticus","Diagnosis of Epilepsy"
-"Epilepsy","Fyu5900","71801.0","[X]Status epilepticus, unspecified","Diagnosis of Epilepsy"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Epilepsy,1473.00,3783.0,H/O: epilepsy,History of Epilepsy
+Epilepsy,1B1W.00,38919.0,Transient epileptic amnesia,History of Epilepsy
+Epilepsy,1O30.00,22341.0,Epilepsy confirmed,Diagnosis of Epilepsy
+Epilepsy,2126000.0,8385.0,Epilepsy resolved,History of Epilepsy
+Epilepsy,212J.00,12848.0,Epilepsy resolved,History of Epilepsy
+Epilepsy,6110.00,100652.0,Contraceptive advice for patients with epilepsy,History of Epilepsy
+Epilepsy,6674.00,50012.0,Epilepsy associated problems,History of Epilepsy
+Epilepsy,667..00,6983.0,Epilepsy monitoring,History of Epilepsy
+Epilepsy,6677.00,13073.0,Epilepsy drug side effects,History of Epilepsy
+Epilepsy,6678.00,26512.0,Epilepsy treatment changed,History of Epilepsy
+Epilepsy,6679.00,34473.0,Epilepsy treatment started,History of Epilepsy
+Epilepsy,667A.00,20566.0,Epilepsy treatment stopped,History of Epilepsy
+Epilepsy,667B.00,4602.0,Nocturnal epilepsy,Diagnosis of Epilepsy
+Epilepsy,667C.00,19550.0,Epilepsy control good,History of Epilepsy
+Epilepsy,667D.00,13220.0,Epilepsy control poor,History of Epilepsy
+Epilepsy,667E.00,19551.0,Epilepsy care arrangement,History of Epilepsy
+Epilepsy,667F.00,11015.0,Seizure free >12 months,History of Epilepsy
+Epilepsy,667G.00,26620.0,Epilepsy restricts employment,History of Epilepsy
+Epilepsy,667H.00,50702.0,Epilepsy prevents employment,History of Epilepsy
+Epilepsy,667J.00,40863.0,Epilepsy impairs education,History of Epilepsy
+Epilepsy,667K.00,26619.0,Epilepsy limits activities,History of Epilepsy
+Epilepsy,667L.00,19552.0,Epilepsy does not limit activities,History of Epilepsy
+Epilepsy,667M.00,55706.0,Epilepsy management plan given,History of Epilepsy
+Epilepsy,667N.00,22991.0,Epilepsy severity,History of Epilepsy
+Epilepsy,667P.00,13219.0,No seizures on treatment,History of Epilepsy
+Epilepsy,667Q.00,26618.0,1 to 12 seizures a year,History of Epilepsy
+Epilepsy,667R.00,13221.0,2 to 4 seizures a month,History of Epilepsy
+Epilepsy,667S.00,19549.0,1 to 7 seizures a week,History of Epilepsy
+Epilepsy,667T.00,18899.0,Daily seizures,History of Epilepsy
+Epilepsy,667V.00,39160.0,Many seizures a day,History of Epilepsy
+Epilepsy,667W.00,46603.0,Emergency epilepsy treatment since last appointment,History of Epilepsy
+Epilepsy,667X.00,52632.0,No epilepsy drug side effects,History of Epilepsy
+Epilepsy,667Z.00,36696.0,Epilepsy monitoring NOS,History of Epilepsy
+Epilepsy,67AF.00,102359.0,Pregnancy advice for patients with epilepsy,History of Epilepsy
+Epilepsy,67IJ000,100920.0,Pre-conception advice for patients with epilepsy,History of Epilepsy
+Epilepsy,8BIF.00,9326.0,Epilepsy medication review,History of Epilepsy
+Epilepsy,9Of3.00,45757.0,Epilepsy monitoring verbal invite,History of Epilepsy
+Epilepsy,9Of4.00,72384.0,Epilepsy monitoring telephone invite,History of Epilepsy
+Epilepsy,9Of5.00,98442.0,Epilepsy monitoring call first letter,History of Epilepsy
+Epilepsy,9Of6.00,98536.0,Epilepsy monitoring call second letter,History of Epilepsy
+Epilepsy,9Of7.00,98977.0,Epilepsy monitoring call third letter,History of Epilepsy
+Epilepsy,Eu05212,31877.0,[X]Schizophrenia-like psychosis in epilepsy,History of Epilepsy
+Epilepsy,Eu05y11,6709.0,[X]Epileptic psychosis NOS,History of Epilepsy
+Epilepsy,Eu06013,48462.0,[X]Limbic epilepsy personality,History of Epilepsy
+Epilepsy,Eu80300,43679.0,[X]Acquired aphasia with epilepsy [Landau - Kleffner],Diagnosis of Epilepsy
+Epilepsy,F132100,37644.0,Progressive myoclonic epilepsy,Diagnosis of Epilepsy
+Epilepsy,F132111,63826.0,Unverricht - Lundborg disease,Diagnosis of Epilepsy
+Epilepsy,F132200,45602.0,Myoclonic encephalopathy,Diagnosis of Epilepsy
+Epilepsy,F142200,49737.0,Dyssynergia cerebellaris myoclonica,Diagnosis of Epilepsy
+Epilepsy,F250000,2907.0,Petit mal (minor) epilepsy,Diagnosis of Epilepsy
+Epilepsy,F250011,1715.0,Epileptic absences,Diagnosis of Epilepsy
+Epilepsy,F250100,99548.0,Pykno-epilepsy,Diagnosis of Epilepsy
+Epilepsy,F250200,24309.0,Epileptic seizures - atonic,Diagnosis of Epilepsy
+Epilepsy,F250300,31830.0,Epileptic seizures - akinetic,Diagnosis of Epilepsy
+Epilepsy,F250400,17399.0,Juvenile absence epilepsy,Diagnosis of Epilepsy
+Epilepsy,F250500,34792.0,Lennox-Gastaut syndrome,Diagnosis of Epilepsy
+Epilepsy,F250.00,11186.0,Generalised nonconvulsive epilepsy,Diagnosis of Epilepsy
+Epilepsy,F250y00,59185.0,Other specified generalised nonconvulsive epilepsy,Diagnosis of Epilepsy
+Epilepsy,F250z00,44252.0,Generalised nonconvulsive epilepsy NOS,Diagnosis of Epilepsy
+Epilepsy,F251000,988.0,Grand mal (major) epilepsy,Diagnosis of Epilepsy
+Epilepsy,F251011,22804.0,Tonic-clonic epilepsy,Diagnosis of Epilepsy
+Epilepsy,F251100,37782.0,Neonatal myoclonic epilepsy,Diagnosis of Epilepsy
+Epilepsy,F251111,49340.0,Otohara syndrome,Diagnosis of Epilepsy
+Epilepsy,F251200,18471.0,Epileptic seizures - clonic,Diagnosis of Epilepsy
+Epilepsy,F251300,4801.0,Epileptic seizures - myoclonic,Diagnosis of Epilepsy
+Epilepsy,F251400,5152.0,Epileptic seizures - tonic,Diagnosis of Epilepsy
+Epilepsy,F251500,8187.0,Tonic-clonic epilepsy,Diagnosis of Epilepsy
+Epilepsy,F251.00,26144.0,Generalised convulsive epilepsy,Diagnosis of Epilepsy
+Epilepsy,F251y00,45927.0,Other specified generalised convulsive epilepsy,Diagnosis of Epilepsy
+Epilepsy,F251z00,40806.0,Generalised convulsive epilepsy NOS,Diagnosis of Epilepsy
+Epilepsy,F252.00,9886.0,Petit mal status,Diagnosis of Epilepsy
+Epilepsy,F253.00,5117.0,Grand mal status,Diagnosis of Epilepsy
+Epilepsy,F253.11,4093.0,Status epilepticus,Diagnosis of Epilepsy
+Epilepsy,F254000,3175.0,Temporal lobe epilepsy,Diagnosis of Epilepsy
+Epilepsy,F254100,23634.0,Psychomotor epilepsy,Diagnosis of Epilepsy
+Epilepsy,F254200,36203.0,Psychosensory epilepsy,Diagnosis of Epilepsy
+Epilepsy,F254300,55665.0,Limbic system epilepsy,Diagnosis of Epilepsy
+Epilepsy,F254400,34079.0,Epileptic automatism,Diagnosis of Epilepsy
+Epilepsy,F254500,11394.0,Complex partial epileptic seizure,Diagnosis of Epilepsy
+Epilepsy,F254.00,32288.0,Partial epilepsy with impairment of consciousness,Diagnosis of Epilepsy
+Epilepsy,F254z00,31920.0,Partial epilepsy with impairment of consciousness NOS,Diagnosis of Epilepsy
+Epilepsy,F255000,9569.0,"Jacksonian, focal or motor epilepsy",Diagnosis of Epilepsy
+Epilepsy,F255011,5525.0,Focal epilepsy,Diagnosis of Epilepsy
+Epilepsy,F255012,65699.0,Motor epilepsy,Diagnosis of Epilepsy
+Epilepsy,F255100,48134.0,Sensory induced epilepsy,Diagnosis of Epilepsy
+Epilepsy,F255200,37592.0,Somatosensory epilepsy,Diagnosis of Epilepsy
+Epilepsy,F255300,73542.0,Visceral reflex epilepsy,Diagnosis of Epilepsy
+Epilepsy,F255311,98870.0,Partial epilepsy with autonomic symptoms,Diagnosis of Epilepsy
+Epilepsy,F255400,55739.0,Visual reflex epilepsy,Diagnosis of Epilepsy
+Epilepsy,F255500,68946.0,Unilateral epilepsy,Diagnosis of Epilepsy
+Epilepsy,F255600,40105.0,Simple partial epileptic seizure,Diagnosis of Epilepsy
+Epilepsy,F255.00,26015.0,Partial epilepsy without impairment of consciousness,Diagnosis of Epilepsy
+Epilepsy,F255y00,26733.0,Partial epilepsy without impairment of consciousness OS,Diagnosis of Epilepsy
+Epilepsy,F255z00,27526.0,Partial epilepsy without impairment of consciousness NOS,Diagnosis of Epilepsy
+Epilepsy,F256000,7945.0,Hypsarrhythmia,Diagnosis of Epilepsy
+Epilepsy,F256100,23415.0,Salaam attacks,Diagnosis of Epilepsy
+Epilepsy,F256.00,4478.0,Infantile spasms,Diagnosis of Epilepsy
+Epilepsy,F256.11,68486.0,Lightning spasms,Diagnosis of Epilepsy
+Epilepsy,F256.12,39023.0,West syndrome,Diagnosis of Epilepsy
+Epilepsy,F256z00,49322.0,Infantile spasms NOS,Diagnosis of Epilepsy
+Epilepsy,F257.00,71719.0,Kojevnikov's epilepsy,Diagnosis of Epilepsy
+Epilepsy,F258.00,21885.0,Post-ictal state,Diagnosis of Epilepsy
+Epilepsy,F259.00,37906.0,Early infant epileptic encephalopathy wth suppression bursts,Diagnosis of Epilepsy
+Epilepsy,F259.11,51998.0,Ohtahara syndrome,Diagnosis of Epilepsy
+Epilepsy,F25A.00,19363.0,Juvenile myoclonic epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25B.00,30604.0,Alcohol-induced epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25C.00,30816.0,Drug-induced epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25D.00,56359.0,Menstrual epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25E.00,65673.0,Stress-induced epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25..00,573.0,Epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25F.00,30635.0,Photosensitive epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25G.00,108409.0,Severe myoclonic epilepsy in infancy,Diagnosis of Epilepsy
+Epilepsy,F25G.11,105679.0,Dravet syndrome,Diagnosis of Epilepsy
+Epilepsy,F25X.00,6271.0,"Status epilepticus, unspecified",Diagnosis of Epilepsy
+Epilepsy,F25y000,55260.0,Cursive (running) epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25y100,53483.0,Gelastic epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25y200,9887.0,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset,Diagnosis of Epilepsy
+Epilepsy,F25y300,25330.0,Complex partial status epilepticus,Diagnosis of Epilepsy
+Epilepsy,F25y400,19170.0,Benign Rolandic epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25y500,96641.0,Panayiotopoulos syndrome,Diagnosis of Epilepsy
+Epilepsy,F25y.00,38307.0,Other forms of epilepsy,Diagnosis of Epilepsy
+Epilepsy,F25yz00,9979.0,Other forms of epilepsy NOS,Diagnosis of Epilepsy
+Epilepsy,F25z.00,9747.0,Epilepsy NOS,Diagnosis of Epilepsy
+Epilepsy,F25z.11,3607.0,Fit (in known epileptic) NOS,Diagnosis of Epilepsy
+Epilepsy,Fyu5000,99731.0,[X]Other generalized epilepsy and epileptic syndromes,Diagnosis of Epilepsy
+Epilepsy,Fyu5100,69831.0,[X]Other epilepsy,Diagnosis of Epilepsy
+Epilepsy,Fyu5200,59120.0,[X]Other status epilepticus,Diagnosis of Epilepsy
+Epilepsy,Fyu5900,71801.0,"[X]Status epilepticus, unspecified",Diagnosis of Epilepsy

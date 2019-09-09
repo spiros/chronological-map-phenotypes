@@ -1,9 +1,9 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Other psychoactive substance misuse","F11","Mental and behavioural disorders due to use of opioids","Diagnosis of Other psychoactive substance misuse"
-"Other psychoactive substance misuse","F12","Mental and behavioural disorders due to use of cannabinoids","Diagnosis of Other psychoactive substance misuse"
-"Other psychoactive substance misuse","F13","Mental and behavioural disorders due to use of sedatives or hypnotics","Diagnosis of Other psychoactive substance misuse"
-"Other psychoactive substance misuse","F14","Mental and behavioural disorders due to use of cocaine","Diagnosis of Other psychoactive substance misuse"
-"Other psychoactive substance misuse","F15","Mental and behavioural disorders due to use of other stimulants, including caffeine","Diagnosis of Other psychoactive substance misuse"
-"Other psychoactive substance misuse","F16","Mental and behavioural disorders due to use of hallucinogens","Diagnosis of Other psychoactive substance misuse"
-"Other psychoactive substance misuse","F18","Mental and behavioural disorders due to use of volatile solvents","Diagnosis of Other psychoactive substance misuse"
-"Other psychoactive substance misuse","F19","Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances","Diagnosis of Other psychoactive substance misuse"
+Disease,ICD10code,ICD10codeDescr,Category
+Other psychoactive substance misuse,F11,Mental and behavioural disorders due to use of opioids,Diagnosis of Other psychoactive substance misuse
+Other psychoactive substance misuse,F12,Mental and behavioural disorders due to use of cannabinoids,Diagnosis of Other psychoactive substance misuse
+Other psychoactive substance misuse,F13,Mental and behavioural disorders due to use of sedatives or hypnotics,Diagnosis of Other psychoactive substance misuse
+Other psychoactive substance misuse,F14,Mental and behavioural disorders due to use of cocaine,Diagnosis of Other psychoactive substance misuse
+Other psychoactive substance misuse,F15,"Mental and behavioural disorders due to use of other stimulants, including caffeine",Diagnosis of Other psychoactive substance misuse
+Other psychoactive substance misuse,F16,Mental and behavioural disorders due to use of hallucinogens,Diagnosis of Other psychoactive substance misuse
+Other psychoactive substance misuse,F18,Mental and behavioural disorders due to use of volatile solvents,Diagnosis of Other psychoactive substance misuse
+Other psychoactive substance misuse,F19,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Diagnosis of Other psychoactive substance misuse

@@ -1,4 +1,4 @@
-Disease,Read code,Medcode,Descr,Category
+Disease,Readcode,Medcode,ReadcodeDescr,Category
 Visual impairment and blindness,1B75.00,3268,Loss of vision,Diagnosis of blindness
 Visual impairment and blindness,2B6A.11,10388,O/E - blind R-eye,Diagnosis of blindness
 Visual impairment and blindness,2B6B.00,33014,O/E - R-eye completely blind,Diagnosis of blindness

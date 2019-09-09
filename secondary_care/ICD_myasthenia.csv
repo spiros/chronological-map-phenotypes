@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Myasthenia gravis","G70.0","Myasthenia gravis","Diagnosis of Myasthenia gravis"
+Disease,ICD10code,ICD10codeDescr,Category
+Myasthenia gravis,G70.0,Myasthenia gravis,Diagnosis of Myasthenia gravis

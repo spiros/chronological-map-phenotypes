@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Primary Malignancy_Thyroid","C73","Malignant neoplasm of thyroid gland","Diagnosis of Primary Malignancy_Thyroid"
+Disease,ICD10code,ICD10codeDescr,Category
+Primary Malignancy_Thyroid,C73,Malignant neoplasm of thyroid gland,Diagnosis of Primary Malignancy_Thyroid

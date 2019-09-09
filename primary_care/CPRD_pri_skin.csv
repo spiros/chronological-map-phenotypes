@@ -1,93 +1,93 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_Other Skin and subcutaneous tissue","7G05600","11834.0","Excision biopsy of rodent ulcer","Procedure for Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","7G05D00","93402.0","Excision biopsy of basal cell carcinoma","Procedure for Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B330.00","18245.0","Malignant neoplasm of skin of lip","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B331000","36731.0","Malignant neoplasm of canthus","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B331100","55550.0","Malignant neoplasm of upper eyelid","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B331200","41958.0","Malignant neoplasm of lower eyelid","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B331.00","43087.0","Malignant neoplasm of eyelid including canthus","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B332000","33997.0","Malignant neoplasm of skin of auricle (ear)","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B332100","62080.0","Malignant neoplasm of skin of external auditory meatus","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B332200","33271.0","Malignant neoplasm of pinna NEC","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B332.00","53515.0","Malignant neoplasm skin of ear and external auricular canal","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B332z00","62399.0","Malig neop skin of ear and external auricular canal NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B333000","30645.0","Malignant neoplasm of skin of cheek, external","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B333100","49403.0","Malignant neoplasm of skin of chin","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B333200","55670.0","Malignant neoplasm of skin of eyebrow","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B333300","30576.0","Malignant neoplasm of skin of forehead","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B333400","16202.0","Malignant neoplasm of skin of nose (external)","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B333500","21327.0","Malignant neoplasm of skin of temple","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B333.00","27370.0","Malignant neoplasm skin of other and unspecified parts face","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B333z00","46008.0","Malignant neoplasm skin other and unspec part of face NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B334000","37165.0","Malignant neoplasm of scalp","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B334100","43619.0","Malignant neoplasm of skin of neck","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B334.00","54234.0","Malignant neoplasm of scalp and skin of neck","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B334z00","73760.0","Malignant neoplasm of scalp or skin of neck NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335000","70380.0","Malignant neoplasm of skin of axillary fold","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335100","37969.0","Malignant neoplasm of skin of chest, excluding breast","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335200","30543.0","Malignant neoplasm of skin of breast","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335300","18618.0","Malignant neoplasm of skin of abdominal wall","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335400","67748.0","Malignant neoplasm of skin of umbilicus","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335500","66319.0","Malignant neoplasm of skin of groin","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335600","46458.0","Malignant neoplasm of skin of perineum","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335700","45077.0","Malignant neoplasm of skin of back","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335800","62305.0","Malignant neoplasm of skin of buttock","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335900","23480.0","Malignant neoplasm of perianal skin","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335A00","66447.0","Malignant neoplasm of skin of scapular region","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335.00","57446.0","Malignant neoplasm of skin of trunk, excluding scrotum","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B335z00","15868.0","Malignant neoplasm of skin of trunk, excluding scrotum, NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B336000","43122.0","Malignant neoplasm of skin of shoulder","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B336100","42707.0","Malignant neoplasm of skin of upper arm","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B336200","30577.0","Malignant neoplasm of skin of fore-arm","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B336300","54352.0","Malignant neoplasm of skin of hand","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B336400","25245.0","Malignant neoplasm of skin of finger","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B336500","64406.0","Malignant neoplasm of skin of thumb","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B336.00","30747.0","Malignant neoplasm of skin of upper limb and shoulder","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B336z00","60526.0","Malignant neoplasm of skin of upper limb or shoulder NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337000","70988.0","Malignant neoplasm of skin of hip","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337100","58601.0","Malignant neoplasm of skin of thigh","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337200","56954.0","Malignant neoplasm of skin of knee","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337300","68197.0","Malignant neoplasm of skin of popliteal fossa area","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337400","33682.0","Malignant neoplasm of skin of lower leg","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337500","64270.0","Malignant neoplasm of skin of ankle","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337600","104025.0","Malignant neoplasm of skin of heel","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337700","70587.0","Malignant neoplasm of skin of foot","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337800","65782.0","Malignant neoplasm of skin of toe","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337900","67914.0","Malignant neoplasm of skin of great toe","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337.00","57442.0","Malignant neoplasm of skin of lower limb and hip","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B337z00","61194.0","Malignant neoplasm of skin of lower limb or hip NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B338.00","93352.0","Squamous cell carcinoma of skin","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B339.00","24375.0","Dermatofibrosarcoma protuberans","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B33..00","4632.0","Other malignant neoplasm of skin","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B33..11","876.0","Basal cell carcinoma","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B33..13","1940.0","Rodent ulcer","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B33..14","37016.0","Malignant neoplasm of sebaceous gland","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B33..15","40443.0","Malignant neoplasm of sweat gland","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B33..16","3445.0","Epithelioma basal cell","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B33X.00","42429.0","Malignant neoplasm overlapping lesion of skin","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B33y.00","18354.0","Malignant neoplasm of other specified skin sites","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B33z.00","2492.0","Malignant neoplasm of skin NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","B33z.11","93490.0","Squamous cell carcinoma of skin NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB2A.13","94873.0","[M]Squamous cell carcinoma of skin NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB30.00","29282.0","[M]Basal cell tumour","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB31.00","3028.0","[M]Basal cell carcinoma NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB32.00","59919.0","[M]Multicentric basal cell carcinoma","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB33.00","9885.0","[M]Basal cell carcinoma, morphoea type","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB34.00","29524.0","[M]Basal cell carcinoma, fibroepithelial type","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB35.00","35457.0","[M]Basosquamous carcinoma","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB36.00","13574.0","[M]Metatypical carcinoma","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB3..00","3516.0","[M]Basal cell neoplasms","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB3C.00","102417.0","[M]Superficial basal cell carcinoma","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB3D.00","102547.0","[M]Basal cell carcinoma, nodular","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB3E.00","103440.0","[M]Basal cell carcinoma, micronodular","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB3F.00","103178.0","[M]Basal cell carcinoma, infiltrative","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB3G.00","103066.0","[M]Pigmented basal cell carcinoma","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB3z.00","30853.0","[M]Basal cell neoplasm NOS","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB60100","68783.0","[M]Skin appendage carcinoma","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB61200","71627.0","[M]Sweat gland adenocarcinoma","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB62100","38575.0","[M]Apocrine adenocarcinoma","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","BB69100","34269.0","[M]Sebaceous adenocarcinoma","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","Byu4200","57184.0","[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","Byu4300","56121.0","[X]Malignant neoplasm of skin, unspecified","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","Byu5A00","60162.0","[X]Malignant neoplasm overlapping lesion of skin","Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue"
-"Primary Malignancy_Other Skin and subcutaneous tissue","ZV10y14","47669.0","[V]Personal history of malignant neoplasm of skin","History of of Primary Malignancy_Other Skin and subcutaneous tissue"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_Other Skin and subcutaneous tissue,7G05600,11834.0,Excision biopsy of rodent ulcer,Procedure for Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,7G05D00,93402.0,Excision biopsy of basal cell carcinoma,Procedure for Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B330.00,18245.0,Malignant neoplasm of skin of lip,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B331000,36731.0,Malignant neoplasm of canthus,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B331100,55550.0,Malignant neoplasm of upper eyelid,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B331200,41958.0,Malignant neoplasm of lower eyelid,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B331.00,43087.0,Malignant neoplasm of eyelid including canthus,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B332000,33997.0,Malignant neoplasm of skin of auricle (ear),Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B332100,62080.0,Malignant neoplasm of skin of external auditory meatus,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B332200,33271.0,Malignant neoplasm of pinna NEC,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B332.00,53515.0,Malignant neoplasm skin of ear and external auricular canal,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B332z00,62399.0,Malig neop skin of ear and external auricular canal NOS,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B333000,30645.0,"Malignant neoplasm of skin of cheek, external",Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B333100,49403.0,Malignant neoplasm of skin of chin,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B333200,55670.0,Malignant neoplasm of skin of eyebrow,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B333300,30576.0,Malignant neoplasm of skin of forehead,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B333400,16202.0,Malignant neoplasm of skin of nose (external),Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B333500,21327.0,Malignant neoplasm of skin of temple,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B333.00,27370.0,Malignant neoplasm skin of other and unspecified parts face,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B333z00,46008.0,Malignant neoplasm skin other and unspec part of face NOS,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B334000,37165.0,Malignant neoplasm of scalp,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B334100,43619.0,Malignant neoplasm of skin of neck,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B334.00,54234.0,Malignant neoplasm of scalp and skin of neck,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B334z00,73760.0,Malignant neoplasm of scalp or skin of neck NOS,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335000,70380.0,Malignant neoplasm of skin of axillary fold,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335100,37969.0,"Malignant neoplasm of skin of chest, excluding breast",Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335200,30543.0,Malignant neoplasm of skin of breast,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335300,18618.0,Malignant neoplasm of skin of abdominal wall,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335400,67748.0,Malignant neoplasm of skin of umbilicus,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335500,66319.0,Malignant neoplasm of skin of groin,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335600,46458.0,Malignant neoplasm of skin of perineum,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335700,45077.0,Malignant neoplasm of skin of back,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335800,62305.0,Malignant neoplasm of skin of buttock,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335900,23480.0,Malignant neoplasm of perianal skin,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335A00,66447.0,Malignant neoplasm of skin of scapular region,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335.00,57446.0,"Malignant neoplasm of skin of trunk, excluding scrotum",Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B335z00,15868.0,"Malignant neoplasm of skin of trunk, excluding scrotum, NOS",Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B336000,43122.0,Malignant neoplasm of skin of shoulder,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B336100,42707.0,Malignant neoplasm of skin of upper arm,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B336200,30577.0,Malignant neoplasm of skin of fore-arm,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B336300,54352.0,Malignant neoplasm of skin of hand,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B336400,25245.0,Malignant neoplasm of skin of finger,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B336500,64406.0,Malignant neoplasm of skin of thumb,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B336.00,30747.0,Malignant neoplasm of skin of upper limb and shoulder,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B336z00,60526.0,Malignant neoplasm of skin of upper limb or shoulder NOS,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337000,70988.0,Malignant neoplasm of skin of hip,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337100,58601.0,Malignant neoplasm of skin of thigh,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337200,56954.0,Malignant neoplasm of skin of knee,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337300,68197.0,Malignant neoplasm of skin of popliteal fossa area,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337400,33682.0,Malignant neoplasm of skin of lower leg,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337500,64270.0,Malignant neoplasm of skin of ankle,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337600,104025.0,Malignant neoplasm of skin of heel,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337700,70587.0,Malignant neoplasm of skin of foot,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337800,65782.0,Malignant neoplasm of skin of toe,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337900,67914.0,Malignant neoplasm of skin of great toe,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337.00,57442.0,Malignant neoplasm of skin of lower limb and hip,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B337z00,61194.0,Malignant neoplasm of skin of lower limb or hip NOS,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B338.00,93352.0,Squamous cell carcinoma of skin,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B339.00,24375.0,Dermatofibrosarcoma protuberans,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B33..00,4632.0,Other malignant neoplasm of skin,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B33..11,876.0,Basal cell carcinoma,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B33..13,1940.0,Rodent ulcer,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B33..14,37016.0,Malignant neoplasm of sebaceous gland,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B33..15,40443.0,Malignant neoplasm of sweat gland,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B33..16,3445.0,Epithelioma basal cell,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B33X.00,42429.0,Malignant neoplasm overlapping lesion of skin,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B33y.00,18354.0,Malignant neoplasm of other specified skin sites,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B33z.00,2492.0,Malignant neoplasm of skin NOS,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,B33z.11,93490.0,Squamous cell carcinoma of skin NOS,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB2A.13,94873.0,[M]Squamous cell carcinoma of skin NOS,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB30.00,29282.0,[M]Basal cell tumour,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB31.00,3028.0,[M]Basal cell carcinoma NOS,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB32.00,59919.0,[M]Multicentric basal cell carcinoma,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB33.00,9885.0,"[M]Basal cell carcinoma, morphoea type",Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB34.00,29524.0,"[M]Basal cell carcinoma, fibroepithelial type",Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB35.00,35457.0,[M]Basosquamous carcinoma,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB36.00,13574.0,[M]Metatypical carcinoma,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB3..00,3516.0,[M]Basal cell neoplasms,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB3C.00,102417.0,[M]Superficial basal cell carcinoma,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB3D.00,102547.0,"[M]Basal cell carcinoma, nodular",Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB3E.00,103440.0,"[M]Basal cell carcinoma, micronodular",Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB3F.00,103178.0,"[M]Basal cell carcinoma, infiltrative",Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB3G.00,103066.0,[M]Pigmented basal cell carcinoma,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB3z.00,30853.0,[M]Basal cell neoplasm NOS,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB60100,68783.0,[M]Skin appendage carcinoma,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB61200,71627.0,[M]Sweat gland adenocarcinoma,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB62100,38575.0,[M]Apocrine adenocarcinoma,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,BB69100,34269.0,[M]Sebaceous adenocarcinoma,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,Byu4200,57184.0,[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,Byu4300,56121.0,"[X]Malignant neoplasm of skin, unspecified",Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,Byu5A00,60162.0,[X]Malignant neoplasm overlapping lesion of skin,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue
+Primary Malignancy_Other Skin and subcutaneous tissue,ZV10y14,47669.0,[V]Personal history of malignant neoplasm of skin,History of of Primary Malignancy_Other Skin and subcutaneous tissue

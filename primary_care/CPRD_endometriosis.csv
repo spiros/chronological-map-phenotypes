@@ -1,38 +1,38 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Endometriosis","7E0D800","12175.0","Laparoscopic laser destruction of endometriosis","Procedure for Endometriosis"
-"Endometriosis","BBL1.11","56751.0","[M]Stromal endometriosis","Diagnosis of Endometriosis"
-"Endometriosis","K500000","19266.0","Internal endometriosis","Diagnosis of Endometriosis"
-"Endometriosis","K500100","61192.0","Endometriosis of myometrium","Diagnosis of Endometriosis"
-"Endometriosis","K500111","22007.0","Adenomyosis of endometrium","Diagnosis of Endometriosis"
-"Endometriosis","K500200","36805.0","Endometriosis of cervix","Diagnosis of Endometriosis"
-"Endometriosis","K500.00","41735.0","Endometriosis of uterus","Diagnosis of Endometriosis"
-"Endometriosis","K500z00","42092.0","Endometriosis of uterus NOS","Diagnosis of Endometriosis"
-"Endometriosis","K501.00","19682.0","Endometriosis of ovary","Diagnosis of Endometriosis"
-"Endometriosis","K501.11","16143.0","Chocolate cyst of ovary","Diagnosis of Endometriosis"
-"Endometriosis","K502.00","30091.0","Endometriosis of the fallopian tube","Diagnosis of Endometriosis"
-"Endometriosis","K503000","67137.0","Endometriosis of the broad ligament","Diagnosis of Endometriosis"
-"Endometriosis","K503100","50464.0","Endometriosis of the pouch of Douglas","Diagnosis of Endometriosis"
-"Endometriosis","K503200","63232.0","Endometriosis of the parametrium","Diagnosis of Endometriosis"
-"Endometriosis","K503300","50544.0","Endometriosis of the round ligament","Diagnosis of Endometriosis"
-"Endometriosis","K503.00","22662.0","Endometriosis of the pelvic peritoneum","Diagnosis of Endometriosis"
-"Endometriosis","K503z00","42424.0","Endometriosis of the pelvic peritoneum NOS","Diagnosis of Endometriosis"
-"Endometriosis","K504000","50518.0","Endometriosis of the rectovaginal septum","Diagnosis of Endometriosis"
-"Endometriosis","K504100","37392.0","Endometriosis of the vagina","Diagnosis of Endometriosis"
-"Endometriosis","K504.00","70854.0","Endometriosis of the rectovaginal septum and vagina","Diagnosis of Endometriosis"
-"Endometriosis","K504z00","94268.0","Endometriosis of the rectovaginal septum and vagina NOS","Diagnosis of Endometriosis"
-"Endometriosis","K505000","71993.0","Endometriosis of the appendix","Diagnosis of Endometriosis"
-"Endometriosis","K505100","62982.0","Endometriosis of the colon","Diagnosis of Endometriosis"
-"Endometriosis","K505200","60784.0","Endometriosis of the rectum","Diagnosis of Endometriosis"
-"Endometriosis","K505.00","20194.0","Endometriosis of the intestine","Diagnosis of Endometriosis"
-"Endometriosis","K505z00","97045.0","Endometriosis of the intestine NOS","Diagnosis of Endometriosis"
-"Endometriosis","K506.00","60097.0","Endometriosis in scar of skin","Diagnosis of Endometriosis"
-"Endometriosis","K50..00","499.0","Endometriosis","Diagnosis of Endometriosis"
-"Endometriosis","K50..11","3432.0","Adenomyosis","Diagnosis of Endometriosis"
-"Endometriosis","K50y000","36930.0","Endometriosis of the bladder","Diagnosis of Endometriosis"
-"Endometriosis","K50y100","69931.0","Endometriosis of the lung","Diagnosis of Endometriosis"
-"Endometriosis","K50y200","48222.0","Endometriosis of the umbilicus","Diagnosis of Endometriosis"
-"Endometriosis","K50y300","68037.0","Endometriosis of the vulva","Diagnosis of Endometriosis"
-"Endometriosis","K50y.00","49603.0","Other endometriosis","Diagnosis of Endometriosis"
-"Endometriosis","K50yz00","66361.0","Other endometriosis NOS","Diagnosis of Endometriosis"
-"Endometriosis","K50z.00","9492.0","Endometriosis NOS","Diagnosis of Endometriosis"
-"Endometriosis","Kyu9000","63749.0","[X]Other endometriosis","Diagnosis of Endometriosis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Endometriosis,7E0D800,12175.0,Laparoscopic laser destruction of endometriosis,Procedure for Endometriosis
+Endometriosis,BBL1.11,56751.0,[M]Stromal endometriosis,Diagnosis of Endometriosis
+Endometriosis,K500000,19266.0,Internal endometriosis,Diagnosis of Endometriosis
+Endometriosis,K500100,61192.0,Endometriosis of myometrium,Diagnosis of Endometriosis
+Endometriosis,K500111,22007.0,Adenomyosis of endometrium,Diagnosis of Endometriosis
+Endometriosis,K500200,36805.0,Endometriosis of cervix,Diagnosis of Endometriosis
+Endometriosis,K500.00,41735.0,Endometriosis of uterus,Diagnosis of Endometriosis
+Endometriosis,K500z00,42092.0,Endometriosis of uterus NOS,Diagnosis of Endometriosis
+Endometriosis,K501.00,19682.0,Endometriosis of ovary,Diagnosis of Endometriosis
+Endometriosis,K501.11,16143.0,Chocolate cyst of ovary,Diagnosis of Endometriosis
+Endometriosis,K502.00,30091.0,Endometriosis of the fallopian tube,Diagnosis of Endometriosis
+Endometriosis,K503000,67137.0,Endometriosis of the broad ligament,Diagnosis of Endometriosis
+Endometriosis,K503100,50464.0,Endometriosis of the pouch of Douglas,Diagnosis of Endometriosis
+Endometriosis,K503200,63232.0,Endometriosis of the parametrium,Diagnosis of Endometriosis
+Endometriosis,K503300,50544.0,Endometriosis of the round ligament,Diagnosis of Endometriosis
+Endometriosis,K503.00,22662.0,Endometriosis of the pelvic peritoneum,Diagnosis of Endometriosis
+Endometriosis,K503z00,42424.0,Endometriosis of the pelvic peritoneum NOS,Diagnosis of Endometriosis
+Endometriosis,K504000,50518.0,Endometriosis of the rectovaginal septum,Diagnosis of Endometriosis
+Endometriosis,K504100,37392.0,Endometriosis of the vagina,Diagnosis of Endometriosis
+Endometriosis,K504.00,70854.0,Endometriosis of the rectovaginal septum and vagina,Diagnosis of Endometriosis
+Endometriosis,K504z00,94268.0,Endometriosis of the rectovaginal septum and vagina NOS,Diagnosis of Endometriosis
+Endometriosis,K505000,71993.0,Endometriosis of the appendix,Diagnosis of Endometriosis
+Endometriosis,K505100,62982.0,Endometriosis of the colon,Diagnosis of Endometriosis
+Endometriosis,K505200,60784.0,Endometriosis of the rectum,Diagnosis of Endometriosis
+Endometriosis,K505.00,20194.0,Endometriosis of the intestine,Diagnosis of Endometriosis
+Endometriosis,K505z00,97045.0,Endometriosis of the intestine NOS,Diagnosis of Endometriosis
+Endometriosis,K506.00,60097.0,Endometriosis in scar of skin,Diagnosis of Endometriosis
+Endometriosis,K50..00,499.0,Endometriosis,Diagnosis of Endometriosis
+Endometriosis,K50..11,3432.0,Adenomyosis,Diagnosis of Endometriosis
+Endometriosis,K50y000,36930.0,Endometriosis of the bladder,Diagnosis of Endometriosis
+Endometriosis,K50y100,69931.0,Endometriosis of the lung,Diagnosis of Endometriosis
+Endometriosis,K50y200,48222.0,Endometriosis of the umbilicus,Diagnosis of Endometriosis
+Endometriosis,K50y300,68037.0,Endometriosis of the vulva,Diagnosis of Endometriosis
+Endometriosis,K50y.00,49603.0,Other endometriosis,Diagnosis of Endometriosis
+Endometriosis,K50yz00,66361.0,Other endometriosis NOS,Diagnosis of Endometriosis
+Endometriosis,K50z.00,9492.0,Endometriosis NOS,Diagnosis of Endometriosis
+Endometriosis,Kyu9000,63749.0,[X]Other endometriosis,Diagnosis of Endometriosis

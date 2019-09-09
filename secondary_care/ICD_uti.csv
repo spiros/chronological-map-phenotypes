@@ -1,14 +1,14 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Urinary Tract Infections","N08.0","Glomerular disorders in infectious and parasitic diseases classified elsewhere","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N10","Acute tubulo-interstitial nephritis","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N13.6","Pyonephrosis","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N15.1","Renal and perinephric abscess","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N16.0","Renal tubulo-interstitial disorders in infectious and parasitic diseases classified elsewhere","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N29.0","Late syphilis of kidney","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N29.1","Other disorders of kidney and ureter in infectious and parasitic diseases classified elsewhere","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N30.0","Acute cystitis","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N30.9","Cystitis, unspecified","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N33.0","Tuberculous cystitis","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N34","Urethritis and urethral syndrome","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N37.0","Urethritis in diseases classified elsewhere","Diagnosis of Urinary Tract Infections"
-"Urinary Tract Infections","N39.0","Urinary tract infection, site not specified","Diagnosis of Urinary Tract Infections"
+Disease,ICD10code,ICD10codeDescr,Category
+Urinary Tract Infections,N08.0,Glomerular disorders in infectious and parasitic diseases classified elsewhere,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N10,Acute tubulo-interstitial nephritis,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N13.6,Pyonephrosis,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N15.1,Renal and perinephric abscess,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N16.0,Renal tubulo-interstitial disorders in infectious and parasitic diseases classified elsewhere,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N29.0,Late syphilis of kidney,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N29.1,Other disorders of kidney and ureter in infectious and parasitic diseases classified elsewhere,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N30.0,Acute cystitis,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N30.9,"Cystitis, unspecified",Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N33.0,Tuberculous cystitis,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N34,Urethritis and urethral syndrome,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N37.0,Urethritis in diseases classified elsewhere,Diagnosis of Urinary Tract Infections
+Urinary Tract Infections,N39.0,"Urinary tract infection, site not specified",Diagnosis of Urinary Tract Infections

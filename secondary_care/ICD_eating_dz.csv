@@ -1,5 +1,5 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Anorexia and bulimia nervosa","F50.0","Anorexia nervosa","Diagnosis of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","F50.1","Atypical anorexia nervosa","Diagnosis of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","F50.2","Bulimia nervosa","Diagnosis of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","F50.3","Atypical bulimia nervosa","Diagnosis of Anorexia and bulimia nervosa"
+Disease,ICD10code,ICD10codeDescr,Category
+Anorexia and bulimia nervosa,F50.0,Anorexia nervosa,Diagnosis of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,F50.1,Atypical anorexia nervosa,Diagnosis of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,F50.2,Bulimia nervosa,Diagnosis of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,F50.3,Atypical bulimia nervosa,Diagnosis of Anorexia and bulimia nervosa

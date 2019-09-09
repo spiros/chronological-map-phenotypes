@@ -1,3 +1,3 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Idiopathic intracranial hypertension","F282.00","5433.0","Benign intracranial hypertension","Diagnosis of Idiopathic intracranial hypertension"
-"Idiopathic intracranial hypertension","F282.11","46041.0","Pseudotumour cerebri","Diagnosis of Idiopathic intracranial hypertension"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Idiopathic intracranial hypertension,F282.00,5433.0,Benign intracranial hypertension,Diagnosis of Idiopathic intracranial hypertension
+Idiopathic intracranial hypertension,F282.11,46041.0,Pseudotumour cerebri,Diagnosis of Idiopathic intracranial hypertension

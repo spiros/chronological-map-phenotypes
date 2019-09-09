@@ -1,10 +1,10 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Secondary Malignancy_Other organs","C78.1","Secondary malignant neoplasm of mediastinum","Diagnosis of Secondary Malignancy_Other organs"
-"Secondary Malignancy_Other organs","C78.3","Secondary malignant neoplasm of other and unspecified respiratory organs","Possible diagnosis of Secondary Malignancy_Other organs"
-"Secondary Malignancy_Other organs","C78.8","Secondary malignant neoplasm of other and unspecified digestive organs","Possible diagnosis of Secondary Malignancy_Other organs"
-"Secondary Malignancy_Other organs","C79.0","Secondary malignant neoplasm of kidney and renal pelvis","Diagnosis of Secondary Malignancy_Other organs"
-"Secondary Malignancy_Other organs","C79.1","Secondary malignant neoplasm of bladder and other and unspecified urinary organs","Diagnosis of Secondary Malignancy_Other organs"
-"Secondary Malignancy_Other organs","C79.2","Secondary malignant neoplasm of skin","Diagnosis of Secondary Malignancy_Other organs"
-"Secondary Malignancy_Other organs","C79.6","Secondary malignant neoplasm of ovary","Diagnosis of Secondary Malignancy_Other organs"
-"Secondary Malignancy_Other organs","C79.8","Secondary malignant neoplasm of other specified sites","Possible diagnosis of Secondary Malignancy_Other organs"
-"Secondary Malignancy_Other organs","C79.9","Secondary malignant neoplasm, unspecified site","Possible diagnosis of Secondary Malignancy_Other organs"
+Disease,ICD10code,ICD10codeDescr,Category
+Secondary Malignancy_Other organs,C78.1,Secondary malignant neoplasm of mediastinum,Diagnosis of Secondary Malignancy_Other organs
+Secondary Malignancy_Other organs,C78.3,Secondary malignant neoplasm of other and unspecified respiratory organs,Possible diagnosis of Secondary Malignancy_Other organs
+Secondary Malignancy_Other organs,C78.8,Secondary malignant neoplasm of other and unspecified digestive organs,Possible diagnosis of Secondary Malignancy_Other organs
+Secondary Malignancy_Other organs,C79.0,Secondary malignant neoplasm of kidney and renal pelvis,Diagnosis of Secondary Malignancy_Other organs
+Secondary Malignancy_Other organs,C79.1,Secondary malignant neoplasm of bladder and other and unspecified urinary organs,Diagnosis of Secondary Malignancy_Other organs
+Secondary Malignancy_Other organs,C79.2,Secondary malignant neoplasm of skin,Diagnosis of Secondary Malignancy_Other organs
+Secondary Malignancy_Other organs,C79.6,Secondary malignant neoplasm of ovary,Diagnosis of Secondary Malignancy_Other organs
+Secondary Malignancy_Other organs,C79.8,Secondary malignant neoplasm of other specified sites,Possible diagnosis of Secondary Malignancy_Other organs
+Secondary Malignancy_Other organs,C79.9,"Secondary malignant neoplasm, unspecified site",Possible diagnosis of Secondary Malignancy_Other organs

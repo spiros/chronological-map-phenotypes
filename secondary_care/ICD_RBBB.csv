@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Right bundle branch block","I45.1","Other and unspecified right bundle-branch block","Diagnosis of Right bundle branch block"
+Disease,ICD10code,ICD10codeDescr,Category
+Right bundle branch block,I45.1,Other and unspecified right bundle-branch block,Diagnosis of Right bundle branch block

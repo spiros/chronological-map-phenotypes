@@ -1,14 +1,14 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_Prostate","1427000.0","102314.0","H/O: prostate cancer","History of Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","4M00.00","18503.0","Gleason prostate grade 2-4 (low)","Diagnosis of Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","4M01.00","18612.0","Gleason prostate grade 5-7 (medium)","Diagnosis of Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","4M02.00","26081.0","Gleason prostate grade 8-10 (high)","Diagnosis of Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","4M0..00","10178.0","Gleason grading of prostate cancer","Diagnosis of Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","7B20000","9541.0","Radical cystoprostatourethrectomy","Procedure for Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","7B20200","10633.0","Radical cystoprostatectomy","Procedure for Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","7B36000","4997.0","Radical prostatectomy - unspecified excision of pelvic nodes","Procedure for Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","7B36500","12593.0","Radical prostatectomy without pelvic node excision","Procedure for Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","7B36600","11492.0","Radical prostatectomy with pelvic node sampling","Procedure for Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","7B36700","9533.0","Radical prostatectomy with pelvic lymphadenectomy","Procedure for Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","B46..00","780.0","Malignant neoplasm of prostate","Diagnosis of Primary Malignancy_Prostate"
-"Primary Malignancy_Prostate","ZV10415","37306.0","[V]Personal history of malignant neoplasm of prostate","History of Primary Malignancy_Prostate"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_Prostate,1427000.0,102314.0,H/O: prostate cancer,History of Primary Malignancy_Prostate
+Primary Malignancy_Prostate,4M00.00,18503.0,Gleason prostate grade 2-4 (low),Diagnosis of Primary Malignancy_Prostate
+Primary Malignancy_Prostate,4M01.00,18612.0,Gleason prostate grade 5-7 (medium),Diagnosis of Primary Malignancy_Prostate
+Primary Malignancy_Prostate,4M02.00,26081.0,Gleason prostate grade 8-10 (high),Diagnosis of Primary Malignancy_Prostate
+Primary Malignancy_Prostate,4M0..00,10178.0,Gleason grading of prostate cancer,Diagnosis of Primary Malignancy_Prostate
+Primary Malignancy_Prostate,7B20000,9541.0,Radical cystoprostatourethrectomy,Procedure for Primary Malignancy_Prostate
+Primary Malignancy_Prostate,7B20200,10633.0,Radical cystoprostatectomy,Procedure for Primary Malignancy_Prostate
+Primary Malignancy_Prostate,7B36000,4997.0,Radical prostatectomy - unspecified excision of pelvic nodes,Procedure for Primary Malignancy_Prostate
+Primary Malignancy_Prostate,7B36500,12593.0,Radical prostatectomy without pelvic node excision,Procedure for Primary Malignancy_Prostate
+Primary Malignancy_Prostate,7B36600,11492.0,Radical prostatectomy with pelvic node sampling,Procedure for Primary Malignancy_Prostate
+Primary Malignancy_Prostate,7B36700,9533.0,Radical prostatectomy with pelvic lymphadenectomy,Procedure for Primary Malignancy_Prostate
+Primary Malignancy_Prostate,B46..00,780.0,Malignant neoplasm of prostate,Diagnosis of Primary Malignancy_Prostate
+Primary Malignancy_Prostate,ZV10415,37306.0,[V]Personal history of malignant neoplasm of prostate,History of Primary Malignancy_Prostate

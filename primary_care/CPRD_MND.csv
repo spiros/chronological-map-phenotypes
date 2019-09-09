@@ -1,13 +1,13 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Motor neuron disease","7Q04100","109020.0","Amyotrophic lateral sclerosis drugs Band 1","History of Motor neuron disease"
-"Motor neuron disease","F152000","36433.0","Amyotrophic lateral sclerosis","Diagnosis of Motor neuron disease"
-"Motor neuron disease","F152100","30987.0","Progressive muscular atrophy","Diagnosis of Motor neuron disease"
-"Motor neuron disease","F152111","7470.0","Duchenne Aran muscular atrophy","Diagnosis of Motor neuron disease"
-"Motor neuron disease","F152200","27377.0","Progressive bulbar palsy","Diagnosis of Motor neuron disease"
-"Motor neuron disease","F152300","18084.0","Pseudobulbar palsy","Diagnosis of Motor neuron disease"
-"Motor neuron disease","F152400","20845.0","Primary lateral sclerosis","Diagnosis of Motor neuron disease"
-"Motor neuron disease","F152.00","4796.0","Motor neurone disease","Diagnosis of Motor neuron disease"
-"Motor neuron disease","F152z00","20120.0","Motor neurone disease NOS","Diagnosis of Motor neuron disease"
-"Motor neuron disease","F15..00","21889.0","Anterior horn cell disease","Diagnosis of Motor neuron disease"
-"Motor neuron disease","F15y.00","71400.0","Other anterior horn cell disease","Diagnosis of Motor neuron disease"
-"Motor neuron disease","F15z.00","58729.0","Anterior horn cell disease NOS","Diagnosis of Motor neuron disease"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Motor neuron disease,7Q04100,109020.0,Amyotrophic lateral sclerosis drugs Band 1,History of Motor neuron disease
+Motor neuron disease,F152000,36433.0,Amyotrophic lateral sclerosis,Diagnosis of Motor neuron disease
+Motor neuron disease,F152100,30987.0,Progressive muscular atrophy,Diagnosis of Motor neuron disease
+Motor neuron disease,F152111,7470.0,Duchenne Aran muscular atrophy,Diagnosis of Motor neuron disease
+Motor neuron disease,F152200,27377.0,Progressive bulbar palsy,Diagnosis of Motor neuron disease
+Motor neuron disease,F152300,18084.0,Pseudobulbar palsy,Diagnosis of Motor neuron disease
+Motor neuron disease,F152400,20845.0,Primary lateral sclerosis,Diagnosis of Motor neuron disease
+Motor neuron disease,F152.00,4796.0,Motor neurone disease,Diagnosis of Motor neuron disease
+Motor neuron disease,F152z00,20120.0,Motor neurone disease NOS,Diagnosis of Motor neuron disease
+Motor neuron disease,F15..00,21889.0,Anterior horn cell disease,Diagnosis of Motor neuron disease
+Motor neuron disease,F15y.00,71400.0,Other anterior horn cell disease,Diagnosis of Motor neuron disease
+Motor neuron disease,F15z.00,58729.0,Anterior horn cell disease NOS,Diagnosis of Motor neuron disease

@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Thalassaemia trait","D56.3","Thalassaemia trait","Diagnosis of Thalassaemia trait"
+Disease,ICD10code,ICD10codeDescr,Category
+Thalassaemia trait,D56.3,Thalassaemia trait,Diagnosis of Thalassaemia trait

@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Secondary Malignancy_retroperitoneum and peritoneum","C78.6","Secondary malignant neoplasm of retroperitoneum and peritoneum","Diagnosis of Secondary Malignancy_retroperitoneum and peritoneum"
+Disease,ICD10code,ICD10codeDescr,Category
+Secondary Malignancy_retroperitoneum and peritoneum,C78.6,Secondary malignant neoplasm of retroperitoneum and peritoneum,Diagnosis of Secondary Malignancy_retroperitoneum and peritoneum

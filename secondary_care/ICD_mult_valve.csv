@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Multiple valve dz","I08","Multiple valve diseases","Diagnosis of Multiple valve dz"
+Disease,ICD10code,ICD10codeDescr,Category
+Multiple valve dz,I08,Multiple valve diseases,Diagnosis of Multiple valve dz

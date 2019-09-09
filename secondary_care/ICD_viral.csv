@@ -1,79 +1,79 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Viral diseases (excl chronic hepatitis/HIV)","A08.0","Rotaviral enteritis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A08.1","Acute gastroenteropathy due to Norwalk agent","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A08.2","Adenoviral enteritis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A08.3","Other viral enteritis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A08.4","Viral intestinal infection, unspecified","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A60","Anogenital herpesviral [herpes simplex] infection","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A63.0","Anogenital (venereal) warts","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A80","Acute poliomyelitis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A81.1","Subacute sclerosing panencephalitis","History of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A81.2","Progressive multifocal leukoencephalopathy","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A82","Rabies","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A83","Mosquito-borne viral encephalitis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A84","Tick-borne viral encephalitis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A85","Other viral encephalitis, not elsewhere classified","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A86","Unspecified viral encephalitis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A87","Viral meningitis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A88","Other viral infections of central nervous system, not elsewhere classified","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A89","Unspecified viral infection of central nervous system","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A90","Dengue fever [classical dengue]","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A91","Dengue haemorrhagic fever","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A92","Other mosquito-borne viral fevers","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A93","Other arthropod-borne viral fevers, not elsewhere classified","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A94","Unspecified arthropod-borne viral fever","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A95","Yellow fever","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A96","Arenaviral haemorrhagic fever","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A98","Other viral haemorrhagic fevers, not elsewhere classified","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","A99","Unspecified viral haemorrhagic fever","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B00","Herpesviral [herpes simplex] infections","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B01","Varicella [chickenpox]","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B02","Zoster [herpes zoster]","History of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B05","Measles","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B06","Rubella [German measles]","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B07","Viral warts","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B08","Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B09","Unspecified viral infection characterized by skin and mucous membrane lesions","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B15","Acute hepatitis A","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B16","Acute hepatitis B","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B17","Other acute viral hepatitis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B19","Unspecified viral hepatitis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B20.2","HIV disease resulting in cytomegaloviral disease","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B20.3","HIV disease resulting in other viral infections","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B25","Cytomegaloviral disease","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B26","Mumps","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B27","Infectious mononucleosis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B30","Viral conjunctivitis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B33","Other viral diseases, not elsewhere classified","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B34","Viral infection of unspecified site","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B91","Sequelae of poliomyelitis","History of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B94.1","Sequelae of viral encephalitis","History of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B94.2","Sequelae of viral hepatitis","History of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","B97","Viral agents as the cause of diseases classified to other chapters","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","G02.0","Meningitis in viral diseases classified elsewhere","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","G04.1","Tropical spastic paraplegia","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","G05.1","Encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","G53.0","Postzoster neuralgia","History of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","H19.1","Herpesviral keratitis and keratoconjunctivitis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","H62.1","Otitis externa in viral diseases classified elsewhere","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","H67.1","Otitis media in viral diseases classified elsewhere","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","I41.1","Myocarditis in viral diseases classified elsewhere","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J09","Influenza due to identified avian influenza virus","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J10","Influenza due to other identified influenza virus","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J11","Influenza, virus not identified","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J12","Viral pneumonia, not elsewhere classified","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J17.1","Pneumonia in viral diseases classified elsewhere","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J20.3","Acute bronchitis due to coxsackievirus","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J20.4","Acute bronchitis due to parainfluenza virus","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J20.5","Acute bronchitis due to respiratory syncytial virus","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J20.6","Acute bronchitis due to rhinovirus","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J20.7","Acute bronchitis due to echovirus","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J21.0","Acute bronchiolitis due to respiratory syncytial virus","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J21.1","Acute bronchiolitis due to human metapneumovirus","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J21.8","Acute bronchiolitis due to other specified organisms","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","J21.9","Acute bronchiolitis, unspecified","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","M01.4","Rubella arthritis","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","M01.5","Arthritis in other viral diseases classified elsewhere","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","M89.6","Osteopathy after poliomyelitis","History of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","P23.0","Congenital pneumonia due to viral agent","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
-"Viral diseases (excl chronic hepatitis/HIV)","P35","Congenital viral diseases","Diagnosis of Viral diseases (excl chronic hepatitis/HIV)"
+Disease,ICD10code,ICD10codeDescr,Category
+Viral diseases (excl chronic hepatitis/HIV),A08.0,Rotaviral enteritis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A08.1,Acute gastroenteropathy due to Norwalk agent,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A08.2,Adenoviral enteritis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A08.3,Other viral enteritis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A08.4,"Viral intestinal infection, unspecified",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A60,Anogenital herpesviral [herpes simplex] infection,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A63.0,Anogenital (venereal) warts,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A80,Acute poliomyelitis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A81.1,Subacute sclerosing panencephalitis,History of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A81.2,Progressive multifocal leukoencephalopathy,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A82,Rabies,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A83,Mosquito-borne viral encephalitis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A84,Tick-borne viral encephalitis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A85,"Other viral encephalitis, not elsewhere classified",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A86,Unspecified viral encephalitis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A87,Viral meningitis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A88,"Other viral infections of central nervous system, not elsewhere classified",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A89,Unspecified viral infection of central nervous system,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A90,Dengue fever [classical dengue],Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A91,Dengue haemorrhagic fever,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A92,Other mosquito-borne viral fevers,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A93,"Other arthropod-borne viral fevers, not elsewhere classified",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A94,Unspecified arthropod-borne viral fever,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A95,Yellow fever,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A96,Arenaviral haemorrhagic fever,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A98,"Other viral haemorrhagic fevers, not elsewhere classified",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),A99,Unspecified viral haemorrhagic fever,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B00,Herpesviral [herpes simplex] infections,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B01,Varicella [chickenpox],Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B02,Zoster [herpes zoster],History of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B05,Measles,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B06,Rubella [German measles],Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B07,Viral warts,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B09,Unspecified viral infection characterized by skin and mucous membrane lesions,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B15,Acute hepatitis A,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B16,Acute hepatitis B,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B17,Other acute viral hepatitis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B19,Unspecified viral hepatitis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B20.2,HIV disease resulting in cytomegaloviral disease,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B20.3,HIV disease resulting in other viral infections,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B25,Cytomegaloviral disease,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B26,Mumps,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B27,Infectious mononucleosis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B30,Viral conjunctivitis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B33,"Other viral diseases, not elsewhere classified",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B34,Viral infection of unspecified site,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B91,Sequelae of poliomyelitis,History of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B94.1,Sequelae of viral encephalitis,History of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B94.2,Sequelae of viral hepatitis,History of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),B97,Viral agents as the cause of diseases classified to other chapters,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),G02.0,Meningitis in viral diseases classified elsewhere,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),G04.1,Tropical spastic paraplegia,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),G05.1,"Encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),G53.0,Postzoster neuralgia,History of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),H19.1,Herpesviral keratitis and keratoconjunctivitis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),H62.1,Otitis externa in viral diseases classified elsewhere,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),H67.1,Otitis media in viral diseases classified elsewhere,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),I41.1,Myocarditis in viral diseases classified elsewhere,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J09,Influenza due to identified avian influenza virus,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J10,Influenza due to other identified influenza virus,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J11,"Influenza, virus not identified",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J12,"Viral pneumonia, not elsewhere classified",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J17.1,Pneumonia in viral diseases classified elsewhere,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J20.3,Acute bronchitis due to coxsackievirus,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J20.4,Acute bronchitis due to parainfluenza virus,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J20.5,Acute bronchitis due to respiratory syncytial virus,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J20.6,Acute bronchitis due to rhinovirus,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J20.7,Acute bronchitis due to echovirus,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J21.0,Acute bronchiolitis due to respiratory syncytial virus,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J21.1,Acute bronchiolitis due to human metapneumovirus,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J21.8,Acute bronchiolitis due to other specified organisms,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),J21.9,"Acute bronchiolitis, unspecified",Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),M01.4,Rubella arthritis,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),M01.5,Arthritis in other viral diseases classified elsewhere,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),M89.6,Osteopathy after poliomyelitis,History of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),P23.0,Congenital pneumonia due to viral agent,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)
+Viral diseases (excl chronic hepatitis/HIV),P35,Congenital viral diseases,Diagnosis of Viral diseases (excl chronic hepatitis/HIV)

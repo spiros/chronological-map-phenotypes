@@ -1,10 +1,10 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Rosacea","F4C3100","30398.0","Rosacea conjunctivitis","Diagnosis of Rosacea"
-"Rosacea","M153000","1518.0","Acne rosacea","Diagnosis of Rosacea"
-"Rosacea","M153100","3582.0","Rhinophyma","Diagnosis of Rosacea"
-"Rosacea","M153200","64861.0","Rosacea hypertrophica","Diagnosis of Rosacea"
-"Rosacea","M153300","50603.0","Lupoid rosacea","Diagnosis of Rosacea"
-"Rosacea","M153400","36835.0","Ocular rosacea","Diagnosis of Rosacea"
-"Rosacea","M153.00","970.0","Rosacea","Diagnosis of Rosacea"
-"Rosacea","M153z00","16014.0","Rosacea NOS","Diagnosis of Rosacea"
-"Rosacea","Myu6900","53876.0","[X]Other rosacea","Diagnosis of Rosacea"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Rosacea,F4C3100,30398.0,Rosacea conjunctivitis,Diagnosis of Rosacea
+Rosacea,M153000,1518.0,Acne rosacea,Diagnosis of Rosacea
+Rosacea,M153100,3582.0,Rhinophyma,Diagnosis of Rosacea
+Rosacea,M153200,64861.0,Rosacea hypertrophica,Diagnosis of Rosacea
+Rosacea,M153300,50603.0,Lupoid rosacea,Diagnosis of Rosacea
+Rosacea,M153400,36835.0,Ocular rosacea,Diagnosis of Rosacea
+Rosacea,M153.00,970.0,Rosacea,Diagnosis of Rosacea
+Rosacea,M153z00,16014.0,Rosacea NOS,Diagnosis of Rosacea
+Rosacea,Myu6900,53876.0,[X]Other rosacea,Diagnosis of Rosacea

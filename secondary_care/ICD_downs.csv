@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Down's syndrome","Q90","Down's syndrome","Diagnosis of Down's syndrome"
+Disease,ICD10code,ICD10codeDescr,Category
+Down's syndrome,Q90,Down's syndrome,Diagnosis of Down's syndrome

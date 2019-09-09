@@ -1,5 +1,5 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Ventricular tachycardia","14AP.00","30712.0","History of ventricular tachycardia","History of Ventricular tachycardia"
-"Ventricular tachycardia","3282.00","4924.0","ECG: ventricular tachycardia","Diagnosis of Ventricular tachycardia"
-"Ventricular tachycardia","G571.00","3418.0","Paroxysmal ventricular tachycardia","Diagnosis of Ventricular tachycardia"
-"Ventricular tachycardia","G571.11","7794.0","Ventricular tachycardia","Diagnosis of Ventricular tachycardia"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Ventricular tachycardia,14AP.00,30712.0,History of ventricular tachycardia,History of Ventricular tachycardia
+Ventricular tachycardia,3282.00,4924.0,ECG: ventricular tachycardia,Diagnosis of Ventricular tachycardia
+Ventricular tachycardia,G571.00,3418.0,Paroxysmal ventricular tachycardia,Diagnosis of Ventricular tachycardia
+Ventricular tachycardia,G571.11,7794.0,Ventricular tachycardia,Diagnosis of Ventricular tachycardia

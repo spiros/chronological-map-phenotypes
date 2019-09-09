@@ -1,65 +1,65 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Rheumatoid Arthritis","14G1.00","6639.0","H/O: rheumatoid arthritis","History of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","2G25.00","56232.0","O/E - hands - ulnar deviation","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","2G25.11","36678.0","O/E - ulnar deviation","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","2G27.00","33264.0","O/E-hands-rheumatoid spindling","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","66H..13","17412.0","Rheumatoid arthrit. monitoring","History of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","7P20300","102088.0","Delivery of rehabilitation for rheumatoid arthritis","History of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","9mM0.00","107435.0","Rheumatoid arthritis monitoring invitation first letter","History of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","9mM1.00","107575.0","Rheumatoid arthritis monitoring invitation second letter","History of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","9mM2.00","107676.0","Rheumatoid arthritis monitoring invitation third letter","History of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","9mM3.00","107606.0","Rheumatoid arthritis monitoring verbal invitation","History of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","9mM4.00","107797.0","Rheumatoid arthritis monitoring telephone invitation","History of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","9mM..00","107340.0","Rheumatoid arthritis monitoring invitation","History of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","F371200","62401.0","Polyneuropathy in rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","F396400","31209.0","Myopathy due to rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","G5y8.00","49787.0","Rheumatoid myocarditis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","G5yA.00","43816.0","Rheumatoid carditis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","H570.00","9954.0","Rheumatoid lung","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N362200","21635.0","Swan-neck finger deformity","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040000","44743.0","Rheumatoid arthritis of cervical spine","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040100","44203.0","Other rheumatoid arthritis of spine","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040200","21358.0","Rheumatoid arthritis of shoulder","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040300","107963.0","Rheumatoid arthritis of sternoclavicular joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040400","100914.0","Rheumatoid arthritis of acromioclavicular joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040500","59738.0","Rheumatoid arthritis of elbow","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040600","63365.0","Rheumatoid arthritis of distal radio-ulnar joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040700","48832.0","Rheumatoid arthritis of wrist","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040800","42299.0","Rheumatoid arthritis of MCP joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040900","41941.0","Rheumatoid arthritis of PIP joint of finger","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040A00","63198.0","Rheumatoid arthritis of DIP joint of finger","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040B00","49067.0","Rheumatoid arthritis of hip","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040C00","100776.0","Rheumatoid arthritis of sacro-iliac joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040D00","50863.0","Rheumatoid arthritis of knee","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040E00","107791.0","Rheumatoid arthritis of tibio-fibular joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040F00","51239.0","Rheumatoid arthritis of ankle","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040G00","73619.0","Rheumatoid arthritis of subtalar joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040H00","70658.0","Rheumatoid arthritis of talonavicular joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040J00","71784.0","Rheumatoid arthritis of other tarsal joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040K00","51238.0","Rheumatoid arthritis of 1st MTP joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040L00","99414.0","Rheumatoid arthritis of lesser MTP joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040M00","107112.0","Rheumatoid arthritis of IP joint of toe","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040.00","844.0","Rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040N00","30548.0","Rheumatoid vasculitis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040P00","6916.0","Seronegative rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040Q00","18155.0","Rheumatoid bursitis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040R00","53621.0","Rheumatoid nodule","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040S00","31054.0","Rheumatoid arthritis - multiple joint","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N040T00","8350.0","Flare of rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N041.00","23552.0","Felty's syndrome","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N042100","46436.0","Rheumatoid lung disease","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N042200","5723.0","Rheumatoid nodule","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N042.00","49227.0","Other rheumatoid arthropathy + visceral/systemic involvement","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N042z00","37431.0","Rheumatoid arthropathy + visceral/systemic involvement NOS","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N047.00","9707.0","Seropositive errosive rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N04..00","27603.0","Rheumatoid arthritis and other inflammatory polyarthropathy","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N04X.00","12019.0","Seropositive rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N04y000","31724.0","Rheumatoid lung","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N04y011","56838.0","Caplan's syndrome","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N04y012","28853.0","Fibrosing alveolitis associated with rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N04y200","32001.0","Adult-onset Still's disease","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","N005.00","23834.0","Adult Still's Disease","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","Nyu1000","106440.0","[X]Rheumatoid arthritis+involvement/other organs or systems","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","Nyu1100","93715.0","[X]Other seropositive rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","Nyu1200","70221.0","[X]Other specified rheumatoid arthritis","Diagnosis of Rheumatoid Arthritis"
-"Rheumatoid Arthritis","Nyu1G00","56202.0","[X]Seropositive rheumatoid arthritis unspecified","Diagnosis of Rheumatoid Arthritis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Rheumatoid Arthritis,14G1.00,6639.0,H/O: rheumatoid arthritis,History of Rheumatoid Arthritis
+Rheumatoid Arthritis,2G25.00,56232.0,O/E - hands - ulnar deviation,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,2G25.11,36678.0,O/E - ulnar deviation,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,2G27.00,33264.0,O/E-hands-rheumatoid spindling,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,66H..13,17412.0,Rheumatoid arthrit. monitoring,History of Rheumatoid Arthritis
+Rheumatoid Arthritis,7P20300,102088.0,Delivery of rehabilitation for rheumatoid arthritis,History of Rheumatoid Arthritis
+Rheumatoid Arthritis,9mM0.00,107435.0,Rheumatoid arthritis monitoring invitation first letter,History of Rheumatoid Arthritis
+Rheumatoid Arthritis,9mM1.00,107575.0,Rheumatoid arthritis monitoring invitation second letter,History of Rheumatoid Arthritis
+Rheumatoid Arthritis,9mM2.00,107676.0,Rheumatoid arthritis monitoring invitation third letter,History of Rheumatoid Arthritis
+Rheumatoid Arthritis,9mM3.00,107606.0,Rheumatoid arthritis monitoring verbal invitation,History of Rheumatoid Arthritis
+Rheumatoid Arthritis,9mM4.00,107797.0,Rheumatoid arthritis monitoring telephone invitation,History of Rheumatoid Arthritis
+Rheumatoid Arthritis,9mM..00,107340.0,Rheumatoid arthritis monitoring invitation,History of Rheumatoid Arthritis
+Rheumatoid Arthritis,F371200,62401.0,Polyneuropathy in rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,F396400,31209.0,Myopathy due to rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,G5y8.00,49787.0,Rheumatoid myocarditis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,G5yA.00,43816.0,Rheumatoid carditis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,H570.00,9954.0,Rheumatoid lung,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N362200,21635.0,Swan-neck finger deformity,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040000,44743.0,Rheumatoid arthritis of cervical spine,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040100,44203.0,Other rheumatoid arthritis of spine,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040200,21358.0,Rheumatoid arthritis of shoulder,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040300,107963.0,Rheumatoid arthritis of sternoclavicular joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040400,100914.0,Rheumatoid arthritis of acromioclavicular joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040500,59738.0,Rheumatoid arthritis of elbow,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040600,63365.0,Rheumatoid arthritis of distal radio-ulnar joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040700,48832.0,Rheumatoid arthritis of wrist,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040800,42299.0,Rheumatoid arthritis of MCP joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040900,41941.0,Rheumatoid arthritis of PIP joint of finger,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040A00,63198.0,Rheumatoid arthritis of DIP joint of finger,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040B00,49067.0,Rheumatoid arthritis of hip,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040C00,100776.0,Rheumatoid arthritis of sacro-iliac joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040D00,50863.0,Rheumatoid arthritis of knee,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040E00,107791.0,Rheumatoid arthritis of tibio-fibular joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040F00,51239.0,Rheumatoid arthritis of ankle,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040G00,73619.0,Rheumatoid arthritis of subtalar joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040H00,70658.0,Rheumatoid arthritis of talonavicular joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040J00,71784.0,Rheumatoid arthritis of other tarsal joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040K00,51238.0,Rheumatoid arthritis of 1st MTP joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040L00,99414.0,Rheumatoid arthritis of lesser MTP joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040M00,107112.0,Rheumatoid arthritis of IP joint of toe,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040.00,844.0,Rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040N00,30548.0,Rheumatoid vasculitis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040P00,6916.0,Seronegative rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040Q00,18155.0,Rheumatoid bursitis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040R00,53621.0,Rheumatoid nodule,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040S00,31054.0,Rheumatoid arthritis - multiple joint,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N040T00,8350.0,Flare of rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N041.00,23552.0,Felty's syndrome,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N042100,46436.0,Rheumatoid lung disease,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N042200,5723.0,Rheumatoid nodule,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N042.00,49227.0,Other rheumatoid arthropathy + visceral/systemic involvement,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N042z00,37431.0,Rheumatoid arthropathy + visceral/systemic involvement NOS,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N047.00,9707.0,Seropositive errosive rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N04..00,27603.0,Rheumatoid arthritis and other inflammatory polyarthropathy,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N04X.00,12019.0,Seropositive rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N04y000,31724.0,Rheumatoid lung,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N04y011,56838.0,Caplan's syndrome,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N04y012,28853.0,Fibrosing alveolitis associated with rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N04y200,32001.0,Adult-onset Still's disease,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,N005.00,23834.0,Adult Still's Disease,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,Nyu1000,106440.0,[X]Rheumatoid arthritis+involvement/other organs or systems,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,Nyu1100,93715.0,[X]Other seropositive rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,Nyu1200,70221.0,[X]Other specified rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis
+Rheumatoid Arthritis,Nyu1G00,56202.0,[X]Seropositive rheumatoid arthritis unspecified,Diagnosis of Rheumatoid Arthritis

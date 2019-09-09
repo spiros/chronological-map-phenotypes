@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Polymyalgia Rheumatica","N200.00","29472.0","Giant cell arteritis with polymyalgia rheumatica","Diagnosis of Polymyalgia Rheumatica"
-"Polymyalgia Rheumatica","N20..00","1408.0","Polymyalgia rheumatica","Diagnosis of Polymyalgia Rheumatica"
-"Polymyalgia Rheumatica","N20..11","3042.0","Polymyalgia","Diagnosis of Polymyalgia Rheumatica"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Polymyalgia Rheumatica,N200.00,29472.0,Giant cell arteritis with polymyalgia rheumatica,Diagnosis of Polymyalgia Rheumatica
+Polymyalgia Rheumatica,N20..00,1408.0,Polymyalgia rheumatica,Diagnosis of Polymyalgia Rheumatica
+Polymyalgia Rheumatica,N20..11,3042.0,Polymyalgia,Diagnosis of Polymyalgia Rheumatica

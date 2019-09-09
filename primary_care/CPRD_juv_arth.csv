@@ -1,16 +1,16 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Juvenile arthritis","N043000","50644.0","Juvenile rheumatoid arthropathy unspecified","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N043100","47831.0","Acute polyarticular juvenile rheumatoid arthritis","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N043200","21533.0","Pauciarticular juvenile rheumatoid arthritis","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N043300","36276.0","Monarticular juvenile rheumatoid arthritis","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N043.00","4186.0","Juvenile rheumatoid arthritis - Still's disease","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N043z00","27557.0","Juvenile rheumatoid arthritis NOS","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N045000","42405.0","Juvenile ankylosing spondylitis","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N045100","31181.0","Juvenile seronegative polyarthritis","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N045200","28456.0","Juvenile arthritis in psoriasis","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N045300","12575.0","Juvenile arthritis in Crohn's disease","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N045400","71083.0","Juvenile arthritis in ulcerative colitis","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N045500","31360.0","Juvenile rheumatoid arthritis","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N045600","46622.0","Pauciarticular onset juvenile chronic arthritis","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","N045.00","7196.0","Other juvenile arthritis","Diagnosis of Juvenile arthritis"
-"Juvenile arthritis","Nyu1500","94854.0","[X]Other juvenile arthritis","Diagnosis of Juvenile arthritis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Juvenile arthritis,N043000,50644.0,Juvenile rheumatoid arthropathy unspecified,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N043100,47831.0,Acute polyarticular juvenile rheumatoid arthritis,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N043200,21533.0,Pauciarticular juvenile rheumatoid arthritis,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N043300,36276.0,Monarticular juvenile rheumatoid arthritis,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N043.00,4186.0,Juvenile rheumatoid arthritis - Still's disease,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N043z00,27557.0,Juvenile rheumatoid arthritis NOS,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N045000,42405.0,Juvenile ankylosing spondylitis,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N045100,31181.0,Juvenile seronegative polyarthritis,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N045200,28456.0,Juvenile arthritis in psoriasis,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N045300,12575.0,Juvenile arthritis in Crohn's disease,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N045400,71083.0,Juvenile arthritis in ulcerative colitis,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N045500,31360.0,Juvenile rheumatoid arthritis,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N045600,46622.0,Pauciarticular onset juvenile chronic arthritis,Diagnosis of Juvenile arthritis
+Juvenile arthritis,N045.00,7196.0,Other juvenile arthritis,Diagnosis of Juvenile arthritis
+Juvenile arthritis,Nyu1500,94854.0,[X]Other juvenile arthritis,Diagnosis of Juvenile arthritis

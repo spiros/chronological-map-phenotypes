@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Post-term infant","6355.00","33011.0","Baby post-mature","Diagnosis of Post-term infant"
-"Post-term infant","635..12","26867.0","Postmature baby","Diagnosis of Post-term infant"
-"Post-term infant","Q122.00","23341.0","Postmature infant - greater than 42 weeks gestation, unspec","Diagnosis of Post-term infant"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Post-term infant,6355.00,33011.0,Baby post-mature,Diagnosis of Post-term infant
+Post-term infant,635..12,26867.0,Postmature baby,Diagnosis of Post-term infant
+Post-term infant,Q122.00,23341.0,"Postmature infant - greater than 42 weeks gestation, unspec",Diagnosis of Post-term infant

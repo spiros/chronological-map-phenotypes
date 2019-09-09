@@ -1,10 +1,10 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Secondary Malignancy_Bowel","B574000","55946.0","Secondary malignant neoplasm of duodenum","Diagnosis of Secondary Malignancy_Bowel"
-"Secondary Malignancy_Bowel","B574100","110433.0","Secondary malignant neoplasm of jejunum","Diagnosis of Secondary Malignancy_Bowel"
-"Secondary Malignancy_Bowel","B574200","99511.0","Secondary malignant neoplasm of ileum","Diagnosis of Secondary Malignancy_Bowel"
-"Secondary Malignancy_Bowel","B574.00","64680.0","Secondary malignant neoplasm of small intestine and duodenum","Diagnosis of Secondary Malignancy_Bowel"
-"Secondary Malignancy_Bowel","B574z00","70026.0","Secondary malig neop of small intestine or duodenum NOS","Diagnosis of Secondary Malignancy_Bowel"
-"Secondary Malignancy_Bowel","B575000","28727.0","Secondary malignant neoplasm of colon","Diagnosis of Secondary Malignancy_Bowel"
-"Secondary Malignancy_Bowel","B575100","62909.0","Secondary malignant neoplasm of rectum","Diagnosis of Secondary Malignancy_Bowel"
-"Secondary Malignancy_Bowel","B575.00","44529.0","Secondary malignant neoplasm of large intestine and rectum","Diagnosis of Secondary Malignancy_Bowel"
-"Secondary Malignancy_Bowel","B575z00","36200.0","Secondary malig neop of large intestine or rectum NOS","Diagnosis of Secondary Malignancy_Bowel"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Secondary Malignancy_Bowel,B574000,55946.0,Secondary malignant neoplasm of duodenum,Diagnosis of Secondary Malignancy_Bowel
+Secondary Malignancy_Bowel,B574100,110433.0,Secondary malignant neoplasm of jejunum,Diagnosis of Secondary Malignancy_Bowel
+Secondary Malignancy_Bowel,B574200,99511.0,Secondary malignant neoplasm of ileum,Diagnosis of Secondary Malignancy_Bowel
+Secondary Malignancy_Bowel,B574.00,64680.0,Secondary malignant neoplasm of small intestine and duodenum,Diagnosis of Secondary Malignancy_Bowel
+Secondary Malignancy_Bowel,B574z00,70026.0,Secondary malig neop of small intestine or duodenum NOS,Diagnosis of Secondary Malignancy_Bowel
+Secondary Malignancy_Bowel,B575000,28727.0,Secondary malignant neoplasm of colon,Diagnosis of Secondary Malignancy_Bowel
+Secondary Malignancy_Bowel,B575100,62909.0,Secondary malignant neoplasm of rectum,Diagnosis of Secondary Malignancy_Bowel
+Secondary Malignancy_Bowel,B575.00,44529.0,Secondary malignant neoplasm of large intestine and rectum,Diagnosis of Secondary Malignancy_Bowel
+Secondary Malignancy_Bowel,B575z00,36200.0,Secondary malig neop of large intestine or rectum NOS,Diagnosis of Secondary Malignancy_Bowel

@@ -1,4 +1,4 @@
-Disease,Read code,Medcode,Descr,Category
+Disease,Readcode,Medcode,ReadcodeDescr,Category
 Abdominal Hernia,14C3.00,5275,H/O: abdominal hernia,History of Abdominal Hernia
 Abdominal Hernia,25P2.00,29341,O/E - reducible hernia,Diagnosis of Abdominal Hernia
 Abdominal Hernia,25P..12,1559,O/E - hernia,Diagnosis of Abdominal Hernia

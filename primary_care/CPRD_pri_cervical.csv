@@ -1,15 +1,15 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_Cervical","B410000","57235.0","Malignant neoplasm of endocervical canal","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B410100","53103.0","Malignant neoplasm of endocervical gland","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B410.00","48820.0","Malignant neoplasm of endocervix","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B410z00","50285.0","Malignant neoplasm of endocervix NOS","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B411.00","50297.0","Malignant neoplasm of exocervix","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B412.00","58094.0","Malignant neoplasm, overlapping lesion of cervix uteri","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B41..00","2747.0","Malignant neoplasm of cervix uteri","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B41..11","3230.0","Cervical carcinoma (uterus)","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B41y000","95505.0","Malignant neoplasm of cervical stump","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B41y100","57719.0","Malignant neoplasm of squamocolumnar junction of cervix","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B41y.00","32955.0","Malignant neoplasm of other site of cervix","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B41yz00","43435.0","Malignant neoplasm of other site of cervix NOS","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","B41z.00","28311.0","Malignant neoplasm of cervix uteri NOS","Diagnosis of Primary Malignancy_Cervical"
-"Primary Malignancy_Cervical","ZV10411","23936.0","[V]Personal history of malignant neoplasm of cervix uteri","History of Primary Malignancy_Cervical"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_Cervical,B410000,57235.0,Malignant neoplasm of endocervical canal,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B410100,53103.0,Malignant neoplasm of endocervical gland,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B410.00,48820.0,Malignant neoplasm of endocervix,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B410z00,50285.0,Malignant neoplasm of endocervix NOS,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B411.00,50297.0,Malignant neoplasm of exocervix,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B412.00,58094.0,"Malignant neoplasm, overlapping lesion of cervix uteri",Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B41..00,2747.0,Malignant neoplasm of cervix uteri,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B41..11,3230.0,Cervical carcinoma (uterus),Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B41y000,95505.0,Malignant neoplasm of cervical stump,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B41y100,57719.0,Malignant neoplasm of squamocolumnar junction of cervix,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B41y.00,32955.0,Malignant neoplasm of other site of cervix,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B41yz00,43435.0,Malignant neoplasm of other site of cervix NOS,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,B41z.00,28311.0,Malignant neoplasm of cervix uteri NOS,Diagnosis of Primary Malignancy_Cervical
+Primary Malignancy_Cervical,ZV10411,23936.0,[V]Personal history of malignant neoplasm of cervix uteri,History of Primary Malignancy_Cervical

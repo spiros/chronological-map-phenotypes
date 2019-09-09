@@ -1,4 +1,4 @@
-Disease,Read code,Medcode,Descr,Category
+Disease,Readcode,Medcode,ReadcodeDescr,Category
 "Atrioventricular block, first degree",3294,26971,ECG:partial A-V block-long P-R,"Diagnosis of Atrioventricular block, first degree"
 "Atrioventricular block, first degree",32I3.00,48092,ECG: P-R interval prolonged,"Diagnosis of Atrioventricular block, first degree"
 "Atrioventricular block, first degree",G561100,12149,First degree atrioventricular block,"Diagnosis of Atrioventricular block, first degree"

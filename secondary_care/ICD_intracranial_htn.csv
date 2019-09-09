@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Benign intracranial hypertension","G93.2","Benign intracranial hypertension","Diagnosis of Idiopathic intracranial hypertension"
+Disease,ICD10code,ICD10codeDescr,Category
+Benign intracranial hypertension,G93.2,Benign intracranial hypertension,Diagnosis of Idiopathic intracranial hypertension

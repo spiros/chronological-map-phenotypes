@@ -1,4 +1,4 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Oesophageal varices","I85","Oesophageal varices","Diagnosis of Oesophageal varices"
-"Oesophageal varices","I98.2","Oesophageal varices without bleeding in diseases classified elsewhere","Diagnosis of Oesophageal varices"
-"Oesophageal varices","I98.3","Oesophageal varices with bleeding in diseases classified elsewhere","Diagnosis of Oesophageal varices"
+Disease,ICD10code,ICD10codeDescr,Category
+Oesophageal varices,I85,Oesophageal varices,Diagnosis of Oesophageal varices
+Oesophageal varices,I98.2,Oesophageal varices without bleeding in diseases classified elsewhere,Diagnosis of Oesophageal varices
+Oesophageal varices,I98.3,Oesophageal varices with bleeding in diseases classified elsewhere,Diagnosis of Oesophageal varices

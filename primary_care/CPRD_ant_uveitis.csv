@@ -1,36 +1,36 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Anterior and Intermediate Uveitis","1486.00","8299.0","H/O: iritis","History of anterior uveitis"
-"Anterior and Intermediate Uveitis","A173300","38342.0","Tuberculous chronic iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","A532200","55940.0","Herpes zoster iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","A544400","61223.0","Herpes simplex iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","A984100","106506.0","Gonococcal iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","C34y300","50067.0","Gouty iritis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F432300","19645.0","Posterior cyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F432311","7882.0","Pars planitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440000","43159.0","Unspecified acute iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440100","63210.0","Unspecified subacute iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440200","69723.0","Primary iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440300","21163.0","Recurrent iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440400","92888.0","Secondary infected iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440500","54389.0","Secondary noninfected iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440600","20130.0","Hypopyon","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440700","17313.0","Diabetic iritis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440.00","10579.0","Acute and subacute iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440.11","478.0","Iritis - acute","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F440z00","6849.0","Acute or subacute iritis NOS","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F441000","38716.0","Unspecified chronic iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F441100","64052.0","Chronic iridocyclitis due to disease EC","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F441200","5556.0","Chronic anterior uveitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F441.00","37140.0","Chronic iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F441.11","17480.0","Chronic iritis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F441z00","64804.0","Chronic iridocyclitis NOS","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F442000","2161.0","Fuchs' heterochromic cyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F442100","29764.0","Glaucomatocyclitic crises","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F442200","72546.0","Lens-induced iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F442.00","72481.0","Certain types of iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F442z00","91596.0","Certain types of cyclitis NOS","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F443000","2245.0","Anterior uveitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F443100","98094.0","Iritis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F443.00","14731.0","Unspecified iridocyclitis","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F443.11","477.0","Uveitis NOS","Diagnosis of anterior uveitis"
-"Anterior and Intermediate Uveitis","F44..12","2703.0","Iridocyclitis","Diagnosis of anterior uveitis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Anterior and Intermediate Uveitis,1486.00,8299.0,H/O: iritis,History of anterior uveitis
+Anterior and Intermediate Uveitis,A173300,38342.0,Tuberculous chronic iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,A532200,55940.0,Herpes zoster iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,A544400,61223.0,Herpes simplex iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,A984100,106506.0,Gonococcal iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,C34y300,50067.0,Gouty iritis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F432300,19645.0,Posterior cyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F432311,7882.0,Pars planitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440000,43159.0,Unspecified acute iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440100,63210.0,Unspecified subacute iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440200,69723.0,Primary iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440300,21163.0,Recurrent iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440400,92888.0,Secondary infected iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440500,54389.0,Secondary noninfected iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440600,20130.0,Hypopyon,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440700,17313.0,Diabetic iritis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440.00,10579.0,Acute and subacute iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440.11,478.0,Iritis - acute,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F440z00,6849.0,Acute or subacute iritis NOS,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F441000,38716.0,Unspecified chronic iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F441100,64052.0,Chronic iridocyclitis due to disease EC,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F441200,5556.0,Chronic anterior uveitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F441.00,37140.0,Chronic iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F441.11,17480.0,Chronic iritis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F441z00,64804.0,Chronic iridocyclitis NOS,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F442000,2161.0,Fuchs' heterochromic cyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F442100,29764.0,Glaucomatocyclitic crises,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F442200,72546.0,Lens-induced iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F442.00,72481.0,Certain types of iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F442z00,91596.0,Certain types of cyclitis NOS,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F443000,2245.0,Anterior uveitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F443100,98094.0,Iritis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F443.00,14731.0,Unspecified iridocyclitis,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F443.11,477.0,Uveitis NOS,Diagnosis of anterior uveitis
+Anterior and Intermediate Uveitis,F44..12,2703.0,Iridocyclitis,Diagnosis of anterior uveitis

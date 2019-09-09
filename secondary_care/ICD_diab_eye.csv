@@ -1,10 +1,10 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Diabetic ophthalmic complications","H35.0","Background retinopathy and retinal vascular changes","Diagnosis of diabetic ophthalmic complications"
-"Diabetic ophthalmic complications","H35.2","Other proliferative retinopathy","Diagnosis of diabetic ophthalmic complications"
-"Diabetic ophthalmic complications","E10.3","Insulin-dependent diabetes mellitus - With ophthalmic complications","Diagnosis of diabetic ophthalmic complications"
-"Diabetic ophthalmic complications","E11.3","Non-insulin-dependent diabetes mellitus - With ophthalmic complications","Diagnosis of diabetic ophthalmic complications"
-"Diabetic ophthalmic complications","E12.3","Malnutrition-related diabetes mellitus - With ophthalmic complications","Diagnosis of diabetic ophthalmic complications"
-"Diabetic ophthalmic complications","E13.3","Other specified diabetes mellitus - With ophthalmic complications","Diagnosis of diabetic ophthalmic complications"
-"Diabetic ophthalmic complications","E14.3","Unspecified diabetes mellitus - With ophthalmic complications","Diagnosis of diabetic ophthalmic complications"
-"Diabetic ophthalmic complications","H28.0","Diabetic cataract","Diagnosis of diabetic ophthalmic complications"
-"Diabetic ophthalmic complications","H36.0","Diabetic retinopathy","Diagnosis of diabetic ophthalmic complications"
+Disease,ICD10code,ICD10codeDescr,Category
+Diabetic ophthalmic complications,H35.0,Background retinopathy and retinal vascular changes,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,H35.2,Other proliferative retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,E10.3,Insulin-dependent diabetes mellitus - With ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,E11.3,Non-insulin-dependent diabetes mellitus - With ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,E12.3,Malnutrition-related diabetes mellitus - With ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,E13.3,Other specified diabetes mellitus - With ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,E14.3,Unspecified diabetes mellitus - With ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,H28.0,Diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,H36.0,Diabetic retinopathy,Diagnosis of diabetic ophthalmic complications

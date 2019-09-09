@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Hidradenitis suppurativa","L73.2","Hidradenitis suppurativa","Diagnosis of Hidradenitis suppurativa"
+Disease,ICD10code,ICD10codeDescr,Category
+Hidradenitis suppurativa,L73.2,Hidradenitis suppurativa,Diagnosis of Hidradenitis suppurativa

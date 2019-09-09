@@ -1,4 +1,4 @@
-Disease,ICD10codes,ICD10codeDescr,Category
+Disease,ICD10code,ICD10codeDescr,Category
 Infections of Other or unspecified organs,A02.2,Localized salmonella infections,Possible diagnosis of Infections of Other or unspecified organs
 Infections of Other or unspecified organs,A02.8,Other specified salmonella infections,Possible diagnosis of Infections of Other or unspecified organs
 Infections of Other or unspecified organs,A02.9,"Salmonella infection, unspecified",Possible diagnosis of Infections of Other or unspecified organs

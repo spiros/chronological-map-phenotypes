@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Tinnitus","H93.1","Tinnitus","Diagnosis of Tinnitus"
+Disease,ICD10code,ICD10codeDescr,Category
+Tinnitus,H93.1,Tinnitus,Diagnosis of Tinnitus

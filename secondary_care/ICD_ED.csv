@@ -1,3 +1,3 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Erectile dysfunction","F52.2","Failure of genital response","Possible diagnosis of erectile dysfunction"
-"Erectile dysfunction","N48.4","Impotence of organic origin","Diagnosis of erectile dysfunction"
+Disease,ICD10code,ICD10codeDescr,Category
+Erectile dysfunction,F52.2,Failure of genital response,Possible diagnosis of erectile dysfunction
+Erectile dysfunction,N48.4,Impotence of organic origin,Diagnosis of erectile dysfunction

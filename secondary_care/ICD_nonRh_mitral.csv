@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Nonrheumatic mitral valve disorders","I34","Nonrheumatic mitral valve disorders","Diagnosis of Nonrheumatic mitral valve disorders"
+Disease,ICD10code,ICD10codeDescr,Category
+Nonrheumatic mitral valve disorders,I34,Nonrheumatic mitral valve disorders,Diagnosis of Nonrheumatic mitral valve disorders

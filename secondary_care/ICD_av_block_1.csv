@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Atrioventricular block, first degree","I44.0","Atrioventricular block, first degree","Diagnosis of Atrioventricular block, first degree"
+Disease,ICD10code,ICD10codeDescr,Category
+"Atrioventricular block, first degree",I44.0,"Atrioventricular block, first degree","Diagnosis of Atrioventricular block, first degree"

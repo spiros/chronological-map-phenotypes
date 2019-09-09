@@ -1,3 +1,3 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Postinfective and reactive arthropathies","M02","Reactive arthropathies","Diagnosis of Postinfective and reactive arthropathies"
-"Postinfective and reactive arthropathies","M03","Postinfective and reactive arthropathies in diseases classified elsewhere","Diagnosis of Postinfective and reactive arthropathies"
+Disease,ICD10code,ICD10codeDescr,Category
+Postinfective and reactive arthropathies,M02,Reactive arthropathies,Diagnosis of Postinfective and reactive arthropathies
+Postinfective and reactive arthropathies,M03,Postinfective and reactive arthropathies in diseases classified elsewhere,Diagnosis of Postinfective and reactive arthropathies

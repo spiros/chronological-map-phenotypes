@@ -1,19 +1,19 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Sarcoidosis","AD50.00","33980.0","Sarcoidosis of lung","Diagnosis of Sarcoidosis"
-"Sarcoidosis","AD51.00","49075.0","Sarcoidosis of lymph nodes","Diagnosis of Sarcoidosis"
-"Sarcoidosis","AD52.00","58841.0","Sarcoidosis of lung with sarcoidosis of lymph nodes","Diagnosis of Sarcoidosis"
-"Sarcoidosis","AD53000","28952.0","Lupus pernio","Diagnosis of Sarcoidosis"
-"Sarcoidosis","AD53.00","27769.0","Sarcoidosis of skin","Diagnosis of Sarcoidosis"
-"Sarcoidosis","AD54.00","72595.0","Sarcoidosis of inferior turbinates","Diagnosis of Sarcoidosis"
-"Sarcoidosis","AD55.00","40613.0","Sarcoid arthropathy","Diagnosis of Sarcoidosis"
-"Sarcoidosis","AD5..00","3865.0","Sarcoidosis","Diagnosis of Sarcoidosis"
-"Sarcoidosis","Cyu0600","73284.0","[X]Sarcoidosis of other and combined sites","Diagnosis of Sarcoidosis"
-"Sarcoidosis","F013.00","49454.0","Meningitis due to sarcoidosis","Diagnosis of Sarcoidosis"
-"Sarcoidosis","F326300","55612.0","Multiple cranial nerve palsies in sarcoidosis","Diagnosis of Sarcoidosis"
-"Sarcoidosis","F374900","40751.0","Polyneuropathy in sarcoidosis","Diagnosis of Sarcoidosis"
-"Sarcoidosis","F396500","52519.0","Myopathy due to sarcoidosis","Diagnosis of Sarcoidosis"
-"Sarcoidosis","G558300","47037.0","Sarcoid heart disease","Diagnosis of Sarcoidosis"
-"Sarcoidosis","G5y7.00","34437.0","Sarcoid myocarditis","Diagnosis of Sarcoidosis"
-"Sarcoidosis","H57y200","3859.0","Pulmonary sarcoidosis","Diagnosis of Sarcoidosis"
-"Sarcoidosis","J63A.00","26405.0","Hepatic granulomas in sarcoidosis","Diagnosis of Sarcoidosis"
-"Sarcoidosis","N233200","47718.0","Myositis in sarcoidosis","Diagnosis of Sarcoidosis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Sarcoidosis,AD50.00,33980.0,Sarcoidosis of lung,Diagnosis of Sarcoidosis
+Sarcoidosis,AD51.00,49075.0,Sarcoidosis of lymph nodes,Diagnosis of Sarcoidosis
+Sarcoidosis,AD52.00,58841.0,Sarcoidosis of lung with sarcoidosis of lymph nodes,Diagnosis of Sarcoidosis
+Sarcoidosis,AD53000,28952.0,Lupus pernio,Diagnosis of Sarcoidosis
+Sarcoidosis,AD53.00,27769.0,Sarcoidosis of skin,Diagnosis of Sarcoidosis
+Sarcoidosis,AD54.00,72595.0,Sarcoidosis of inferior turbinates,Diagnosis of Sarcoidosis
+Sarcoidosis,AD55.00,40613.0,Sarcoid arthropathy,Diagnosis of Sarcoidosis
+Sarcoidosis,AD5..00,3865.0,Sarcoidosis,Diagnosis of Sarcoidosis
+Sarcoidosis,Cyu0600,73284.0,[X]Sarcoidosis of other and combined sites,Diagnosis of Sarcoidosis
+Sarcoidosis,F013.00,49454.0,Meningitis due to sarcoidosis,Diagnosis of Sarcoidosis
+Sarcoidosis,F326300,55612.0,Multiple cranial nerve palsies in sarcoidosis,Diagnosis of Sarcoidosis
+Sarcoidosis,F374900,40751.0,Polyneuropathy in sarcoidosis,Diagnosis of Sarcoidosis
+Sarcoidosis,F396500,52519.0,Myopathy due to sarcoidosis,Diagnosis of Sarcoidosis
+Sarcoidosis,G558300,47037.0,Sarcoid heart disease,Diagnosis of Sarcoidosis
+Sarcoidosis,G5y7.00,34437.0,Sarcoid myocarditis,Diagnosis of Sarcoidosis
+Sarcoidosis,H57y200,3859.0,Pulmonary sarcoidosis,Diagnosis of Sarcoidosis
+Sarcoidosis,J63A.00,26405.0,Hepatic granulomas in sarcoidosis,Diagnosis of Sarcoidosis
+Sarcoidosis,N233200,47718.0,Myositis in sarcoidosis,Diagnosis of Sarcoidosis

@@ -1,18 +1,18 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G56.1","Other lesions of median nerve","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G56.2","Lesion of ulnar nerve","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G56.3","Lesion of radial nerve","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G56.4","Causalgia","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G56.8","Other mononeuropathies of upper limb","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G56.9","Mononeuropathy of upper limb, unspecified","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G57","Mononeuropathies of lower limb","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G58","Other mononeuropathies","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G59","Mononeuropathy in diseases classified elsewhere","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G60","Hereditary and idiopathic neuropathy","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G61","Inflammatory polyneuropathy","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G62","Other polyneuropathies","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G63","Polyneuropathy in diseases classified elsewhere","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","G64","Other disorders of peripheral nervous system","Diagnosis of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","M14.6","Neuropathic arthropathy","History of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","M49.4","Neuropathic spondylopathy","History of peripheral neuropathy"
-"Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)","E85.1","Neuropathic heredofamilial amyloidosis","History of peripheral neuropathy"
+Disease,ICD10code,ICD10codeDescr,Category
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.1,Other lesions of median nerve,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.2,Lesion of ulnar nerve,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.3,Lesion of radial nerve,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.4,Causalgia,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.8,Other mononeuropathies of upper limb,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.9,"Mononeuropathy of upper limb, unspecified",Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G57,Mononeuropathies of lower limb,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G58,Other mononeuropathies,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G59,Mononeuropathy in diseases classified elsewhere,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G60,Hereditary and idiopathic neuropathy,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G61,Inflammatory polyneuropathy,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G62,Other polyneuropathies,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G63,Polyneuropathy in diseases classified elsewhere,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G64,Other disorders of peripheral nervous system,Diagnosis of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),M14.6,Neuropathic arthropathy,History of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),M49.4,Neuropathic spondylopathy,History of peripheral neuropathy
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),E85.1,Neuropathic heredofamilial amyloidosis,History of peripheral neuropathy

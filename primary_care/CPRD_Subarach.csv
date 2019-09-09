@@ -1,15 +1,15 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Subarachnoid haemorrhage","G600.00","29939.0","Ruptured berry aneurysm","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","G601.00","56007.0","Subarachnoid haemorrhage from carotid siphon and bifurcation","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","G602.00","19412.0","Subarachnoid haemorrhage from middle cerebral artery","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","G603.00","42331.0","Subarachnoid haemorrhage from anterior communicating artery","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","G604.00","9696.0","Subarachnoid haemorrhage from posterior communicating artery","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","G605.00","41910.0","Subarachnoid haemorrhage from basilar artery","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","G606.00","60692.0","Subarachnoid haemorrhage from vertebral artery","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","G60..00","1786.0","Subarachnoid haemorrhage","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","G60X.00","17326.0","Subarachnoid haemorrh from intracranial artery, unspecif","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","G60z.00","23580.0","Subarachnoid haemorrhage NOS","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","G680.00","44740.0","Sequelae of subarachnoid haemorrhage","History of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","Gyu6000","108668.0","[X]Subarachnoid haemorrhage from other intracranial arteries","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","Gyu6100","65745.0","[X]Other subarachnoid haemorrhage","Diagnosis of subarachnoid ahemorrhage"
-"Subarachnoid haemorrhage","Gyu6E00","108630.0","[X]Subarachnoid haemorrh from intracranial artery, unspecif","Diagnosis of subarachnoid ahemorrhage"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Subarachnoid haemorrhage,G600.00,29939.0,Ruptured berry aneurysm,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,G601.00,56007.0,Subarachnoid haemorrhage from carotid siphon and bifurcation,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,G602.00,19412.0,Subarachnoid haemorrhage from middle cerebral artery,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,G603.00,42331.0,Subarachnoid haemorrhage from anterior communicating artery,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,G604.00,9696.0,Subarachnoid haemorrhage from posterior communicating artery,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,G605.00,41910.0,Subarachnoid haemorrhage from basilar artery,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,G606.00,60692.0,Subarachnoid haemorrhage from vertebral artery,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,G60..00,1786.0,Subarachnoid haemorrhage,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,G60X.00,17326.0,"Subarachnoid haemorrh from intracranial artery, unspecif",Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,G60z.00,23580.0,Subarachnoid haemorrhage NOS,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,G680.00,44740.0,Sequelae of subarachnoid haemorrhage,History of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,Gyu6000,108668.0,[X]Subarachnoid haemorrhage from other intracranial arteries,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,Gyu6100,65745.0,[X]Other subarachnoid haemorrhage,Diagnosis of subarachnoid ahemorrhage
+Subarachnoid haemorrhage,Gyu6E00,108630.0,"[X]Subarachnoid haemorrh from intracranial artery, unspecif",Diagnosis of subarachnoid ahemorrhage

@@ -1,2 +1,2 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Secondary Malignancy_Pleura","B572.00","16213.0","Secondary malignant neoplasm of pleura","Diagnosis of Secondary Malignancy_Pleura"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Secondary Malignancy_Pleura,B572.00,16213.0,Secondary malignant neoplasm of pleura,Diagnosis of Secondary Malignancy_Pleura

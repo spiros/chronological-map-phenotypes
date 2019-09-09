@@ -1,4 +1,4 @@
-Disease,Read code,Medcode,Descr,Category
+Disease,Readcode,Medcode,ReadcodeDescr,Category
 Folate deficiency anaemia,C262000,4078,Folic acid deficiency,Folic acid deficiency
 Folate deficiency anaemia,D012100,36634,Folate-deficiency anaemia due to dietary causes,Diagnosis of Folate deficiency anaemia
 Folate deficiency anaemia,D012111,98709,Goat's milk anaemia,Diagnosis of Folate deficiency anaemia

@@ -1,43 +1,43 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Asthma","14B4.00","719.0","H/O: asthma","History of Asthma"
-"Asthma","173A.00","5867.0","Exercise induced asthma","Diagnosis of Asthma"
-"Asthma","173c.00","22752.0","Occupational asthma","Diagnosis of Asthma"
-"Asthma","173d.00","73522.0","Work aggravated asthma","Diagnosis of Asthma"
-"Asthma","1780.00","41017.0","Aspirin induced asthma","Diagnosis of Asthma"
-"Asthma","1O2..00","11370.0","Asthma confirmed","Diagnosis of Asthma"
-"Asthma","2126200.0","10996.0","Asthma resolved","History of Asthma"
-"Asthma","212G.00","11839.0","Asthma resolved","History of Asthma"
-"Asthma","H312000","5798.0","Chronic asthmatic bronchitis","Diagnosis of Asthma"
-"Asthma","H330000","14777.0","Extrinsic asthma without status asthmaticus","Diagnosis of Asthma"
-"Asthma","H330011","5627.0","Hay fever with asthma","Diagnosis of Asthma"
-"Asthma","H330100","27926.0","Extrinsic asthma with status asthmaticus","Diagnosis of Asthma"
-"Asthma","H330111","6707.0","Extrinsic asthma with asthma attack","Diagnosis of Asthma"
-"Asthma","H330.00","7146.0","Extrinsic (atopic) asthma","Diagnosis of Asthma"
-"Asthma","H330.11","2290.0","Allergic asthma","Diagnosis of Asthma"
-"Asthma","H330.12","1208.0","Childhood asthma","Diagnosis of Asthma"
-"Asthma","H330.13","15248.0","Hay fever with asthma","Diagnosis of Asthma"
-"Asthma","H330.14","7731.0","Pollen asthma","Diagnosis of Asthma"
-"Asthma","H330z00","45782.0","Extrinsic asthma NOS","Diagnosis of Asthma"
-"Asthma","H331000","29325.0","Intrinsic asthma without status asthmaticus","Diagnosis of Asthma"
-"Asthma","H331100","58196.0","Intrinsic asthma with status asthmaticus","Diagnosis of Asthma"
-"Asthma","H331111","18323.0","Intrinsic asthma with asthma attack","Diagnosis of Asthma"
-"Asthma","H331.00","5267.0","Intrinsic asthma","Diagnosis of Asthma"
-"Asthma","H331.11","3665.0","Late onset asthma","Diagnosis of Asthma"
-"Asthma","H331z00","45073.0","Intrinsic asthma NOS","Diagnosis of Asthma"
-"Asthma","H332.00","25796.0","Mixed asthma","Diagnosis of Asthma"
-"Asthma","H333.00","185.0","Acute exacerbation of asthma","Diagnosis of Asthma"
-"Asthma","H334.00","40823.0","Brittle asthma","Diagnosis of Asthma"
-"Asthma","H335.00","106805.0","Chronic asthma with fixed airflow obstruction","Diagnosis of Asthma"
-"Asthma","H33..00","78.0","Asthma","Diagnosis of Asthma"
-"Asthma","H33..11","1555.0","Bronchial asthma","Diagnosis of Asthma"
-"Asthma","H33z000","4892.0","Status asthmaticus NOS","Diagnosis of Asthma"
-"Asthma","H33z011","233.0","Severe asthma attack","Diagnosis of Asthma"
-"Asthma","H33z100","232.0","Asthma attack","Diagnosis of Asthma"
-"Asthma","H33z111","8335.0","Asthma attack NOS","Diagnosis of Asthma"
-"Asthma","H33z200","12987.0","Late-onset asthma","Diagnosis of Asthma"
-"Asthma","H33z.00","4442.0","Asthma unspecified","Diagnosis of Asthma"
-"Asthma","H33z.11","32727.0","Hyperreactive airways disease","Diagnosis of Asthma"
-"Asthma","H33zz00","16070.0","Asthma NOS","Diagnosis of Asthma"
-"Asthma","H33zz11","4606.0","Exercise induced asthma","Diagnosis of Asthma"
-"Asthma","H33zz12","21232.0","Allergic asthma NEC","Diagnosis of Asthma"
-"Asthma","H33zz13","18207.0","Allergic bronchitis NEC","Diagnosis of Asthma"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Asthma,14B4.00,719.0,H/O: asthma,History of Asthma
+Asthma,173A.00,5867.0,Exercise induced asthma,Diagnosis of Asthma
+Asthma,173c.00,22752.0,Occupational asthma,Diagnosis of Asthma
+Asthma,173d.00,73522.0,Work aggravated asthma,Diagnosis of Asthma
+Asthma,1780.00,41017.0,Aspirin induced asthma,Diagnosis of Asthma
+Asthma,1O2..00,11370.0,Asthma confirmed,Diagnosis of Asthma
+Asthma,2126200.0,10996.0,Asthma resolved,History of Asthma
+Asthma,212G.00,11839.0,Asthma resolved,History of Asthma
+Asthma,H312000,5798.0,Chronic asthmatic bronchitis,Diagnosis of Asthma
+Asthma,H330000,14777.0,Extrinsic asthma without status asthmaticus,Diagnosis of Asthma
+Asthma,H330011,5627.0,Hay fever with asthma,Diagnosis of Asthma
+Asthma,H330100,27926.0,Extrinsic asthma with status asthmaticus,Diagnosis of Asthma
+Asthma,H330111,6707.0,Extrinsic asthma with asthma attack,Diagnosis of Asthma
+Asthma,H330.00,7146.0,Extrinsic (atopic) asthma,Diagnosis of Asthma
+Asthma,H330.11,2290.0,Allergic asthma,Diagnosis of Asthma
+Asthma,H330.12,1208.0,Childhood asthma,Diagnosis of Asthma
+Asthma,H330.13,15248.0,Hay fever with asthma,Diagnosis of Asthma
+Asthma,H330.14,7731.0,Pollen asthma,Diagnosis of Asthma
+Asthma,H330z00,45782.0,Extrinsic asthma NOS,Diagnosis of Asthma
+Asthma,H331000,29325.0,Intrinsic asthma without status asthmaticus,Diagnosis of Asthma
+Asthma,H331100,58196.0,Intrinsic asthma with status asthmaticus,Diagnosis of Asthma
+Asthma,H331111,18323.0,Intrinsic asthma with asthma attack,Diagnosis of Asthma
+Asthma,H331.00,5267.0,Intrinsic asthma,Diagnosis of Asthma
+Asthma,H331.11,3665.0,Late onset asthma,Diagnosis of Asthma
+Asthma,H331z00,45073.0,Intrinsic asthma NOS,Diagnosis of Asthma
+Asthma,H332.00,25796.0,Mixed asthma,Diagnosis of Asthma
+Asthma,H333.00,185.0,Acute exacerbation of asthma,Diagnosis of Asthma
+Asthma,H334.00,40823.0,Brittle asthma,Diagnosis of Asthma
+Asthma,H335.00,106805.0,Chronic asthma with fixed airflow obstruction,Diagnosis of Asthma
+Asthma,H33..00,78.0,Asthma,Diagnosis of Asthma
+Asthma,H33..11,1555.0,Bronchial asthma,Diagnosis of Asthma
+Asthma,H33z000,4892.0,Status asthmaticus NOS,Diagnosis of Asthma
+Asthma,H33z011,233.0,Severe asthma attack,Diagnosis of Asthma
+Asthma,H33z100,232.0,Asthma attack,Diagnosis of Asthma
+Asthma,H33z111,8335.0,Asthma attack NOS,Diagnosis of Asthma
+Asthma,H33z200,12987.0,Late-onset asthma,Diagnosis of Asthma
+Asthma,H33z.00,4442.0,Asthma unspecified,Diagnosis of Asthma
+Asthma,H33z.11,32727.0,Hyperreactive airways disease,Diagnosis of Asthma
+Asthma,H33zz00,16070.0,Asthma NOS,Diagnosis of Asthma
+Asthma,H33zz11,4606.0,Exercise induced asthma,Diagnosis of Asthma
+Asthma,H33zz12,21232.0,Allergic asthma NEC,Diagnosis of Asthma
+Asthma,H33zz13,18207.0,Allergic bronchitis NEC,Diagnosis of Asthma

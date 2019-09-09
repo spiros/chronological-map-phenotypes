@@ -1,6 +1,6 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Posterior Uveitis","H30.0","Focal chorioretinal inflammation","Diagnosis of Posterior Uveitis"
-"Posterior Uveitis","H30.1","Disseminated chorioretinal inflammation","Diagnosis of Posterior Uveitis"
-"Posterior Uveitis","H30.8","Other chorioretinal inflammations","Diagnosis of Posterior Uveitis"
-"Posterior Uveitis","H30.9","Chorioretinal inflammation, unspecified","Diagnosis of Posterior Uveitis"
-"Posterior Uveitis","H32.0","Chorioretinal inflammation in infectious and parasitic diseases classified elsewhere","Diagnosis of Posterior Uveitis"
+Disease,ICD10code,ICD10codeDescr,Category
+Posterior Uveitis,H30.0,Focal chorioretinal inflammation,Diagnosis of Posterior Uveitis
+Posterior Uveitis,H30.1,Disseminated chorioretinal inflammation,Diagnosis of Posterior Uveitis
+Posterior Uveitis,H30.8,Other chorioretinal inflammations,Diagnosis of Posterior Uveitis
+Posterior Uveitis,H30.9,"Chorioretinal inflammation, unspecified",Diagnosis of Posterior Uveitis
+Posterior Uveitis,H32.0,Chorioretinal inflammation in infectious and parasitic diseases classified elsewhere,Diagnosis of Posterior Uveitis

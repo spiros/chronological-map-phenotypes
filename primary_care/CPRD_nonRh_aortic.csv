@@ -1,18 +1,18 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Nonrheumatic aortic valve disorders","G541000","14998.0","Aortic incompetence, non-rheumatic","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541011","47887.0","Aortic insufficiency, non-rheumatic","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541012","10187.0","Aortic regurgitation, non-rheumatic","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541100","999.0","Aortic stenosis, non-rheumatic","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541200","1007.0","Aortic incompetence alone, cause unspecified","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541211","58810.0","Aortic insufficiency alone, cause unspecified","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541212","1005.0","Aortic regurgitation alone, cause unspecified","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541300","2343.0","Aortic stenosis alone, cause unspecified","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541400","10964.0","Aortic valve stenosis with insufficiency","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541500","9591.0","Aortic stenosis","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541600","30610.0","Aortic valve sclerosis","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541700","49185.0","Aortic valve calcification","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541.00","4548.0","Aortic valve disorders","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","G541z00","19019.0","Aortic valve disorders NOS","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","Gyu1100","94521.0","[X]Other rheumatic aortic valve diseases","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","Gyu5600","49272.0","[X]Other aortic valve disorders","Diagnosis of Nonrheumatic aortic valve disorders"
-"Nonrheumatic aortic valve disorders","Gyu5A00","71004.0","[X]Aortic valve disorders in diseases classified elsewhere","Diagnosis of Nonrheumatic aortic valve disorders"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Nonrheumatic aortic valve disorders,G541000,14998.0,"Aortic incompetence, non-rheumatic",Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541011,47887.0,"Aortic insufficiency, non-rheumatic",Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541012,10187.0,"Aortic regurgitation, non-rheumatic",Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541100,999.0,"Aortic stenosis, non-rheumatic",Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541200,1007.0,"Aortic incompetence alone, cause unspecified",Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541211,58810.0,"Aortic insufficiency alone, cause unspecified",Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541212,1005.0,"Aortic regurgitation alone, cause unspecified",Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541300,2343.0,"Aortic stenosis alone, cause unspecified",Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541400,10964.0,Aortic valve stenosis with insufficiency,Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541500,9591.0,Aortic stenosis,Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541600,30610.0,Aortic valve sclerosis,Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541700,49185.0,Aortic valve calcification,Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541.00,4548.0,Aortic valve disorders,Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,G541z00,19019.0,Aortic valve disorders NOS,Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,Gyu1100,94521.0,[X]Other rheumatic aortic valve diseases,Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,Gyu5600,49272.0,[X]Other aortic valve disorders,Diagnosis of Nonrheumatic aortic valve disorders
+Nonrheumatic aortic valve disorders,Gyu5A00,71004.0,[X]Aortic valve disorders in diseases classified elsewhere,Diagnosis of Nonrheumatic aortic valve disorders

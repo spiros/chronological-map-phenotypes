@@ -1,61 +1,61 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Fracture of wrist","7K1LM00","5951.0","Closed reduction of fracture of wrist","Procedure for Fracture of wrist"
-"Fracture of wrist","S234000","18389.0","Closed fracture of forearm, lower end, unspecified","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234100","343.0","Closed Colles' fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234111","52389.0","Smith's fracture - closed","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234200","1742.0","Closed fracture of the distal radius, unspecified","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234300","9165.0","Closed fracture of ulna, styloid process","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234400","42076.0","Closed fracture of ulna, lower epiphysis","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234500","40476.0","Closed fracture distal ulna, unspecified","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234600","28708.0","Closed fracture radius and ulna, distal","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234700","2862.0","Closed Smith's fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234800","40268.0","Closed Galeazzi fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234900","11066.0","Closed volar Barton's fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234911","53689.0","Closed volar Barton's fracture-dislocation","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234912","65636.0","Closed volar Barton fracture-subluxation","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234A00","50053.0","Closd dorsal Barton's fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234A11","57736.0","Closed dorsal Barton's fracture-dislocation","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234A12","107741.0","Closed dorsal Barton fracture-subluxation","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234B00","6915.0","Closed fracture radial styloid","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234C00","44844.0","Closed fracture distal radius, intra-articular, die-punch","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234D00","19058.0","Closed fracture distal radius, extra-articular, other type","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234E00","28293.0","Closed fracture distal radius, intra-articular, other type","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234F00","10033.0","Closed Barton's fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234.00","18299.0","Closed fracture of radius and ulna, lower end","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234.11","203.0","Wrist fracture - closed","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S234z00","27591.0","Closed fracture of forearm, lower end, NOS","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235000","60630.0","Open fracture of forearm, lower end, unspecified","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235100","6074.0","Open Colles' fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235111","98681.0","Smith's fracture - open","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235200","44924.0","Open fracture of the distal radius, unspecified","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235300","11262.0","Open fracture of ulna, styloid process","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235400","96691.0","Open fracture of ulna, lower epiphysis","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235500","49796.0","Open fracture distal ulna - other","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235600","38398.0","Open fracture radius and ulna, distal","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235700","34730.0","Open Smith's fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235800","30418.0","Open Galeazzi fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235900","61675.0","Open volar Barton's fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235B00","6380.0","Open fracture radial styloid","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235C00","104070.0","Open fracture distal radius, intra-articular, die-punch","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235D00","53698.0","Open fracture distal radius, extra-articular other type","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235E00","63588.0","Open fracture distal radius, intra-articular other type","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235F00","18301.0","Open Barton's fracture","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235.00","27590.0","Open fracture of radius and ulna, lower end","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235.11","10022.0","Wrist fracture - open","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S235z00","66774.0","Open fracture of forearm, lower end, NOS","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S23B.00","199.0","Fracture of lower end of radius","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S23C.00","6213.0","Fracture of lower end of both ulna and radius","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C0000","17922.0","Closed fracture-dislocation distal radio-ulnar joint","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C0100","38408.0","Closed fracture-dislocation radiocarpal joint","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C0.00","34429.0","Closed fracture dislocation of wrist","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C1000","9261.0","Open fracture-dislocation, distal radio-ulnar joint","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C1100","49256.0","Open fracture-dislocation radiocarpal joint","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C1.00","42844.0","Open fracture dislocation wrist","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C2000","44652.0","Closed fracture-subluxation, distal radio-ulnar jt","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C2100","50148.0","Closed fracture-subluxation radiocarpal joint","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C2.00","17921.0","Closed fracture-subluxation of the wrist","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C3000","60343.0","Open fracture-subluxation, distal radio-ulnar joint","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C3100","46798.0","Open fracture-subluxation radiocarpal joint","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C3.00","59219.0","Open fracture-subluxation of the wrist","Diagnosis of Fracture of wrist"
-"Fracture of wrist","S4C..00","18614.0","Fracture-dislocation or subluxation of wrist","Diagnosis of Fracture of wrist"
-"Fracture of wrist","SC3C000","6455.0","Sequelae of fracture at wrist and hand level","Diagnosis of Fracture of wrist"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Fracture of wrist,7K1LM00,5951.0,Closed reduction of fracture of wrist,Procedure for Fracture of wrist
+Fracture of wrist,S234000,18389.0,"Closed fracture of forearm, lower end, unspecified",Diagnosis of Fracture of wrist
+Fracture of wrist,S234100,343.0,Closed Colles' fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S234111,52389.0,Smith's fracture - closed,Diagnosis of Fracture of wrist
+Fracture of wrist,S234200,1742.0,"Closed fracture of the distal radius, unspecified",Diagnosis of Fracture of wrist
+Fracture of wrist,S234300,9165.0,"Closed fracture of ulna, styloid process",Diagnosis of Fracture of wrist
+Fracture of wrist,S234400,42076.0,"Closed fracture of ulna, lower epiphysis",Diagnosis of Fracture of wrist
+Fracture of wrist,S234500,40476.0,"Closed fracture distal ulna, unspecified",Diagnosis of Fracture of wrist
+Fracture of wrist,S234600,28708.0,"Closed fracture radius and ulna, distal",Diagnosis of Fracture of wrist
+Fracture of wrist,S234700,2862.0,Closed Smith's fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S234800,40268.0,Closed Galeazzi fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S234900,11066.0,Closed volar Barton's fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S234911,53689.0,Closed volar Barton's fracture-dislocation,Diagnosis of Fracture of wrist
+Fracture of wrist,S234912,65636.0,Closed volar Barton fracture-subluxation,Diagnosis of Fracture of wrist
+Fracture of wrist,S234A00,50053.0,Closd dorsal Barton's fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S234A11,57736.0,Closed dorsal Barton's fracture-dislocation,Diagnosis of Fracture of wrist
+Fracture of wrist,S234A12,107741.0,Closed dorsal Barton fracture-subluxation,Diagnosis of Fracture of wrist
+Fracture of wrist,S234B00,6915.0,Closed fracture radial styloid,Diagnosis of Fracture of wrist
+Fracture of wrist,S234C00,44844.0,"Closed fracture distal radius, intra-articular, die-punch",Diagnosis of Fracture of wrist
+Fracture of wrist,S234D00,19058.0,"Closed fracture distal radius, extra-articular, other type",Diagnosis of Fracture of wrist
+Fracture of wrist,S234E00,28293.0,"Closed fracture distal radius, intra-articular, other type",Diagnosis of Fracture of wrist
+Fracture of wrist,S234F00,10033.0,Closed Barton's fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S234.00,18299.0,"Closed fracture of radius and ulna, lower end",Diagnosis of Fracture of wrist
+Fracture of wrist,S234.11,203.0,Wrist fracture - closed,Diagnosis of Fracture of wrist
+Fracture of wrist,S234z00,27591.0,"Closed fracture of forearm, lower end, NOS",Diagnosis of Fracture of wrist
+Fracture of wrist,S235000,60630.0,"Open fracture of forearm, lower end, unspecified",Diagnosis of Fracture of wrist
+Fracture of wrist,S235100,6074.0,Open Colles' fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S235111,98681.0,Smith's fracture - open,Diagnosis of Fracture of wrist
+Fracture of wrist,S235200,44924.0,"Open fracture of the distal radius, unspecified",Diagnosis of Fracture of wrist
+Fracture of wrist,S235300,11262.0,"Open fracture of ulna, styloid process",Diagnosis of Fracture of wrist
+Fracture of wrist,S235400,96691.0,"Open fracture of ulna, lower epiphysis",Diagnosis of Fracture of wrist
+Fracture of wrist,S235500,49796.0,Open fracture distal ulna - other,Diagnosis of Fracture of wrist
+Fracture of wrist,S235600,38398.0,"Open fracture radius and ulna, distal",Diagnosis of Fracture of wrist
+Fracture of wrist,S235700,34730.0,Open Smith's fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S235800,30418.0,Open Galeazzi fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S235900,61675.0,Open volar Barton's fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S235B00,6380.0,Open fracture radial styloid,Diagnosis of Fracture of wrist
+Fracture of wrist,S235C00,104070.0,"Open fracture distal radius, intra-articular, die-punch",Diagnosis of Fracture of wrist
+Fracture of wrist,S235D00,53698.0,"Open fracture distal radius, extra-articular other type",Diagnosis of Fracture of wrist
+Fracture of wrist,S235E00,63588.0,"Open fracture distal radius, intra-articular other type",Diagnosis of Fracture of wrist
+Fracture of wrist,S235F00,18301.0,Open Barton's fracture,Diagnosis of Fracture of wrist
+Fracture of wrist,S235.00,27590.0,"Open fracture of radius and ulna, lower end",Diagnosis of Fracture of wrist
+Fracture of wrist,S235.11,10022.0,Wrist fracture - open,Diagnosis of Fracture of wrist
+Fracture of wrist,S235z00,66774.0,"Open fracture of forearm, lower end, NOS",Diagnosis of Fracture of wrist
+Fracture of wrist,S23B.00,199.0,Fracture of lower end of radius,Diagnosis of Fracture of wrist
+Fracture of wrist,S23C.00,6213.0,Fracture of lower end of both ulna and radius,Diagnosis of Fracture of wrist
+Fracture of wrist,S4C0000,17922.0,Closed fracture-dislocation distal radio-ulnar joint,Diagnosis of Fracture of wrist
+Fracture of wrist,S4C0100,38408.0,Closed fracture-dislocation radiocarpal joint,Diagnosis of Fracture of wrist
+Fracture of wrist,S4C0.00,34429.0,Closed fracture dislocation of wrist,Diagnosis of Fracture of wrist
+Fracture of wrist,S4C1000,9261.0,"Open fracture-dislocation, distal radio-ulnar joint",Diagnosis of Fracture of wrist
+Fracture of wrist,S4C1100,49256.0,Open fracture-dislocation radiocarpal joint,Diagnosis of Fracture of wrist
+Fracture of wrist,S4C1.00,42844.0,Open fracture dislocation wrist,Diagnosis of Fracture of wrist
+Fracture of wrist,S4C2000,44652.0,"Closed fracture-subluxation, distal radio-ulnar jt",Diagnosis of Fracture of wrist
+Fracture of wrist,S4C2100,50148.0,Closed fracture-subluxation radiocarpal joint,Diagnosis of Fracture of wrist
+Fracture of wrist,S4C2.00,17921.0,Closed fracture-subluxation of the wrist,Diagnosis of Fracture of wrist
+Fracture of wrist,S4C3000,60343.0,"Open fracture-subluxation, distal radio-ulnar joint",Diagnosis of Fracture of wrist
+Fracture of wrist,S4C3100,46798.0,Open fracture-subluxation radiocarpal joint,Diagnosis of Fracture of wrist
+Fracture of wrist,S4C3.00,59219.0,Open fracture-subluxation of the wrist,Diagnosis of Fracture of wrist
+Fracture of wrist,S4C..00,18614.0,Fracture-dislocation or subluxation of wrist,Diagnosis of Fracture of wrist
+Fracture of wrist,SC3C000,6455.0,Sequelae of fracture at wrist and hand level,Diagnosis of Fracture of wrist

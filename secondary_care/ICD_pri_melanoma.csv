@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Primary Malignancy_Malignant Melanoma","C43","Malignant melanoma of skin","Diagnosis of Primary Malignancy_Malignant Melanoma"
+Disease,ICD10code,ICD10codeDescr,Category
+Primary Malignancy_Malignant Melanoma,C43,Malignant melanoma of skin,Diagnosis of Primary Malignancy_Malignant Melanoma

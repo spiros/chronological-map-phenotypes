@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Hyperplasia of prostate","N40","Hyperplasia of prostate","Diagnosis of Hyperplasia of prostate"
+Disease,ICD10code,ICD10codeDescr,Category
+Hyperplasia of prostate,N40,Hyperplasia of prostate,Diagnosis of Hyperplasia of prostate

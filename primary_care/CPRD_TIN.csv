@@ -1,20 +1,20 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Tubulo-interstitial nephritis","K03T.00","23990.0","Tubulo-interstit nephritis, not specif as acute or chron","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K03y200","34669.0","Other interstitial nephritis","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0B1.00","64622.0","Renal tubulo-interstitial disorder/ neoplastic diseases","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0B2.00","45904.0","Ren tub-interst disordr/blood dis+disordr inv immune mech","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0B4000","41148.0","Renal tubulo-interstitial disorder in SLE","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0B4.00","67261.0","Ren tub-interstitl disordr/systemc connectv tiss disorder","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0B5.00","48057.0","Renal tubulo-interstitial disordrs in transplant rejectn","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0B..00","45523.0","Renal tubulo-interstitial disorders in diseases EC","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0C0.00","8607.0","Analgesic nephropathy","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0C1.00","41159.0","Nephropathy induced by other drugs meds and biologl substncs","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0C2.00","57784.0","Nephropathy induced by unspec drug medicament or biol subs","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0C4.00","50893.0","Toxic nephropathy, not elsewhere classified","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0C5.00","104532.0","Acute drug-induced interstitial nephritis","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0C6.00","105680.0","Chronic lithium nephrotoxicity","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","K0C..00","24736.0","Drug/heavy-metal-induced tubulo-interstitial and tub conditn","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","Kyu1000","101453.0","[X]Other chronic tubulo-interstitial nephritis","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","Kyu1400","72478.0","[X]Nephropathy induced by other drugs+biological substances","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","Kyu1E00","103757.0","[X]Tubulo-interstit nephritis, not specif as acute or chron","Diagnosis of Tubulo-interstitial nephritis"
-"Tubulo-interstitial nephritis","Kyu1.00","94842.0","[X]Renal tubulo-interstitial diseases","Diagnosis of Tubulo-interstitial nephritis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Tubulo-interstitial nephritis,K03T.00,23990.0,"Tubulo-interstit nephritis, not specif as acute or chron",Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K03y200,34669.0,Other interstitial nephritis,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0B1.00,64622.0,Renal tubulo-interstitial disorder/ neoplastic diseases,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0B2.00,45904.0,Ren tub-interst disordr/blood dis+disordr inv immune mech,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0B4000,41148.0,Renal tubulo-interstitial disorder in SLE,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0B4.00,67261.0,Ren tub-interstitl disordr/systemc connectv tiss disorder,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0B5.00,48057.0,Renal tubulo-interstitial disordrs in transplant rejectn,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0B..00,45523.0,Renal tubulo-interstitial disorders in diseases EC,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0C0.00,8607.0,Analgesic nephropathy,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0C1.00,41159.0,Nephropathy induced by other drugs meds and biologl substncs,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0C2.00,57784.0,Nephropathy induced by unspec drug medicament or biol subs,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0C4.00,50893.0,"Toxic nephropathy, not elsewhere classified",Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0C5.00,104532.0,Acute drug-induced interstitial nephritis,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0C6.00,105680.0,Chronic lithium nephrotoxicity,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,K0C..00,24736.0,Drug/heavy-metal-induced tubulo-interstitial and tub conditn,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,Kyu1000,101453.0,[X]Other chronic tubulo-interstitial nephritis,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,Kyu1400,72478.0,[X]Nephropathy induced by other drugs+biological substances,Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,Kyu1E00,103757.0,"[X]Tubulo-interstit nephritis, not specif as acute or chron",Diagnosis of Tubulo-interstitial nephritis
+Tubulo-interstitial nephritis,Kyu1.00,94842.0,[X]Renal tubulo-interstitial diseases,Diagnosis of Tubulo-interstitial nephritis

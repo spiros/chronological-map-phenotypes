@@ -1,42 +1,42 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Parasitic infections","A06","Amoebiasis","Diagnosis of Parasitic infections"
-"Parasitic infections","A07","Other protozoal intestinal diseases","Diagnosis of Parasitic infections"
-"Parasitic infections","A59","Trichomoniasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B50","Plasmodium falciparum malaria","Diagnosis of Parasitic infections"
-"Parasitic infections","B51","Plasmodium vivax malaria","Diagnosis of Parasitic infections"
-"Parasitic infections","B52","Plasmodium malariae malaria","Diagnosis of Parasitic infections"
-"Parasitic infections","B53","Other parasitologically confirmed malaria","Diagnosis of Parasitic infections"
-"Parasitic infections","B54","Unspecified malaria","Diagnosis of Parasitic infections"
-"Parasitic infections","B55","Leishmaniasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B56","African trypanosomiasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B57","Chagas' disease","Diagnosis of Parasitic infections"
-"Parasitic infections","B58","Toxoplasmosis","Diagnosis of Parasitic infections"
-"Parasitic infections","B60","Other protozoal diseases, not elsewhere classified","Diagnosis of Parasitic infections"
-"Parasitic infections","B64","Unspecified protozoal disease","Diagnosis of Parasitic infections"
-"Parasitic infections","B65","Schistosomiasis [bilharziasis]","Diagnosis of Parasitic infections"
-"Parasitic infections","B66","Other fluke infections","Diagnosis of Parasitic infections"
-"Parasitic infections","B67","Echinococcosis","Diagnosis of Parasitic infections"
-"Parasitic infections","B68","Taeniasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B69","Cysticercosis","Diagnosis of Parasitic infections"
-"Parasitic infections","B70","Diphyllobothriasis and sparganosis","Diagnosis of Parasitic infections"
-"Parasitic infections","B71","Other cestode infections","Diagnosis of Parasitic infections"
-"Parasitic infections","B72","Dracunculiasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B73","Onchocerciasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B74","Filariasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B75","Trichinellosis","Diagnosis of Parasitic infections"
-"Parasitic infections","B76","Hookworm diseases","Diagnosis of Parasitic infections"
-"Parasitic infections","B77","Ascariasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B78","Strongyloidiasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B79","Trichuriasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B80","Enterobiasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B81","Other intestinal helminthiases, not elsewhere classified","Diagnosis of Parasitic infections"
-"Parasitic infections","B82","Unspecified intestinal parasitism","Diagnosis of Parasitic infections"
-"Parasitic infections","B83","Other helminthiases","Diagnosis of Parasitic infections"
-"Parasitic infections","B85","Pediculosis and phthiriasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B86","Scabies","Diagnosis of Parasitic infections"
-"Parasitic infections","B87","Myiasis","Diagnosis of Parasitic infections"
-"Parasitic infections","B88","Other infestations","Diagnosis of Parasitic infections"
-"Parasitic infections","B89","Unspecified parasitic disease","Diagnosis of Parasitic infections"
-"Parasitic infections","J17.3","Pneumonia in parasitic diseases","Diagnosis of Parasitic infections"
-"Parasitic infections","K23.1","Megaoesophagus in Chagas' disease","Diagnosis of Parasitic infections"
-"Parasitic infections","P37.1","Congenital toxoplasmosis","Diagnosis of Parasitic infections"
+Disease,ICD10code,ICD10codeDescr,Category
+Parasitic infections,A06,Amoebiasis,Diagnosis of Parasitic infections
+Parasitic infections,A07,Other protozoal intestinal diseases,Diagnosis of Parasitic infections
+Parasitic infections,A59,Trichomoniasis,Diagnosis of Parasitic infections
+Parasitic infections,B50,Plasmodium falciparum malaria,Diagnosis of Parasitic infections
+Parasitic infections,B51,Plasmodium vivax malaria,Diagnosis of Parasitic infections
+Parasitic infections,B52,Plasmodium malariae malaria,Diagnosis of Parasitic infections
+Parasitic infections,B53,Other parasitologically confirmed malaria,Diagnosis of Parasitic infections
+Parasitic infections,B54,Unspecified malaria,Diagnosis of Parasitic infections
+Parasitic infections,B55,Leishmaniasis,Diagnosis of Parasitic infections
+Parasitic infections,B56,African trypanosomiasis,Diagnosis of Parasitic infections
+Parasitic infections,B57,Chagas' disease,Diagnosis of Parasitic infections
+Parasitic infections,B58,Toxoplasmosis,Diagnosis of Parasitic infections
+Parasitic infections,B60,"Other protozoal diseases, not elsewhere classified",Diagnosis of Parasitic infections
+Parasitic infections,B64,Unspecified protozoal disease,Diagnosis of Parasitic infections
+Parasitic infections,B65,Schistosomiasis [bilharziasis],Diagnosis of Parasitic infections
+Parasitic infections,B66,Other fluke infections,Diagnosis of Parasitic infections
+Parasitic infections,B67,Echinococcosis,Diagnosis of Parasitic infections
+Parasitic infections,B68,Taeniasis,Diagnosis of Parasitic infections
+Parasitic infections,B69,Cysticercosis,Diagnosis of Parasitic infections
+Parasitic infections,B70,Diphyllobothriasis and sparganosis,Diagnosis of Parasitic infections
+Parasitic infections,B71,Other cestode infections,Diagnosis of Parasitic infections
+Parasitic infections,B72,Dracunculiasis,Diagnosis of Parasitic infections
+Parasitic infections,B73,Onchocerciasis,Diagnosis of Parasitic infections
+Parasitic infections,B74,Filariasis,Diagnosis of Parasitic infections
+Parasitic infections,B75,Trichinellosis,Diagnosis of Parasitic infections
+Parasitic infections,B76,Hookworm diseases,Diagnosis of Parasitic infections
+Parasitic infections,B77,Ascariasis,Diagnosis of Parasitic infections
+Parasitic infections,B78,Strongyloidiasis,Diagnosis of Parasitic infections
+Parasitic infections,B79,Trichuriasis,Diagnosis of Parasitic infections
+Parasitic infections,B80,Enterobiasis,Diagnosis of Parasitic infections
+Parasitic infections,B81,"Other intestinal helminthiases, not elsewhere classified",Diagnosis of Parasitic infections
+Parasitic infections,B82,Unspecified intestinal parasitism,Diagnosis of Parasitic infections
+Parasitic infections,B83,Other helminthiases,Diagnosis of Parasitic infections
+Parasitic infections,B85,Pediculosis and phthiriasis,Diagnosis of Parasitic infections
+Parasitic infections,B86,Scabies,Diagnosis of Parasitic infections
+Parasitic infections,B87,Myiasis,Diagnosis of Parasitic infections
+Parasitic infections,B88,Other infestations,Diagnosis of Parasitic infections
+Parasitic infections,B89,Unspecified parasitic disease,Diagnosis of Parasitic infections
+Parasitic infections,J17.3,Pneumonia in parasitic diseases,Diagnosis of Parasitic infections
+Parasitic infections,K23.1,Megaoesophagus in Chagas' disease,Diagnosis of Parasitic infections
+Parasitic infections,P37.1,Congenital toxoplasmosis,Diagnosis of Parasitic infections

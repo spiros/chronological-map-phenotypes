@@ -1,19 +1,19 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Infection of other or unspecified genitourinary system","A18.1","Tuberculosis of genitourinary system","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A51.0","Primary genital syphilis","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A54.0","Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A54.1","Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A54.2","Gonococcal pelviperitonitis and other gonococcal genitourinary infections","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A56.0","Chlamydial infection of lower genitourinary tract","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A56.1","Chlamydial infection of pelviperitoneum and other genitourinary organs","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A56.2","Chlamydial infection of genitourinary tract, unspecified","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A57","Chancroid","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A58","Granuloma inguinale","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A59.0","Urogenital trichomoniasis","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","A60.0","Herpesviral infection of genitalia and urogenital tract","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","B37.3","Candidiasis of vulva and vagina","Diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","B37.4","Candidiasis of other urogenital sites","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","B90.1","Sequelae of genitourinary tuberculosis","Possible diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","N75.1","Abscess of Bartholin's gland","Diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","N77.0","Ulceration of vulva in infectious and parasitic diseases classified elsewhere","Diagnosis of Infection of other or unspecified genitourinary system"
-"Infection of other or unspecified genitourinary system","N77.1","Vaginitis, vulvitis and vulvovaginitis in infectious and parasitic diseases classified elsewhere","Diagnosis of Infection of other or unspecified genitourinary system"
+Disease,ICD10code,ICD10codeDescr,Category
+Infection of other or unspecified genitourinary system,A18.1,Tuberculosis of genitourinary system,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A51.0,Primary genital syphilis,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A54.0,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A54.1,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A54.2,Gonococcal pelviperitonitis and other gonococcal genitourinary infections,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A56.0,Chlamydial infection of lower genitourinary tract,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A56.1,Chlamydial infection of pelviperitoneum and other genitourinary organs,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A56.2,"Chlamydial infection of genitourinary tract, unspecified",Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A57,Chancroid,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A58,Granuloma inguinale,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A59.0,Urogenital trichomoniasis,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,A60.0,Herpesviral infection of genitalia and urogenital tract,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,B37.3,Candidiasis of vulva and vagina,Diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,B37.4,Candidiasis of other urogenital sites,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,B90.1,Sequelae of genitourinary tuberculosis,Possible diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,N75.1,Abscess of Bartholin's gland,Diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,N77.0,Ulceration of vulva in infectious and parasitic diseases classified elsewhere,Diagnosis of Infection of other or unspecified genitourinary system
+Infection of other or unspecified genitourinary system,N77.1,"Vaginitis, vulvitis and vulvovaginitis in infectious and parasitic diseases classified elsewhere",Diagnosis of Infection of other or unspecified genitourinary system

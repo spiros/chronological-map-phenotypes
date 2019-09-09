@@ -1,11 +1,11 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Ménière's disease","1491.11","16593.0","H/O: Meniere's disease","History of Ménière's disease"
-"Ménière's disease","F560000","47541.0","Unspecified Meniere's disease","Diagnosis of Ménière's disease"
-"Ménière's disease","F560100","66733.0","Active cochleovestibular Meniere's disease","Diagnosis of Ménière's disease"
-"Ménière's disease","F560200","39499.0","Active cochlear Meniere's disease","Diagnosis of Ménière's disease"
-"Ménière's disease","F560300","55827.0","Active vestibular Meniere's disease","Diagnosis of Ménière's disease"
-"Ménière's disease","F560400","97882.0","Inactive Meniere's disease","Diagnosis of Ménière's disease"
-"Ménière's disease","F560.00","674.0","Meniere's disease","Diagnosis of Ménière's disease"
-"Ménière's disease","F560.11","18047.0","Endolymphatic hydrops","Diagnosis of Ménière's disease"
-"Ménière's disease","F560.12","44564.0","Lermoyez's syndrome","Diagnosis of Ménière's disease"
-"Ménière's disease","F560z00","16334.0","Meniere's disease NOS","Diagnosis of Ménière's disease"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Ménière's disease,1491.11,16593.0,H/O: Meniere's disease,History of Ménière's disease
+Ménière's disease,F560000,47541.0,Unspecified Meniere's disease,Diagnosis of Ménière's disease
+Ménière's disease,F560100,66733.0,Active cochleovestibular Meniere's disease,Diagnosis of Ménière's disease
+Ménière's disease,F560200,39499.0,Active cochlear Meniere's disease,Diagnosis of Ménière's disease
+Ménière's disease,F560300,55827.0,Active vestibular Meniere's disease,Diagnosis of Ménière's disease
+Ménière's disease,F560400,97882.0,Inactive Meniere's disease,Diagnosis of Ménière's disease
+Ménière's disease,F560.00,674.0,Meniere's disease,Diagnosis of Ménière's disease
+Ménière's disease,F560.11,18047.0,Endolymphatic hydrops,Diagnosis of Ménière's disease
+Ménière's disease,F560.12,44564.0,Lermoyez's syndrome,Diagnosis of Ménière's disease
+Ménière's disease,F560z00,16334.0,Meniere's disease NOS,Diagnosis of Ménière's disease

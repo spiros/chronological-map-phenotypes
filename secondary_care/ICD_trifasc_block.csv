@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Trifascicular block","I45.3","Trifascicular block","Diagnosis of Trifascicular block"
+Disease,ICD10code,ICD10codeDescr,Category
+Trifascicular block,I45.3,Trifascicular block,Diagnosis of Trifascicular block

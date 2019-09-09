@@ -1,8 +1,8 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Immunodeficiencies","D80","Immunodeficiency with predominantly antibody defects","Diagnosis of Immunodeficiencies"
-"Immunodeficiencies","D81","Combined immunodeficiencies","Diagnosis of Immunodeficiencies"
-"Immunodeficiencies","D82","Immunodeficiency associated with other major defects","Diagnosis of Immunodeficiencies"
-"Immunodeficiencies","D83","Common variable immunodeficiency","Diagnosis of Immunodeficiencies"
-"Immunodeficiencies","D84.0","Lymphocyte function antigen-1 [LFA-1] defect","Diagnosis of Immunodeficiencies"
-"Immunodeficiencies","D84.8","Other specified immunodeficiencies","Diagnosis of Immunodeficiencies"
-"Immunodeficiencies","D84.9","Immunodeficiency, unspecified","Diagnosis of Immunodeficiencies"
+Disease,ICD10code,ICD10codeDescr,Category
+Immunodeficiencies,D80,Immunodeficiency with predominantly antibody defects,Diagnosis of Immunodeficiencies
+Immunodeficiencies,D81,Combined immunodeficiencies,Diagnosis of Immunodeficiencies
+Immunodeficiencies,D82,Immunodeficiency associated with other major defects,Diagnosis of Immunodeficiencies
+Immunodeficiencies,D83,Common variable immunodeficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,D84.0,Lymphocyte function antigen-1 [LFA-1] defect,Diagnosis of Immunodeficiencies
+Immunodeficiencies,D84.8,Other specified immunodeficiencies,Diagnosis of Immunodeficiencies
+Immunodeficiencies,D84.9,"Immunodeficiency, unspecified",Diagnosis of Immunodeficiencies

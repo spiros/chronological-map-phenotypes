@@ -1,19 +1,19 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Cystic Fibrosis","66k0.00","100520.0","Cystic fibrosis annual review","History of Cystic Fibrosis"
-"Cystic Fibrosis","66k..00","100430.0","Cystic fibrosis monitoring","History of Cystic Fibrosis"
-"Cystic Fibrosis","C10N100","93380.0","Cystic fibrosis related diabetes mellitus","History of Cystic Fibrosis"
-"Cystic Fibrosis","C370000","65344.0","Cystic fibrosis with no meconium ileus","Diagnosis of Cystic Fibrosis"
-"Cystic Fibrosis","C370100","69017.0","Cystic fibrosis with meconium ileus","Diagnosis of Cystic Fibrosis"
-"Cystic Fibrosis","C370111","36622.0","Meconium ileus in cystic fibrosis","Diagnosis of Cystic Fibrosis"
-"Cystic Fibrosis","C370200","18914.0","Cystic fibrosis with pulmonary manifestations","Diagnosis of Cystic Fibrosis"
-"Cystic Fibrosis","C370300","18905.0","Cystic fibrosis with intestinal manifestations","Diagnosis of Cystic Fibrosis"
-"Cystic Fibrosis","C370400","100610.0","Arthropathy in cystic fibrosis","History of Cystic Fibrosis"
-"Cystic Fibrosis","C370500","103224.0","Cystic fibrosis with distal intestinal obstruction syndrome","Diagnosis of Cystic Fibrosis"
-"Cystic Fibrosis","C370700","110454.0","Liver disease due to cystic fibrosis","History of Cystic Fibrosis"
-"Cystic Fibrosis","C370800","102922.0","Cystic fibrosis related cirrhosis","History of Cystic Fibrosis"
-"Cystic Fibrosis","C370900","106432.0","Exacerbation of cystic fibrosis","History of Cystic Fibrosis"
-"Cystic Fibrosis","C370.00","6220.0","Cystic fibrosis","Diagnosis of Cystic Fibrosis"
-"Cystic Fibrosis","C370.11","13264.0","Fibrocystic disease","Diagnosis of Cystic Fibrosis"
-"Cystic Fibrosis","C370.12","24137.0","Mucoviscidosis","Diagnosis of Cystic Fibrosis"
-"Cystic Fibrosis","C370y00","73065.0","Cystic fibrosis with other manifestations","Diagnosis of Cystic Fibrosis"
-"Cystic Fibrosis","C370z00","49770.0","Cystic fibrosis NOS","Diagnosis of Cystic Fibrosis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Cystic Fibrosis,66k0.00,100520.0,Cystic fibrosis annual review,History of Cystic Fibrosis
+Cystic Fibrosis,66k..00,100430.0,Cystic fibrosis monitoring,History of Cystic Fibrosis
+Cystic Fibrosis,C10N100,93380.0,Cystic fibrosis related diabetes mellitus,History of Cystic Fibrosis
+Cystic Fibrosis,C370000,65344.0,Cystic fibrosis with no meconium ileus,Diagnosis of Cystic Fibrosis
+Cystic Fibrosis,C370100,69017.0,Cystic fibrosis with meconium ileus,Diagnosis of Cystic Fibrosis
+Cystic Fibrosis,C370111,36622.0,Meconium ileus in cystic fibrosis,Diagnosis of Cystic Fibrosis
+Cystic Fibrosis,C370200,18914.0,Cystic fibrosis with pulmonary manifestations,Diagnosis of Cystic Fibrosis
+Cystic Fibrosis,C370300,18905.0,Cystic fibrosis with intestinal manifestations,Diagnosis of Cystic Fibrosis
+Cystic Fibrosis,C370400,100610.0,Arthropathy in cystic fibrosis,History of Cystic Fibrosis
+Cystic Fibrosis,C370500,103224.0,Cystic fibrosis with distal intestinal obstruction syndrome,Diagnosis of Cystic Fibrosis
+Cystic Fibrosis,C370700,110454.0,Liver disease due to cystic fibrosis,History of Cystic Fibrosis
+Cystic Fibrosis,C370800,102922.0,Cystic fibrosis related cirrhosis,History of Cystic Fibrosis
+Cystic Fibrosis,C370900,106432.0,Exacerbation of cystic fibrosis,History of Cystic Fibrosis
+Cystic Fibrosis,C370.00,6220.0,Cystic fibrosis,Diagnosis of Cystic Fibrosis
+Cystic Fibrosis,C370.11,13264.0,Fibrocystic disease,Diagnosis of Cystic Fibrosis
+Cystic Fibrosis,C370.12,24137.0,Mucoviscidosis,Diagnosis of Cystic Fibrosis
+Cystic Fibrosis,C370y00,73065.0,Cystic fibrosis with other manifestations,Diagnosis of Cystic Fibrosis
+Cystic Fibrosis,C370z00,49770.0,Cystic fibrosis NOS,Diagnosis of Cystic Fibrosis

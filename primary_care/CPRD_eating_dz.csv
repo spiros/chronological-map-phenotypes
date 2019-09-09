@@ -1,10 +1,10 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Anorexia and bulimia nervosa","1467.00","8027.0","H/O: anorexia nervosa","History of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","E271.00","2135.0","Anorexia nervosa","Diagnosis of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","E275100","4377.0","Bulimia (non-organic overeating)","Diagnosis of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","Eu50000","30570.0","[X]Anorexia nervosa","Diagnosis of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","Eu50100","34929.0","[X]Atypical anorexia nervosa","Diagnosis of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","Eu50200","9581.0","[X]Bulimia nervosa","Diagnosis of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","Eu50211","6583.0","[X]Bulimia NOS","Diagnosis of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","Eu50300","33863.0","[X]Atypical bulimia nervosa","Diagnosis of Anorexia and bulimia nervosa"
-"Anorexia and bulimia nervosa","R036011","605.0","[D]Bulimia NOS","Diagnosis of Anorexia and bulimia nervosa"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Anorexia and bulimia nervosa,1467.00,8027.0,H/O: anorexia nervosa,History of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,E271.00,2135.0,Anorexia nervosa,Diagnosis of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,E275100,4377.0,Bulimia (non-organic overeating),Diagnosis of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,Eu50000,30570.0,[X]Anorexia nervosa,Diagnosis of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,Eu50100,34929.0,[X]Atypical anorexia nervosa,Diagnosis of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,Eu50200,9581.0,[X]Bulimia nervosa,Diagnosis of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,Eu50211,6583.0,[X]Bulimia NOS,Diagnosis of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,Eu50300,33863.0,[X]Atypical bulimia nervosa,Diagnosis of Anorexia and bulimia nervosa
+Anorexia and bulimia nervosa,R036011,605.0,[D]Bulimia NOS,Diagnosis of Anorexia and bulimia nervosa

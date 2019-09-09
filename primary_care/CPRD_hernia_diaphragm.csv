@@ -1,27 +1,27 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Diaphragmatic hernia","760K011","47416.0","Allison repair of oesophageal hiatus hernia","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760K012","94728.0","Mason repair of oesophageal hiatus hernia","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760K100","63539.0","Repair of diaphragmatic hernia using thoracic approach NEC","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760K300","30980.0","Repair of diaphragmatic hernia using abdominal approach NEC","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760K400","72571.0","Boerema repair of hiatus hernia","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760K500","22845.0","Laparoscopic repair of hiatus hernia","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760K.00","8270.0","Repair of diaphragmatic hernia","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760K.11","18664.0","Repair of oesophageal hiatus hernia","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760K.12","1178.0","Repair of hiatus hernia","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760Ky00","60094.0","Other specified repair of diaphragmatic hernia","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760Kz00","37471.0","Repair of diaphragmatic hernia NOS","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","760L312","61616.0","Hill repair of hiatus hernia and gastropexy","Procedure for Diaphragmatic hernia"
-"Diaphragmatic hernia","J340.00","24703.0","Diaphragmatic hernia with gangrene","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J341.00","44233.0","Diaphragmatic hernia with obstruction","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J342.00","60697.0","Diaphragmatic hernia - irreducible","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J343.00","34691.0","Simple diaphragmatic hernia","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J344.00","68880.0","Hiatus hernia with gangrene","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J345.00","63180.0","Hiatus hernia with obstruction","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J346.00","48153.0","Hiatus hernia - irreducible","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J347.00","33779.0","Simple hiatus hernia","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J348.00","12086.0","Sliding hiatus hernia","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J34..00","4987.0","Diaphragmatic hernia","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J34..11","256.0","Hiatus hernia","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J34..12","31732.0","Parasternal hernia","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J34..13","110120.0","Retrosternal hernia","Diagnosis of Diaphragmatic hernia"
-"Diaphragmatic hernia","J34y.00","62920.0","Unspecified diaphragmatic hernia","Diagnosis of Diaphragmatic hernia"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Diaphragmatic hernia,760K011,47416.0,Allison repair of oesophageal hiatus hernia,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760K012,94728.0,Mason repair of oesophageal hiatus hernia,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760K100,63539.0,Repair of diaphragmatic hernia using thoracic approach NEC,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760K300,30980.0,Repair of diaphragmatic hernia using abdominal approach NEC,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760K400,72571.0,Boerema repair of hiatus hernia,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760K500,22845.0,Laparoscopic repair of hiatus hernia,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760K.00,8270.0,Repair of diaphragmatic hernia,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760K.11,18664.0,Repair of oesophageal hiatus hernia,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760K.12,1178.0,Repair of hiatus hernia,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760Ky00,60094.0,Other specified repair of diaphragmatic hernia,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760Kz00,37471.0,Repair of diaphragmatic hernia NOS,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,760L312,61616.0,Hill repair of hiatus hernia and gastropexy,Procedure for Diaphragmatic hernia
+Diaphragmatic hernia,J340.00,24703.0,Diaphragmatic hernia with gangrene,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J341.00,44233.0,Diaphragmatic hernia with obstruction,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J342.00,60697.0,Diaphragmatic hernia - irreducible,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J343.00,34691.0,Simple diaphragmatic hernia,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J344.00,68880.0,Hiatus hernia with gangrene,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J345.00,63180.0,Hiatus hernia with obstruction,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J346.00,48153.0,Hiatus hernia - irreducible,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J347.00,33779.0,Simple hiatus hernia,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J348.00,12086.0,Sliding hiatus hernia,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J34..00,4987.0,Diaphragmatic hernia,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J34..11,256.0,Hiatus hernia,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J34..12,31732.0,Parasternal hernia,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J34..13,110120.0,Retrosternal hernia,Diagnosis of Diaphragmatic hernia
+Diaphragmatic hernia,J34y.00,62920.0,Unspecified diaphragmatic hernia,Diagnosis of Diaphragmatic hernia

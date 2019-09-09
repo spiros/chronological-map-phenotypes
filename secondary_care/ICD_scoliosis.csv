@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Scoliosis","M41","Scoliosis","Diagnosis of Scoliosis"
+Disease,ICD10code,ICD10codeDescr,Category
+Scoliosis,M41,Scoliosis,Diagnosis of Scoliosis

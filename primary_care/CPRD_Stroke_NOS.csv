@@ -1,36 +1,36 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Stroke NOS","14A7.00","34135.0","H/O: CVA/stroke","History of Stroke NOS"
-"Stroke NOS","14A7.11","6305.0","H/O: CVA","History of Stroke NOS"
-"Stroke NOS","14A7.12","5871.0","H/O: stroke","History of Stroke NOS"
-"Stroke NOS","14AK.00","66873.0","H/O: Stroke in last year","History of Stroke NOS"
-"Stroke NOS","1M4..00","100639.0","Central post-stroke pain","History of Stroke NOS"
-"Stroke NOS","661M700","107195.0","Stroke self-management plan agreed","History of Stroke NOS"
-"Stroke NOS","661N700","109743.0","Stroke self-management plan review","History of Stroke NOS"
-"Stroke NOS","662e.00","18686.0","Stroke/CVA annual review","History of Stroke NOS"
-"Stroke NOS","662e.11","107886.0","Stroke annual review","History of Stroke NOS"
-"Stroke NOS","662M100","105100.0","Stroke 6 month review","History of Stroke NOS"
-"Stroke NOS","662M200","104505.0","Stroke initial post discharge review","History of Stroke NOS"
-"Stroke NOS","662M.00","10792.0","Stroke monitoring","History of Stroke NOS"
-"Stroke NOS","7P24200","55351.0","Delivery of rehabilitation for stroke","History of Stroke NOS"
-"Stroke NOS","8HHM.00","56458.0","Ref to multidisciplinary stroke function improvement service","History of Stroke NOS"
-"Stroke NOS","8IEC.00","104638.0","Ref multidisciplinary stroke function improvement declined","History of Stroke NOS"
-"Stroke NOS","9h21.00","11039.0","Excepted from stroke quality indicators: Patient unsuitable","History of Stroke NOS"
-"Stroke NOS","9h22.00","11074.0","Excepted from stroke quality indicators: Informed dissent","History of Stroke NOS"
-"Stroke NOS","9h2..00","10962.0","Exception reporting: stroke quality indicators","History of Stroke NOS"
-"Stroke NOS","Fyu5600","93459.0","[X]Other lacunar syndromes","Diagnosis of Stroke NOS"
-"Stroke NOS","G663.00","8443.0","Brain stem stroke syndrome","Diagnosis of Stroke NOS"
-"Stroke NOS","G664.00","17322.0","Cerebellar stroke syndrome","Diagnosis of Stroke NOS"
-"Stroke NOS","G665.00","33499.0","Pure motor lacunar syndrome","Diagnosis of Stroke NOS"
-"Stroke NOS","G666.00","51767.0","Pure sensory lacunar syndrome","Diagnosis of Stroke NOS"
-"Stroke NOS","G667.00","7780.0","Left sided CVA","Diagnosis of Stroke NOS"
-"Stroke NOS","G668.00","12833.0","Right sided CVA","Diagnosis of Stroke NOS"
-"Stroke NOS","G66..00","1469.0","Stroke and cerebrovascular accident unspecified","Diagnosis of Stroke NOS"
-"Stroke NOS","G66..11","1298.0","CVA unspecified","Diagnosis of Stroke NOS"
-"Stroke NOS","G66..12","6253.0","Stroke unspecified","Diagnosis of Stroke NOS"
-"Stroke NOS","G66..13","6116.0","CVA - Cerebrovascular accident unspecified","Diagnosis of Stroke NOS"
-"Stroke NOS","G68X.00","6228.0","Sequelae of stroke,not specfd as h'morrhage or infarction","History of Stroke NOS"
-"Stroke NOS","Gyu6C00","110337.0","[X]Sequelae of stroke,not specfd as h'morrhage or infarction","History of Stroke NOS"
-"Stroke NOS","L440.11","47607.0","CVA - cerebrovascular accident in the puerperium","Diagnosis of Stroke NOS"
-"Stroke NOS","L440.12","56279.0","Stroke in the puerperium","Diagnosis of Stroke NOS"
-"Stroke NOS","ZV12511","19348.0","[V]Personal history of stroke","History of Stroke NOS"
-"Stroke NOS","ZV12512","7138.0","[V]Personal history of cerebrovascular accident (CVA)","History of Stroke NOS"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Stroke NOS,14A7.00,34135.0,H/O: CVA/stroke,History of Stroke NOS
+Stroke NOS,14A7.11,6305.0,H/O: CVA,History of Stroke NOS
+Stroke NOS,14A7.12,5871.0,H/O: stroke,History of Stroke NOS
+Stroke NOS,14AK.00,66873.0,H/O: Stroke in last year,History of Stroke NOS
+Stroke NOS,1M4..00,100639.0,Central post-stroke pain,History of Stroke NOS
+Stroke NOS,661M700,107195.0,Stroke self-management plan agreed,History of Stroke NOS
+Stroke NOS,661N700,109743.0,Stroke self-management plan review,History of Stroke NOS
+Stroke NOS,662e.00,18686.0,Stroke/CVA annual review,History of Stroke NOS
+Stroke NOS,662e.11,107886.0,Stroke annual review,History of Stroke NOS
+Stroke NOS,662M100,105100.0,Stroke 6 month review,History of Stroke NOS
+Stroke NOS,662M200,104505.0,Stroke initial post discharge review,History of Stroke NOS
+Stroke NOS,662M.00,10792.0,Stroke monitoring,History of Stroke NOS
+Stroke NOS,7P24200,55351.0,Delivery of rehabilitation for stroke,History of Stroke NOS
+Stroke NOS,8HHM.00,56458.0,Ref to multidisciplinary stroke function improvement service,History of Stroke NOS
+Stroke NOS,8IEC.00,104638.0,Ref multidisciplinary stroke function improvement declined,History of Stroke NOS
+Stroke NOS,9h21.00,11039.0,Excepted from stroke quality indicators: Patient unsuitable,History of Stroke NOS
+Stroke NOS,9h22.00,11074.0,Excepted from stroke quality indicators: Informed dissent,History of Stroke NOS
+Stroke NOS,9h2..00,10962.0,Exception reporting: stroke quality indicators,History of Stroke NOS
+Stroke NOS,Fyu5600,93459.0,[X]Other lacunar syndromes,Diagnosis of Stroke NOS
+Stroke NOS,G663.00,8443.0,Brain stem stroke syndrome,Diagnosis of Stroke NOS
+Stroke NOS,G664.00,17322.0,Cerebellar stroke syndrome,Diagnosis of Stroke NOS
+Stroke NOS,G665.00,33499.0,Pure motor lacunar syndrome,Diagnosis of Stroke NOS
+Stroke NOS,G666.00,51767.0,Pure sensory lacunar syndrome,Diagnosis of Stroke NOS
+Stroke NOS,G667.00,7780.0,Left sided CVA,Diagnosis of Stroke NOS
+Stroke NOS,G668.00,12833.0,Right sided CVA,Diagnosis of Stroke NOS
+Stroke NOS,G66..00,1469.0,Stroke and cerebrovascular accident unspecified,Diagnosis of Stroke NOS
+Stroke NOS,G66..11,1298.0,CVA unspecified,Diagnosis of Stroke NOS
+Stroke NOS,G66..12,6253.0,Stroke unspecified,Diagnosis of Stroke NOS
+Stroke NOS,G66..13,6116.0,CVA - Cerebrovascular accident unspecified,Diagnosis of Stroke NOS
+Stroke NOS,G68X.00,6228.0,"Sequelae of stroke,not specfd as h'morrhage or infarction",History of Stroke NOS
+Stroke NOS,Gyu6C00,110337.0,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction",History of Stroke NOS
+Stroke NOS,L440.11,47607.0,CVA - cerebrovascular accident in the puerperium,Diagnosis of Stroke NOS
+Stroke NOS,L440.12,56279.0,Stroke in the puerperium,Diagnosis of Stroke NOS
+Stroke NOS,ZV12511,19348.0,[V]Personal history of stroke,History of Stroke NOS
+Stroke NOS,ZV12512,7138.0,[V]Personal history of cerebrovascular accident (CVA),History of Stroke NOS

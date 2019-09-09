@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Secondary malignancy_Liver and intrahepatic bile duct","B153.00","36147.0","Secondary malignant neoplasm of liver","Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct"
-"Secondary malignancy_Liver and intrahepatic bile duct","B577.00","15103.0","Secondary malignant neoplasm of liver","Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct"
-"Secondary malignancy_Liver and intrahepatic bile duct","B577.11","4403.0","Liver metastases","Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Secondary malignancy_Liver and intrahepatic bile duct,B153.00,36147.0,Secondary malignant neoplasm of liver,Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct
+Secondary malignancy_Liver and intrahepatic bile duct,B577.00,15103.0,Secondary malignant neoplasm of liver,Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct
+Secondary malignancy_Liver and intrahepatic bile duct,B577.11,4403.0,Liver metastases,Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct

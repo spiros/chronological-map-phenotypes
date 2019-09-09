@@ -1,15 +1,15 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Spondylolisthesis","7J34112","43211.0","Buck fusion of lumbar spine for spondylolisthesis","Procedure for Spondylolisthesis"
-"Spondylolisthesis","7J48500","11250.0","Spondylolisthesis operation","Procedure for Spondylolisthesis"
-"Spondylolisthesis","7J48511","63967.0","Gill excision of spondylolisthesis","Procedure for Spondylolisthesis"
-"Spondylolisthesis","7J48K00","20734.0","Reduction of spondylolisthesis and fusion","Procedure for Spondylolisthesis"
-"Spondylolisthesis","7J48L00","16743.0","Fusion spondylolisthesis in situ","Procedure for Spondylolisthesis"
-"Spondylolisthesis","N384000","65017.0","Dysplastic spondylolisthesis","Diagnosis of Spondylolisthesis"
-"Spondylolisthesis","N384100","61817.0","Isthmic spondylolisthesis","Diagnosis of Spondylolisthesis"
-"Spondylolisthesis","N384200","12371.0","Degenerative spondylolisthesis","Diagnosis of Spondylolisthesis"
-"Spondylolisthesis","N384300","66732.0","Pedicular spondylolisthesis","Diagnosis of Spondylolisthesis"
-"Spondylolisthesis","N384.00","2895.0","Acquired spondylolisthesis","Diagnosis of Spondylolisthesis"
-"Spondylolisthesis","Zw04600","52889.0","[Q] Spondylolisthesis grade 1","Diagnosis of Spondylolisthesis"
-"Spondylolisthesis","Zw04700","53931.0","[Q] Spondylolisthesis grade 2","Diagnosis of Spondylolisthesis"
-"Spondylolisthesis","Zw04800","73565.0","[Q] Spondylolisthesis grade 3","Diagnosis of Spondylolisthesis"
-"Spondylolisthesis","Zw04900","104348.0","[Q] Spondylolisthesis grade 4","Diagnosis of Spondylolisthesis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Spondylolisthesis,7J34112,43211.0,Buck fusion of lumbar spine for spondylolisthesis,Procedure for Spondylolisthesis
+Spondylolisthesis,7J48500,11250.0,Spondylolisthesis operation,Procedure for Spondylolisthesis
+Spondylolisthesis,7J48511,63967.0,Gill excision of spondylolisthesis,Procedure for Spondylolisthesis
+Spondylolisthesis,7J48K00,20734.0,Reduction of spondylolisthesis and fusion,Procedure for Spondylolisthesis
+Spondylolisthesis,7J48L00,16743.0,Fusion spondylolisthesis in situ,Procedure for Spondylolisthesis
+Spondylolisthesis,N384000,65017.0,Dysplastic spondylolisthesis,Diagnosis of Spondylolisthesis
+Spondylolisthesis,N384100,61817.0,Isthmic spondylolisthesis,Diagnosis of Spondylolisthesis
+Spondylolisthesis,N384200,12371.0,Degenerative spondylolisthesis,Diagnosis of Spondylolisthesis
+Spondylolisthesis,N384300,66732.0,Pedicular spondylolisthesis,Diagnosis of Spondylolisthesis
+Spondylolisthesis,N384.00,2895.0,Acquired spondylolisthesis,Diagnosis of Spondylolisthesis
+Spondylolisthesis,Zw04600,52889.0,[Q] Spondylolisthesis grade 1,Diagnosis of Spondylolisthesis
+Spondylolisthesis,Zw04700,53931.0,[Q] Spondylolisthesis grade 2,Diagnosis of Spondylolisthesis
+Spondylolisthesis,Zw04800,73565.0,[Q] Spondylolisthesis grade 3,Diagnosis of Spondylolisthesis
+Spondylolisthesis,Zw04900,104348.0,[Q] Spondylolisthesis grade 4,Diagnosis of Spondylolisthesis

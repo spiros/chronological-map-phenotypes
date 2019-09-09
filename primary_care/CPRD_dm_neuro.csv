@@ -1,57 +1,57 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Diabetic neurological complications","C106000","67853.0","Diabetes mellitus, juvenile, + neurological manifestation","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C106100","39317.0","Diabetes mellitus, adult onset, + neurological manifestation","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C106.00","16230.0","Diabetes mellitus with neurological manifestation","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C106.11","59903.0","Diabetic amyotrophy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C106.12","7795.0","Diabetes mellitus with neuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C106.13","16491.0","Diabetes mellitus with polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C106y00","61523.0","Other specified diabetes mellitus with neurological comps","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C106z00","22573.0","Diabetes mellitus NOS with neurological manifestation","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C108200","52283.0","Insulin-dependent diabetes mellitus with neurological comps","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C108211","49146.0","Type I diabetes mellitus with neurological complications","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C108212","61829.0","Type 1 diabetes mellitus with neurological complications","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C108B00","24694.0","Insulin dependent diabetes mellitus with mononeuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C108B11","99231.0","Type I diabetes mellitus with mononeuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C108C00","41716.0","Insulin dependent diabetes mellitus with polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C108J00","39809.0","Insulin dependent diab mell with neuropathic arthropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C108J11","60208.0","Type I diabetes mellitus with neuropathic arthropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C108J12","18230.0","Type 1 diabetes mellitus with neuropathic arthropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109200","55842.0","Non-insulin-dependent diabetes mellitus with neuro comps","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109211","67905.0","Type II diabetes mellitus with neurological complications","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109212","45919.0","Type 2 diabetes mellitus with neurological complications","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109A00","72320.0","Non-insulin dependent diabetes mellitus with mononeuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109A11","50813.0","Type II diabetes mellitus with mononeuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109B00","45467.0","Non-insulin dependent diabetes mellitus with polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109B11","47409.0","Type II diabetes mellitus with polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109B12","109865.0","Type 2 diabetes mellitus with polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109H00","40962.0","Non-insulin dependent d m with neuropathic arthropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109H11","47816.0","Type II diabetes mellitus with neuropathic arthropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C109H12","66965.0","Type 2 diabetes mellitus with neuropathic arthropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10E200","42831.0","Type 1 diabetes mellitus with neurological complications","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10E212","101735.0","Insulin-dependent diabetes mellitus with neurological comps","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10EB00","68105.0","Type 1 diabetes mellitus with mononeuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10EC00","46301.0","Type 1 diabetes mellitus with polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10EC11","91943.0","Type I diabetes mellitus with polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10EC12","101311.0","Insulin dependent diabetes mellitus with polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10EJ00","54008.0","Type 1 diabetes mellitus with neuropathic arthropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10F200","34268.0","Type 2 diabetes mellitus with neurological complications","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10F211","98616.0","Type II diabetes mellitus with neurological complications","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10FA00","62674.0","Type 2 diabetes mellitus with mononeuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10FA11","95351.0","Type II diabetes mellitus with mononeuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10FB00","18425.0","Type 2 diabetes mellitus with polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10FB11","50527.0","Type II diabetes mellitus with polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10FH00","35385.0","Type 2 diabetes mellitus with neuropathic arthropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","C10FH11","109197.0","Type II diabetes mellitus with neuropathic arthropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F171100","17067.0","Autonomic neuropathy due to diabetes","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F345000","44033.0","Diabetic mononeuritis multiplex","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F35z000","17247.0","Diabetic mononeuritis NOS","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F372000","48078.0","Acute painful diabetic neuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F372100","35785.0","Chronic painful diabetic neuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F372200","24571.0","Asymptomatic diabetic neuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F372.00","31790.0","Polyneuropathy in diabetes","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F372.11","5002.0","Diabetic polyneuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F372.12","2342.0","Diabetic neuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F381300","39420.0","Myasthenic syndrome due to diabetic amyotrophy","History of diabetic neurological complications"
-"Diabetic neurological complications","F381311","2340.0","Diabetic amyotrophy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","F3y0.00","37315.0","Diabetic mononeuropathy","Diagnosis of diabetic neurological complications"
-"Diabetic neurological complications","M271100","11663.0","Neuropathic diabetic ulcer - foot","History of diabetic neurological complications"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Diabetic neurological complications,C106000,67853.0,"Diabetes mellitus, juvenile, + neurological manifestation",Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C106100,39317.0,"Diabetes mellitus, adult onset, + neurological manifestation",Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C106.00,16230.0,Diabetes mellitus with neurological manifestation,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C106.11,59903.0,Diabetic amyotrophy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C106.12,7795.0,Diabetes mellitus with neuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C106.13,16491.0,Diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C106y00,61523.0,Other specified diabetes mellitus with neurological comps,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C106z00,22573.0,Diabetes mellitus NOS with neurological manifestation,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C108200,52283.0,Insulin-dependent diabetes mellitus with neurological comps,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C108211,49146.0,Type I diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C108212,61829.0,Type 1 diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C108B00,24694.0,Insulin dependent diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C108B11,99231.0,Type I diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C108C00,41716.0,Insulin dependent diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C108J00,39809.0,Insulin dependent diab mell with neuropathic arthropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C108J11,60208.0,Type I diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C108J12,18230.0,Type 1 diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109200,55842.0,Non-insulin-dependent diabetes mellitus with neuro comps,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109211,67905.0,Type II diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109212,45919.0,Type 2 diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109A00,72320.0,Non-insulin dependent diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109A11,50813.0,Type II diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109B00,45467.0,Non-insulin dependent diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109B11,47409.0,Type II diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109B12,109865.0,Type 2 diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109H00,40962.0,Non-insulin dependent d m with neuropathic arthropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109H11,47816.0,Type II diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C109H12,66965.0,Type 2 diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10E200,42831.0,Type 1 diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10E212,101735.0,Insulin-dependent diabetes mellitus with neurological comps,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10EB00,68105.0,Type 1 diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10EC00,46301.0,Type 1 diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10EC11,91943.0,Type I diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10EC12,101311.0,Insulin dependent diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10EJ00,54008.0,Type 1 diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10F200,34268.0,Type 2 diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10F211,98616.0,Type II diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10FA00,62674.0,Type 2 diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10FA11,95351.0,Type II diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10FB00,18425.0,Type 2 diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10FB11,50527.0,Type II diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10FH00,35385.0,Type 2 diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,C10FH11,109197.0,Type II diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F171100,17067.0,Autonomic neuropathy due to diabetes,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F345000,44033.0,Diabetic mononeuritis multiplex,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F35z000,17247.0,Diabetic mononeuritis NOS,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F372000,48078.0,Acute painful diabetic neuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F372100,35785.0,Chronic painful diabetic neuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F372200,24571.0,Asymptomatic diabetic neuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F372.00,31790.0,Polyneuropathy in diabetes,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F372.11,5002.0,Diabetic polyneuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F372.12,2342.0,Diabetic neuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F381300,39420.0,Myasthenic syndrome due to diabetic amyotrophy,History of diabetic neurological complications
+Diabetic neurological complications,F381311,2340.0,Diabetic amyotrophy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,F3y0.00,37315.0,Diabetic mononeuropathy,Diagnosis of diabetic neurological complications
+Diabetic neurological complications,M271100,11663.0,Neuropathic diabetic ulcer - foot,History of diabetic neurological complications

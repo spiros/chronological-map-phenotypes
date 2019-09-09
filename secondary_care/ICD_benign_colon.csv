@@ -1,5 +1,5 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Benign neoplasm of colon, rectum, anus and anal canal","D12","Benign neoplasm of colon, rectum, anus and anal canal","Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal"
-"Benign neoplasm of colon, rectum, anus and anal canal","K62.0","Anal polyp","Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal"
-"Benign neoplasm of colon, rectum, anus and anal canal","K62.1","Rectal polyp","Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal"
-"Benign neoplasm of colon, rectum, anus and anal canal","K63.5","Polyp of colon","Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal"
+Disease,ICD10code,ICD10codeDescr,Category
+"Benign neoplasm of colon, rectum, anus and anal canal",D12,"Benign neoplasm of colon, rectum, anus and anal canal","Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal"
+"Benign neoplasm of colon, rectum, anus and anal canal",K62.0,Anal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal"
+"Benign neoplasm of colon, rectum, anus and anal canal",K62.1,Rectal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal"
+"Benign neoplasm of colon, rectum, anus and anal canal",K63.5,Polyp of colon,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal"

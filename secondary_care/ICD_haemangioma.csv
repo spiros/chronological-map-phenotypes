@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Haemangioma, any site","D18.0","Haemangioma, any site","Diagnosis of Haemangioma, any site"
+Disease,ICD10code,ICD10codeDescr,Category
+"Haemangioma, any site",D18.0,"Haemangioma, any site","Diagnosis of Haemangioma, any site"

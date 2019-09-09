@@ -1,24 +1,24 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Urinary Incontinence","1593.00","15918.0","H/O: stress incontinence","History of Urinary Incontinence"
-"Urinary Incontinence","16F..00","5196.0","Double incontinence","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","1A23.00","6161.0","Incontinence of urine","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","1A24.00","1929.0","Stress incontinence","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","1A24.11","5844.0","Stress incontinence - symptom","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","1A26.00","3887.0","Urge incontinence of urine","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","3940.00","13421.0","Bladder: incontinent","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","7B33800","98767.0","Insertion retropubic device stress urinary incontinence NEC","Procedure for Urinary Incontinence"
-"Urinary Incontinence","7B33C00","94021.0","Insertion retropubic dev fem stress urinary incontinence NEC","Procedure for Urinary Incontinence"
-"Urinary Incontinence","7B42111","58675.0","Insertion of Kaufman prosthesis for male incontinence","Procedure for Urinary Incontinence"
-"Urinary Incontinence","7B42113","106791.0","Insertion of Rosen prosthesis for male incontinence","Procedure for Urinary Incontinence"
-"Urinary Incontinence","8C14.00","2739.0","Incontinence care","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","8D71.00","48601.0","Incontinence control","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","8D7..12","17637.0","Incontinence control","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","8HTX.00","25899.0","Referral to incontinence clinic","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","K198.00","3182.0","Stress incontinence","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","K586.00","17620.0","Stress incontinence - female","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","Kyu5A00","52763.0","[X]Other specified urinary incontinence","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","R083100","31220.0","[D]Urethral sphincter incontinence","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","R083200","17320.0","[D] Urge incontinence","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","R083.00","3283.0","[D]Incontinence of urine","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","R083z00","15400.0","[D]Incontinence of urine NOS","Diagnosis of Urinary Incontinence"
-"Urinary Incontinence","Z9EA.00","45495.0","Provision of incontinence appliance","Diagnosis of Urinary Incontinence"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Urinary Incontinence,1593.00,15918.0,H/O: stress incontinence,History of Urinary Incontinence
+Urinary Incontinence,16F..00,5196.0,Double incontinence,Diagnosis of Urinary Incontinence
+Urinary Incontinence,1A23.00,6161.0,Incontinence of urine,Diagnosis of Urinary Incontinence
+Urinary Incontinence,1A24.00,1929.0,Stress incontinence,Diagnosis of Urinary Incontinence
+Urinary Incontinence,1A24.11,5844.0,Stress incontinence - symptom,Diagnosis of Urinary Incontinence
+Urinary Incontinence,1A26.00,3887.0,Urge incontinence of urine,Diagnosis of Urinary Incontinence
+Urinary Incontinence,3940.00,13421.0,Bladder: incontinent,Diagnosis of Urinary Incontinence
+Urinary Incontinence,7B33800,98767.0,Insertion retropubic device stress urinary incontinence NEC,Procedure for Urinary Incontinence
+Urinary Incontinence,7B33C00,94021.0,Insertion retropubic dev fem stress urinary incontinence NEC,Procedure for Urinary Incontinence
+Urinary Incontinence,7B42111,58675.0,Insertion of Kaufman prosthesis for male incontinence,Procedure for Urinary Incontinence
+Urinary Incontinence,7B42113,106791.0,Insertion of Rosen prosthesis for male incontinence,Procedure for Urinary Incontinence
+Urinary Incontinence,8C14.00,2739.0,Incontinence care,Diagnosis of Urinary Incontinence
+Urinary Incontinence,8D71.00,48601.0,Incontinence control,Diagnosis of Urinary Incontinence
+Urinary Incontinence,8D7..12,17637.0,Incontinence control,Diagnosis of Urinary Incontinence
+Urinary Incontinence,8HTX.00,25899.0,Referral to incontinence clinic,Diagnosis of Urinary Incontinence
+Urinary Incontinence,K198.00,3182.0,Stress incontinence,Diagnosis of Urinary Incontinence
+Urinary Incontinence,K586.00,17620.0,Stress incontinence - female,Diagnosis of Urinary Incontinence
+Urinary Incontinence,Kyu5A00,52763.0,[X]Other specified urinary incontinence,Diagnosis of Urinary Incontinence
+Urinary Incontinence,R083100,31220.0,[D]Urethral sphincter incontinence,Diagnosis of Urinary Incontinence
+Urinary Incontinence,R083200,17320.0,[D] Urge incontinence,Diagnosis of Urinary Incontinence
+Urinary Incontinence,R083.00,3283.0,[D]Incontinence of urine,Diagnosis of Urinary Incontinence
+Urinary Incontinence,R083z00,15400.0,[D]Incontinence of urine NOS,Diagnosis of Urinary Incontinence
+Urinary Incontinence,Z9EA.00,45495.0,Provision of incontinence appliance,Diagnosis of Urinary Incontinence

@@ -1,4 +1,4 @@
-Disease,Read code,Medcode,Descr,Category
+Disease,Readcode,Medcode,ReadcodeDescr,Category
 Vitamin B12 deficiency anaemia,1452,54738,H/O: Anaemia vit.B12 deficient,History of Vitamin B12 deficiency anaemia
 Vitamin B12 deficiency anaemia,66E1.00,11126,B12 defic. initial assessment,Vitamin B12 deficiency
 Vitamin B12 deficiency anaemia,66E2.00,8013,B12 defic.follow-up assessment,Vitamin B12 deficiency

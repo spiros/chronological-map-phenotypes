@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Trigeminal neuralgia","G50.0","Trigeminal neuralgia","Diagnosis of trigeminal neuralgia"
+Disease,ICD10code,ICD10codeDescr,Category
+Trigeminal neuralgia,G50.0,Trigeminal neuralgia,Diagnosis of trigeminal neuralgia

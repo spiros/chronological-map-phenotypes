@@ -1,21 +1,21 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Benign neoplasm of stomach and duodenum","7612000.0","31943.0","Open excision of polyp of stomach","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B711000","70651.0","Benign neoplasm of stomach cardia","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B711100","62625.0","Benign neoplasm of pylorus of stomach","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B711200","52425.0","Benign neoplasm of fundus of stomach","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B711300","62798.0","Benign neoplasm of body of stomach","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B711400","57870.0","Benign neoplasm of pyloric antrum","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B711.00","2151.0","Benign neoplasm of stomach","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B711.11","9930.0","Gastric polyp","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B711z00","54667.0","Benign neoplasm of stomach NOS","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B712000","48001.0","Benign neoplasm of duodenum","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B712011","14949.0","Duodenal polyp","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B712100","70965.0","Benign neoplasm of jejunum","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B712111","43341.0","Jejunal polyp","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B712200","70275.0","Benign neoplasm of ileum","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B712.00","15203.0","Benign neoplasm of small intestine and duodenum","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","B712z00","95911.0","Benign neoplasm of small intestine or duodenum NOS","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","J177.00","25671.0","Gastric polyp","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","J177.11","19143.0","Polyp of stomach","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","J178.00","51733.0","Duodenal polyp","Diagnosis of Benign neoplasm of stomach and duodenum"
-"Benign neoplasm of stomach and duodenum","J178.11","41334.0","Polyp of duodenum","Diagnosis of Benign neoplasm of stomach and duodenum"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Benign neoplasm of stomach and duodenum,7612000.0,31943.0,Open excision of polyp of stomach,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B711000,70651.0,Benign neoplasm of stomach cardia,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B711100,62625.0,Benign neoplasm of pylorus of stomach,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B711200,52425.0,Benign neoplasm of fundus of stomach,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B711300,62798.0,Benign neoplasm of body of stomach,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B711400,57870.0,Benign neoplasm of pyloric antrum,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B711.00,2151.0,Benign neoplasm of stomach,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B711.11,9930.0,Gastric polyp,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B711z00,54667.0,Benign neoplasm of stomach NOS,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B712000,48001.0,Benign neoplasm of duodenum,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B712011,14949.0,Duodenal polyp,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B712100,70965.0,Benign neoplasm of jejunum,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B712111,43341.0,Jejunal polyp,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B712200,70275.0,Benign neoplasm of ileum,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B712.00,15203.0,Benign neoplasm of small intestine and duodenum,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,B712z00,95911.0,Benign neoplasm of small intestine or duodenum NOS,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,J177.00,25671.0,Gastric polyp,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,J177.11,19143.0,Polyp of stomach,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,J178.00,51733.0,Duodenal polyp,Diagnosis of Benign neoplasm of stomach and duodenum
+Benign neoplasm of stomach and duodenum,J178.11,41334.0,Polyp of duodenum,Diagnosis of Benign neoplasm of stomach and duodenum

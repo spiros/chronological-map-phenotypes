@@ -1,11 +1,11 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Down's syndrome","PJ00.00","42701.0","Trisomy 21, meiotic nondisjunction","Diagnosis of Down's syndrome"
-"Down's syndrome","PJ01.00","32010.0","Trisomy 21, mosaicism","Diagnosis of Down's syndrome"
-"Down's syndrome","PJ01.11","107919.0","Trisomy 21, mitotic nondisjunction","Diagnosis of Down's syndrome"
-"Down's syndrome","PJ02.00","61499.0","Trisomy 21, translocation","Diagnosis of Down's syndrome"
-"Down's syndrome","PJ02.11","101309.0","Partial trisomy 21 in Down's syndrome","Diagnosis of Down's syndrome"
-"Down's syndrome","PJ0..00","1543.0","Down's syndrome - trisomy 21","Diagnosis of Down's syndrome"
-"Down's syndrome","PJ0..11","23489.0","Mongolism","Diagnosis of Down's syndrome"
-"Down's syndrome","PJ0..12","18415.0","Trisomy 21","Diagnosis of Down's syndrome"
-"Down's syndrome","PJ0z.00","10759.0","Down's syndrome NOS","Diagnosis of Down's syndrome"
-"Down's syndrome","PJ0z.11","61627.0","Trisomy 21 NOS","Diagnosis of Down's syndrome"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Down's syndrome,PJ00.00,42701.0,"Trisomy 21, meiotic nondisjunction",Diagnosis of Down's syndrome
+Down's syndrome,PJ01.00,32010.0,"Trisomy 21, mosaicism",Diagnosis of Down's syndrome
+Down's syndrome,PJ01.11,107919.0,"Trisomy 21, mitotic nondisjunction",Diagnosis of Down's syndrome
+Down's syndrome,PJ02.00,61499.0,"Trisomy 21, translocation",Diagnosis of Down's syndrome
+Down's syndrome,PJ02.11,101309.0,Partial trisomy 21 in Down's syndrome,Diagnosis of Down's syndrome
+Down's syndrome,PJ0..00,1543.0,Down's syndrome - trisomy 21,Diagnosis of Down's syndrome
+Down's syndrome,PJ0..11,23489.0,Mongolism,Diagnosis of Down's syndrome
+Down's syndrome,PJ0..12,18415.0,Trisomy 21,Diagnosis of Down's syndrome
+Down's syndrome,PJ0z.00,10759.0,Down's syndrome NOS,Diagnosis of Down's syndrome
+Down's syndrome,PJ0z.11,61627.0,Trisomy 21 NOS,Diagnosis of Down's syndrome

@@ -1,35 +1,35 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Other Cardiomyopathy","C373300","56635.0","Familial cardiac amyloid","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","C373G00","105398.0","Senile cardiac amyloidosis","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","F391B00","44272.0","Cardiomyopathy in Duchenne muscular dystrophy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G343.00","7320.0","Ischaemic cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G550.00","15990.0","Endomyocardial fibrosis","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G552.00","68685.0","Obscure African cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G554100","41488.0","Constrictive cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G554200","21852.0","Familial cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G554500","101015.0","Takotsubo cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G554511","104658.0","Stress cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G554.00","57306.0","Other primary cardiomyopathies","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G554z00","40834.0","Other primary cardiomyopathy NOS","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G557000","30667.0","Amyloid heart disease","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G557011","105798.0","Cardiac amyloidosis","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G557100","49844.0","Beriberi heart disease","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G557500","20035.0","Thyrotoxic heart disease","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G557.00","100966.0","Nutritional and metabolic cardiomyopathies","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G557z00","64673.0","Nutritional and metabolic cardiomyopathy NOS","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G558000","70855.0","Cardiomyopathy in Friedreich's ataxia","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G558100","27683.0","Cardiomyopathy in myotonic dystrophy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G558200","64837.0","Dystrophic cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G558400","105651.0","Amyloid cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G558.00","55850.0","Cardiomyopathy in disease EC","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G558z00","98020.0","Cardiomyopathy in diseases EC, NOS","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G559.00","97780.0","Arrhythmogenic right ventricular cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G55A.00","102955.0","Tachycardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G55A.11","104529.0","Tachycardia-induced cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G55..00","3204.0","Cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G55y000","58938.0","Cardiomyopathy due to drugs and other external agents","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G55y.00","42043.0","Secondary cardiomyopathy NOS","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","G55z.00","22993.0","Cardiomyopathy NOS","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","Gyu5N00","92266.0","[X]Other restrictive cardiomyopathy","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","Gyu5P00","97617.0","[X]Other cardiomyopathies","Diagnosis of Other Cardiomyopathy"
-"Other Cardiomyopathy","Gyu5R00","98634.0","[X]Cardiomyopathy in metabolic diseases CE","Diagnosis of Other Cardiomyopathy"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Other Cardiomyopathy,C373300,56635.0,Familial cardiac amyloid,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,C373G00,105398.0,Senile cardiac amyloidosis,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,F391B00,44272.0,Cardiomyopathy in Duchenne muscular dystrophy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G343.00,7320.0,Ischaemic cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G550.00,15990.0,Endomyocardial fibrosis,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G552.00,68685.0,Obscure African cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G554100,41488.0,Constrictive cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G554200,21852.0,Familial cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G554500,101015.0,Takotsubo cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G554511,104658.0,Stress cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G554.00,57306.0,Other primary cardiomyopathies,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G554z00,40834.0,Other primary cardiomyopathy NOS,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G557000,30667.0,Amyloid heart disease,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G557011,105798.0,Cardiac amyloidosis,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G557100,49844.0,Beriberi heart disease,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G557500,20035.0,Thyrotoxic heart disease,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G557.00,100966.0,Nutritional and metabolic cardiomyopathies,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G557z00,64673.0,Nutritional and metabolic cardiomyopathy NOS,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G558000,70855.0,Cardiomyopathy in Friedreich's ataxia,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G558100,27683.0,Cardiomyopathy in myotonic dystrophy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G558200,64837.0,Dystrophic cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G558400,105651.0,Amyloid cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G558.00,55850.0,Cardiomyopathy in disease EC,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G558z00,98020.0,"Cardiomyopathy in diseases EC, NOS",Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G559.00,97780.0,Arrhythmogenic right ventricular cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G55A.00,102955.0,Tachycardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G55A.11,104529.0,Tachycardia-induced cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G55..00,3204.0,Cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G55y000,58938.0,Cardiomyopathy due to drugs and other external agents,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G55y.00,42043.0,Secondary cardiomyopathy NOS,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,G55z.00,22993.0,Cardiomyopathy NOS,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,Gyu5N00,92266.0,[X]Other restrictive cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,Gyu5P00,97617.0,[X]Other cardiomyopathies,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,Gyu5R00,98634.0,[X]Cardiomyopathy in metabolic diseases CE,Diagnosis of Other Cardiomyopathy

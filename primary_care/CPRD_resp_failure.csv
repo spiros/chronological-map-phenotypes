@@ -1,9 +1,9 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Respiratory failure","Fy04.00","38686.0","Sleep-related respiratory failure","Diagnosis of Respiratory failure"
-"Respiratory failure","H590.00","37961.0","Acute respiratory failure","Diagnosis of Respiratory failure"
-"Respiratory failure","H591.00","24814.0","Chronic respiratory failure","Diagnosis of Respiratory failure"
-"Respiratory failure","H592.00","94946.0","Chronic type 1 respiratory failure","Diagnosis of Respiratory failure"
-"Respiratory failure","H593.00","94486.0","Chronic type 2 respiratory failure","Diagnosis of Respiratory failure"
-"Respiratory failure","H59..00","25249.0","Respiratory failure","Diagnosis of Respiratory failure"
-"Respiratory failure","R2y1.00","3959.0","[D]Respiratory failure","Diagnosis of Respiratory failure"
-"Respiratory failure","R2y1z00","15779.0","[D]Respiratory failure NOS","Diagnosis of Respiratory failure"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Respiratory failure,Fy04.00,38686.0,Sleep-related respiratory failure,Diagnosis of Respiratory failure
+Respiratory failure,H590.00,37961.0,Acute respiratory failure,Diagnosis of Respiratory failure
+Respiratory failure,H591.00,24814.0,Chronic respiratory failure,Diagnosis of Respiratory failure
+Respiratory failure,H592.00,94946.0,Chronic type 1 respiratory failure,Diagnosis of Respiratory failure
+Respiratory failure,H593.00,94486.0,Chronic type 2 respiratory failure,Diagnosis of Respiratory failure
+Respiratory failure,H59..00,25249.0,Respiratory failure,Diagnosis of Respiratory failure
+Respiratory failure,R2y1.00,3959.0,[D]Respiratory failure,Diagnosis of Respiratory failure
+Respiratory failure,R2y1z00,15779.0,[D]Respiratory failure NOS,Diagnosis of Respiratory failure

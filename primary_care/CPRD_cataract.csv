@@ -1,4 +1,4 @@
-Disease,Read code,Medcode,Descr,Category
+Disease,Readcode,Medcode,ReadcodeDescr,Category
 Cataract,1483,5518,H/O: cataract,History of cataract
 Cataract,14N9.00,28513,H/O: R cataract extraction,History of cataract
 Cataract,14NA.00,28515,H/O: L cataract extraction,History of cataract

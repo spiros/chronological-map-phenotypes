@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Sjogren's disease","F396700","21022.0","Myopathy due to Sjogren's disease","Diagnosis of Sjogren's disease"
-"Sjogren's disease","H57y300","47364.0","Lung disease with Sjogren's disease","Diagnosis of Sjogren's disease"
-"Sjogren's disease","N002.00","2360.0","Sicca (Sjogren's) syndrome","Diagnosis of Sjogren's disease"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Sjogren's disease,F396700,21022.0,Myopathy due to Sjogren's disease,Diagnosis of Sjogren's disease
+Sjogren's disease,H57y300,47364.0,Lung disease with Sjogren's disease,Diagnosis of Sjogren's disease
+Sjogren's disease,N002.00,2360.0,Sicca (Sjogren's) syndrome,Diagnosis of Sjogren's disease

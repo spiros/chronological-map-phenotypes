@@ -1,125 +1,125 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Osteoarthritis (excl spine)","14G2.00","9760.0","H/O: osteoarthritis","History of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","2G26.00","17282.0","O/E - hands - Heberden's nodes","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","7P20400","100072.0","Delivery of rehabilitation for osteoarthritis","History of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050000","38631.0","Generalised osteoarthritis of unspecified site","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050100","36327.0","Generalised osteoarthritis of the hand","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050111","4015.0","Heberdens' nodes","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050112","35919.0","Bouchards' nodes","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050200","23676.0","Generalised osteoarthritis of multiple sites","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050300","38018.0","Bouchard's nodes with arthropathy","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050400","23646.0","Primary generalized osteoarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050500","11256.0","Secondary multiple arthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050600","38019.0","Erosive osteoarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050700","24432.0","Heberden's nodes with arthropathy","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050.00","4353.0","Generalised osteoarthritis - OA","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N050z00","34867.0","Generalised osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051000","54224.0","Localised, primary osteoarthritis of unspecified site","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051100","24022.0","Localised, primary osteoarthritis of the shoulder region","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051200","24217.0","Localised, primary osteoarthritis of the upper arm","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051300","34806.0","Localised, primary osteoarthritis of the forearm","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051400","21350.0","Localised, primary osteoarthritis of the hand","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051500","15839.0","Localised, primary osteoarthritis of the pelvic region/thigh","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051600","21159.0","Localised, primary osteoarthritis of the lower leg","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051700","25793.0","Localised, primary osteoarthritis of the ankle and foot","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051800","20472.0","Localised, primary osteoarthritis of other specified site","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051900","24287.0","Primary coxarthrosis, bilateral","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051A00","25812.0","Coxarthrosis resulting from dysplasia, bilateral","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051B00","24146.0","Primary gonarthrosis, bilateral","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051C00","36182.0","Primary arthrosis of first carpometacarpal joints, bilateral","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051D00","24958.0","Localised, primary osteoarthritis of the wrist","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051E00","28908.0","Localised, primary osteoarthritis of toe","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051F00","18602.0","Localised, primary osteoarthritis of elbow","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051G00","106678.0","Osteoarthritis of spinal facet joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051.00","32839.0","Localised, primary osteoarthritis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N051z00","20660.0","Localised, primary osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052000","68712.0","Localised, secondary osteoarthritis of unspecified site","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052100","33574.0","Localised, secondary osteoarthritis of the shoulder region","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052200","41088.0","Localised, secondary osteoarthritis of the upper arm","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052300","45815.0","Localised, secondary osteoarthritis of the forearm","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052400","23638.0","Localised, secondary osteoarthritis of the hand","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052500","44041.0","Localised, secondary osteoarthritis of pelvic region/thigh","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052511","101479.0","Coxae malum senilis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052600","33479.0","Localised, secondary osteoarthritis of the lower leg","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052700","34035.0","Localised, secondary osteoarthritis of the ankle and foot","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052800","32891.0","Localised, secondary osteoarthritis of other specified site","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052.00","42045.0","Localised, secondary osteoarthritis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N052z00","57912.0","Localised, secondary osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053000","49545.0","Localised osteoarthritis, unspecified, of unspecified site","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053100","15441.0","Localised osteoarthritis, unspecified, of shoulder region","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053200","59637.0","Localised osteoarthritis, unspecified, of the upper arm","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053300","60537.0","Localised osteoarthritis, unspecified, of the forearm","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053400","16242.0","Localised osteoarthritis, unspecified, of the hand","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053500","20626.0","Localised osteoarthritis, unspecified, pelvic region/thigh","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053512","1104.0","Hip osteoarthitis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053600","34804.0","Localised osteoarthritis, unspecified, of the lower leg","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053611","1296.0","Patellofemoral osteoarthritis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053700","4461.0","Localised osteoarthritis, unspecified, of the ankle and foot","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053800","18112.0","Localised osteoarthritis, unspecified, of other spec site","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053900","21177.0","Arthrosis of first carpometacarpal joint, unspecified","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053.00","34122.0","Localised osteoarthritis, unspecified","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N053z00","31200.0","Localised osteoarthritis, unspecified, NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054000","48214.0","Oligoarticular osteoarthritis, unspec, of unspecified sites","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054100","52095.0","Oligoarticular osteoarthritis, unspecified, of shoulder","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054200","97073.0","Oligoarticular osteoarthritis, unspecified, of upper arm","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054400","59616.0","Oligoarticular osteoarthritis, unspecified, of hand","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054500","68648.0","Oligoarticular osteoarthritis, unspecified, of pelvis/thigh","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054600","41090.0","Oligoarticular osteoarthritis, unspecified, of lower leg","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054700","72109.0","Oligoarticular osteoarthritis, unspecified, of ankle/foot","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054800","41985.0","Oligoarticular osteoarthritis, unspecified, other spec sites","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054900","57267.0","Oligoarticular osteoarthritis, unspecified, multiple sites","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054.00","21528.0","Oligoarticular osteoarthritis, unspecified","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N054z00","53858.0","Osteoarthritis of more than one site, unspecified, NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05..00","3057.0","Osteoarthritis and allied disorders","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05..11","396.0","Osteoarthritis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z000","35527.0","Osteoarthritis NOS, of unspecified site","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z100","3147.0","Osteoarthritis NOS, of shoulder region","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z400","658.0","Osteoarthritis NOS, of the hand","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z411","4490.0","Finger osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z412","1959.0","Thumb osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z500","4967.0","Osteoarthritis NOS, pelvic region/thigh","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z511","2209.0","Hip osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z600","15144.0","Osteoarthritis NOS, of the lower leg","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z611","665.0","Knee osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z700","15447.0","Osteoarthritis NOS, of ankle and foot","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z711","52897.0","Ankle osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z712","1312.0","Foot osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z713","4878.0","Toe osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z800","15052.0","Osteoarthritis NOS, other specified site","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z900","5802.0","Osteoarthritis NOS, of shoulder","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zA00","3814.0","Osteoarthritis NOS, of sternoclavicular joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zB00","2229.0","Osteoarthritis NOS, of acromioclavicular joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zC00","19713.0","Osteoarthritis NOS, of elbow","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zD00","65748.0","Osteoarthritis NOS, of distal radio-ulnar joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zE00","9649.0","Osteoarthritis NOS, of wrist","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zF00","7866.0","Osteoarthritis NOS, of MCP joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zG00","11032.0","Osteoarthritis NOS, of PIP joint of finger","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zH00","9681.0","Osteoarthritis NOS, of DIP joint of finger","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zJ00","6812.0","Osteoarthritis NOS, of hip","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zK00","34023.0","Osteoarthritis NOS, of sacro-iliac joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zL00","2487.0","Osteoarthritis NOS, of knee","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zM00","70425.0","Osteoarthritis NOS, of tibio-fibular joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z.00","5776.0","Osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05z.11","1509.0","Joint degeneration","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zN00","8202.0","Osteoarthritis NOS, of ankle","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zP00","40972.0","Osteoarthritis NOS, of subtalar joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zQ00","55388.0","Osteoarthritis NOS, of talonavicular joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zR00","54350.0","Osteoarthritis NOS, of other tarsal joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zS00","6887.0","Osteoarthritis NOS, of 1st MTP joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zT00","9010.0","Osteoarthritis NOS, of lesser MTP joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zU00","27834.0","Osteoarthritis NOS, of IP joint of toe","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","N05zz00","27972.0","Osteoarthritis NOS","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2000","53741.0","[X]Other polyarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2100","10854.0","[X]Other primary coxarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2200","102990.0","[X]Other dysplastic coxarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2400","73948.0","[X]Other secondary coxarthrosis, bilateral","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2500","43474.0","[X]Other primary gonarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2511","24079.0","[X] Unilateral primary gonarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2700","73952.0","[X]Other secondary gonarthrosis, bilateral","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2800","73930.0","[X]Other secondary gonarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2811","24145.0","[X] Unilateral secondary gonarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2900","106205.0","[X]Other primary arthrosis of first carpometacarpal joint","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2D00","51360.0","[X]Other specified arthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2E00","99918.0","[X]Other secondary coxarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2E11","24326.0","[X] Unilateral secondary coxarthrosis","Diagnosis of Osteoarthritis (excl spine)"
-"Osteoarthritis (excl spine)","Nyu2.00","18795.0","[X]Arthrosis","Diagnosis of Osteoarthritis (excl spine)"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Osteoarthritis (excl spine),14G2.00,9760.0,H/O: osteoarthritis,History of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),2G26.00,17282.0,O/E - hands - Heberden's nodes,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),7P20400,100072.0,Delivery of rehabilitation for osteoarthritis,History of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050000,38631.0,Generalised osteoarthritis of unspecified site,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050100,36327.0,Generalised osteoarthritis of the hand,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050111,4015.0,Heberdens' nodes,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050112,35919.0,Bouchards' nodes,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050200,23676.0,Generalised osteoarthritis of multiple sites,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050300,38018.0,Bouchard's nodes with arthropathy,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050400,23646.0,Primary generalized osteoarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050500,11256.0,Secondary multiple arthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050600,38019.0,Erosive osteoarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050700,24432.0,Heberden's nodes with arthropathy,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050.00,4353.0,Generalised osteoarthritis - OA,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N050z00,34867.0,Generalised osteoarthritis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051000,54224.0,"Localised, primary osteoarthritis of unspecified site",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051100,24022.0,"Localised, primary osteoarthritis of the shoulder region",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051200,24217.0,"Localised, primary osteoarthritis of the upper arm",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051300,34806.0,"Localised, primary osteoarthritis of the forearm",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051400,21350.0,"Localised, primary osteoarthritis of the hand",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051500,15839.0,"Localised, primary osteoarthritis of the pelvic region/thigh",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051600,21159.0,"Localised, primary osteoarthritis of the lower leg",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051700,25793.0,"Localised, primary osteoarthritis of the ankle and foot",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051800,20472.0,"Localised, primary osteoarthritis of other specified site",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051900,24287.0,"Primary coxarthrosis, bilateral",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051A00,25812.0,"Coxarthrosis resulting from dysplasia, bilateral",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051B00,24146.0,"Primary gonarthrosis, bilateral",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051C00,36182.0,"Primary arthrosis of first carpometacarpal joints, bilateral",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051D00,24958.0,"Localised, primary osteoarthritis of the wrist",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051E00,28908.0,"Localised, primary osteoarthritis of toe",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051F00,18602.0,"Localised, primary osteoarthritis of elbow",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051G00,106678.0,Osteoarthritis of spinal facet joint,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051.00,32839.0,"Localised, primary osteoarthritis",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N051z00,20660.0,"Localised, primary osteoarthritis NOS",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052000,68712.0,"Localised, secondary osteoarthritis of unspecified site",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052100,33574.0,"Localised, secondary osteoarthritis of the shoulder region",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052200,41088.0,"Localised, secondary osteoarthritis of the upper arm",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052300,45815.0,"Localised, secondary osteoarthritis of the forearm",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052400,23638.0,"Localised, secondary osteoarthritis of the hand",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052500,44041.0,"Localised, secondary osteoarthritis of pelvic region/thigh",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052511,101479.0,Coxae malum senilis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052600,33479.0,"Localised, secondary osteoarthritis of the lower leg",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052700,34035.0,"Localised, secondary osteoarthritis of the ankle and foot",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052800,32891.0,"Localised, secondary osteoarthritis of other specified site",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052.00,42045.0,"Localised, secondary osteoarthritis",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N052z00,57912.0,"Localised, secondary osteoarthritis NOS",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053000,49545.0,"Localised osteoarthritis, unspecified, of unspecified site",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053100,15441.0,"Localised osteoarthritis, unspecified, of shoulder region",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053200,59637.0,"Localised osteoarthritis, unspecified, of the upper arm",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053300,60537.0,"Localised osteoarthritis, unspecified, of the forearm",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053400,16242.0,"Localised osteoarthritis, unspecified, of the hand",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053500,20626.0,"Localised osteoarthritis, unspecified, pelvic region/thigh",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053512,1104.0,Hip osteoarthitis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053600,34804.0,"Localised osteoarthritis, unspecified, of the lower leg",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053611,1296.0,Patellofemoral osteoarthritis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053700,4461.0,"Localised osteoarthritis, unspecified, of the ankle and foot",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053800,18112.0,"Localised osteoarthritis, unspecified, of other spec site",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053900,21177.0,"Arthrosis of first carpometacarpal joint, unspecified",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053.00,34122.0,"Localised osteoarthritis, unspecified",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N053z00,31200.0,"Localised osteoarthritis, unspecified, NOS",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054000,48214.0,"Oligoarticular osteoarthritis, unspec, of unspecified sites",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054100,52095.0,"Oligoarticular osteoarthritis, unspecified, of shoulder",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054200,97073.0,"Oligoarticular osteoarthritis, unspecified, of upper arm",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054400,59616.0,"Oligoarticular osteoarthritis, unspecified, of hand",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054500,68648.0,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054600,41090.0,"Oligoarticular osteoarthritis, unspecified, of lower leg",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054700,72109.0,"Oligoarticular osteoarthritis, unspecified, of ankle/foot",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054800,41985.0,"Oligoarticular osteoarthritis, unspecified, other spec sites",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054900,57267.0,"Oligoarticular osteoarthritis, unspecified, multiple sites",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054.00,21528.0,"Oligoarticular osteoarthritis, unspecified",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N054z00,53858.0,"Osteoarthritis of more than one site, unspecified, NOS",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05..00,3057.0,Osteoarthritis and allied disorders,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05..11,396.0,Osteoarthritis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z000,35527.0,"Osteoarthritis NOS, of unspecified site",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z100,3147.0,"Osteoarthritis NOS, of shoulder region",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z400,658.0,"Osteoarthritis NOS, of the hand",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z411,4490.0,Finger osteoarthritis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z412,1959.0,Thumb osteoarthritis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z500,4967.0,"Osteoarthritis NOS, pelvic region/thigh",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z511,2209.0,Hip osteoarthritis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z600,15144.0,"Osteoarthritis NOS, of the lower leg",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z611,665.0,Knee osteoarthritis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z700,15447.0,"Osteoarthritis NOS, of ankle and foot",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z711,52897.0,Ankle osteoarthritis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z712,1312.0,Foot osteoarthritis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z713,4878.0,Toe osteoarthritis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z800,15052.0,"Osteoarthritis NOS, other specified site",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z900,5802.0,"Osteoarthritis NOS, of shoulder",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zA00,3814.0,"Osteoarthritis NOS, of sternoclavicular joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zB00,2229.0,"Osteoarthritis NOS, of acromioclavicular joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zC00,19713.0,"Osteoarthritis NOS, of elbow",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zD00,65748.0,"Osteoarthritis NOS, of distal radio-ulnar joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zE00,9649.0,"Osteoarthritis NOS, of wrist",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zF00,7866.0,"Osteoarthritis NOS, of MCP joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zG00,11032.0,"Osteoarthritis NOS, of PIP joint of finger",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zH00,9681.0,"Osteoarthritis NOS, of DIP joint of finger",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zJ00,6812.0,"Osteoarthritis NOS, of hip",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zK00,34023.0,"Osteoarthritis NOS, of sacro-iliac joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zL00,2487.0,"Osteoarthritis NOS, of knee",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zM00,70425.0,"Osteoarthritis NOS, of tibio-fibular joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z.00,5776.0,Osteoarthritis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05z.11,1509.0,Joint degeneration,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zN00,8202.0,"Osteoarthritis NOS, of ankle",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zP00,40972.0,"Osteoarthritis NOS, of subtalar joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zQ00,55388.0,"Osteoarthritis NOS, of talonavicular joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zR00,54350.0,"Osteoarthritis NOS, of other tarsal joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zS00,6887.0,"Osteoarthritis NOS, of 1st MTP joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zT00,9010.0,"Osteoarthritis NOS, of lesser MTP joint",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zU00,27834.0,"Osteoarthritis NOS, of IP joint of toe",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),N05zz00,27972.0,Osteoarthritis NOS,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2000,53741.0,[X]Other polyarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2100,10854.0,[X]Other primary coxarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2200,102990.0,[X]Other dysplastic coxarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2400,73948.0,"[X]Other secondary coxarthrosis, bilateral",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2500,43474.0,[X]Other primary gonarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2511,24079.0,[X] Unilateral primary gonarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2700,73952.0,"[X]Other secondary gonarthrosis, bilateral",Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2800,73930.0,[X]Other secondary gonarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2811,24145.0,[X] Unilateral secondary gonarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2900,106205.0,[X]Other primary arthrosis of first carpometacarpal joint,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2D00,51360.0,[X]Other specified arthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2E00,99918.0,[X]Other secondary coxarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2E11,24326.0,[X] Unilateral secondary coxarthrosis,Diagnosis of Osteoarthritis (excl spine)
+Osteoarthritis (excl spine),Nyu2.00,18795.0,[X]Arthrosis,Diagnosis of Osteoarthritis (excl spine)

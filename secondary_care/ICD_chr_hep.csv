@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Chronic viral hepatitis","B18","Chronic viral hepatitis","Diagnosis of Chronic viral hepatitis"
+Disease,ICD10code,ICD10codeDescr,Category
+Chronic viral hepatitis,B18,Chronic viral hepatitis,Diagnosis of Chronic viral hepatitis

@@ -1,16 +1,16 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Infections of the Heart","A39.5","Meningococcal heart disease","Diagnosis of Infections of the Heart"
-"Infections of the Heart","A52.0","Cardiovascular syphilis","Diagnosis of Infections of the Heart"
-"Infections of the Heart","B33.2","Viral carditis","Diagnosis of Infections of the Heart"
-"Infections of the Heart","B37.6","Candidal endocarditis","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I30.1","Infective pericarditis","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I32.0","Pericarditis in bacterial diseases classified elsewhere","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I32.1","Pericarditis in other infectious and parasitic diseases classified elsewhere","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I33.0","Acute and subacute infective endocarditis","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I40.0","Infective myocarditis","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I41.0","Myocarditis in bacterial diseases classified elsewhere","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I41.1","Myocarditis in viral diseases classified elsewhere","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I41.2","Myocarditis in other infectious and parasitic diseases classified elsewhere","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I43.0","Cardiomyopathy in infectious and parasitic diseases classified elsewhere","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I98.0","Cardiovascular syphilis","Diagnosis of Infections of the Heart"
-"Infections of the Heart","I98.1","Cardiovascular disorders in other infectious and parasitic diseases classified elsewhere","Diagnosis of Infections of the Heart"
+Disease,ICD10code,ICD10codeDescr,Category
+Infections of the Heart,A39.5,Meningococcal heart disease,Diagnosis of Infections of the Heart
+Infections of the Heart,A52.0,Cardiovascular syphilis,Diagnosis of Infections of the Heart
+Infections of the Heart,B33.2,Viral carditis,Diagnosis of Infections of the Heart
+Infections of the Heart,B37.6,Candidal endocarditis,Diagnosis of Infections of the Heart
+Infections of the Heart,I30.1,Infective pericarditis,Diagnosis of Infections of the Heart
+Infections of the Heart,I32.0,Pericarditis in bacterial diseases classified elsewhere,Diagnosis of Infections of the Heart
+Infections of the Heart,I32.1,Pericarditis in other infectious and parasitic diseases classified elsewhere,Diagnosis of Infections of the Heart
+Infections of the Heart,I33.0,Acute and subacute infective endocarditis,Diagnosis of Infections of the Heart
+Infections of the Heart,I40.0,Infective myocarditis,Diagnosis of Infections of the Heart
+Infections of the Heart,I41.0,Myocarditis in bacterial diseases classified elsewhere,Diagnosis of Infections of the Heart
+Infections of the Heart,I41.1,Myocarditis in viral diseases classified elsewhere,Diagnosis of Infections of the Heart
+Infections of the Heart,I41.2,Myocarditis in other infectious and parasitic diseases classified elsewhere,Diagnosis of Infections of the Heart
+Infections of the Heart,I43.0,Cardiomyopathy in infectious and parasitic diseases classified elsewhere,Diagnosis of Infections of the Heart
+Infections of the Heart,I98.0,Cardiovascular syphilis,Diagnosis of Infections of the Heart
+Infections of the Heart,I98.1,Cardiovascular disorders in other infectious and parasitic diseases classified elsewhere,Diagnosis of Infections of the Heart

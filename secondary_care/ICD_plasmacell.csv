@@ -1,4 +1,4 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Multiple myeloma and malignant plasma cell neoplasms","C88.0","Waldenström macroglobulinaemia","Diagnosis of Multiple myeloma and malignant plasma cell neoplasms"
-"Multiple myeloma and malignant plasma cell neoplasms","C88.2","Other heavy chain disease","Diagnosis of Multiple myeloma and malignant plasma cell neoplasms"
-"Multiple myeloma and malignant plasma cell neoplasms","C90","Multiple myeloma and malignant plasma cell neoplasms","Diagnosis of Multiple myeloma and malignant plasma cell neoplasms"
+Disease,ICD10code,ICD10codeDescr,Category
+Multiple myeloma and malignant plasma cell neoplasms,C88.0,Waldenström macroglobulinaemia,Diagnosis of Multiple myeloma and malignant plasma cell neoplasms
+Multiple myeloma and malignant plasma cell neoplasms,C88.2,Other heavy chain disease,Diagnosis of Multiple myeloma and malignant plasma cell neoplasms
+Multiple myeloma and malignant plasma cell neoplasms,C90,Multiple myeloma and malignant plasma cell neoplasms,Diagnosis of Multiple myeloma and malignant plasma cell neoplasms

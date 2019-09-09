@@ -1,83 +1,83 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Personality disorders","E210.00","5652.0","Paranoid personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E212000","67130.0","Unspecified schizoid personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E212100","39011.0","Introverted personality","Diagnosis of Personality disorders"
-"Personality disorders","E212200","61969.0","Schizotypal personality","Diagnosis of Personality disorders"
-"Personality disorders","E212.00","3369.0","Schizoid personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E212z00","14747.0","Schizoid personality disorder NOS","Diagnosis of Personality disorders"
-"Personality disorders","E213.00","23597.0","Explosive personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E213.11","6339.0","Aggressive personality","Diagnosis of Personality disorders"
-"Personality disorders","E213.12","36043.0","Quarrelsome personality","Diagnosis of Personality disorders"
-"Personality disorders","E214000","30395.0","Anankastic personality","Diagnosis of Personality disorders"
-"Personality disorders","E214100","1293.0","Obsessional personality","Diagnosis of Personality disorders"
-"Personality disorders","E214.00","20881.0","Compulsive personality disorders","Diagnosis of Personality disorders"
-"Personality disorders","E214.11","40057.0","Anancastic personality","Diagnosis of Personality disorders"
-"Personality disorders","E214z00","34456.0","Compulsive personality disorder NOS","Diagnosis of Personality disorders"
-"Personality disorders","E215000","44242.0","Unspecified histrionic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E215200","3709.0","Emotionally unstable personality","Diagnosis of Personality disorders"
-"Personality disorders","E215300","67590.0","Psychoinfantile personality","Diagnosis of Personality disorders"
-"Personality disorders","E215.00","27481.0","Histrionic personality disorders","Diagnosis of Personality disorders"
-"Personality disorders","E215.11","4759.0","Hysterical personality disorders","Diagnosis of Personality disorders"
-"Personality disorders","E215z00","60522.0","Histrionic personality disorder NOS","Diagnosis of Personality disorders"
-"Personality disorders","E216.00","4515.0","Inadequate personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E216.11","48796.0","Asthenic personality","Diagnosis of Personality disorders"
-"Personality disorders","E216.12","21665.0","Dependent personality","Diagnosis of Personality disorders"
-"Personality disorders","E216.13","19931.0","Labile personality","Diagnosis of Personality disorders"
-"Personality disorders","E217.00","23977.0","Antisocial or sociopathic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E217.11","68042.0","Amoral personality","Diagnosis of Personality disorders"
-"Personality disorders","E21..00","2076.0","Personality disorders","Diagnosis of Personality disorders"
-"Personality disorders","E21..11","28227.0","Neurotic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E21y000","37289.0","Narcissistic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E21y100","35642.0","Avoidant personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E21y200","18565.0","Borderline personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E21y300","35763.0","Passive-aggressive personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E21y400","27803.0","Eccentric personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E21y500","1364.0","Immature personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E21y600","70899.0","Masochistic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E21y700","21077.0","Psychoneurotic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","E21y711","2729.0","Neurotic personality","Diagnosis of Personality disorders"
-"Personality disorders","E21y.00","25146.0","Other personality disorders","Diagnosis of Personality disorders"
-"Personality disorders","E21yz00","15960.0","Other personality disorder NOS","Diagnosis of Personality disorders"
-"Personality disorders","E21yz11","20033.0","Manipulative personality","Diagnosis of Personality disorders"
-"Personality disorders","E21z.00","15098.0","Personality disorder NOS","Diagnosis of Personality disorders"
-"Personality disorders","E21z.11","792.0","Psychopathic personality","Diagnosis of Personality disorders"
-"Personality disorders","E2C3500","94096.0","Isolated explosive disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60000","21338.0","[X]Paranoid personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60013","69000.0","[X]Querulant personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60014","48687.0","[X]Sensitive paranoid personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60100","38371.0","[X]Schizoid personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60200","31632.0","[X]Dissocial personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60211","105029.0","[X]Amoral personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60212","32869.0","[X]Antisocial personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60213","56502.0","[X]Asocial personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60214","21671.0","[X]Psychopathic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60215","45188.0","[X]Sociopathic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60300","7745.0","[X]Emotionally unstable personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60311","20839.0","[X]Aggressive personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60312","31789.0","[X]Borderline personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60313","58693.0","[X]Explosive personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60400","43690.0","[X]Histrionic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60411","27945.0","[X]Hysterical personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60412","69185.0","[X]Psychoinfantile personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60500","52465.0","[X]Anankastic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60511","38100.0","[X]Compulsive personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60512","22259.0","[X]Obsessional personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60513","17420.0","[X]Obsessive-compulsive personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60600","8424.0","[X]Anxious [avoidant] personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60700","31819.0","[X]Dependent personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60711","39535.0","[X]Asthenic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60712","38031.0","[X]Inadequate personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60713","33741.0","[X]Passive personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60714","59008.0","[X]Self defeating personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60800","40104.0","[X]Addictive personality","Diagnosis of Personality disorders"
-"Personality disorders","Eu60.00","50188.0","[X]Specific personality disorders","Diagnosis of Personality disorders"
-"Personality disorders","Eu60y00","49600.0","[X]Other specific personality disorders","Diagnosis of Personality disorders"
-"Personality disorders","Eu60y11","55969.0","[X]Eccentric personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60y12","71431.0","[X]Haltlose type personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60y13","49779.0","[X]Immature personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60y14","53335.0","[X]Narcissistic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60y16","50348.0","[X]Psychoneurotic personality disorder","Diagnosis of Personality disorders"
-"Personality disorders","Eu60z00","42496.0","[X]Personality disorder, unspecified","Diagnosis of Personality disorders"
-"Personality disorders","Eu60z11","57567.0","[X]Character neurosis NOS","Diagnosis of Personality disorders"
-"Personality disorders","Eu60z12","49721.0","[X]Pathological personality NOS","Diagnosis of Personality disorders"
-"Personality disorders","Eu61.00","30603.0","[X]Mixed and other personality disorders","Diagnosis of Personality disorders"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Personality disorders,E210.00,5652.0,Paranoid personality disorder,Diagnosis of Personality disorders
+Personality disorders,E212000,67130.0,Unspecified schizoid personality disorder,Diagnosis of Personality disorders
+Personality disorders,E212100,39011.0,Introverted personality,Diagnosis of Personality disorders
+Personality disorders,E212200,61969.0,Schizotypal personality,Diagnosis of Personality disorders
+Personality disorders,E212.00,3369.0,Schizoid personality disorder,Diagnosis of Personality disorders
+Personality disorders,E212z00,14747.0,Schizoid personality disorder NOS,Diagnosis of Personality disorders
+Personality disorders,E213.00,23597.0,Explosive personality disorder,Diagnosis of Personality disorders
+Personality disorders,E213.11,6339.0,Aggressive personality,Diagnosis of Personality disorders
+Personality disorders,E213.12,36043.0,Quarrelsome personality,Diagnosis of Personality disorders
+Personality disorders,E214000,30395.0,Anankastic personality,Diagnosis of Personality disorders
+Personality disorders,E214100,1293.0,Obsessional personality,Diagnosis of Personality disorders
+Personality disorders,E214.00,20881.0,Compulsive personality disorders,Diagnosis of Personality disorders
+Personality disorders,E214.11,40057.0,Anancastic personality,Diagnosis of Personality disorders
+Personality disorders,E214z00,34456.0,Compulsive personality disorder NOS,Diagnosis of Personality disorders
+Personality disorders,E215000,44242.0,Unspecified histrionic personality disorder,Diagnosis of Personality disorders
+Personality disorders,E215200,3709.0,Emotionally unstable personality,Diagnosis of Personality disorders
+Personality disorders,E215300,67590.0,Psychoinfantile personality,Diagnosis of Personality disorders
+Personality disorders,E215.00,27481.0,Histrionic personality disorders,Diagnosis of Personality disorders
+Personality disorders,E215.11,4759.0,Hysterical personality disorders,Diagnosis of Personality disorders
+Personality disorders,E215z00,60522.0,Histrionic personality disorder NOS,Diagnosis of Personality disorders
+Personality disorders,E216.00,4515.0,Inadequate personality disorder,Diagnosis of Personality disorders
+Personality disorders,E216.11,48796.0,Asthenic personality,Diagnosis of Personality disorders
+Personality disorders,E216.12,21665.0,Dependent personality,Diagnosis of Personality disorders
+Personality disorders,E216.13,19931.0,Labile personality,Diagnosis of Personality disorders
+Personality disorders,E217.00,23977.0,Antisocial or sociopathic personality disorder,Diagnosis of Personality disorders
+Personality disorders,E217.11,68042.0,Amoral personality,Diagnosis of Personality disorders
+Personality disorders,E21..00,2076.0,Personality disorders,Diagnosis of Personality disorders
+Personality disorders,E21..11,28227.0,Neurotic personality disorder,Diagnosis of Personality disorders
+Personality disorders,E21y000,37289.0,Narcissistic personality disorder,Diagnosis of Personality disorders
+Personality disorders,E21y100,35642.0,Avoidant personality disorder,Diagnosis of Personality disorders
+Personality disorders,E21y200,18565.0,Borderline personality disorder,Diagnosis of Personality disorders
+Personality disorders,E21y300,35763.0,Passive-aggressive personality disorder,Diagnosis of Personality disorders
+Personality disorders,E21y400,27803.0,Eccentric personality disorder,Diagnosis of Personality disorders
+Personality disorders,E21y500,1364.0,Immature personality disorder,Diagnosis of Personality disorders
+Personality disorders,E21y600,70899.0,Masochistic personality disorder,Diagnosis of Personality disorders
+Personality disorders,E21y700,21077.0,Psychoneurotic personality disorder,Diagnosis of Personality disorders
+Personality disorders,E21y711,2729.0,Neurotic personality,Diagnosis of Personality disorders
+Personality disorders,E21y.00,25146.0,Other personality disorders,Diagnosis of Personality disorders
+Personality disorders,E21yz00,15960.0,Other personality disorder NOS,Diagnosis of Personality disorders
+Personality disorders,E21yz11,20033.0,Manipulative personality,Diagnosis of Personality disorders
+Personality disorders,E21z.00,15098.0,Personality disorder NOS,Diagnosis of Personality disorders
+Personality disorders,E21z.11,792.0,Psychopathic personality,Diagnosis of Personality disorders
+Personality disorders,E2C3500,94096.0,Isolated explosive disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60000,21338.0,[X]Paranoid personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60013,69000.0,[X]Querulant personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60014,48687.0,[X]Sensitive paranoid personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60100,38371.0,[X]Schizoid personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60200,31632.0,[X]Dissocial personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60211,105029.0,[X]Amoral personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60212,32869.0,[X]Antisocial personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60213,56502.0,[X]Asocial personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60214,21671.0,[X]Psychopathic personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60215,45188.0,[X]Sociopathic personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60300,7745.0,[X]Emotionally unstable personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60311,20839.0,[X]Aggressive personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60312,31789.0,[X]Borderline personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60313,58693.0,[X]Explosive personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60400,43690.0,[X]Histrionic personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60411,27945.0,[X]Hysterical personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60412,69185.0,[X]Psychoinfantile personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60500,52465.0,[X]Anankastic personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60511,38100.0,[X]Compulsive personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60512,22259.0,[X]Obsessional personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60513,17420.0,[X]Obsessive-compulsive personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60600,8424.0,[X]Anxious [avoidant] personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60700,31819.0,[X]Dependent personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60711,39535.0,[X]Asthenic personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60712,38031.0,[X]Inadequate personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60713,33741.0,[X]Passive personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60714,59008.0,[X]Self defeating personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60800,40104.0,[X]Addictive personality,Diagnosis of Personality disorders
+Personality disorders,Eu60.00,50188.0,[X]Specific personality disorders,Diagnosis of Personality disorders
+Personality disorders,Eu60y00,49600.0,[X]Other specific personality disorders,Diagnosis of Personality disorders
+Personality disorders,Eu60y11,55969.0,[X]Eccentric personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60y12,71431.0,[X]Haltlose type personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60y13,49779.0,[X]Immature personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60y14,53335.0,[X]Narcissistic personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60y16,50348.0,[X]Psychoneurotic personality disorder,Diagnosis of Personality disorders
+Personality disorders,Eu60z00,42496.0,"[X]Personality disorder, unspecified",Diagnosis of Personality disorders
+Personality disorders,Eu60z11,57567.0,[X]Character neurosis NOS,Diagnosis of Personality disorders
+Personality disorders,Eu60z12,49721.0,[X]Pathological personality NOS,Diagnosis of Personality disorders
+Personality disorders,Eu61.00,30603.0,[X]Mixed and other personality disorders,Diagnosis of Personality disorders

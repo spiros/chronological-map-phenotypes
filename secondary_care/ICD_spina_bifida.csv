@@ -1,3 +1,3 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Spina bifida","Q05","Spina bifida","Diagnosis of Spina bifida"
-"Spina bifida","Q76.0","Spina bifida occulta","Diagnosis of Spina bifida"
+Disease,ICD10code,ICD10codeDescr,Category
+Spina bifida,Q05,Spina bifida,Diagnosis of Spina bifida
+Spina bifida,Q76.0,Spina bifida occulta,Diagnosis of Spina bifida

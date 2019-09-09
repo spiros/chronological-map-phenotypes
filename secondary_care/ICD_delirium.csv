@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Delirium, not induced by alcohol and other psychoactive substances","F05","Delirium, not induced by alcohol and other psychoactive substances","Diagnosis of Delirium, not induced by alcohol and other psychoactive substances"
+Disease,ICD10code,ICD10codeDescr,Category
+"Delirium, not induced by alcohol and other psychoactive substances",F05,"Delirium, not induced by alcohol and other psychoactive substances","Diagnosis of Delirium, not induced by alcohol and other psychoactive substances"

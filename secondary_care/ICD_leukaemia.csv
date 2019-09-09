@@ -1,6 +1,6 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Leukaemia","C91","Lymphoid leukaemia","Diagnosis of Leukaemia"
-"Leukaemia","C92","Myeloid leukaemia","Diagnosis of Leukaemia"
-"Leukaemia","C93","Monocytic leukaemia","Diagnosis of Leukaemia"
-"Leukaemia","C94","Other leukaemias of specified cell type","Diagnosis of Leukaemia"
-"Leukaemia","C95","Leukaemia of unspecified cell type","Diagnosis of Leukaemia"
+Disease,ICD10code,ICD10codeDescr,Category
+Leukaemia,C91,Lymphoid leukaemia,Diagnosis of Leukaemia
+Leukaemia,C92,Myeloid leukaemia,Diagnosis of Leukaemia
+Leukaemia,C93,Monocytic leukaemia,Diagnosis of Leukaemia
+Leukaemia,C94,Other leukaemias of specified cell type,Diagnosis of Leukaemia
+Leukaemia,C95,Leukaemia of unspecified cell type,Diagnosis of Leukaemia

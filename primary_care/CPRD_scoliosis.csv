@@ -1,24 +1,24 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Scoliosis","2376.00","7136.0","O/E - kyphoscoliotic chest def","Diagnosis of Scoliosis"
-"Scoliosis","7J44111","22657.0","Dwyer anterior wiring of spine for scoliosis","Procedure for Scoliosis"
-"Scoliosis","G411.00","42901.0","Kyphoscoliotic heart disease","Diagnosis of Scoliosis"
-"Scoliosis","N373000","755.0","Idiopathic scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","N373100","14790.0","Idiopathic kyphoscoliosis","Diagnosis of Scoliosis"
-"Scoliosis","N373200","36682.0","Resolving infantile idiopathic scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","N373300","45232.0","Progressive infantile idiopathic scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","N373500","3059.0","Thoracogenic scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","N373600","3705.0","Postural scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","N373700","12549.0","Adolescent idiopathic scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","N373.00","714.0","Kyphoscoliosis and scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","N373z00","11620.0","Kyphoscoliosis or scoliosis NOS","Diagnosis of Scoliosis"
-"Scoliosis","N374300","40041.0","Scoliosis associated with other condition","Diagnosis of Scoliosis"
-"Scoliosis","N374A00","64218.0","Scoliosis in skeletal dysplasia","Diagnosis of Scoliosis"
-"Scoliosis","N374B00","45554.0","Neuromuscular scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","N374C00","67445.0","Scoliosis in neurofibromatosis","Diagnosis of Scoliosis"
-"Scoliosis","N374D00","43192.0","Scoliosis in connective tissue anomalies","Diagnosis of Scoliosis"
-"Scoliosis","Nyu5300","72582.0","[X]Other idiopathic scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","Nyu5400","53874.0","[X]Other secondary scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","Nyu5500","56368.0","[X]Other forms of scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","PE22.00","4330.0","Congenital postural scoliosis","Diagnosis of Scoliosis"
-"Scoliosis","PE23.00","9567.0","Congenital scoliosis due to congenital bony malformation","Diagnosis of Scoliosis"
-"Scoliosis","PG18.11","28717.0","Congenital kyphoscoliosis","Diagnosis of Scoliosis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Scoliosis,2376.00,7136.0,O/E - kyphoscoliotic chest def,Diagnosis of Scoliosis
+Scoliosis,7J44111,22657.0,Dwyer anterior wiring of spine for scoliosis,Procedure for Scoliosis
+Scoliosis,G411.00,42901.0,Kyphoscoliotic heart disease,Diagnosis of Scoliosis
+Scoliosis,N373000,755.0,Idiopathic scoliosis,Diagnosis of Scoliosis
+Scoliosis,N373100,14790.0,Idiopathic kyphoscoliosis,Diagnosis of Scoliosis
+Scoliosis,N373200,36682.0,Resolving infantile idiopathic scoliosis,Diagnosis of Scoliosis
+Scoliosis,N373300,45232.0,Progressive infantile idiopathic scoliosis,Diagnosis of Scoliosis
+Scoliosis,N373500,3059.0,Thoracogenic scoliosis,Diagnosis of Scoliosis
+Scoliosis,N373600,3705.0,Postural scoliosis,Diagnosis of Scoliosis
+Scoliosis,N373700,12549.0,Adolescent idiopathic scoliosis,Diagnosis of Scoliosis
+Scoliosis,N373.00,714.0,Kyphoscoliosis and scoliosis,Diagnosis of Scoliosis
+Scoliosis,N373z00,11620.0,Kyphoscoliosis or scoliosis NOS,Diagnosis of Scoliosis
+Scoliosis,N374300,40041.0,Scoliosis associated with other condition,Diagnosis of Scoliosis
+Scoliosis,N374A00,64218.0,Scoliosis in skeletal dysplasia,Diagnosis of Scoliosis
+Scoliosis,N374B00,45554.0,Neuromuscular scoliosis,Diagnosis of Scoliosis
+Scoliosis,N374C00,67445.0,Scoliosis in neurofibromatosis,Diagnosis of Scoliosis
+Scoliosis,N374D00,43192.0,Scoliosis in connective tissue anomalies,Diagnosis of Scoliosis
+Scoliosis,Nyu5300,72582.0,[X]Other idiopathic scoliosis,Diagnosis of Scoliosis
+Scoliosis,Nyu5400,53874.0,[X]Other secondary scoliosis,Diagnosis of Scoliosis
+Scoliosis,Nyu5500,56368.0,[X]Other forms of scoliosis,Diagnosis of Scoliosis
+Scoliosis,PE22.00,4330.0,Congenital postural scoliosis,Diagnosis of Scoliosis
+Scoliosis,PE23.00,9567.0,Congenital scoliosis due to congenital bony malformation,Diagnosis of Scoliosis
+Scoliosis,PG18.11,28717.0,Congenital kyphoscoliosis,Diagnosis of Scoliosis

@@ -1,10 +1,10 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Ischaemic stroke","I63.0","Cerebral infarction due to thrombosis of precerebral arteries","Diagnosis of Ischaemic stroke"
-"Ischaemic stroke","I63.1","Cerebral infarction due to embolism of precerebral arteries","Diagnosis of Ischaemic stroke"
-"Ischaemic stroke","I63.2","Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries","Diagnosis of Ischaemic stroke"
-"Ischaemic stroke","I63.3","Cerebral infarction due to thrombosis of cerebral arteries","Diagnosis of Ischaemic stroke"
-"Ischaemic stroke","I63.4","Cerebral infarction due to embolism of cerebral arteries","Diagnosis of Ischaemic stroke"
-"Ischaemic stroke","I63.5","Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries","Diagnosis of Ischaemic stroke"
-"Ischaemic stroke","I63.8","Other cerebral infarction","Diagnosis of Ischaemic stroke"
-"Ischaemic stroke","I63.9","Cerebral infarction, unspecified","Diagnosis of Ischaemic stroke"
-"Ischaemic stroke","I69.3","Sequelae of cerebral infarction","History of cerebral infarction"
+Disease,ICD10code,ICD10codeDescr,Category
+Ischaemic stroke,I63.0,Cerebral infarction due to thrombosis of precerebral arteries,Diagnosis of Ischaemic stroke
+Ischaemic stroke,I63.1,Cerebral infarction due to embolism of precerebral arteries,Diagnosis of Ischaemic stroke
+Ischaemic stroke,I63.2,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,Diagnosis of Ischaemic stroke
+Ischaemic stroke,I63.3,Cerebral infarction due to thrombosis of cerebral arteries,Diagnosis of Ischaemic stroke
+Ischaemic stroke,I63.4,Cerebral infarction due to embolism of cerebral arteries,Diagnosis of Ischaemic stroke
+Ischaemic stroke,I63.5,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,Diagnosis of Ischaemic stroke
+Ischaemic stroke,I63.8,Other cerebral infarction,Diagnosis of Ischaemic stroke
+Ischaemic stroke,I63.9,"Cerebral infarction, unspecified",Diagnosis of Ischaemic stroke
+Ischaemic stroke,I69.3,Sequelae of cerebral infarction,History of cerebral infarction

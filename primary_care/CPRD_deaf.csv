@@ -1,152 +1,152 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Hearing loss","1493.00","4957.0","H/O: hearing problem","History of Hearing loss"
-"Hearing loss","1C13100","1681.0","Unilateral deafness","Diagnosis of Hearing loss"
-"Hearing loss","1C13.00","14805.0","Deafness","Diagnosis of Hearing loss"
-"Hearing loss","1C13.11","6641.0","Deafness symptom","Diagnosis of Hearing loss"
-"Hearing loss","1C13200","1774.0","Partial deafness","Diagnosis of Hearing loss"
-"Hearing loss","1C13300","4035.0","Bilateral deafness","Diagnosis of Hearing loss"
-"Hearing loss","1C17.00","47475.0","Hearing aid problem","Diagnosis of Hearing loss"
-"Hearing loss","2BL..11","13114.0","O/E - deaf","Diagnosis of Hearing loss"
-"Hearing loss","2BL3.00","13113.0","O/E - significantly deaf","Diagnosis of Hearing loss"
-"Hearing loss","2BL4.00","5149.0","O/E - very deaf","Diagnosis of Hearing loss"
-"Hearing loss","2BL5.00","26539.0","O/E - completely deaf","Diagnosis of Hearing loss"
-"Hearing loss","2BM2.11","7085.0","O/E - conductive deafness","Diagnosis of Hearing loss"
-"Hearing loss","2BM3.11","7825.0","O/E - perceptive deafness","Diagnosis of Hearing loss"
-"Hearing loss","2DG..00","10170.0","Hearing aid worn","Diagnosis of Hearing loss"
-"Hearing loss","2DH0.00","47129.0","Uses hearing loop","Diagnosis of Hearing loss"
-"Hearing loss","7308400.0","84365.0","Placement of hearing implant in external ear","Procedure for Hearing loss"
-"Hearing loss","7308500.0","95814.0","Attention to hearing implant in external ear","Procedure for Hearing loss"
-"Hearing loss","7308600.0","96555.0","Removal of hearing implant from external ear","Procedure for Hearing loss"
-"Hearing loss","7311A00","19694.0","Insertn bone anchors subcutaneous bone anchored hearing aid","Procedure for Hearing loss"
-"Hearing loss","7317C00","68636.0","Placement of hearing implant in middle ear","Procedure for Hearing loss"
-"Hearing loss","7317D00","93446.0","Attention to hearing implant in middle ear","Procedure for Hearing loss"
-"Hearing loss","7317.00","100449.0","Removal of hearing implant from middle ear","Procedure for Hearing loss"
-"Hearing loss","7319000.0","97657.0","Insertion fixtures bone anchored hearing prosthesis Stage 1","Procedure for Hearing loss"
-"Hearing loss","7319100.0","89253.0","Insertion fixtures bone anchored hearing prosthesis Stage 2","Procedure for Hearing loss"
-"Hearing loss","7319200.0","91930.0","Reduction soft tissue for bone anchored hearing prosthesis","Procedure for Hearing loss"
-"Hearing loss","7319300.0","97761.0","Attention to fixtures for bone anchored hearing prosthesis","Procedure for Hearing loss"
-"Hearing loss","7319400.0","93278.0","One stage insert fixtures bone anchored hearing prosthesis","Procedure for Hearing loss"
-"Hearing loss","7319500.0","101755.0","Fitting external hearing prosthesis bone anchored fixtures","Procedure for Hearing loss"
-"Hearing loss","7319600.0","108029.0","First stge ins fixtures for bone anchored hearing prosthesis","Procedure for Hearing loss"
-"Hearing loss","7319.00","59392.0","Attachment of bone anchored hearing prosthesis","Procedure for Hearing loss"
-"Hearing loss","7319700.0","108030.0","Second stage ins fixtures for bone anchored hearing prosth","Procedure for Hearing loss"
-"Hearing loss","7319y00","98553.0","Other specified attachment bone anchored hearing prosthesis","Procedure for Hearing loss"
-"Hearing loss","7319z00","98241.0","Attachment of bone anchored hearing prosthesis NOS","Procedure for Hearing loss"
-"Hearing loss","8D21.00","58602.0","Provide head worn hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","8D22.00","36766.0","Provide body worn hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","8D23.00","626.0","Ear fitting hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","8D24.00","52853.0","Replace hearing aid battery","Diagnosis of Hearing loss"
-"Hearing loss","8D26.00","107246.0","Provision of replacement hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","8D2..12","3912.0","Hearing aid provision","Diagnosis of Hearing loss"
-"Hearing loss","8E3..00","66126.0","Deafness remedial therapy","Diagnosis of Hearing loss"
-"Hearing loss","8E3Z.00","72765.0","Deafness remedial therapy NOS","Diagnosis of Hearing loss"
-"Hearing loss","8HT2.00","10479.0","Referral to hearing aid clinic","Diagnosis of Hearing loss"
-"Hearing loss","8M41.00","10975.0","Hearing aid requested","Diagnosis of Hearing loss"
-"Hearing loss","9N0b.00","401.0","Seen in hearing aid clinic","Diagnosis of Hearing loss"
-"Hearing loss","9NfB.00","105795.0","Requires deafblind communicator guide","Diagnosis of Hearing loss"
-"Hearing loss","A560200","14893.0","Rubella deafness","Diagnosis of Hearing loss"
-"Hearing loss","F580100","1752.0","Presbyacusis","Diagnosis of Hearing loss"
-"Hearing loss","F580111","30208.0","Senile presbyacusis","Diagnosis of Hearing loss"
-"Hearing loss","F581200","15940.0","Noise-induced hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F581211","2552.0","Noise induced deafness","Diagnosis of Hearing loss"
-"Hearing loss","F582.00","6082.0","Unspecified sudden hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F590000","1151.0","Unspecified conductive hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F590100","36660.0","Conductive hearing loss due to disorder of external ear","Diagnosis of Hearing loss"
-"Hearing loss","F590200","52758.0","Conductive hearing loss due to disorder of tympanic membrane","Diagnosis of Hearing loss"
-"Hearing loss","F590300","31748.0","Conductive hearing loss due to disorder of middle ear","Diagnosis of Hearing loss"
-"Hearing loss","F590400","94782.0","Conductive hearing loss due to disorder of inner ear","Diagnosis of Hearing loss"
-"Hearing loss","F590500","18945.0","Conductive hearing loss, bilateral","Diagnosis of Hearing loss"
-"Hearing loss","F590600","43581.0","Conduct hear loss,unilat+unrestric hearing on contralat side","Diagnosis of Hearing loss"
-"Hearing loss","F590.00","8941.0","Conductive hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F590.11","45751.0","Conductive deafness","Diagnosis of Hearing loss"
-"Hearing loss","F590y00","62906.0","Combined conductive hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F590z00","33583.0","Conductive hearing loss NOS","Diagnosis of Hearing loss"
-"Hearing loss","F591000","2061.0","Unspecified perceptive hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591100","18520.0","Sensory hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591200","6846.0","Neural hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591211","3171.0","Nerve deafness","Diagnosis of Hearing loss"
-"Hearing loss","F591300","69894.0","Central hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591400","10665.0","Congenital sensorineural deafness","Diagnosis of Hearing loss"
-"Hearing loss","F591500","47440.0","Ototoxicity - deafness","Diagnosis of Hearing loss"
-"Hearing loss","F591511","102069.0","Drug ototoxicity - deafness","Diagnosis of Hearing loss"
-"Hearing loss","F591600","10112.0","Sensorineural hearing loss, bilateral","Diagnosis of Hearing loss"
-"Hearing loss","F591700","29191.0","Sensorineurl hear loss,unilat unrestrict hear/contralat side","Diagnosis of Hearing loss"
-"Hearing loss","F591800","100736.0","Congenital prelingual deafness","Diagnosis of Hearing loss"
-"Hearing loss","F591900","107364.0","Bilateral profound sensorineural hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591A00","107323.0","Bilateral congenital sensorineural hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591B00","107607.0","Profound sensorineural hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591C00","107350.0","Moderate sensorineural hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591D00","107265.0","Mild sensorineural hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591E00","107610.0","Severe sensorineural hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591.00","536.0","Sensorineural hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591.11","2625.0","High frequency deafness","Diagnosis of Hearing loss"
-"Hearing loss","F591.12","8033.0","Low frequency deafness","Diagnosis of Hearing loss"
-"Hearing loss","F591.13","2348.0","Perceptive deafness","Diagnosis of Hearing loss"
-"Hearing loss","F591.14","12829.0","Perceptive hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591y00","54116.0","Combined perceptive hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F591z00","16393.0","Perceptive hearing loss NOS","Diagnosis of Hearing loss"
-"Hearing loss","F592000","27901.0","Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd","Diagnosis of Hearing loss"
-"Hearing loss","F592100","7301.0","Mixed conductive and sensorineural hearing loss, bilateral","Diagnosis of Hearing loss"
-"Hearing loss","F592.00","14983.0","Mixed conductive and sensorineural deafness","Diagnosis of Hearing loss"
-"Hearing loss","F592.11","9882.0","Mixed hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F593.00","3747.0","Deaf mutism, NEC","Diagnosis of Hearing loss"
-"Hearing loss","F594.00","19084.0","High frequency deafness","Diagnosis of Hearing loss"
-"Hearing loss","F595.00","44282.0","Low frequency deafness","Diagnosis of Hearing loss"
-"Hearing loss","F596.00","98253.0","Maternally inherited deafness","Diagnosis of Hearing loss"
-"Hearing loss","F597.00","99753.0","Mild acquired hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F598.00","100127.0","Moderate acquired hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F599.00","100276.0","Severe acquired hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F59A.00","100654.0","Profound acquired hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F59A.11","102872.0","Deafened","Diagnosis of Hearing loss"
-"Hearing loss","F59..00","412.0","Hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F59..11","467.0","Deafness","Diagnosis of Hearing loss"
-"Hearing loss","F59y.00","38563.0","Other specified forms of hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","F59z.00","686.0","Deafness NOS","Diagnosis of Hearing loss"
-"Hearing loss","F59z.11","16648.0","Chronic deafness","Diagnosis of Hearing loss"
-"Hearing loss","F5A..00","96245.0","Hearing impairment","Diagnosis of Hearing loss"
-"Hearing loss","Fy1..00","103907.0","Combined visual and hearing impairment","Diagnosis of Hearing loss"
-"Hearing loss","FyuU000","71827.0","[X]Deaf mutism, not elsewhere classified","Diagnosis of Hearing loss"
-"Hearing loss","FyuU100","53800.0","[X]Other specified hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","P400.00","50016.0","Ear anomalies with hearing impaired, unspecified","Diagnosis of Hearing loss"
-"Hearing loss","P402.00","52802.0","Other external ear anomaly with hearing impairment","Diagnosis of Hearing loss"
-"Hearing loss","P402z00","72933.0","Other external ear anomaly with hearing impairment NOS","Diagnosis of Hearing loss"
-"Hearing loss","P40..00","5016.0","Ear anomalies with hearing impairment","Diagnosis of Hearing loss"
-"Hearing loss","P40z.00","27313.0","Other and unspecified ear anomaly with hearing impaired","Diagnosis of Hearing loss"
-"Hearing loss","P40z.11","31374.0","Deafness due to congenital anomaly NEC","Diagnosis of Hearing loss"
-"Hearing loss","P40zz00","57053.0","Ear anomaly with hearing impaired NOS","Diagnosis of Hearing loss"
-"Hearing loss","PKyP.00","106927.0","Diab insipidus,diab mell,optic atrophy and deafness","Diagnosis of Hearing loss"
-"Hearing loss","Pyu1B00","103542.0","[X]Malformation of ear with impairment of hearing, unspec","Diagnosis of Hearing loss"
-"Hearing loss","Z8B5100","46837.0","Able to use hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z8B5300","19417.0","Does use hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z8B5311","18375.0","Uses hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z8B5500","17407.0","Difficulty using hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z8B5.00","52245.0","Ability to use hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z911100","7344.0","Fit hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z911300","51744.0","Adjust hearing aid settings","Diagnosis of Hearing loss"
-"Hearing loss","Z911400","31962.0","Changing hearing aid battery","Diagnosis of Hearing loss"
-"Hearing loss","Z911500","30394.0","Checking hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z911700","97300.0","Switching on hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z911800","93722.0","Turning off hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z911900","59596.0","Putting on hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z911A00","58046.0","Listening for feedback whistle of hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z911B00","42879.0","Attention to hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z911E00","58826.0","Fit ear mould for existing hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","Z911G00","65516.0","Fit ear mould for hearing protection","Diagnosis of Hearing loss"
-"Hearing loss","Z911.00","30206.0","Hearing aid procedure","Diagnosis of Hearing loss"
-"Hearing loss","Z9E8100","11619.0","Hearing aid provision","Diagnosis of Hearing loss"
-"Hearing loss","ZE87.00","9830.0","Hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","ZE87.11","10367.0","Deafness","Diagnosis of Hearing loss"
-"Hearing loss","ZE87.13","22102.0","Hard of hearing","Diagnosis of Hearing loss"
-"Hearing loss","ZE87.15","12692.0","HI - Hearing impairment","Diagnosis of Hearing loss"
-"Hearing loss","ZE87.16","12324.0","HL - Hearing loss","Diagnosis of Hearing loss"
-"Hearing loss","ZE87.17","7891.0","HOH - Hard of hearing","Diagnosis of Hearing loss"
-"Hearing loss","ZE87.18","18008.0","Hearing impairment","Diagnosis of Hearing loss"
-"Hearing loss","ZE87.19","19068.0","Hearing impaired","Diagnosis of Hearing loss"
-"Hearing loss","ZE87.20","30033.0","Hearing impaired","Diagnosis of Hearing loss"
-"Hearing loss","ZL71600","22831.0","Referral to registered hearing aid dispenser","Diagnosis of Hearing loss"
-"Hearing loss","ZN56900","63490.0","Deaf telephone user","Diagnosis of Hearing loss"
-"Hearing loss","ZN56A00","110179.0","Deaf-blind telephone user","Diagnosis of Hearing loss"
-"Hearing loss","ZV45G00","18148.0","[V]Presence of external hearing-aid","Diagnosis of Hearing loss"
-"Hearing loss","ZV45N00","96803.0","[V]Bone anchored hearing aid in situ","Diagnosis of Hearing loss"
-"Hearing loss","ZV53200","2876.0","[V]Fitting or adjustment of hearing aid","Diagnosis of Hearing loss"
-"Hearing loss","ZV53D00","45604.0","[V]Adjustment and management of implanted hearing device","Diagnosis of Hearing loss"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Hearing loss,1493.00,4957.0,H/O: hearing problem,History of Hearing loss
+Hearing loss,1C13100,1681.0,Unilateral deafness,Diagnosis of Hearing loss
+Hearing loss,1C13.00,14805.0,Deafness,Diagnosis of Hearing loss
+Hearing loss,1C13.11,6641.0,Deafness symptom,Diagnosis of Hearing loss
+Hearing loss,1C13200,1774.0,Partial deafness,Diagnosis of Hearing loss
+Hearing loss,1C13300,4035.0,Bilateral deafness,Diagnosis of Hearing loss
+Hearing loss,1C17.00,47475.0,Hearing aid problem,Diagnosis of Hearing loss
+Hearing loss,2BL..11,13114.0,O/E - deaf,Diagnosis of Hearing loss
+Hearing loss,2BL3.00,13113.0,O/E - significantly deaf,Diagnosis of Hearing loss
+Hearing loss,2BL4.00,5149.0,O/E - very deaf,Diagnosis of Hearing loss
+Hearing loss,2BL5.00,26539.0,O/E - completely deaf,Diagnosis of Hearing loss
+Hearing loss,2BM2.11,7085.0,O/E - conductive deafness,Diagnosis of Hearing loss
+Hearing loss,2BM3.11,7825.0,O/E - perceptive deafness,Diagnosis of Hearing loss
+Hearing loss,2DG..00,10170.0,Hearing aid worn,Diagnosis of Hearing loss
+Hearing loss,2DH0.00,47129.0,Uses hearing loop,Diagnosis of Hearing loss
+Hearing loss,7308400.0,84365.0,Placement of hearing implant in external ear,Procedure for Hearing loss
+Hearing loss,7308500.0,95814.0,Attention to hearing implant in external ear,Procedure for Hearing loss
+Hearing loss,7308600.0,96555.0,Removal of hearing implant from external ear,Procedure for Hearing loss
+Hearing loss,7311A00,19694.0,Insertn bone anchors subcutaneous bone anchored hearing aid,Procedure for Hearing loss
+Hearing loss,7317C00,68636.0,Placement of hearing implant in middle ear,Procedure for Hearing loss
+Hearing loss,7317D00,93446.0,Attention to hearing implant in middle ear,Procedure for Hearing loss
+Hearing loss,7317.00,100449.0,Removal of hearing implant from middle ear,Procedure for Hearing loss
+Hearing loss,7319000.0,97657.0,Insertion fixtures bone anchored hearing prosthesis Stage 1,Procedure for Hearing loss
+Hearing loss,7319100.0,89253.0,Insertion fixtures bone anchored hearing prosthesis Stage 2,Procedure for Hearing loss
+Hearing loss,7319200.0,91930.0,Reduction soft tissue for bone anchored hearing prosthesis,Procedure for Hearing loss
+Hearing loss,7319300.0,97761.0,Attention to fixtures for bone anchored hearing prosthesis,Procedure for Hearing loss
+Hearing loss,7319400.0,93278.0,One stage insert fixtures bone anchored hearing prosthesis,Procedure for Hearing loss
+Hearing loss,7319500.0,101755.0,Fitting external hearing prosthesis bone anchored fixtures,Procedure for Hearing loss
+Hearing loss,7319600.0,108029.0,First stge ins fixtures for bone anchored hearing prosthesis,Procedure for Hearing loss
+Hearing loss,7319.00,59392.0,Attachment of bone anchored hearing prosthesis,Procedure for Hearing loss
+Hearing loss,7319700.0,108030.0,Second stage ins fixtures for bone anchored hearing prosth,Procedure for Hearing loss
+Hearing loss,7319y00,98553.0,Other specified attachment bone anchored hearing prosthesis,Procedure for Hearing loss
+Hearing loss,7319z00,98241.0,Attachment of bone anchored hearing prosthesis NOS,Procedure for Hearing loss
+Hearing loss,8D21.00,58602.0,Provide head worn hearing aid,Diagnosis of Hearing loss
+Hearing loss,8D22.00,36766.0,Provide body worn hearing aid,Diagnosis of Hearing loss
+Hearing loss,8D23.00,626.0,Ear fitting hearing aid,Diagnosis of Hearing loss
+Hearing loss,8D24.00,52853.0,Replace hearing aid battery,Diagnosis of Hearing loss
+Hearing loss,8D26.00,107246.0,Provision of replacement hearing aid,Diagnosis of Hearing loss
+Hearing loss,8D2..12,3912.0,Hearing aid provision,Diagnosis of Hearing loss
+Hearing loss,8E3..00,66126.0,Deafness remedial therapy,Diagnosis of Hearing loss
+Hearing loss,8E3Z.00,72765.0,Deafness remedial therapy NOS,Diagnosis of Hearing loss
+Hearing loss,8HT2.00,10479.0,Referral to hearing aid clinic,Diagnosis of Hearing loss
+Hearing loss,8M41.00,10975.0,Hearing aid requested,Diagnosis of Hearing loss
+Hearing loss,9N0b.00,401.0,Seen in hearing aid clinic,Diagnosis of Hearing loss
+Hearing loss,9NfB.00,105795.0,Requires deafblind communicator guide,Diagnosis of Hearing loss
+Hearing loss,A560200,14893.0,Rubella deafness,Diagnosis of Hearing loss
+Hearing loss,F580100,1752.0,Presbyacusis,Diagnosis of Hearing loss
+Hearing loss,F580111,30208.0,Senile presbyacusis,Diagnosis of Hearing loss
+Hearing loss,F581200,15940.0,Noise-induced hearing loss,Diagnosis of Hearing loss
+Hearing loss,F581211,2552.0,Noise induced deafness,Diagnosis of Hearing loss
+Hearing loss,F582.00,6082.0,Unspecified sudden hearing loss,Diagnosis of Hearing loss
+Hearing loss,F590000,1151.0,Unspecified conductive hearing loss,Diagnosis of Hearing loss
+Hearing loss,F590100,36660.0,Conductive hearing loss due to disorder of external ear,Diagnosis of Hearing loss
+Hearing loss,F590200,52758.0,Conductive hearing loss due to disorder of tympanic membrane,Diagnosis of Hearing loss
+Hearing loss,F590300,31748.0,Conductive hearing loss due to disorder of middle ear,Diagnosis of Hearing loss
+Hearing loss,F590400,94782.0,Conductive hearing loss due to disorder of inner ear,Diagnosis of Hearing loss
+Hearing loss,F590500,18945.0,"Conductive hearing loss, bilateral",Diagnosis of Hearing loss
+Hearing loss,F590600,43581.0,"Conduct hear loss,unilat+unrestric hearing on contralat side",Diagnosis of Hearing loss
+Hearing loss,F590.00,8941.0,Conductive hearing loss,Diagnosis of Hearing loss
+Hearing loss,F590.11,45751.0,Conductive deafness,Diagnosis of Hearing loss
+Hearing loss,F590y00,62906.0,Combined conductive hearing loss,Diagnosis of Hearing loss
+Hearing loss,F590z00,33583.0,Conductive hearing loss NOS,Diagnosis of Hearing loss
+Hearing loss,F591000,2061.0,Unspecified perceptive hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591100,18520.0,Sensory hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591200,6846.0,Neural hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591211,3171.0,Nerve deafness,Diagnosis of Hearing loss
+Hearing loss,F591300,69894.0,Central hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591400,10665.0,Congenital sensorineural deafness,Diagnosis of Hearing loss
+Hearing loss,F591500,47440.0,Ototoxicity - deafness,Diagnosis of Hearing loss
+Hearing loss,F591511,102069.0,Drug ototoxicity - deafness,Diagnosis of Hearing loss
+Hearing loss,F591600,10112.0,"Sensorineural hearing loss, bilateral",Diagnosis of Hearing loss
+Hearing loss,F591700,29191.0,"Sensorineurl hear loss,unilat unrestrict hear/contralat side",Diagnosis of Hearing loss
+Hearing loss,F591800,100736.0,Congenital prelingual deafness,Diagnosis of Hearing loss
+Hearing loss,F591900,107364.0,Bilateral profound sensorineural hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591A00,107323.0,Bilateral congenital sensorineural hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591B00,107607.0,Profound sensorineural hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591C00,107350.0,Moderate sensorineural hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591D00,107265.0,Mild sensorineural hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591E00,107610.0,Severe sensorineural hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591.00,536.0,Sensorineural hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591.11,2625.0,High frequency deafness,Diagnosis of Hearing loss
+Hearing loss,F591.12,8033.0,Low frequency deafness,Diagnosis of Hearing loss
+Hearing loss,F591.13,2348.0,Perceptive deafness,Diagnosis of Hearing loss
+Hearing loss,F591.14,12829.0,Perceptive hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591y00,54116.0,Combined perceptive hearing loss,Diagnosis of Hearing loss
+Hearing loss,F591z00,16393.0,Perceptive hearing loss NOS,Diagnosis of Hearing loss
+Hearing loss,F592000,27901.0,"Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd",Diagnosis of Hearing loss
+Hearing loss,F592100,7301.0,"Mixed conductive and sensorineural hearing loss, bilateral",Diagnosis of Hearing loss
+Hearing loss,F592.00,14983.0,Mixed conductive and sensorineural deafness,Diagnosis of Hearing loss
+Hearing loss,F592.11,9882.0,Mixed hearing loss,Diagnosis of Hearing loss
+Hearing loss,F593.00,3747.0,"Deaf mutism, NEC",Diagnosis of Hearing loss
+Hearing loss,F594.00,19084.0,High frequency deafness,Diagnosis of Hearing loss
+Hearing loss,F595.00,44282.0,Low frequency deafness,Diagnosis of Hearing loss
+Hearing loss,F596.00,98253.0,Maternally inherited deafness,Diagnosis of Hearing loss
+Hearing loss,F597.00,99753.0,Mild acquired hearing loss,Diagnosis of Hearing loss
+Hearing loss,F598.00,100127.0,Moderate acquired hearing loss,Diagnosis of Hearing loss
+Hearing loss,F599.00,100276.0,Severe acquired hearing loss,Diagnosis of Hearing loss
+Hearing loss,F59A.00,100654.0,Profound acquired hearing loss,Diagnosis of Hearing loss
+Hearing loss,F59A.11,102872.0,Deafened,Diagnosis of Hearing loss
+Hearing loss,F59..00,412.0,Hearing loss,Diagnosis of Hearing loss
+Hearing loss,F59..11,467.0,Deafness,Diagnosis of Hearing loss
+Hearing loss,F59y.00,38563.0,Other specified forms of hearing loss,Diagnosis of Hearing loss
+Hearing loss,F59z.00,686.0,Deafness NOS,Diagnosis of Hearing loss
+Hearing loss,F59z.11,16648.0,Chronic deafness,Diagnosis of Hearing loss
+Hearing loss,F5A..00,96245.0,Hearing impairment,Diagnosis of Hearing loss
+Hearing loss,Fy1..00,103907.0,Combined visual and hearing impairment,Diagnosis of Hearing loss
+Hearing loss,FyuU000,71827.0,"[X]Deaf mutism, not elsewhere classified",Diagnosis of Hearing loss
+Hearing loss,FyuU100,53800.0,[X]Other specified hearing loss,Diagnosis of Hearing loss
+Hearing loss,P400.00,50016.0,"Ear anomalies with hearing impaired, unspecified",Diagnosis of Hearing loss
+Hearing loss,P402.00,52802.0,Other external ear anomaly with hearing impairment,Diagnosis of Hearing loss
+Hearing loss,P402z00,72933.0,Other external ear anomaly with hearing impairment NOS,Diagnosis of Hearing loss
+Hearing loss,P40..00,5016.0,Ear anomalies with hearing impairment,Diagnosis of Hearing loss
+Hearing loss,P40z.00,27313.0,Other and unspecified ear anomaly with hearing impaired,Diagnosis of Hearing loss
+Hearing loss,P40z.11,31374.0,Deafness due to congenital anomaly NEC,Diagnosis of Hearing loss
+Hearing loss,P40zz00,57053.0,Ear anomaly with hearing impaired NOS,Diagnosis of Hearing loss
+Hearing loss,PKyP.00,106927.0,"Diab insipidus,diab mell,optic atrophy and deafness",Diagnosis of Hearing loss
+Hearing loss,Pyu1B00,103542.0,"[X]Malformation of ear with impairment of hearing, unspec",Diagnosis of Hearing loss
+Hearing loss,Z8B5100,46837.0,Able to use hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z8B5300,19417.0,Does use hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z8B5311,18375.0,Uses hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z8B5500,17407.0,Difficulty using hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z8B5.00,52245.0,Ability to use hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z911100,7344.0,Fit hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z911300,51744.0,Adjust hearing aid settings,Diagnosis of Hearing loss
+Hearing loss,Z911400,31962.0,Changing hearing aid battery,Diagnosis of Hearing loss
+Hearing loss,Z911500,30394.0,Checking hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z911700,97300.0,Switching on hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z911800,93722.0,Turning off hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z911900,59596.0,Putting on hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z911A00,58046.0,Listening for feedback whistle of hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z911B00,42879.0,Attention to hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z911E00,58826.0,Fit ear mould for existing hearing aid,Diagnosis of Hearing loss
+Hearing loss,Z911G00,65516.0,Fit ear mould for hearing protection,Diagnosis of Hearing loss
+Hearing loss,Z911.00,30206.0,Hearing aid procedure,Diagnosis of Hearing loss
+Hearing loss,Z9E8100,11619.0,Hearing aid provision,Diagnosis of Hearing loss
+Hearing loss,ZE87.00,9830.0,Hearing loss,Diagnosis of Hearing loss
+Hearing loss,ZE87.11,10367.0,Deafness,Diagnosis of Hearing loss
+Hearing loss,ZE87.13,22102.0,Hard of hearing,Diagnosis of Hearing loss
+Hearing loss,ZE87.15,12692.0,HI - Hearing impairment,Diagnosis of Hearing loss
+Hearing loss,ZE87.16,12324.0,HL - Hearing loss,Diagnosis of Hearing loss
+Hearing loss,ZE87.17,7891.0,HOH - Hard of hearing,Diagnosis of Hearing loss
+Hearing loss,ZE87.18,18008.0,Hearing impairment,Diagnosis of Hearing loss
+Hearing loss,ZE87.19,19068.0,Hearing impaired,Diagnosis of Hearing loss
+Hearing loss,ZE87.20,30033.0,Hearing impaired,Diagnosis of Hearing loss
+Hearing loss,ZL71600,22831.0,Referral to registered hearing aid dispenser,Diagnosis of Hearing loss
+Hearing loss,ZN56900,63490.0,Deaf telephone user,Diagnosis of Hearing loss
+Hearing loss,ZN56A00,110179.0,Deaf-blind telephone user,Diagnosis of Hearing loss
+Hearing loss,ZV45G00,18148.0,[V]Presence of external hearing-aid,Diagnosis of Hearing loss
+Hearing loss,ZV45N00,96803.0,[V]Bone anchored hearing aid in situ,Diagnosis of Hearing loss
+Hearing loss,ZV53200,2876.0,[V]Fitting or adjustment of hearing aid,Diagnosis of Hearing loss
+Hearing loss,ZV53D00,45604.0,[V]Adjustment and management of implanted hearing device,Diagnosis of Hearing loss

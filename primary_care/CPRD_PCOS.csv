@@ -1,3 +1,3 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Polycystic ovarian syndrome","C164.12","16103.0","Stein - Leventhal syndrome","Diagnosis of Polycystic ovarian syndrome"
-"Polycystic ovarian syndrome","C165.00","11347.0","Polycystic ovarian syndrome","Diagnosis of Polycystic ovarian syndrome"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Polycystic ovarian syndrome,C164.12,16103.0,Stein - Leventhal syndrome,Diagnosis of Polycystic ovarian syndrome
+Polycystic ovarian syndrome,C165.00,11347.0,Polycystic ovarian syndrome,Diagnosis of Polycystic ovarian syndrome

@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Diaphragmatic hernia","K44","Diaphragmatic hernia","Diagnosis of Diaphragmatic hernia"
+Disease,ICD10code,ICD10codeDescr,Category
+Diaphragmatic hernia,K44,Diaphragmatic hernia,Diagnosis of Diaphragmatic hernia

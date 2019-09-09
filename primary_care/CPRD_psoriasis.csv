@@ -1,37 +1,37 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Psoriasis","14F2.00","3437.0","H/O: psoriasis","History of Psoriasis"
-"Psoriasis","M160000","26368.0","Psoriasis spondylitica","Diagnosis of Psoriasis"
-"Psoriasis","M160100","32149.0","Distal interphalangeal psoriatic arthropathy","Diagnosis of Psoriasis"
-"Psoriasis","M160200","21503.0","Arthritis mutilans","Diagnosis of Psoriasis"
-"Psoriasis","M160.00","476.0","Psoriatic arthropathy","Diagnosis of Psoriasis"
-"Psoriasis","M160.11","96880.0","Psoriatic arthritis","Diagnosis of Psoriasis"
-"Psoriasis","M160z00","12500.0","Psoriatic arthropathy NOS","Diagnosis of Psoriasis"
-"Psoriasis","M161000","162.0","Psoriasis unspecified","Diagnosis of Psoriasis"
-"Psoriasis","M161100","21104.0","Psoriasis annularis","Diagnosis of Psoriasis"
-"Psoriasis","M161200","30272.0","Psoriasis circinata","Diagnosis of Psoriasis"
-"Psoriasis","M161300","42008.0","Psoriasis diffusa","Diagnosis of Psoriasis"
-"Psoriasis","M161400","18755.0","Psoriasis discoidea","Diagnosis of Psoriasis"
-"Psoriasis","M161500","21633.0","Psoriasis geographica","Diagnosis of Psoriasis"
-"Psoriasis","M161600","3193.0","Guttate psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","M161700","65839.0","Psoriasis gyrata","Diagnosis of Psoriasis"
-"Psoriasis","M161800","48257.0","Psoriasis inveterata","Diagnosis of Psoriasis"
-"Psoriasis","M161900","60169.0","Psoriasis ostracea","Diagnosis of Psoriasis"
-"Psoriasis","M161A00","8014.0","Psoriasis palmaris","Diagnosis of Psoriasis"
-"Psoriasis","M161B00","2945.0","Psoriasis plantaris","Diagnosis of Psoriasis"
-"Psoriasis","M161C00","24136.0","Psoriasis punctata","Diagnosis of Psoriasis"
-"Psoriasis","M161D00","4231.0","Pustular psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","M161E00","20222.0","Psoriasis universalis","Diagnosis of Psoriasis"
-"Psoriasis","M161F00","30210.0","Psoriasis vulgaris","Diagnosis of Psoriasis"
-"Psoriasis","M161F11","93511.0","Chronic large plaque psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","M161H00","17094.0","Erythrodermic psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","M161J00","107494.0","Flexural psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","M161.00","22501.0","Other psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","M161z00","172.0","Psoriasis NOS","Diagnosis of Psoriasis"
-"Psoriasis","M166.00","105229.0","Palmoplantar pustular psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","M16..00","3733.0","Psoriasis and similar disorders","Diagnosis of Psoriasis"
-"Psoriasis","M16y000","11761.0","Scalp psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","M16y.00","41149.0","Other psoriasis and similar disorders","Diagnosis of Psoriasis"
-"Psoriasis","M16z.00","30975.0","Psoriasis and similar disorders NOS","Diagnosis of Psoriasis"
-"Psoriasis","Myu3000","66711.0","[X]Other psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","N045200","28456.0","Juvenile arthritis in psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","Nyu1300","59107.0","[X]Other psoriatic arthropathies","Diagnosis of Psoriasis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Psoriasis,14F2.00,3437.0,H/O: psoriasis,History of Psoriasis
+Psoriasis,M160000,26368.0,Psoriasis spondylitica,Diagnosis of Psoriasis
+Psoriasis,M160100,32149.0,Distal interphalangeal psoriatic arthropathy,Diagnosis of Psoriasis
+Psoriasis,M160200,21503.0,Arthritis mutilans,Diagnosis of Psoriasis
+Psoriasis,M160.00,476.0,Psoriatic arthropathy,Diagnosis of Psoriasis
+Psoriasis,M160.11,96880.0,Psoriatic arthritis,Diagnosis of Psoriasis
+Psoriasis,M160z00,12500.0,Psoriatic arthropathy NOS,Diagnosis of Psoriasis
+Psoriasis,M161000,162.0,Psoriasis unspecified,Diagnosis of Psoriasis
+Psoriasis,M161100,21104.0,Psoriasis annularis,Diagnosis of Psoriasis
+Psoriasis,M161200,30272.0,Psoriasis circinata,Diagnosis of Psoriasis
+Psoriasis,M161300,42008.0,Psoriasis diffusa,Diagnosis of Psoriasis
+Psoriasis,M161400,18755.0,Psoriasis discoidea,Diagnosis of Psoriasis
+Psoriasis,M161500,21633.0,Psoriasis geographica,Diagnosis of Psoriasis
+Psoriasis,M161600,3193.0,Guttate psoriasis,Diagnosis of Psoriasis
+Psoriasis,M161700,65839.0,Psoriasis gyrata,Diagnosis of Psoriasis
+Psoriasis,M161800,48257.0,Psoriasis inveterata,Diagnosis of Psoriasis
+Psoriasis,M161900,60169.0,Psoriasis ostracea,Diagnosis of Psoriasis
+Psoriasis,M161A00,8014.0,Psoriasis palmaris,Diagnosis of Psoriasis
+Psoriasis,M161B00,2945.0,Psoriasis plantaris,Diagnosis of Psoriasis
+Psoriasis,M161C00,24136.0,Psoriasis punctata,Diagnosis of Psoriasis
+Psoriasis,M161D00,4231.0,Pustular psoriasis,Diagnosis of Psoriasis
+Psoriasis,M161E00,20222.0,Psoriasis universalis,Diagnosis of Psoriasis
+Psoriasis,M161F00,30210.0,Psoriasis vulgaris,Diagnosis of Psoriasis
+Psoriasis,M161F11,93511.0,Chronic large plaque psoriasis,Diagnosis of Psoriasis
+Psoriasis,M161H00,17094.0,Erythrodermic psoriasis,Diagnosis of Psoriasis
+Psoriasis,M161J00,107494.0,Flexural psoriasis,Diagnosis of Psoriasis
+Psoriasis,M161.00,22501.0,Other psoriasis,Diagnosis of Psoriasis
+Psoriasis,M161z00,172.0,Psoriasis NOS,Diagnosis of Psoriasis
+Psoriasis,M166.00,105229.0,Palmoplantar pustular psoriasis,Diagnosis of Psoriasis
+Psoriasis,M16..00,3733.0,Psoriasis and similar disorders,Diagnosis of Psoriasis
+Psoriasis,M16y000,11761.0,Scalp psoriasis,Diagnosis of Psoriasis
+Psoriasis,M16y.00,41149.0,Other psoriasis and similar disorders,Diagnosis of Psoriasis
+Psoriasis,M16z.00,30975.0,Psoriasis and similar disorders NOS,Diagnosis of Psoriasis
+Psoriasis,Myu3000,66711.0,[X]Other psoriasis,Diagnosis of Psoriasis
+Psoriasis,N045200,28456.0,Juvenile arthritis in psoriasis,Diagnosis of Psoriasis
+Psoriasis,Nyu1300,59107.0,[X]Other psoriatic arthropathies,Diagnosis of Psoriasis

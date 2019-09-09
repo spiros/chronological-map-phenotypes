@@ -1,55 +1,55 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Cholelithiasis","14CE.00","12140.0","H/O: gall stones","History of Cholelithiasis"
-"Cholelithiasis","1965.00","930.0","Biliary colic","Diagnosis of Cholelithiasis"
-"Cholelithiasis","1965.11","7306.0","Biliary colic symptom","Diagnosis of Cholelithiasis"
-"Cholelithiasis","4775.00","94302.0","Faeces: gall stones present","Diagnosis of Cholelithiasis"
-"Cholelithiasis","4G21.00","61996.0","O/E: cholesterol gall stone","Diagnosis of Cholelithiasis"
-"Cholelithiasis","4G22.00","45836.0","O/E: pigment gall stone","Diagnosis of Cholelithiasis"
-"Cholelithiasis","4G2..00","4429.0","O/E: gall stone","Diagnosis of Cholelithiasis"
-"Cholelithiasis","4G2Z.00","42694.0","O/E: gall stone NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","7648700.0","17959.0","Enterotomy and removal of gallstone","Procedure for Cholelithiasis"
-"Cholelithiasis","8CMWD00","109379.0","On gallstone care pathway","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J503000","29663.0","Gallstone ileus","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J640000","63208.0","Gallbladder calculus with acute cholecystitis +no obstruct","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J640100","48587.0","Gallbladder calculus with acute cholecystitis + obstruction","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J640.00","35046.0","Gallbladder calculus with acute cholecystitis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J640z00","64132.0","Gallbladder calculus with acute cholecystitis - obst NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J641000","49202.0","Gallbladder calculus with other cholecystitis +no obstruct","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J641100","47536.0","Gallbladder calculus with other cholecystitis + obstruct","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J641.00","49106.0","Gallbladder calculus with other cholecystitis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J641z00","71134.0","Gallbladder calculus with other cholecystitis - obstruct NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J642000","54853.0","Gallbladder calculus without mention cholecystitis +no obstr","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J642100","61367.0","Gallbladder calculus without mention cholecystitis + obstruc","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J642200","6285.0","Biliary colic","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J642.00","12438.0","Gallbladder calculus without mention of cholecystitis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J642.11","4416.0","Gallbladder calculus without mention of cholecystitis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J642z00","15602.0","Gallbladder calculus without cholecystitis and obstruct NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J643000","39025.0","Bile duct calculus + acute cholecystitis and no obstruction","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J643100","31650.0","Bile duct calculus + acute cholecystitis and obstruction","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J643.00","34683.0","Bile duct calculus with acute cholecystitis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J643z00","96679.0","Bile duct calculus + acute cholecystitis - obstruct NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J644000","107004.0","Bile duct calculus + other cholecystitis and no obstruction","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J644100","44649.0","Bile duct calculus + other cholecystitis and obstruction","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J644.00","26889.0","Bile duct calculus with other cholecystitis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J644z00","61298.0","Bile duct calculus + other cholecystitis - obstruction NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J645000","66713.0","Bile duct calculus without cholecystitis, no obstruction","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J645100","36879.0","Bile duct calculus without cholecystitis with obstruction","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J645200","8723.0","Bile duct calculus NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J645.00","22697.0","Bile duct calculus without mention of cholecystitis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J645.11","15181.0","Choledocholithiasis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J645z00","69721.0","Bile duct calculus without cholecystitis NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J646.00","24866.0","Calculus of bile duct with cholangitis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64..00","3599.0","Cholelithiasis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64..11","29142.0","Bile duct calculus","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64..12","40075.0","Calculus - biliary","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64..13","35469.0","Cystic duct calculus","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64..14","8620.0","Gallbladder calculus","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64..15","760.0","Gallstones","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64..16","17323.0","Stone - biliary","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64z000","47888.0","Cholelithiasis without obstruction NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64z100","62988.0","Cholelithiasis with obstruction NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64z.00","27437.0","Cholelithiasis NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J64zz00","34063.0","Cholelithiasis NOS","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J670500","12316.0","Gallstone acute pancreatitis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","J671100","42278.0","Gallstone chronic pancreatitis","Diagnosis of Cholelithiasis"
-"Cholelithiasis","Jyu8000","96795.0","[X]Other cholelithiasis","Diagnosis of Cholelithiasis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Cholelithiasis,14CE.00,12140.0,H/O: gall stones,History of Cholelithiasis
+Cholelithiasis,1965.00,930.0,Biliary colic,Diagnosis of Cholelithiasis
+Cholelithiasis,1965.11,7306.0,Biliary colic symptom,Diagnosis of Cholelithiasis
+Cholelithiasis,4775.00,94302.0,Faeces: gall stones present,Diagnosis of Cholelithiasis
+Cholelithiasis,4G21.00,61996.0,O/E: cholesterol gall stone,Diagnosis of Cholelithiasis
+Cholelithiasis,4G22.00,45836.0,O/E: pigment gall stone,Diagnosis of Cholelithiasis
+Cholelithiasis,4G2..00,4429.0,O/E: gall stone,Diagnosis of Cholelithiasis
+Cholelithiasis,4G2Z.00,42694.0,O/E: gall stone NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,7648700.0,17959.0,Enterotomy and removal of gallstone,Procedure for Cholelithiasis
+Cholelithiasis,8CMWD00,109379.0,On gallstone care pathway,Diagnosis of Cholelithiasis
+Cholelithiasis,J503000,29663.0,Gallstone ileus,Diagnosis of Cholelithiasis
+Cholelithiasis,J640000,63208.0,Gallbladder calculus with acute cholecystitis +no obstruct,Diagnosis of Cholelithiasis
+Cholelithiasis,J640100,48587.0,Gallbladder calculus with acute cholecystitis + obstruction,Diagnosis of Cholelithiasis
+Cholelithiasis,J640.00,35046.0,Gallbladder calculus with acute cholecystitis,Diagnosis of Cholelithiasis
+Cholelithiasis,J640z00,64132.0,Gallbladder calculus with acute cholecystitis - obst NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J641000,49202.0,Gallbladder calculus with other cholecystitis +no obstruct,Diagnosis of Cholelithiasis
+Cholelithiasis,J641100,47536.0,Gallbladder calculus with other cholecystitis + obstruct,Diagnosis of Cholelithiasis
+Cholelithiasis,J641.00,49106.0,Gallbladder calculus with other cholecystitis,Diagnosis of Cholelithiasis
+Cholelithiasis,J641z00,71134.0,Gallbladder calculus with other cholecystitis - obstruct NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J642000,54853.0,Gallbladder calculus without mention cholecystitis +no obstr,Diagnosis of Cholelithiasis
+Cholelithiasis,J642100,61367.0,Gallbladder calculus without mention cholecystitis + obstruc,Diagnosis of Cholelithiasis
+Cholelithiasis,J642200,6285.0,Biliary colic,Diagnosis of Cholelithiasis
+Cholelithiasis,J642.00,12438.0,Gallbladder calculus without mention of cholecystitis,Diagnosis of Cholelithiasis
+Cholelithiasis,J642.11,4416.0,Gallbladder calculus without mention of cholecystitis,Diagnosis of Cholelithiasis
+Cholelithiasis,J642z00,15602.0,Gallbladder calculus without cholecystitis and obstruct NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J643000,39025.0,Bile duct calculus + acute cholecystitis and no obstruction,Diagnosis of Cholelithiasis
+Cholelithiasis,J643100,31650.0,Bile duct calculus + acute cholecystitis and obstruction,Diagnosis of Cholelithiasis
+Cholelithiasis,J643.00,34683.0,Bile duct calculus with acute cholecystitis,Diagnosis of Cholelithiasis
+Cholelithiasis,J643z00,96679.0,Bile duct calculus + acute cholecystitis - obstruct NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J644000,107004.0,Bile duct calculus + other cholecystitis and no obstruction,Diagnosis of Cholelithiasis
+Cholelithiasis,J644100,44649.0,Bile duct calculus + other cholecystitis and obstruction,Diagnosis of Cholelithiasis
+Cholelithiasis,J644.00,26889.0,Bile duct calculus with other cholecystitis,Diagnosis of Cholelithiasis
+Cholelithiasis,J644z00,61298.0,Bile duct calculus + other cholecystitis - obstruction NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J645000,66713.0,"Bile duct calculus without cholecystitis, no obstruction",Diagnosis of Cholelithiasis
+Cholelithiasis,J645100,36879.0,Bile duct calculus without cholecystitis with obstruction,Diagnosis of Cholelithiasis
+Cholelithiasis,J645200,8723.0,Bile duct calculus NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J645.00,22697.0,Bile duct calculus without mention of cholecystitis,Diagnosis of Cholelithiasis
+Cholelithiasis,J645.11,15181.0,Choledocholithiasis,Diagnosis of Cholelithiasis
+Cholelithiasis,J645z00,69721.0,Bile duct calculus without cholecystitis NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J646.00,24866.0,Calculus of bile duct with cholangitis,Diagnosis of Cholelithiasis
+Cholelithiasis,J64..00,3599.0,Cholelithiasis,Diagnosis of Cholelithiasis
+Cholelithiasis,J64..11,29142.0,Bile duct calculus,Diagnosis of Cholelithiasis
+Cholelithiasis,J64..12,40075.0,Calculus - biliary,Diagnosis of Cholelithiasis
+Cholelithiasis,J64..13,35469.0,Cystic duct calculus,Diagnosis of Cholelithiasis
+Cholelithiasis,J64..14,8620.0,Gallbladder calculus,Diagnosis of Cholelithiasis
+Cholelithiasis,J64..15,760.0,Gallstones,Diagnosis of Cholelithiasis
+Cholelithiasis,J64..16,17323.0,Stone - biliary,Diagnosis of Cholelithiasis
+Cholelithiasis,J64z000,47888.0,Cholelithiasis without obstruction NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J64z100,62988.0,Cholelithiasis with obstruction NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J64z.00,27437.0,Cholelithiasis NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J64zz00,34063.0,Cholelithiasis NOS,Diagnosis of Cholelithiasis
+Cholelithiasis,J670500,12316.0,Gallstone acute pancreatitis,Diagnosis of Cholelithiasis
+Cholelithiasis,J671100,42278.0,Gallstone chronic pancreatitis,Diagnosis of Cholelithiasis
+Cholelithiasis,Jyu8000,96795.0,[X]Other cholelithiasis,Diagnosis of Cholelithiasis

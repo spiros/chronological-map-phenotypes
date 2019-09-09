@@ -1,12 +1,12 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Urolithiasis","N13.2","Hydronephrosis with renal and ureteral calculous obstruction","Diagnosis of Urolithiasis"
-"Urolithiasis","N20.0","Calculus of kidney","Diagnosis of Urolithiasis"
-"Urolithiasis","N20.1","Calculus of ureter","Diagnosis of Urolithiasis"
-"Urolithiasis","N20.2","Calculus of kidney with calculus of ureter","Diagnosis of Urolithiasis"
-"Urolithiasis","N20.9","Urinary calculus, unspecified","Diagnosis of Urolithiasis"
-"Urolithiasis","N21.0","Calculus in bladder","Diagnosis of Urolithiasis"
-"Urolithiasis","N21.1","Calculus in urethra","Diagnosis of Urolithiasis"
-"Urolithiasis","N21.8","Other lower urinary tract calculus","Diagnosis of Urolithiasis"
-"Urolithiasis","N21.9","Calculus of lower urinary tract, unspecified","Diagnosis of Urolithiasis"
-"Urolithiasis","N22.8","Calculus of urinary tract in other diseases classified elsewhere","Diagnosis of Urolithiasis"
-"Urolithiasis","N23.X","Unspecified renal colic","Diagnosis of Urolithiasis"
+Disease,ICD10code,ICD10codeDescr,Category
+Urolithiasis,N13.2,Hydronephrosis with renal and ureteral calculous obstruction,Diagnosis of Urolithiasis
+Urolithiasis,N20.0,Calculus of kidney,Diagnosis of Urolithiasis
+Urolithiasis,N20.1,Calculus of ureter,Diagnosis of Urolithiasis
+Urolithiasis,N20.2,Calculus of kidney with calculus of ureter,Diagnosis of Urolithiasis
+Urolithiasis,N20.9,"Urinary calculus, unspecified",Diagnosis of Urolithiasis
+Urolithiasis,N21.0,Calculus in bladder,Diagnosis of Urolithiasis
+Urolithiasis,N21.1,Calculus in urethra,Diagnosis of Urolithiasis
+Urolithiasis,N21.8,Other lower urinary tract calculus,Diagnosis of Urolithiasis
+Urolithiasis,N21.9,"Calculus of lower urinary tract, unspecified",Diagnosis of Urolithiasis
+Urolithiasis,N22.8,Calculus of urinary tract in other diseases classified elsewhere,Diagnosis of Urolithiasis
+Urolithiasis,N23.X,Unspecified renal colic,Diagnosis of Urolithiasis

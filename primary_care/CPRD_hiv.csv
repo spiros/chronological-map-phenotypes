@@ -1,49 +1,49 @@
-"Disease","Read code","Medcode","Descr","Category"
-"HIV","43C3.11","2835.0","HIV positive","Diagnosis of HIV"
-"HIV","4J34.00","27053.0","HIV viral load","Diagnosis of HIV"
-"HIV","4J3F.00","96902.0","Human immunodeficiency virus viral load by log rank","Diagnosis of HIV"
-"HIV","65QA.00","23763.0","AIDS carrier","History of HIV"
-"HIV","65VE.00","33943.0","Notification of AIDS","History of HIV"
-"HIV","66j0.00","101191.0","Human immunodeficiency virus annual review","History of HIV"
-"HIV","66j..00","98966.0","Human immunodeficiency virus monitoring","History of HIV"
-"HIV","9kl..00","105040.0","HIV pos gen health check serv declind - enhanc service admin","History of HIV"
-"HIV","A788000","58857.0","Acute human immunodeficiency virus infection","Diagnosis of HIV"
-"HIV","A788100","58859.0","Asymptomatic human immunodeficiency virus infection","Diagnosis of HIV"
-"HIV","A788200","69766.0","HIV infection with persistent generalised lymphadenopathy","Diagnosis of HIV"
-"HIV","A788300","70869.0","Human immunodeficiency virus with constitutional disease","Diagnosis of HIV"
-"HIV","A788400","53636.0","Human immunodeficiency virus with neurological disease","Diagnosis of HIV"
-"HIV","A788500","70528.0","Human immunodeficiency virus with secondary infection","Diagnosis of HIV"
-"HIV","A788600","101836.0","Human immunodeficiency virus with secondary cancers","Diagnosis of HIV"
-"HIV","A788.00","23770.0","Acquired immune deficiency syndrome","Diagnosis of HIV"
-"HIV","A788.11","9130.0","Human immunodeficiency virus infection","Diagnosis of HIV"
-"HIV","A788U00","47632.0","HIV disease result/haematological+immunologic abnorms,NEC","Diagnosis of HIV"
-"HIV","A788W00","67575.0","HIV disease resulting in unspecified malignant neoplasm","Diagnosis of HIV"
-"HIV","A788X00","71450.0","HIV disease resulting/unspcf infectious+parasitic disease","Diagnosis of HIV"
-"HIV","A788y00","62891.0","Human immunodeficiency virus with other clinical findings","Diagnosis of HIV"
-"HIV","A788z00","36294.0","Acquired human immunodeficiency virus infection syndrome NOS","Diagnosis of HIV"
-"HIV","A789000","37006.0","HIV disease resulting in mycobacterial infection","Diagnosis of HIV"
-"HIV","A789100","66368.0","HIV disease resulting in cytomegaloviral disease","Diagnosis of HIV"
-"HIV","A789200","23951.0","HIV disease resulting in candidiasis","Diagnosis of HIV"
-"HIV","A789300","27641.0","HIV disease resulting in Pneumocystis carinii pneumonia","Diagnosis of HIV"
-"HIV","A789311","104717.0","HIV disease resulting in Pneumocystis jirovecii pneumonia","Diagnosis of HIV"
-"HIV","A789400","50076.0","HIV disease resulting in multiple infections","Diagnosis of HIV"
-"HIV","A789500","27853.0","HIV disease resulting in Kaposi's sarcoma","Diagnosis of HIV"
-"HIV","A789511","108054.0","HIV disease resulting in Kaposi sarcoma","Diagnosis of HIV"
-"HIV","A789600","44617.0","HIV disease resulting in Burkitt's lymphoma","Diagnosis of HIV"
-"HIV","A789700","66367.0","HIV dis resulting oth types of non-Hodgkin's lymphoma","Diagnosis of HIV"
-"HIV","A789800","105324.0","HIV disease resulting in multiple malignant neoplasms","Diagnosis of HIV"
-"HIV","A789900","65117.0","HIV disease resulting in lymphoid interstitial pneumonitis","Diagnosis of HIV"
-"HIV","A789.00","44303.0","Human immunodef virus resulting in other disease","Diagnosis of HIV"
-"HIV","A789A00","8281.0","HIV disease resulting in wasting syndrome","Diagnosis of HIV"
-"HIV","A789X00","51708.0","HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu","Diagnosis of HIV"
-"HIV","AyuC100","107807.0","[X]HIV disease resulting in other viral infections","Diagnosis of HIV"
-"HIV","AyuC300","102117.0","[X]HIV disease resulting in multiple infections","Diagnosis of HIV"
-"HIV","AyuC400","104134.0","[X]HIV disease resulting/other infectious+parasitic diseases","Diagnosis of HIV"
-"HIV","AyuC600","69767.0","[X]HIV disease resulting in other non-Hodgkin's lymphoma","Diagnosis of HIV"
-"HIV","AyuC.00","62854.0","[X]Human immunodeficiency virus disease","Diagnosis of HIV"
-"HIV","AyuCB00","96751.0","[X]HIV disease result/haematological+immunologic abnorms,NEC","Diagnosis of HIV"
-"HIV","AyuCC00","102252.0","[X]HIV disease resulting in other specified conditions","Diagnosis of HIV"
-"HIV","AyuCD00","100769.0","[X]Unspecified human immunodeficiency virus [HIV] disease","Diagnosis of HIV"
-"HIV","Eu02400","41185.0","[X]Dementia in human immunodef virus [HIV] disease","Diagnosis of HIV"
-"HIV","R109.00","44288.0","[D]Laboratory evidence of human immunodeficiency virus [HIV]","Diagnosis of HIV"
-"HIV","ZV01A00","24872.0","[V]Asymptomatic human immunodeficency virus infection status","Diagnosis of HIV"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+HIV,43C3.11,2835.0,HIV positive,Diagnosis of HIV
+HIV,4J34.00,27053.0,HIV viral load,Diagnosis of HIV
+HIV,4J3F.00,96902.0,Human immunodeficiency virus viral load by log rank,Diagnosis of HIV
+HIV,65QA.00,23763.0,AIDS carrier,History of HIV
+HIV,65VE.00,33943.0,Notification of AIDS,History of HIV
+HIV,66j0.00,101191.0,Human immunodeficiency virus annual review,History of HIV
+HIV,66j..00,98966.0,Human immunodeficiency virus monitoring,History of HIV
+HIV,9kl..00,105040.0,HIV pos gen health check serv declind - enhanc service admin,History of HIV
+HIV,A788000,58857.0,Acute human immunodeficiency virus infection,Diagnosis of HIV
+HIV,A788100,58859.0,Asymptomatic human immunodeficiency virus infection,Diagnosis of HIV
+HIV,A788200,69766.0,HIV infection with persistent generalised lymphadenopathy,Diagnosis of HIV
+HIV,A788300,70869.0,Human immunodeficiency virus with constitutional disease,Diagnosis of HIV
+HIV,A788400,53636.0,Human immunodeficiency virus with neurological disease,Diagnosis of HIV
+HIV,A788500,70528.0,Human immunodeficiency virus with secondary infection,Diagnosis of HIV
+HIV,A788600,101836.0,Human immunodeficiency virus with secondary cancers,Diagnosis of HIV
+HIV,A788.00,23770.0,Acquired immune deficiency syndrome,Diagnosis of HIV
+HIV,A788.11,9130.0,Human immunodeficiency virus infection,Diagnosis of HIV
+HIV,A788U00,47632.0,"HIV disease result/haematological+immunologic abnorms,NEC",Diagnosis of HIV
+HIV,A788W00,67575.0,HIV disease resulting in unspecified malignant neoplasm,Diagnosis of HIV
+HIV,A788X00,71450.0,HIV disease resulting/unspcf infectious+parasitic disease,Diagnosis of HIV
+HIV,A788y00,62891.0,Human immunodeficiency virus with other clinical findings,Diagnosis of HIV
+HIV,A788z00,36294.0,Acquired human immunodeficiency virus infection syndrome NOS,Diagnosis of HIV
+HIV,A789000,37006.0,HIV disease resulting in mycobacterial infection,Diagnosis of HIV
+HIV,A789100,66368.0,HIV disease resulting in cytomegaloviral disease,Diagnosis of HIV
+HIV,A789200,23951.0,HIV disease resulting in candidiasis,Diagnosis of HIV
+HIV,A789300,27641.0,HIV disease resulting in Pneumocystis carinii pneumonia,Diagnosis of HIV
+HIV,A789311,104717.0,HIV disease resulting in Pneumocystis jirovecii pneumonia,Diagnosis of HIV
+HIV,A789400,50076.0,HIV disease resulting in multiple infections,Diagnosis of HIV
+HIV,A789500,27853.0,HIV disease resulting in Kaposi's sarcoma,Diagnosis of HIV
+HIV,A789511,108054.0,HIV disease resulting in Kaposi sarcoma,Diagnosis of HIV
+HIV,A789600,44617.0,HIV disease resulting in Burkitt's lymphoma,Diagnosis of HIV
+HIV,A789700,66367.0,HIV dis resulting oth types of non-Hodgkin's lymphoma,Diagnosis of HIV
+HIV,A789800,105324.0,HIV disease resulting in multiple malignant neoplasms,Diagnosis of HIV
+HIV,A789900,65117.0,HIV disease resulting in lymphoid interstitial pneumonitis,Diagnosis of HIV
+HIV,A789.00,44303.0,Human immunodef virus resulting in other disease,Diagnosis of HIV
+HIV,A789A00,8281.0,HIV disease resulting in wasting syndrome,Diagnosis of HIV
+HIV,A789X00,51708.0,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",Diagnosis of HIV
+HIV,AyuC100,107807.0,[X]HIV disease resulting in other viral infections,Diagnosis of HIV
+HIV,AyuC300,102117.0,[X]HIV disease resulting in multiple infections,Diagnosis of HIV
+HIV,AyuC400,104134.0,[X]HIV disease resulting/other infectious+parasitic diseases,Diagnosis of HIV
+HIV,AyuC600,69767.0,[X]HIV disease resulting in other non-Hodgkin's lymphoma,Diagnosis of HIV
+HIV,AyuC.00,62854.0,[X]Human immunodeficiency virus disease,Diagnosis of HIV
+HIV,AyuCB00,96751.0,"[X]HIV disease result/haematological+immunologic abnorms,NEC",Diagnosis of HIV
+HIV,AyuCC00,102252.0,[X]HIV disease resulting in other specified conditions,Diagnosis of HIV
+HIV,AyuCD00,100769.0,[X]Unspecified human immunodeficiency virus [HIV] disease,Diagnosis of HIV
+HIV,Eu02400,41185.0,[X]Dementia in human immunodef virus [HIV] disease,Diagnosis of HIV
+HIV,R109.00,44288.0,[D]Laboratory evidence of human immunodeficiency virus [HIV],Diagnosis of HIV
+HIV,ZV01A00,24872.0,[V]Asymptomatic human immunodeficency virus infection status,Diagnosis of HIV

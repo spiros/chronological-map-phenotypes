@@ -1,6 +1,6 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Acute Kidney Injury","N17.0","Acute renal failure with tubular necrosis","Diagnosis of Acute Kidney Injury"
-"Acute Kidney Injury","N17.1","Acute renal failure with acute cortical necrosis","Diagnosis of Acute Kidney Injury"
-"Acute Kidney Injury","N17.2","Acute renal failure with medullary necrosis","Diagnosis of Acute Kidney Injury"
-"Acute Kidney Injury","N17.8","Other acute renal failure","Diagnosis of Acute Kidney Injury"
-"Acute Kidney Injury","N17.9","Acute renal failure, unspecified","Diagnosis of Acute Kidney Injury"
+Disease,ICD10code,ICD10codeDescr,Category
+Acute Kidney Injury,N17.0,Acute renal failure with tubular necrosis,Diagnosis of Acute Kidney Injury
+Acute Kidney Injury,N17.1,Acute renal failure with acute cortical necrosis,Diagnosis of Acute Kidney Injury
+Acute Kidney Injury,N17.2,Acute renal failure with medullary necrosis,Diagnosis of Acute Kidney Injury
+Acute Kidney Injury,N17.8,Other acute renal failure,Diagnosis of Acute Kidney Injury
+Acute Kidney Injury,N17.9,"Acute renal failure, unspecified",Diagnosis of Acute Kidney Injury

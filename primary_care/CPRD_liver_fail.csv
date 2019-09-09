@@ -1,34 +1,34 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Hepatic failure","7L1f.00","88994.0","Compensation for liver failure","Diagnosis of Hepatic failure"
-"Hepatic failure","7L1fz00","97650.0","Compensation for liver failure NOS","Diagnosis of Hepatic failure"
-"Hepatic failure","A700.00","55962.0","Viral hepatitis A with coma","Diagnosis of Hepatic failure"
-"Hepatic failure","A702.00","69053.0","Viral hepatitis B with coma","Diagnosis of Hepatic failure"
-"Hepatic failure","A704000","65050.0","Viral hepatitis C with coma","Diagnosis of Hepatic failure"
-"Hepatic failure","A704.00","69552.0","Other specified viral hepatitis with coma","Diagnosis of Hepatic failure"
-"Hepatic failure","A704z00","89587.0","Other specified viral hepatitis with hepatic coma NOS","Diagnosis of Hepatic failure"
-"Hepatic failure","J600000","6690.0","Acute hepatic failure","Diagnosis of Hepatic failure"
-"Hepatic failure","J600011","39945.0","Acute liver failure","Diagnosis of Hepatic failure"
-"Hepatic failure","J600200","53704.0","Acute yellow atrophy","Diagnosis of Hepatic failure"
-"Hepatic failure","J600.00","41480.0","Acute necrosis of liver","Diagnosis of Hepatic failure"
-"Hepatic failure","J600z00","55637.0","Acute necrosis of liver NOS","Diagnosis of Hepatic failure"
-"Hepatic failure","J601000","26490.0","Subacute hepatic failure","Diagnosis of Hepatic failure"
-"Hepatic failure","J601200","69313.0","Subacute yellow atrophy","Diagnosis of Hepatic failure"
-"Hepatic failure","J601.00","57324.0","Subacute necrosis of liver","Diagnosis of Hepatic failure"
-"Hepatic failure","J601z00","69367.0","Subacute necrosis of liver NOS","Diagnosis of Hepatic failure"
-"Hepatic failure","J60..00","48488.0","Acute and subacute liver necrosis","Diagnosis of Hepatic failure"
-"Hepatic failure","J60z.00","65067.0","Acute and subacute liver necrosis NOS","Diagnosis of Hepatic failure"
-"Hepatic failure","J613000","17330.0","Alcoholic hepatic failure","Diagnosis of Hepatic failure"
-"Hepatic failure","J622.00","23511.0","Hepatic coma","Diagnosis of Hepatic failure"
-"Hepatic failure","J622.11","22411.0","Encephalopathy - hepatic","Diagnosis of Hepatic failure"
-"Hepatic failure","J625.00","24901.0","[X] Hepatic failure","Diagnosis of Hepatic failure"
-"Hepatic failure","J625.11","21769.0","[X] Liver failure","Diagnosis of Hepatic failure"
-"Hepatic failure","J62y.11","56070.0","Hepatic failure NOS","Diagnosis of Hepatic failure"
-"Hepatic failure","J62y.12","23775.0","Liver failure NOS","Diagnosis of Hepatic failure"
-"Hepatic failure","J62y.13","16062.0","Hepatic failure","Diagnosis of Hepatic failure"
-"Hepatic failure","J634.00","49042.0","Hepatic infarction","Diagnosis of Hepatic failure"
-"Hepatic failure","J635100","36107.0","Toxic liver disease with hepatic necrosis","Diagnosis of Hepatic failure"
-"Hepatic failure","J635700","41386.0","Acute hepatic failure due to drugs","Diagnosis of Hepatic failure"
-"Hepatic failure","J636.00","64451.0","Central haemorrhagic necrosis of liver","Diagnosis of Hepatic failure"
-"Hepatic failure","SP08600","6692.0","Liver transplant failure and rejection","Diagnosis of Hepatic failure"
-"Hepatic failure","SP14200","36194.0","Hepatic failure as a complication of care","Diagnosis of Hepatic failure"
-"Hepatic failure","SP14211","17222.0","Liver failure as a complication of care","Diagnosis of Hepatic failure"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Hepatic failure,7L1f.00,88994.0,Compensation for liver failure,Diagnosis of Hepatic failure
+Hepatic failure,7L1fz00,97650.0,Compensation for liver failure NOS,Diagnosis of Hepatic failure
+Hepatic failure,A700.00,55962.0,Viral hepatitis A with coma,Diagnosis of Hepatic failure
+Hepatic failure,A702.00,69053.0,Viral hepatitis B with coma,Diagnosis of Hepatic failure
+Hepatic failure,A704000,65050.0,Viral hepatitis C with coma,Diagnosis of Hepatic failure
+Hepatic failure,A704.00,69552.0,Other specified viral hepatitis with coma,Diagnosis of Hepatic failure
+Hepatic failure,A704z00,89587.0,Other specified viral hepatitis with hepatic coma NOS,Diagnosis of Hepatic failure
+Hepatic failure,J600000,6690.0,Acute hepatic failure,Diagnosis of Hepatic failure
+Hepatic failure,J600011,39945.0,Acute liver failure,Diagnosis of Hepatic failure
+Hepatic failure,J600200,53704.0,Acute yellow atrophy,Diagnosis of Hepatic failure
+Hepatic failure,J600.00,41480.0,Acute necrosis of liver,Diagnosis of Hepatic failure
+Hepatic failure,J600z00,55637.0,Acute necrosis of liver NOS,Diagnosis of Hepatic failure
+Hepatic failure,J601000,26490.0,Subacute hepatic failure,Diagnosis of Hepatic failure
+Hepatic failure,J601200,69313.0,Subacute yellow atrophy,Diagnosis of Hepatic failure
+Hepatic failure,J601.00,57324.0,Subacute necrosis of liver,Diagnosis of Hepatic failure
+Hepatic failure,J601z00,69367.0,Subacute necrosis of liver NOS,Diagnosis of Hepatic failure
+Hepatic failure,J60..00,48488.0,Acute and subacute liver necrosis,Diagnosis of Hepatic failure
+Hepatic failure,J60z.00,65067.0,Acute and subacute liver necrosis NOS,Diagnosis of Hepatic failure
+Hepatic failure,J613000,17330.0,Alcoholic hepatic failure,Diagnosis of Hepatic failure
+Hepatic failure,J622.00,23511.0,Hepatic coma,Diagnosis of Hepatic failure
+Hepatic failure,J622.11,22411.0,Encephalopathy - hepatic,Diagnosis of Hepatic failure
+Hepatic failure,J625.00,24901.0,[X] Hepatic failure,Diagnosis of Hepatic failure
+Hepatic failure,J625.11,21769.0,[X] Liver failure,Diagnosis of Hepatic failure
+Hepatic failure,J62y.11,56070.0,Hepatic failure NOS,Diagnosis of Hepatic failure
+Hepatic failure,J62y.12,23775.0,Liver failure NOS,Diagnosis of Hepatic failure
+Hepatic failure,J62y.13,16062.0,Hepatic failure,Diagnosis of Hepatic failure
+Hepatic failure,J634.00,49042.0,Hepatic infarction,Diagnosis of Hepatic failure
+Hepatic failure,J635100,36107.0,Toxic liver disease with hepatic necrosis,Diagnosis of Hepatic failure
+Hepatic failure,J635700,41386.0,Acute hepatic failure due to drugs,Diagnosis of Hepatic failure
+Hepatic failure,J636.00,64451.0,Central haemorrhagic necrosis of liver,Diagnosis of Hepatic failure
+Hepatic failure,SP08600,6692.0,Liver transplant failure and rejection,Diagnosis of Hepatic failure
+Hepatic failure,SP14200,36194.0,Hepatic failure as a complication of care,Diagnosis of Hepatic failure
+Hepatic failure,SP14211,17222.0,Liver failure as a complication of care,Diagnosis of Hepatic failure

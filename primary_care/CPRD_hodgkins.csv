@@ -1,74 +1,74 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Hodgkin Lymphoma","B610100","100423.0","Hodgkin's paragranuloma of lymph nodes of head, face, neck","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B610300","98840.0","Hodgkin's paragranuloma of intra-abdominal lymph nodes","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B610.00","65489.0","Hodgkin's paragranuloma","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B611100","98909.0","Hodgkin's granuloma of lymph nodes of head, face and neck","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B611.00","44196.0","Hodgkin's granuloma","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B612400","68039.0","Hodgkin's sarcoma of lymph nodes of axilla and upper limb","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B612.00","64036.0","Hodgkin's sarcoma","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B613000","71142.0","Hodgkin's, lymphocytic-histiocytic predominance unspec site","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B613100","68330.0","Hodgkin's, lymphocytic-histiocytic pred of head, face, neck","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B613200","92245.0","Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B613300","73532.0","Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B613500","93951.0","Hodgkin's, lymphocytic-histiocytic pred inguinal and leg","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B613600","95338.0","Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B613700","106911.0","Hodgkin's, lymphocytic-histiocytic predominance of spleen","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B613800","104743.0","Hodgkin's, lymphocytic-histiocytic pred of multiple sites","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B613.00","38939.0","Hodgkin's disease, lymphocytic-histiocytic predominance","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B613z00","29876.0","Hodgkin's, lymphocytic-histiocytic predominance NOS","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B614000","57225.0","Hodgkin's disease, nodular sclerosis of unspecified site","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B614100","55303.0","Hodgkin's nodular sclerosis of head, face and neck","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B614200","67506.0","Hodgkin's nodular sclerosis of intrathoracic lymph nodes","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B614300","61149.0","Hodgkin's nodular sclerosis of intra-abdominal lymph nodes","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B614400","65483.0","Hodgkin's nodular sclerosis of lymph nodes of axilla and arm","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B614700","105472.0","Hodgkin's disease, nodular sclerosis of spleen","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B614800","19140.0","Hodgkin's nodular sclerosis of lymph nodes of multiple sites","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B614.00","29178.0","Hodgkin's disease, nodular sclerosis","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B614z00","63054.0","Hodgkin's disease, nodular sclerosis NOS","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B615000","97863.0","Hodgkin's disease, mixed cellularity of unspecified site","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B615100","94407.0","Hodgkin's mixed cellularity of lymph nodes head, face, neck","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B615200","58684.0","Hodgkin's mixed cellularity of intrathoracic lymph nodes","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B615500","108886.0","Hodgkin's mixed cellularity of lymph nodes inguinal and leg","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B615.00","49605.0","Hodgkin's disease, mixed cellularity","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B615z00","94005.0","Hodgkin's disease, mixed cellularity NOS","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B616000","95049.0","Hodgkin's lymphocytic depletion of unspecified site","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B616400","63625.0","Hodgkin's lymphocytic depletion lymph nodes axilla and arm","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B616500","110563.0","Hodgkin's lymphocytic depletion lymph nodes inguinal and leg","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B616700","101715.0","Hodgkin's disease, lymphocytic depletion of spleen","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B616800","107032.0","Hodgkin's lymphocytic depletion lymph nodes multiple sites","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B616.00","67703.0","Hodgkin's disease, lymphocytic depletion","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B616z00","101530.0","Hodgkin's disease, lymphocytic depletion NOS","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B617.00","104895.0","Nodular lymphocyte predominant Hodgkin lymphoma","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B618.00","105841.0","Nodular sclerosis classical Hodgkin lymphoma","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B619.00","108775.0","Mixed cellularity classical Hodgkin lymphoma","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61..00","2462.0","Hodgkin's disease","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61..11","104291.0","Hodgkin lymphoma","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61B.00","106597.0","Lymphocyte-rich classical Hodgkin lymphoma","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61C.00","104484.0","Other classical Hodgkin lymphoma","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61z000","61662.0","Hodgkin's disease NOS, unspecified site","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61z100","59778.0","Hodgkin's disease NOS of lymph nodes of head, face and neck","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61z200","59755.0","Hodgkin's disease NOS of intrathoracic lymph nodes","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61z300","107804.0","Hodgkin's disease NOS of intra-abdominal lymph nodes","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61z400","91900.0","Hodgkin's disease NOS of lymph nodes of axilla and arm","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61z500","99012.0","Hodgkin's disease NOS of lymph nodes inguinal region and leg","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61z700","94279.0","Hodgkin's disease NOS of spleen","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61z800","97746.0","Hodgkin's disease NOS of lymph nodes of multiple sites","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61z.00","53397.0","Hodgkin's disease NOS","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61z.11","106349.0","Hodgkin lymphoma NOS","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","B61zz00","42461.0","Hodgkin's disease NOS","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj0.00","61997.0","[M]Hodgkin's disease NOS","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj1000","65584.0","[M]Hodgkin,s disease, lymphocytic predominance, diffuse","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj1100","31537.0","[M]Hodgkin,s disease, lymphocytic predominance, nodular","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj1.00","56041.0","[M]Hodgkin's disease, lymphocytic predominance","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj2.00","51285.0","[M]Hodgkin's disease, mixed cellularity","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj4.00","96183.0","[M]Hodgkin's disease,lymphocytic depletion,diffuse fibrosis","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj6000","40508.0","[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predom","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj6100","64343.0","[M]Hodgkin,s disease, nodular sclerosis, mixed cellularity","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj6200","31741.0","[M]Hodgkin,s disease, nodular sclerosis, lymphocytic deplet","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj6.00","42198.0","[M]Hodgkin's disease, nodular sclerosis NOS","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj7.00","99200.0","[M]Hodgkin's disease, nodular sclerosis, cellular phase","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj9.00","89230.0","[M]Hodgkin's granuloma","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBj..00","20710.0","[M]Hodgkin's disease","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","BBjz.00","42769.0","[M]Hodgkin's disease NOS","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","ByuD000","43415.0","[X]Other Hodgkin's disease","Diagnosis of Hodgkin Lymphoma"
-"Hodgkin Lymphoma","ZV10711","40561.0","[V]Personal history of Hodgkin's disease","History of Hodgkin Lymphoma"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Hodgkin Lymphoma,B610100,100423.0,"Hodgkin's paragranuloma of lymph nodes of head, face, neck",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B610300,98840.0,Hodgkin's paragranuloma of intra-abdominal lymph nodes,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B610.00,65489.0,Hodgkin's paragranuloma,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B611100,98909.0,"Hodgkin's granuloma of lymph nodes of head, face and neck",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B611.00,44196.0,Hodgkin's granuloma,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B612400,68039.0,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B612.00,64036.0,Hodgkin's sarcoma,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B613000,71142.0,"Hodgkin's, lymphocytic-histiocytic predominance unspec site",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B613100,68330.0,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B613200,92245.0,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B613300,73532.0,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B613500,93951.0,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B613600,95338.0,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B613700,106911.0,"Hodgkin's, lymphocytic-histiocytic predominance of spleen",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B613800,104743.0,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B613.00,38939.0,"Hodgkin's disease, lymphocytic-histiocytic predominance",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B613z00,29876.0,"Hodgkin's, lymphocytic-histiocytic predominance NOS",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B614000,57225.0,"Hodgkin's disease, nodular sclerosis of unspecified site",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B614100,55303.0,"Hodgkin's nodular sclerosis of head, face and neck",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B614200,67506.0,Hodgkin's nodular sclerosis of intrathoracic lymph nodes,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B614300,61149.0,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B614400,65483.0,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B614700,105472.0,"Hodgkin's disease, nodular sclerosis of spleen",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B614800,19140.0,Hodgkin's nodular sclerosis of lymph nodes of multiple sites,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B614.00,29178.0,"Hodgkin's disease, nodular sclerosis",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B614z00,63054.0,"Hodgkin's disease, nodular sclerosis NOS",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B615000,97863.0,"Hodgkin's disease, mixed cellularity of unspecified site",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B615100,94407.0,"Hodgkin's mixed cellularity of lymph nodes head, face, neck",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B615200,58684.0,Hodgkin's mixed cellularity of intrathoracic lymph nodes,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B615500,108886.0,Hodgkin's mixed cellularity of lymph nodes inguinal and leg,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B615.00,49605.0,"Hodgkin's disease, mixed cellularity",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B615z00,94005.0,"Hodgkin's disease, mixed cellularity NOS",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B616000,95049.0,Hodgkin's lymphocytic depletion of unspecified site,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B616400,63625.0,Hodgkin's lymphocytic depletion lymph nodes axilla and arm,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B616500,110563.0,Hodgkin's lymphocytic depletion lymph nodes inguinal and leg,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B616700,101715.0,"Hodgkin's disease, lymphocytic depletion of spleen",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B616800,107032.0,Hodgkin's lymphocytic depletion lymph nodes multiple sites,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B616.00,67703.0,"Hodgkin's disease, lymphocytic depletion",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B616z00,101530.0,"Hodgkin's disease, lymphocytic depletion NOS",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B617.00,104895.0,Nodular lymphocyte predominant Hodgkin lymphoma,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B618.00,105841.0,Nodular sclerosis classical Hodgkin lymphoma,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B619.00,108775.0,Mixed cellularity classical Hodgkin lymphoma,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61..00,2462.0,Hodgkin's disease,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61..11,104291.0,Hodgkin lymphoma,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61B.00,106597.0,Lymphocyte-rich classical Hodgkin lymphoma,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61C.00,104484.0,Other classical Hodgkin lymphoma,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61z000,61662.0,"Hodgkin's disease NOS, unspecified site",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61z100,59778.0,"Hodgkin's disease NOS of lymph nodes of head, face and neck",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61z200,59755.0,Hodgkin's disease NOS of intrathoracic lymph nodes,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61z300,107804.0,Hodgkin's disease NOS of intra-abdominal lymph nodes,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61z400,91900.0,Hodgkin's disease NOS of lymph nodes of axilla and arm,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61z500,99012.0,Hodgkin's disease NOS of lymph nodes inguinal region and leg,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61z700,94279.0,Hodgkin's disease NOS of spleen,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61z800,97746.0,Hodgkin's disease NOS of lymph nodes of multiple sites,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61z.00,53397.0,Hodgkin's disease NOS,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61z.11,106349.0,Hodgkin lymphoma NOS,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,B61zz00,42461.0,Hodgkin's disease NOS,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj0.00,61997.0,[M]Hodgkin's disease NOS,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj1000,65584.0,"[M]Hodgkin,s disease, lymphocytic predominance, diffuse",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj1100,31537.0,"[M]Hodgkin,s disease, lymphocytic predominance, nodular",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj1.00,56041.0,"[M]Hodgkin's disease, lymphocytic predominance",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj2.00,51285.0,"[M]Hodgkin's disease, mixed cellularity",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj4.00,96183.0,"[M]Hodgkin's disease,lymphocytic depletion,diffuse fibrosis",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj6000,40508.0,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predom",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj6100,64343.0,"[M]Hodgkin,s disease, nodular sclerosis, mixed cellularity",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj6200,31741.0,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic deplet",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj6.00,42198.0,"[M]Hodgkin's disease, nodular sclerosis NOS",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj7.00,99200.0,"[M]Hodgkin's disease, nodular sclerosis, cellular phase",Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj9.00,89230.0,[M]Hodgkin's granuloma,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBj..00,20710.0,[M]Hodgkin's disease,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,BBjz.00,42769.0,[M]Hodgkin's disease NOS,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,ByuD000,43415.0,[X]Other Hodgkin's disease,Diagnosis of Hodgkin Lymphoma
+Hodgkin Lymphoma,ZV10711,40561.0,[V]Personal history of Hodgkin's disease,History of Hodgkin Lymphoma

@@ -1,31 +1,31 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Urticaria","2F82.00","39255.0","O/E - weals present","Diagnosis of Urticaria"
-"Urticaria","2F8..00","7031.0","O/E - weals present","Diagnosis of Urticaria"
-"Urticaria","2F8Z.00","65374.0","O/E - weals NOS","Diagnosis of Urticaria"
-"Urticaria","M12A200","15310.0","Solar urticaria","Diagnosis of Urticaria"
-"Urticaria","M280.00","6400.0","Allergic urticaria","Diagnosis of Urticaria"
-"Urticaria","M280.11","38554.0","Drug induced urticaria","Diagnosis of Urticaria"
-"Urticaria","M281.00","8948.0","Idiopathic urticaria","Diagnosis of Urticaria"
-"Urticaria","M282000","7651.0","Cold urticaria","Diagnosis of Urticaria"
-"Urticaria","M282100","30016.0","Thermal urticaria","Diagnosis of Urticaria"
-"Urticaria","M282111","17710.0","Heat urticaria","Diagnosis of Urticaria"
-"Urticaria","M282.00","16294.0","Urticaria due to cold and heat","Diagnosis of Urticaria"
-"Urticaria","M282z00","45386.0","Urticaria due to cold and heat NOS","Diagnosis of Urticaria"
-"Urticaria","M283.00","1594.0","Dermatographic urticaria","Diagnosis of Urticaria"
-"Urticaria","M283.11","43163.0","Factitial urticaria","Diagnosis of Urticaria"
-"Urticaria","M284.00","20919.0","Vibratory urticaria","Diagnosis of Urticaria"
-"Urticaria","M285.00","9041.0","Cholinergic urticaria","Diagnosis of Urticaria"
-"Urticaria","M286.00","6678.0","Contact urticaria","Diagnosis of Urticaria"
-"Urticaria","M287.00","24845.0","Physical urticaria","Diagnosis of Urticaria"
-"Urticaria","M28..00","1272.0","Urticaria","Diagnosis of Urticaria"
-"Urticaria","M28y000","20986.0","Urticaria geographica","Diagnosis of Urticaria"
-"Urticaria","M28y100","50836.0","Menstrual urticaria","Diagnosis of Urticaria"
-"Urticaria","M28y200","51725.0","Urticaria persistans","Diagnosis of Urticaria"
-"Urticaria","M28y.00","1869.0","Other specified urticaria","Diagnosis of Urticaria"
-"Urticaria","M28y.11","11883.0","Nettle rash","Diagnosis of Urticaria"
-"Urticaria","M28yz00","23645.0","Other specified urticaria NOS","Diagnosis of Urticaria"
-"Urticaria","M28z.00","15138.0","Urticaria NOS","Diagnosis of Urticaria"
-"Urticaria","M28z.11","7244.0","Hives","Diagnosis of Urticaria"
-"Urticaria","Myu4000","49257.0","[X]Other urticaria","Diagnosis of Urticaria"
-"Urticaria","Myu4.00","70628.0","[X]Urticaria and erythema","Diagnosis of Urticaria"
-"Urticaria","PH32100","1876.0","Urticaria pigmentosa","Diagnosis of Urticaria"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Urticaria,2F82.00,39255.0,O/E - weals present,Diagnosis of Urticaria
+Urticaria,2F8..00,7031.0,O/E - weals present,Diagnosis of Urticaria
+Urticaria,2F8Z.00,65374.0,O/E - weals NOS,Diagnosis of Urticaria
+Urticaria,M12A200,15310.0,Solar urticaria,Diagnosis of Urticaria
+Urticaria,M280.00,6400.0,Allergic urticaria,Diagnosis of Urticaria
+Urticaria,M280.11,38554.0,Drug induced urticaria,Diagnosis of Urticaria
+Urticaria,M281.00,8948.0,Idiopathic urticaria,Diagnosis of Urticaria
+Urticaria,M282000,7651.0,Cold urticaria,Diagnosis of Urticaria
+Urticaria,M282100,30016.0,Thermal urticaria,Diagnosis of Urticaria
+Urticaria,M282111,17710.0,Heat urticaria,Diagnosis of Urticaria
+Urticaria,M282.00,16294.0,Urticaria due to cold and heat,Diagnosis of Urticaria
+Urticaria,M282z00,45386.0,Urticaria due to cold and heat NOS,Diagnosis of Urticaria
+Urticaria,M283.00,1594.0,Dermatographic urticaria,Diagnosis of Urticaria
+Urticaria,M283.11,43163.0,Factitial urticaria,Diagnosis of Urticaria
+Urticaria,M284.00,20919.0,Vibratory urticaria,Diagnosis of Urticaria
+Urticaria,M285.00,9041.0,Cholinergic urticaria,Diagnosis of Urticaria
+Urticaria,M286.00,6678.0,Contact urticaria,Diagnosis of Urticaria
+Urticaria,M287.00,24845.0,Physical urticaria,Diagnosis of Urticaria
+Urticaria,M28..00,1272.0,Urticaria,Diagnosis of Urticaria
+Urticaria,M28y000,20986.0,Urticaria geographica,Diagnosis of Urticaria
+Urticaria,M28y100,50836.0,Menstrual urticaria,Diagnosis of Urticaria
+Urticaria,M28y200,51725.0,Urticaria persistans,Diagnosis of Urticaria
+Urticaria,M28y.00,1869.0,Other specified urticaria,Diagnosis of Urticaria
+Urticaria,M28y.11,11883.0,Nettle rash,Diagnosis of Urticaria
+Urticaria,M28yz00,23645.0,Other specified urticaria NOS,Diagnosis of Urticaria
+Urticaria,M28z.00,15138.0,Urticaria NOS,Diagnosis of Urticaria
+Urticaria,M28z.11,7244.0,Hives,Diagnosis of Urticaria
+Urticaria,Myu4000,49257.0,[X]Other urticaria,Diagnosis of Urticaria
+Urticaria,Myu4.00,70628.0,[X]Urticaria and erythema,Diagnosis of Urticaria
+Urticaria,PH32100,1876.0,Urticaria pigmentosa,Diagnosis of Urticaria

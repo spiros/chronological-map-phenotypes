@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Respiratory failure","J96","Respiratory failure, not elsewhere classified","Diagnosis of Respiratory failure"
+Disease,ICD10code,ICD10codeDescr,Category
+Respiratory failure,J96,"Respiratory failure, not elsewhere classified",Diagnosis of Respiratory failure

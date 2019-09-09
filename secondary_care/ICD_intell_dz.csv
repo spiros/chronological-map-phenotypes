@@ -1,8 +1,8 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Intellectual disability","F70","Mild mental retardation","Diagnosis of Intellectual disability"
-"Intellectual disability","F71","Moderate mental retardation","Diagnosis of Intellectual disability"
-"Intellectual disability","F72","Severe mental retardation","Diagnosis of Intellectual disability"
-"Intellectual disability","F73","Profound mental retardation","Diagnosis of Intellectual disability"
-"Intellectual disability","F78","Other mental retardation","Diagnosis of Intellectual disability"
-"Intellectual disability","F79","Unspecified mental retardation","Diagnosis of Intellectual disability"
-"Intellectual disability","F81.9","Developmental disorder of scholastic skills, unspecified","Diagnosis of Intellectual disability"
+Disease,ICD10code,ICD10codeDescr,Category
+Intellectual disability,F70,Mild mental retardation,Diagnosis of Intellectual disability
+Intellectual disability,F71,Moderate mental retardation,Diagnosis of Intellectual disability
+Intellectual disability,F72,Severe mental retardation,Diagnosis of Intellectual disability
+Intellectual disability,F73,Profound mental retardation,Diagnosis of Intellectual disability
+Intellectual disability,F78,Other mental retardation,Diagnosis of Intellectual disability
+Intellectual disability,F79,Unspecified mental retardation,Diagnosis of Intellectual disability
+Intellectual disability,F81.9,"Developmental disorder of scholastic skills, unspecified",Diagnosis of Intellectual disability

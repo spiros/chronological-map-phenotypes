@@ -1,8 +1,8 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Infection of anal and rectal regions","A51.1","Primary anal syphilis","Diagnosis of Infection of anal and rectal regions"
-"Infection of anal and rectal regions","A54.6","Gonococcal infection of anus and rectum","Diagnosis of Infection of anal and rectal regions"
-"Infection of anal and rectal regions","A56.3","Chlamydial infection of anus and rectum","Diagnosis of Infection of anal and rectal regions"
-"Infection of anal and rectal regions","A60.1","Herpesviral infection of perianal skin and rectum","Diagnosis of Infection of anal and rectal regions"
-"Infection of anal and rectal regions","A60.9","Anogenital herpesviral infection, unspecified","Diagnosis of Infection of anal and rectal regions"
-"Infection of anal and rectal regions","A63.0","Anogenital (venereal) warts","Diagnosis of Infection of anal and rectal regions"
-"Infection of anal and rectal regions","K61","Abscess of anal and rectal regions","Diagnosis of Infection of anal and rectal regions"
+Disease,ICD10code,ICD10codeDescr,Category
+Infection of anal and rectal regions,A51.1,Primary anal syphilis,Diagnosis of Infection of anal and rectal regions
+Infection of anal and rectal regions,A54.6,Gonococcal infection of anus and rectum,Diagnosis of Infection of anal and rectal regions
+Infection of anal and rectal regions,A56.3,Chlamydial infection of anus and rectum,Diagnosis of Infection of anal and rectal regions
+Infection of anal and rectal regions,A60.1,Herpesviral infection of perianal skin and rectum,Diagnosis of Infection of anal and rectal regions
+Infection of anal and rectal regions,A60.9,"Anogenital herpesviral infection, unspecified",Diagnosis of Infection of anal and rectal regions
+Infection of anal and rectal regions,A63.0,Anogenital (venereal) warts,Diagnosis of Infection of anal and rectal regions
+Infection of anal and rectal regions,K61,Abscess of anal and rectal regions,Diagnosis of Infection of anal and rectal regions

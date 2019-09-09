@@ -1,13 +1,13 @@
 Disease,ICD10code,ICD10codeDescr,Category
-Transient cerebral ischaemic attacks,G45.0,Vertebro-basilar artery syndrome,Diagnosis of TIA
-Transient cerebral ischaemic attacks,G45.1,Carotid artery syndrome (hemispheric),Diagnosis of TIA
-Transient cerebral ischaemic attacks,G45.2,Multiple and bilateral precerebral artery syndromes,Diagnosis of TIA
-Transient cerebral ischaemic attacks,G45.3,Amaurosis fugax,Diagnosis of TIA
-Transient cerebral ischaemic attacks,G45.4,Transient global amnesia,Diagnosis of TIA
-Transient cerebral ischaemic attacks,G45.8,Other transient cerebral ischaemic attacks and related syndromes,Diagnosis of TIA
-Transient cerebral ischaemic attacks,G45.9,"Transient cerebral ischaemic attack, unspecified",Diagnosis of TIA
-Transient cerebral ischaemic attacks,G46.0,Middle cerebral artery syndrome,Diagnosis of TIA
-Transient cerebral ischaemic attacks,G46.1,Anterior cerebral artery syndrome,Diagnosis of TIA
-Transient cerebral ischaemic attacks,G46.2,Posterior cerebral artery syndrome,Diagnosis of TIA
-Transient cerebral ischaemic attacks,I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",Diagnosis of TIA
-Transient cerebral ischaemic attacks,I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",Diagnosis of TIA
+Transient ischaemic attack,G45.0,Vertebro-basilar artery syndrome,Diagnosis of TIA
+Transient ischaemic attack,G45.1,Carotid artery syndrome (hemispheric),Diagnosis of TIA
+Transient ischaemic attack,G45.2,Multiple and bilateral precerebral artery syndromes,Diagnosis of TIA
+Transient ischaemic attack,G45.3,Amaurosis fugax,Diagnosis of TIA
+Transient ischaemic attack,G45.4,Transient global amnesia,Diagnosis of TIA
+Transient ischaemic attack,G45.8,Other transient cerebral ischaemic attacks and related syndromes,Diagnosis of TIA
+Transient ischaemic attack,G45.9,"Transient cerebral ischaemic attack, unspecified",Diagnosis of TIA
+Transient ischaemic attack,G46.0,Middle cerebral artery syndrome,Diagnosis of TIA
+Transient ischaemic attack,G46.1,Anterior cerebral artery syndrome,Diagnosis of TIA
+Transient ischaemic attack,G46.2,Posterior cerebral artery syndrome,Diagnosis of TIA
+Transient ischaemic attack,I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",Diagnosis of TIA
+Transient ischaemic attack,I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",Diagnosis of TIA

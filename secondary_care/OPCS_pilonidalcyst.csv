@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
 "Pilonidal cyst","H59.1","Excision of pilonidal sinus and Z plasty skin flap HFQ","Procedure for Pilonidal cyst"
 "Pilonidal cyst","H59.2","Excision of pilonidal sinus and skin flap NEC","Procedure for Pilonidal cyst"
 "Pilonidal cyst","H59.3","Excision of pilonidal sinus and skin graft HFQ","Procedure for Pilonidal cyst"

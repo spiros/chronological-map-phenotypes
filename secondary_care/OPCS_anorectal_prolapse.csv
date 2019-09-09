@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
 "Anorectal prolapse","H36","Other abdominal operations for prolapse of rectum","Procedure for Anorectal prolapse"
 "Anorectal prolapse","H36.1","Abdominal repair of levator ani muscles","Procedure for Anorectal prolapse"
 "Anorectal prolapse","H36.8","Other specified other abdominal operations for prolapse of rectum","Procedure for Anorectal prolapse"

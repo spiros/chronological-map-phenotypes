@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
 "Patent ductus arteriosus","L02","Open correction of patent ductus arteriosus","Diagnosis of Patent ductus arteriosus"
 "Patent ductus arteriosus","L02.1","Division of patent ductus arteriosus","Diagnosis of Patent ductus arteriosus"
 "Patent ductus arteriosus","L02.2","Ligature of patent ductus arteriosus","Diagnosis of Patent ductus arteriosus"

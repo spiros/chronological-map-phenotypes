@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
 "Oesophageal varices","G10","Open operations on varices of oesophagus","Procedure for Oesophageal varices"
 "Oesophageal varices","G10.1","Disconnection of azygos vein","Procedure for Oesophageal varices"
 "Oesophageal varices","G10.2","Transection of oesophagus using staple gun","Procedure for Oesophageal varices"

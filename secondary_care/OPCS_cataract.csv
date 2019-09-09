@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
 "Cataract","C71.1","Simple linear extraction of lens","Procedure for Cataract"
 "Cataract","C71.2","Phacoemulsification of lens","Procedure for Cataract"
 "Cataract","C71.3","Aspiration of lens","Procedure for Cataract"

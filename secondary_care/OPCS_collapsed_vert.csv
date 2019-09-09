@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
 "Collapsed vertebra","V44","Decompression of fracture of spine","Procedure for Collapsed vertebra"
 "Collapsed vertebra","V44.1","Complex decompression of fracture of spine","Procedure for Collapsed vertebra"
 "Collapsed vertebra","V44.2","Anterior decompression of fracture of spine","Procedure for Collapsed vertebra"

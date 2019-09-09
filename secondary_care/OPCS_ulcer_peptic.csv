@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
 "Peptic ulcer disease","G35","Operations on ulcer of stomach","Procedure for Peptic ulcer disease"
 "Peptic ulcer disease","G35.1","Closure of perforated ulcer of stomach","Procedure for Peptic ulcer disease"
 "Peptic ulcer disease","G35.2","Closure of ulcer of stomach NEC","Procedure for Peptic ulcer disease"

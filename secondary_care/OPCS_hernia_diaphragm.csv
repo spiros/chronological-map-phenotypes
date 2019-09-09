@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
 "Diaphragmatic hernia","G23","Repair of diaphragmatic hernia","Procedure for Diaphragmatic hernia"
 "Diaphragmatic hernia","G23.1","Repair of oesophageal hiatus using thoracic approach","Procedure for Diaphragmatic hernia"
 "Diaphragmatic hernia","G23.2","Repair of diaphragmatic hernia using thoracic approach NEC","Procedure for Diaphragmatic hernia"

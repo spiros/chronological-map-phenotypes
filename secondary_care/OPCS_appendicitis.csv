@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
 "Appendicitis","H01","Emergency excision of appendix","Procedure for Appendicitis"
 "Appendicitis","H01.1","Emergency excision of abnormal appendix and drainage HFQ","Procedure for Appendicitis"
 "Appendicitis","H01.2","Emergency excision of abnormal appendix NEC","Procedure for Appendicitis"

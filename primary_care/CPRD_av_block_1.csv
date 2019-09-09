@@ -1,5 +1,5 @@
-"Disease","Read code","Medcode","Descr","Category","av2","av3"
-"Atrioventricular block, first degree","3294.00","26971.0","ECG:partial A-V block-long P-R","Diagnosis of Atrioventricular block, first degree","",""
-"Atrioventricular block, first degree","32I3.00","48092.0","ECG: P-R interval prolonged","Diagnosis of Atrioventricular block, first degree","",""
-"Atrioventricular block, first degree","G561100","12149.0","First degree atrioventricular block","Diagnosis of Atrioventricular block, first degree","",""
-"Atrioventricular block, first degree","G561111","46992.0","Prolonged P-R interval","Diagnosis of Atrioventricular block, first degree","",""
+Disease,Read code,Medcode,Descr,Category
+"Atrioventricular block, first degree",3294,26971,ECG:partial A-V block-long P-R,"Diagnosis of Atrioventricular block, first degree"
+"Atrioventricular block, first degree",32I3.00,48092,ECG: P-R interval prolonged,"Diagnosis of Atrioventricular block, first degree"
+"Atrioventricular block, first degree",G561100,12149,First degree atrioventricular block,"Diagnosis of Atrioventricular block, first degree"
+"Atrioventricular block, first degree",G561111,46992,Prolonged P-R interval,"Diagnosis of Atrioventricular block, first degree"

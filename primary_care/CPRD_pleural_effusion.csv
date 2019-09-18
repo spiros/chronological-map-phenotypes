@@ -1,0 +1,17 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Pleural effusion,H511000,43345.0,Pneumococcal pleurisy with effusion,Diagnosis of Pleural effusion
+Pleural effusion,H511100,93010.0,Staphylococcal pleurisy with effusion,Diagnosis of Pleural effusion
+Pleural effusion,H511200,108784.0,Streptococcal pleurisy with effusion,Diagnosis of Pleural effusion
+Pleural effusion,H511.00,31689.0,Bacterial pleurisy with effusion,Diagnosis of Pleural effusion
+Pleural effusion,H511z00,44842.0,Bacterial pleurisy with effusion NOS,Diagnosis of Pleural effusion
+Pleural effusion,H51y400,33577.0,Hydrothorax,Diagnosis of Pleural effusion
+Pleural effusion,H51y500,43807.0,Chylous effusion,Diagnosis of Pleural effusion
+Pleural effusion,H51y700,7593.0,Malignant pleural effusion,Diagnosis of Pleural effusion
+Pleural effusion,H51y.00,30065.0,Other pleural effusion excluding mention of tuberculosis,Diagnosis of Pleural effusion
+Pleural effusion,H51yz00,18081.0,Other pleural effusion,Diagnosis of Pleural effusion
+Pleural effusion,H51z000,60142.0,Exudative pleurisy NOS,Diagnosis of Pleural effusion
+Pleural effusion,H51z100,68470.0,Serofibrinous pleurisy NOS,Diagnosis of Pleural effusion
+Pleural effusion,H51z200,55211.0,Serous pleurisy NOS,Diagnosis of Pleural effusion
+Pleural effusion,H51z.00,947.0,Pleural effusion NOS,Diagnosis of Pleural effusion
+Pleural effusion,H51zz00,9559.0,Pleural effusion NOS,Diagnosis of Pleural effusion
+Pleural effusion,Hyu7000,52850.0,[X]Pleural effusion in conditions classified elsewhere,Diagnosis of Pleural effusion

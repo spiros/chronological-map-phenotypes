@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Cystic Fibrosis","E84","Cystic fibrosis","Diagnosis of Cystic fibrosis"
+Disease,ICD10code,ICD10codeDescr,Category
+Cystic Fibrosis,E84,Cystic fibrosis,Diagnosis of Cystic fibrosis

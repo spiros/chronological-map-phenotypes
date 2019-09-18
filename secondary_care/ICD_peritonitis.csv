@@ -1,26 +1,26 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Peritonitis","K25.1","Gastric ulcer - Acute with perforation","Diagnosis of Peritonitis"
-"Peritonitis","K25.2","Gastric ulcer - Acute with both haemorrhage and perforation","Diagnosis of Peritonitis"
-"Peritonitis","K25.5","Gastric ulcer - Chronic or unspecified with perforation","Diagnosis of Peritonitis"
-"Peritonitis","K25.6","Gastric ulcer - Chronic or unspecified with both haemorrhage and perforation","Diagnosis of Peritonitis"
-"Peritonitis","K26.1","Duodenal ulcer - Acute with perforation","Diagnosis of Peritonitis"
-"Peritonitis","K26.2","Duodenal ulcer - Acute with both haemorrhage and perforation","Diagnosis of Peritonitis"
-"Peritonitis","K26.5","Duodenal ulcer - Chronic or unspecified with perforation","Diagnosis of Peritonitis"
-"Peritonitis","K26.6","Duodenal ulcer - Chronic or unspecified with both haemorrhage and perforation","Diagnosis of Peritonitis"
-"Peritonitis","K27.1","Peptic ulcer, site unspecified - Acute with perforation","Diagnosis of Peritonitis"
-"Peritonitis","K27.2","Peptic ulcer, site unspecified - Acute with both haemorrhage and perforation","Diagnosis of Peritonitis"
-"Peritonitis","K27.5","Peptic ulcer, site unspecified - Chronic or unspecified with perforation","Diagnosis of Peritonitis"
-"Peritonitis","K27.6","Peptic ulcer, site unspecified - Chronic or unspecified with both haemorrhage and perforation","Diagnosis of Peritonitis"
-"Peritonitis","K28.1","Gastrojejunal ulcer - Acute with perforation","Diagnosis of Peritonitis"
-"Peritonitis","K28.2","Gastrojejunal ulcer - Acute with both haemorrhage and perforation","Diagnosis of Peritonitis"
-"Peritonitis","K28.5","Gastrojejunal ulcer - Chronic or unspecified with perforation","Diagnosis of Peritonitis"
-"Peritonitis","K28.6","Gastrojejunal ulcer - Chronic or unspecified with both haemorrhage and perforation","Diagnosis of Peritonitis"
-"Peritonitis","K35.2","Acute appendicitis with generalized peritonitis","Diagnosis of Peritonitis"
-"Peritonitis","K35.3","Acute appendicitis with localized peritonitis","Diagnosis of Peritonitis"
-"Peritonitis","K57.0","Diverticular disease of small intestine with perforation and abscess","Diagnosis of Peritonitis"
-"Peritonitis","K57.2","Diverticular disease of large intestine with perforation and abscess","Diagnosis of Peritonitis"
-"Peritonitis","K57.4","Diverticular disease of both small and large intestine with perforation and abscess","Diagnosis of Peritonitis"
-"Peritonitis","K57.8","Diverticular disease of intestine, part unspecified, with perforation and abscess","Diagnosis of Peritonitis"
-"Peritonitis","K63.1","Perforation of intestine (nontraumatic)","Diagnosis of Peritonitis"
-"Peritonitis","K65","Peritonitis","Diagnosis of Peritonitis"
-"Peritonitis","K67","Disorders of peritoneum in infectious diseases classified elsewhere","Diagnosis of Peritonitis"
+Disease,ICD10code,ICD10codeDescr,Category
+Peritonitis,K25.1,Gastric ulcer - Acute with perforation,Diagnosis of Peritonitis
+Peritonitis,K25.2,Gastric ulcer - Acute with both haemorrhage and perforation,Diagnosis of Peritonitis
+Peritonitis,K25.5,Gastric ulcer - Chronic or unspecified with perforation,Diagnosis of Peritonitis
+Peritonitis,K25.6,Gastric ulcer - Chronic or unspecified with both haemorrhage and perforation,Diagnosis of Peritonitis
+Peritonitis,K26.1,Duodenal ulcer - Acute with perforation,Diagnosis of Peritonitis
+Peritonitis,K26.2,Duodenal ulcer - Acute with both haemorrhage and perforation,Diagnosis of Peritonitis
+Peritonitis,K26.5,Duodenal ulcer - Chronic or unspecified with perforation,Diagnosis of Peritonitis
+Peritonitis,K26.6,Duodenal ulcer - Chronic or unspecified with both haemorrhage and perforation,Diagnosis of Peritonitis
+Peritonitis,K27.1,"Peptic ulcer, site unspecified - Acute with perforation",Diagnosis of Peritonitis
+Peritonitis,K27.2,"Peptic ulcer, site unspecified - Acute with both haemorrhage and perforation",Diagnosis of Peritonitis
+Peritonitis,K27.5,"Peptic ulcer, site unspecified - Chronic or unspecified with perforation",Diagnosis of Peritonitis
+Peritonitis,K27.6,"Peptic ulcer, site unspecified - Chronic or unspecified with both haemorrhage and perforation",Diagnosis of Peritonitis
+Peritonitis,K28.1,Gastrojejunal ulcer - Acute with perforation,Diagnosis of Peritonitis
+Peritonitis,K28.2,Gastrojejunal ulcer - Acute with both haemorrhage and perforation,Diagnosis of Peritonitis
+Peritonitis,K28.5,Gastrojejunal ulcer - Chronic or unspecified with perforation,Diagnosis of Peritonitis
+Peritonitis,K28.6,Gastrojejunal ulcer - Chronic or unspecified with both haemorrhage and perforation,Diagnosis of Peritonitis
+Peritonitis,K35.2,Acute appendicitis with generalized peritonitis,Diagnosis of Peritonitis
+Peritonitis,K35.3,Acute appendicitis with localized peritonitis,Diagnosis of Peritonitis
+Peritonitis,K57.0,Diverticular disease of small intestine with perforation and abscess,Diagnosis of Peritonitis
+Peritonitis,K57.2,Diverticular disease of large intestine with perforation and abscess,Diagnosis of Peritonitis
+Peritonitis,K57.4,Diverticular disease of both small and large intestine with perforation and abscess,Diagnosis of Peritonitis
+Peritonitis,K57.8,"Diverticular disease of intestine, part unspecified, with perforation and abscess",Diagnosis of Peritonitis
+Peritonitis,K63.1,Perforation of intestine (nontraumatic),Diagnosis of Peritonitis
+Peritonitis,K65,Peritonitis,Diagnosis of Peritonitis
+Peritonitis,K67,Disorders of peritoneum in infectious diseases classified elsewhere,Diagnosis of Peritonitis

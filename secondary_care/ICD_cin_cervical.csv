@@ -1,3 +1,3 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Carcinoma in situ_cervical","D06","Carcinoma in situ of cervix uteri","Diagnosis of Carcinoma in situ_cervical"
-"Carcinoma in situ_cervical","N87","Dysplasia of cervix uteri","Diagnosis of Carcinoma in situ_cervical"
+Disease,ICD10code,ICD10codeDescr,Category
+Carcinoma in situ_cervical,D06,Carcinoma in situ of cervix uteri,Diagnosis of Carcinoma in situ_cervical
+Carcinoma in situ_cervical,N87,Dysplasia of cervix uteri,Diagnosis of Carcinoma in situ_cervical

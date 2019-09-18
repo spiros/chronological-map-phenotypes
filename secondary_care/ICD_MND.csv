@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Motor neuron disease","G12.2","Motor neuron disease","Diagnosis of Motor neuron disease"
+Disease,ICD10code,ICD10codeDescr,Category
+Motor neuron disease,G12.2,Motor neuron disease,Diagnosis of Motor neuron disease

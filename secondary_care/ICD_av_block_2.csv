@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Atrioventricular block, second degree","I44.1","Atrioventricular block, second degree","Diagnosis of Atrioventricular block, second degree"
+Disease,ICD10code,ICD10codeDescr,Category
+"Atrioventricular block, second degree",I44.1,"Atrioventricular block, second degree","Diagnosis of Atrioventricular block, second degree"

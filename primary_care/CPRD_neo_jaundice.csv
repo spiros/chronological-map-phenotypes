@@ -1,46 +1,46 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q430000","39164.0","Neonatal jaundice + glucose-6-phosphate dehydrogenase defic.","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q430.00","70762.0","Perinatal jaundice from hereditary haemolytic anaemias","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q430z00","103252.0","Perinatal jaundice from hereditary haemolytic anaemia NOS","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q431000","69317.0","Perinatal jaundice from bruising","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q431200","106539.0","Perinatal jaundice from infection","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q431300","98034.0","Perinatal jaundice from polycythaemia","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q431500","89653.0","Perinatal jaundice from bleeding","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q431.00","65651.0","Perinatal jaundice from other excessive haemolysis","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q431z00","57133.0","Perinatal jaundice from haemolysis NOS","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q432.00","7828.0","Preterm delivery associated jaundice","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433000","45303.0","Delayed conjugation causing neonatal jaundice, unspecified","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433200","3211.0","Breast feeding inhibitors causing neonatal jaundice","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433300","59695.0","Lucy - Driscoll syndrome","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433500","94612.0","Neonatal jaundice with Dubin-Johnson syndrome","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433600","66985.0","Neonatal jaundice with Gilbert's syndrome","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433700","58833.0","Neonatal jaundice with congenital hypothyroidism","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433800","48638.0","Neonatal jaundice with porphyria","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433A00","8069.0","Neonatal jaundice from breast milk inhibitor","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433.00","35507.0","Other neonatal jaundice - delayed conjugation other cause","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433y00","71056.0","Delayed conjugation causing neonatal jaundice OS","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433y11","93156.0","Neonatal jaundice - deficiency enzyme for bilirubin conjug.","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q433z00","55360.0","Delayed conjugation causing neonatal jaundice NOS","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q434000","35625.0","Perinatal hepatitis causing jaundice, unspecified","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q434100","104225.0","Giant cell hepatitis causing neonatal jaundice","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q434200","48009.0","Inspissated bile syndrome","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q434.00","92680.0","Perinatal jaundice due to hepatocellular damage","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q434z00","59451.0","Perinatal jaundice due to hepatocellular damage NOS","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q435000","47340.0","Perinatal jaundice due to congenital obstruction bile duct","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q435100","70324.0","Perinatal jaundice due to galactosaemia","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q435.00","63838.0","Perinatal jaundice due to other cause","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q435z00","64140.0","Perinatal jaundice due to other specified cause","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q436000","19583.0","Icterus neonatorum, unspecified","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q436100","28361.0","Transient neonatal hyperbilirubinaemia","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q436200","3615.0","Newborn physiological jaundice NOS","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q436.00","19581.0","Fetal and neonatal jaundice, unspecified","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q436z00","28184.0","Unspecified fetal or neonatal jaundice NOS","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q437000","47802.0","Bilirubin encephalopathy","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q437.00","48012.0","Kernicterus not due to isoimmunisation","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q437z00","61800.0","Kernicterus of newborn NOS","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q43..00","7269.0","Other perinatal jaundice","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Q43z.00","1359.0","Perinatal jaundice NOS","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Qyu5800","68206.0","[X]Neonat jaun due/drg,toxn transmit frm mother/given newbrn","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Qyu5900","48869.0","[X]Neonatal jaundice due/other specifd excessive haemolysis","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Qyu5A00","35477.0","[X]Neonatal jaundice from other+unspcf hepatocellular damage","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
-"Neonatal jaundice (excl haemolytic dz of the newborn)","Qyu5B00","40869.0","[X]Neonatal jaundice from other specified causes","Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Neonatal jaundice (excl haemolytic dz of the newborn),Q430000,39164.0,Neonatal jaundice + glucose-6-phosphate dehydrogenase defic.,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q430.00,70762.0,Perinatal jaundice from hereditary haemolytic anaemias,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q430z00,103252.0,Perinatal jaundice from hereditary haemolytic anaemia NOS,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q431000,69317.0,Perinatal jaundice from bruising,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q431200,106539.0,Perinatal jaundice from infection,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q431300,98034.0,Perinatal jaundice from polycythaemia,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q431500,89653.0,Perinatal jaundice from bleeding,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q431.00,65651.0,Perinatal jaundice from other excessive haemolysis,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q431z00,57133.0,Perinatal jaundice from haemolysis NOS,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q432.00,7828.0,Preterm delivery associated jaundice,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433000,45303.0,"Delayed conjugation causing neonatal jaundice, unspecified",Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433200,3211.0,Breast feeding inhibitors causing neonatal jaundice,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433300,59695.0,Lucy - Driscoll syndrome,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433500,94612.0,Neonatal jaundice with Dubin-Johnson syndrome,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433600,66985.0,Neonatal jaundice with Gilbert's syndrome,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433700,58833.0,Neonatal jaundice with congenital hypothyroidism,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433800,48638.0,Neonatal jaundice with porphyria,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433A00,8069.0,Neonatal jaundice from breast milk inhibitor,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433.00,35507.0,Other neonatal jaundice - delayed conjugation other cause,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433y00,71056.0,Delayed conjugation causing neonatal jaundice OS,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433y11,93156.0,Neonatal jaundice - deficiency enzyme for bilirubin conjug.,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q433z00,55360.0,Delayed conjugation causing neonatal jaundice NOS,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q434000,35625.0,"Perinatal hepatitis causing jaundice, unspecified",Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q434100,104225.0,Giant cell hepatitis causing neonatal jaundice,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q434200,48009.0,Inspissated bile syndrome,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q434.00,92680.0,Perinatal jaundice due to hepatocellular damage,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q434z00,59451.0,Perinatal jaundice due to hepatocellular damage NOS,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q435000,47340.0,Perinatal jaundice due to congenital obstruction bile duct,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q435100,70324.0,Perinatal jaundice due to galactosaemia,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q435.00,63838.0,Perinatal jaundice due to other cause,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q435z00,64140.0,Perinatal jaundice due to other specified cause,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q436000,19583.0,"Icterus neonatorum, unspecified",Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q436100,28361.0,Transient neonatal hyperbilirubinaemia,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q436200,3615.0,Newborn physiological jaundice NOS,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q436.00,19581.0,"Fetal and neonatal jaundice, unspecified",Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q436z00,28184.0,Unspecified fetal or neonatal jaundice NOS,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q437000,47802.0,Bilirubin encephalopathy,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q437.00,48012.0,Kernicterus not due to isoimmunisation,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q437z00,61800.0,Kernicterus of newborn NOS,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q43..00,7269.0,Other perinatal jaundice,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Q43z.00,1359.0,Perinatal jaundice NOS,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Qyu5800,68206.0,"[X]Neonat jaun due/drg,toxn transmit frm mother/given newbrn",Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Qyu5900,48869.0,[X]Neonatal jaundice due/other specifd excessive haemolysis,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Qyu5A00,35477.0,[X]Neonatal jaundice from other+unspcf hepatocellular damage,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)
+Neonatal jaundice (excl haemolytic dz of the newborn),Qyu5B00,40869.0,[X]Neonatal jaundice from other specified causes,Diagnosis of Neonatal jaundice (excl haemolytic dz of the newborn)

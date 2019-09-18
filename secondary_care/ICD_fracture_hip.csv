@@ -1,0 +1,4 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Fracture of hip,S72.0,Fracture of neck of femur,Diagnosis of Fracture of hip
+Fracture of hip,S72.1,Pertrochanteric fracture,Diagnosis of Fracture of hip
+Fracture of hip,S72.2,Subtrochanteric fracture,Diagnosis of Fracture of hip

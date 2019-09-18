@@ -1,4 +1,4 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Dysmenorrhoea","N94.4","Primary dysmenorrhoea","Diagnosis of Dysmenorrhoea"
-"Dysmenorrhoea","N94.5","Secondary dysmenorrhoea","Diagnosis of Dysmenorrhoea"
-"Dysmenorrhoea","N94.6","Dysmenorrhoea, unspecified","Diagnosis of Dysmenorrhoea"
+Disease,ICD10code,ICD10codeDescr,Category
+Dysmenorrhoea,N94.4,Primary dysmenorrhoea,Diagnosis of Dysmenorrhoea
+Dysmenorrhoea,N94.5,Secondary dysmenorrhoea,Diagnosis of Dysmenorrhoea
+Dysmenorrhoea,N94.6,"Dysmenorrhoea, unspecified",Diagnosis of Dysmenorrhoea

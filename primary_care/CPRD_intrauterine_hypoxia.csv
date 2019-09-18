@@ -1,40 +1,40 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Intrauterine hypoxia","4H23.00","73394.0","Amniotic fluid -meconium stain","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263000","64335.0","Fetal distress unspecified","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263100","68431.0","Fetal distress - delivered","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263200","44828.0","Fetal distress with antenatal problem","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263400","24243.0","Labour and delivery complic by meconium in amniotic fluid","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263500","41102.0","Lab+del comp fetal ht rate anom wth meconium in amnio fluid","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263600","49485.0","Labour+delivery complicatd by biochem evidence/fetal stress","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263700","46514.0","Maternal care for fetal hypoxia","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263.00","13276.0","Fetal distress - affecting management","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263.11","95649.0","Fetal acidosis","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263.14","26837.0","Meconium stained liquor","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","L263z00","53863.0","Fetal distress NOS","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Lyu4800","52151.0","[X]Labour+delivery complicat/oth evidence of fetal distress","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q212000","96821.0","Liveborn with prelabour abnormal heart beat","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q212100","70850.0","Liveborn with prelabour hypoxia","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q212200","48274.0","Liveborn with prelabour meconium in liquor","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q212.00","5479.0","Liveborn with prelabour fetal distress","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q212.11","34132.0","Fetal distress before labour - liveborn","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q212z00","97471.0","Liveborn with prelabour fetal distress NOS","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q213000","64732.0","Liveborn with labour abnormal heart beat","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q213100","98422.0","Liveborn with labour hypoxia","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q213200","102969.0","Liveborn with labour meconium in liquor","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q213.00","42322.0","Liveborn with labour fetal distress","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q213.11","23009.0","Fetal distress in labour - liveborn","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q213z00","50281.0","Liveborn with labour fetal distress NOS","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q214000","94759.0","Liveborn with abnormal heart beat, unspecified","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q214100","53241.0","Liveborn with fetal hypoxia, unspecified","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q214200","101103.0","Liveborn with meconium liquor, unspecified","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q214.00","3620.0","Liveborn with fetal distress, unspecified","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q214.11","26401.0","Fetal distress, unspecified when, liveborn","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q214z00","16097.0","Liveborn with unspecified fetal distress NOS","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q21..00","41296.0","Intrauterine hypoxia and birth asphyxia","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q21..11","36694.0","Intrauterine hypoxia","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q21..12","46502.0","Labour fetal anoxia","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Q311000","11693.0","Meconium aspiration syndrome","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Z264800","35054.0","Meconium stained liquor","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Z264900","39759.0","Old meconium staining liquor","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Z264A00","22597.0","Fresh meconium staining liquor","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","Z264B00","42131.0","Thick meconium stained liquor","Diagnosis of Intrauterine hypoxia"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Intrauterine hypoxia,4H23.00,73394.0,Amniotic fluid -meconium stain,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263000,64335.0,Fetal distress unspecified,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263100,68431.0,Fetal distress - delivered,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263200,44828.0,Fetal distress with antenatal problem,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263400,24243.0,Labour and delivery complic by meconium in amniotic fluid,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263500,41102.0,Lab+del comp fetal ht rate anom wth meconium in amnio fluid,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263600,49485.0,Labour+delivery complicatd by biochem evidence/fetal stress,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263700,46514.0,Maternal care for fetal hypoxia,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263.00,13276.0,Fetal distress - affecting management,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263.11,95649.0,Fetal acidosis,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263.14,26837.0,Meconium stained liquor,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,L263z00,53863.0,Fetal distress NOS,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Lyu4800,52151.0,[X]Labour+delivery complicat/oth evidence of fetal distress,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q212000,96821.0,Liveborn with prelabour abnormal heart beat,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q212100,70850.0,Liveborn with prelabour hypoxia,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q212200,48274.0,Liveborn with prelabour meconium in liquor,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q212.00,5479.0,Liveborn with prelabour fetal distress,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q212.11,34132.0,Fetal distress before labour - liveborn,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q212z00,97471.0,Liveborn with prelabour fetal distress NOS,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q213000,64732.0,Liveborn with labour abnormal heart beat,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q213100,98422.0,Liveborn with labour hypoxia,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q213200,102969.0,Liveborn with labour meconium in liquor,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q213.00,42322.0,Liveborn with labour fetal distress,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q213.11,23009.0,Fetal distress in labour - liveborn,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q213z00,50281.0,Liveborn with labour fetal distress NOS,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q214000,94759.0,"Liveborn with abnormal heart beat, unspecified",Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q214100,53241.0,"Liveborn with fetal hypoxia, unspecified",Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q214200,101103.0,"Liveborn with meconium liquor, unspecified",Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q214.00,3620.0,"Liveborn with fetal distress, unspecified",Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q214.11,26401.0,"Fetal distress, unspecified when, liveborn",Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q214z00,16097.0,Liveborn with unspecified fetal distress NOS,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q21..00,41296.0,Intrauterine hypoxia and birth asphyxia,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q21..11,36694.0,Intrauterine hypoxia,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q21..12,46502.0,Labour fetal anoxia,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Q311000,11693.0,Meconium aspiration syndrome,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Z264800,35054.0,Meconium stained liquor,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Z264900,39759.0,Old meconium staining liquor,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Z264A00,22597.0,Fresh meconium staining liquor,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,Z264B00,42131.0,Thick meconium stained liquor,Diagnosis of Intrauterine hypoxia

@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_Multiple independent sites","B592.00","51352.0","Malignant neoplasms of independent (primary) multiple sites","Diagnosis of Primary Malignancy_Multiple independent sites"
-"Primary Malignancy_Multiple independent sites","ByuE000","64897.0","[X]Malignant neoplasms/independent(primary)multiple sites","Diagnosis of Primary Malignancy_Multiple independent sites"
-"Primary Malignancy_Multiple independent sites","ByuE.00","63598.0","[X]Malignant neoplasms/independent (primary) multiple sites","Diagnosis of Primary Malignancy_Multiple independent sites"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_Multiple independent sites,B592.00,51352.0,Malignant neoplasms of independent (primary) multiple sites,Diagnosis of Primary Malignancy_Multiple independent sites
+Primary Malignancy_Multiple independent sites,ByuE000,64897.0,[X]Malignant neoplasms/independent(primary)multiple sites,Diagnosis of Primary Malignancy_Multiple independent sites
+Primary Malignancy_Multiple independent sites,ByuE.00,63598.0,[X]Malignant neoplasms/independent (primary) multiple sites,Diagnosis of Primary Malignancy_Multiple independent sites

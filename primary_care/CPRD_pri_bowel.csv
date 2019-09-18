@@ -1,31 +1,31 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_colorectal and anus","B130.00","9088.0","Malignant neoplasm of hepatic flexure of colon","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B131.00","6935.0","Malignant neoplasm of transverse colon","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B132.00","10864.0","Malignant neoplasm of descending colon","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B133.00","2815.0","Malignant neoplasm of sigmoid colon","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B134.00","3811.0","Malignant neoplasm of caecum","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B134.11","22163.0","Carcinoma of caecum","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B135.00","18632.0","Malignant neoplasm of appendix","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B136.00","10946.0","Malignant neoplasm of ascending colon","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B137.00","18619.0","Malignant neoplasm of splenic flexure of colon","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B138.00","93478.0","Malignant neoplasm, overlapping lesion of colon","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B139.00","101700.0","Hereditary nonpolyposis colon cancer","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B13..00","1220.0","Malignant neoplasm of colon","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B13y.00","48231.0","Malignant neoplasm of other specified sites of colon","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B13z.00","28163.0","Malignant neoplasm of colon NOS","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B13z.11","9118.0","Colonic cancer","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B140.00","27855.0","Malignant neoplasm of rectosigmoid junction","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B141.00","1800.0","Malignant neoplasm of rectum","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B141.11","7219.0","Carcinoma of rectum","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B141.12","5901.0","Rectal carcinoma","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B142000","46159.0","Malignant neoplasm of cloacogenic zone","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B142.00","24370.0","Malignant neoplasm of anal canal","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B142.11","9491.0","Anal carcinoma","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B143.00","27897.0","Malignant neoplasm of anus unspecified","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B14..00","35357.0","Malignant neoplasm of rectum, rectosigmoid junction and anus","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B14y.00","55659.0","Malig neop other site rectum, rectosigmoid junction and anus","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B14z.00","50974.0","Malignant neoplasm rectum,rectosigmoid junction and anus NOS","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","B1z0.11","11628.0","Cancer of bowel","Diagnosis of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","ZV10011","68018.0","[V]Personal history of malignant neoplasm of anus","History of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","ZV10014","57727.0","[V]Personal history of malignant neoplasm of large intestine","History of Primary Malignancy_colorectal and anus"
-"Primary Malignancy_colorectal and anus","ZV10017","62785.0","[V]Personal history of malignant neoplasm of rectum","History of Primary Malignancy_colorectal and anus"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_colorectal and anus,B130.00,9088.0,Malignant neoplasm of hepatic flexure of colon,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B131.00,6935.0,Malignant neoplasm of transverse colon,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B132.00,10864.0,Malignant neoplasm of descending colon,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B133.00,2815.0,Malignant neoplasm of sigmoid colon,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B134.00,3811.0,Malignant neoplasm of caecum,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B134.11,22163.0,Carcinoma of caecum,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B135.00,18632.0,Malignant neoplasm of appendix,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B136.00,10946.0,Malignant neoplasm of ascending colon,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B137.00,18619.0,Malignant neoplasm of splenic flexure of colon,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B138.00,93478.0,"Malignant neoplasm, overlapping lesion of colon",Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B139.00,101700.0,Hereditary nonpolyposis colon cancer,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B13..00,1220.0,Malignant neoplasm of colon,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B13y.00,48231.0,Malignant neoplasm of other specified sites of colon,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B13z.00,28163.0,Malignant neoplasm of colon NOS,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B13z.11,9118.0,Colonic cancer,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B140.00,27855.0,Malignant neoplasm of rectosigmoid junction,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B141.00,1800.0,Malignant neoplasm of rectum,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B141.11,7219.0,Carcinoma of rectum,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B141.12,5901.0,Rectal carcinoma,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B142000,46159.0,Malignant neoplasm of cloacogenic zone,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B142.00,24370.0,Malignant neoplasm of anal canal,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B142.11,9491.0,Anal carcinoma,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B143.00,27897.0,Malignant neoplasm of anus unspecified,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B14..00,35357.0,"Malignant neoplasm of rectum, rectosigmoid junction and anus",Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B14y.00,55659.0,"Malig neop other site rectum, rectosigmoid junction and anus",Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B14z.00,50974.0,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,B1z0.11,11628.0,Cancer of bowel,Diagnosis of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,ZV10011,68018.0,[V]Personal history of malignant neoplasm of anus,History of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,ZV10014,57727.0,[V]Personal history of malignant neoplasm of large intestine,History of Primary Malignancy_colorectal and anus
+Primary Malignancy_colorectal and anus,ZV10017,62785.0,[V]Personal history of malignant neoplasm of rectum,History of Primary Malignancy_colorectal and anus

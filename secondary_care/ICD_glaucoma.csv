@@ -1,4 +1,4 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Glaucoma","H40.1","Primary open-angle glaucoma","Diagnosis of Glaucoma"
-"Glaucoma","H40.2","Primary angle-closure glaucoma","Diagnosis of Glaucoma"
-"Glaucoma","H40.9","Glaucoma, unspecified","Diagnosis of Glaucoma"
+Disease,ICD10code,ICD10codeDescr,Category
+Glaucoma,H40.1,Primary open-angle glaucoma,Diagnosis of Glaucoma
+Glaucoma,H40.2,Primary angle-closure glaucoma,Diagnosis of Glaucoma
+Glaucoma,H40.9,"Glaucoma, unspecified",Diagnosis of Glaucoma

@@ -1,5 +1,5 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Other anaemias","D53","Other nutritional anaemias","Diagnosis of Other anaemias"
-"Other anaemias","D62","Acute posthaemorrhagic anaemia","Diagnosis of Other anaemias"
-"Other anaemias","D63","Anaemia in chronic diseases classified elsewhere","Diagnosis of Other anaemias"
-"Other anaemias","D64","Other anaemias","Diagnosis of Other anaemias"
+Disease,ICD10code,ICD10codeDescr,Category
+Other anaemias,D53,Other nutritional anaemias,Diagnosis of Other anaemias
+Other anaemias,D62,Acute posthaemorrhagic anaemia,Diagnosis of Other anaemias
+Other anaemias,D63,Anaemia in chronic diseases classified elsewhere,Diagnosis of Other anaemias
+Other anaemias,D64,Other anaemias,Diagnosis of Other anaemias

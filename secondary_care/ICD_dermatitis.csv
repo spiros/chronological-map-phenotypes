@@ -1,14 +1,14 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Dermatitis (atopc/contact/other/unspecified)","L20","Atopic dermatitis","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L23","Allergic contact dermatitis","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L24","Irritant contact dermatitis","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L25","Unspecified contact dermatitis","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L27","Dermatitis due to substances taken internally","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L26","Exfoliative dermatitis","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L28","Lichen simplex chronicus and prurigo","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L30.0","Nummular dermatitis","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L30.1","Dyshidrosis [pompholyx]","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L30.2","Cutaneous autosensitization","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L30.5","Pityriasis alba","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L30.8","Other specified dermatitis","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
-"Dermatitis (atopc/contact/other/unspecified)","L30.9","Dermatitis, unspecified","Diagnosis of Dermatitis (atopc/contact/other/unspecified)"
+Disease,ICD10code,ICD10codeDescr,Category
+Dermatitis (atopc/contact/other/unspecified),L20,Atopic dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L23,Allergic contact dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L24,Irritant contact dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L25,Unspecified contact dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L27,Dermatitis due to substances taken internally,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L26,Exfoliative dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L28,Lichen simplex chronicus and prurigo,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L30.0,Nummular dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L30.1,Dyshidrosis [pompholyx],Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L30.2,Cutaneous autosensitization,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L30.5,Pityriasis alba,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L30.8,Other specified dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified)
+Dermatitis (atopc/contact/other/unspecified),L30.9,"Dermatitis, unspecified",Diagnosis of Dermatitis (atopc/contact/other/unspecified)

@@ -1,5 +1,5 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Asbestosis","H410.00","5005.0","Pleural plaque disease due to asbestosis","History of Asbestosis"
-"Asbestosis","H410.11","100994.0","Asbestos-induced pleural plaque","History of Asbestosis"
-"Asbestosis","H41..00","8303.0","Asbestosis","Diagnosis of Asbestosis"
-"Asbestosis","H41z.00","51410.0","Asbestosis NOS","Diagnosis of Asbestosis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Asbestosis,H410.00,5005.0,Pleural plaque disease due to asbestosis,History of Asbestosis
+Asbestosis,H410.11,100994.0,Asbestos-induced pleural plaque,History of Asbestosis
+Asbestosis,H41..00,8303.0,Asbestosis,Diagnosis of Asbestosis
+Asbestosis,H41z.00,51410.0,Asbestosis NOS,Diagnosis of Asbestosis

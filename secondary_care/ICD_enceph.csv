@@ -1,11 +1,11 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Encephalitis","A83","Mosquito-borne viral encephalitis","Diagnosis of Encephalitis"
-"Encephalitis","A84","Tick-borne viral encephalitis","Diagnosis of Encephalitis"
-"Encephalitis","A85","Other viral encephalitis, not elsewhere classified","Diagnosis of Encephalitis"
-"Encephalitis","A86","Unspecified viral encephalitis","Diagnosis of Encephalitis"
-"Encephalitis","B00.4","Herpesviral encephalitis","Diagnosis of Encephalitis"
-"Encephalitis","B01.1","Varicella encephalitis","Diagnosis of Encephalitis"
-"Encephalitis","B02.0","Zoster encephalitis","Diagnosis of Encephalitis"
-"Encephalitis","B05.0","Measles complicated by encephalitis","Diagnosis of Encephalitis"
-"Encephalitis","B26.2","Mumps encephalitis","Diagnosis of Encephalitis"
-"Encephalitis","B94.1","Sequelae of viral encephalitis","Diagnosis of Encephalitis"
+Disease,ICD10code,ICD10codeDescr,Category
+Encephalitis,A83,Mosquito-borne viral encephalitis,Diagnosis of Encephalitis
+Encephalitis,A84,Tick-borne viral encephalitis,Diagnosis of Encephalitis
+Encephalitis,A85,"Other viral encephalitis, not elsewhere classified",Diagnosis of Encephalitis
+Encephalitis,A86,Unspecified viral encephalitis,Diagnosis of Encephalitis
+Encephalitis,B00.4,Herpesviral encephalitis,Diagnosis of Encephalitis
+Encephalitis,B01.1,Varicella encephalitis,Diagnosis of Encephalitis
+Encephalitis,B02.0,Zoster encephalitis,Diagnosis of Encephalitis
+Encephalitis,B05.0,Measles complicated by encephalitis,Diagnosis of Encephalitis
+Encephalitis,B26.2,Mumps encephalitis,Diagnosis of Encephalitis
+Encephalitis,B94.1,Sequelae of viral encephalitis,Diagnosis of Encephalitis

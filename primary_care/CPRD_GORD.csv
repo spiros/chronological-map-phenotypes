@@ -1,25 +1,25 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Gastro-oesophageal reflux disease","171J.00","19470.0","Reflux cough","Diagnosis of Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","1957.00","7577.0","Gastric reflux","Diagnosis of Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760L000","14713.0","Antireflux fundoplication using thoracic approach","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760L100","53657.0","Antireflux operation using thoracic approach NEC","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760L111","68276.0","Antireflux procedure using thoracic approach NEC","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760L200","17610.0","Antireflux fundoplication using abdominal approach","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760L300","45360.0","Antireflux gastropexy","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760L311","48146.0","Antireflux gastroplasty","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760L400","103564.0","Antireflux procedure and gastroplasty HFQ","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760L.00","18211.0","Antireflux operations","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760L.11","17263.0","Oesophageal reflux operations","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760Ly00","34005.0","Other specified antireflux operation","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760Lz00","28619.0","Antireflux operation NOS","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760M.00","51400.0","Revision of antireflux operations","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","760Mz00","67258.0","Revision of antireflux operation NOS","Procedure for Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","J101100","2535.0","Reflux oesophagitis","Diagnosis of Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","J101111","15054.0","Acid reflux","Diagnosis of Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","J101112","7104.0","Gastro-oesophageal reflux with oesophagitis","Diagnosis of Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","J101113","16605.0","Oesophageal reflux with oesophagitis","Diagnosis of Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","J10y400","25610.0","Oesopheal reflux without mention of oesophagitis","Diagnosis of Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","J10y411","1327.0","Oesophageal reflux","Diagnosis of Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","J10y412","984.0","Gastro-oesophageal reflux","Diagnosis of Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","J10y413","2281.0","Acid reflux","Diagnosis of Gastro-oesophageal reflux disease"
-"Gastro-oesophageal reflux disease","J10y500","19111.0","Laryngopharyngeal reflux","Diagnosis of Gastro-oesophageal reflux disease"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Gastro-oesophageal reflux disease,171J.00,19470.0,Reflux cough,Diagnosis of Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,1957.00,7577.0,Gastric reflux,Diagnosis of Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760L000,14713.0,Antireflux fundoplication using thoracic approach,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760L100,53657.0,Antireflux operation using thoracic approach NEC,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760L111,68276.0,Antireflux procedure using thoracic approach NEC,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760L200,17610.0,Antireflux fundoplication using abdominal approach,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760L300,45360.0,Antireflux gastropexy,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760L311,48146.0,Antireflux gastroplasty,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760L400,103564.0,Antireflux procedure and gastroplasty HFQ,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760L.00,18211.0,Antireflux operations,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760L.11,17263.0,Oesophageal reflux operations,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760Ly00,34005.0,Other specified antireflux operation,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760Lz00,28619.0,Antireflux operation NOS,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760M.00,51400.0,Revision of antireflux operations,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,760Mz00,67258.0,Revision of antireflux operation NOS,Procedure for Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,J101100,2535.0,Reflux oesophagitis,Diagnosis of Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,J101111,15054.0,Acid reflux,Diagnosis of Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,J101112,7104.0,Gastro-oesophageal reflux with oesophagitis,Diagnosis of Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,J101113,16605.0,Oesophageal reflux with oesophagitis,Diagnosis of Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,J10y400,25610.0,Oesopheal reflux without mention of oesophagitis,Diagnosis of Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,J10y411,1327.0,Oesophageal reflux,Diagnosis of Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,J10y412,984.0,Gastro-oesophageal reflux,Diagnosis of Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,J10y413,2281.0,Acid reflux,Diagnosis of Gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,J10y500,19111.0,Laryngopharyngeal reflux,Diagnosis of Gastro-oesophageal reflux disease

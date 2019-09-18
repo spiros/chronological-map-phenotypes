@@ -1,8 +1,8 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Infection of male genital system","B26.0","Mumps orchitis","Diagnosis of Infection of male genital system NOS"
-"Infection of male genital system","N41.0","Acute prostatitis","Diagnosis of Infection of male genital system NOS"
-"Infection of male genital system","N41.2","Abscess of prostate","Diagnosis of Infection of male genital system NOS"
-"Infection of male genital system","N41.3","Prostatocystitis","Diagnosis of Infection of male genital system NOS"
-"Infection of male genital system","N43.1","Infected hydrocele","Diagnosis of Infection of male genital system NOS"
-"Infection of male genital system","N45","Orchitis and epididymitis","Diagnosis of Infection of male genital system NOS"
-"Infection of male genital system","N48.1","Balanoposthitis","Diagnosis of Infection of male genital system NOS"
+Disease,ICD10code,ICD10codeDescr,Category
+Infection of male genital system,B26.0,Mumps orchitis,Diagnosis of Infection of male genital system NOS
+Infection of male genital system,N41.0,Acute prostatitis,Diagnosis of Infection of male genital system NOS
+Infection of male genital system,N41.2,Abscess of prostate,Diagnosis of Infection of male genital system NOS
+Infection of male genital system,N41.3,Prostatocystitis,Diagnosis of Infection of male genital system NOS
+Infection of male genital system,N43.1,Infected hydrocele,Diagnosis of Infection of male genital system NOS
+Infection of male genital system,N45,Orchitis and epididymitis,Diagnosis of Infection of male genital system NOS
+Infection of male genital system,N48.1,Balanoposthitis,Diagnosis of Infection of male genital system NOS

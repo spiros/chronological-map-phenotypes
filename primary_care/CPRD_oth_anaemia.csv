@@ -1,0 +1,68 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Other anaemias,145..11,5833.0,H/O: anaemia,Possible Diagnosis of Other anaemias
+Other anaemias,1454.00,24953.0,H/O: anaemia NOS,Possible Diagnosis of Other anaemias
+Other anaemias,4234.00,35749.0,Haemoglobin very low,Possible Diagnosis of Other anaemias
+Other anaemias,4235.00,3942.0,Haemoglobin low,Possible Diagnosis of Other anaemias
+Other anaemias,D00..11,882.0,Hypochromic - microcytic anaemia,Possible Diagnosis of Other anaemias
+Other anaemias,D00..12,539.0,Microcytic - hypochromic anaemia,Possible Diagnosis of Other anaemias
+Other anaemias,D00y100,4839.0,Microcytic hypochromic anaemia,Possible Diagnosis of Other anaemias
+Other anaemias,D00z200,40750.0,Idiopathic hypochromic anaemia,Possible Diagnosis of Other anaemias
+Other anaemias,D012112,59103.0,Megaloblastic anaemia due to dietary causes,Possible Diagnosis of Other anaemias
+Other anaemias,D012500,3981.0,Macrocytic anaemia unspecified cause,Possible Diagnosis of Other anaemias
+Other anaemias,D013.00,51489.0,Other specified megaloblastic anaemia NEC,Possible Diagnosis of Other anaemias
+Other anaemias,D013z00,56348.0,Other specified megaloblastic anaemia NEC NOS,Possible Diagnosis of Other anaemias
+Other anaemias,D014000,64601.0,Amino-acid deficiency anaemia,Diagnosis of Other anaemias
+Other anaemias,D014100,71773.0,Oroticaciduria,Diagnosis of Other anaemias
+Other anaemias,D014.00,2452.0,Protein-deficiency anaemia,Diagnosis of Other anaemias
+Other anaemias,D014z00,70835.0,Protein-deficiency anaemia NOS,Diagnosis of Other anaemias
+Other anaemias,D01..00,11961.0,Other deficiency anaemias,Possible Diagnosis of Other anaemias
+Other anaemias,D01..11,4475.0,Megaloblastic anaemia,Possible Diagnosis of Other anaemias
+Other anaemias,D01y000,104812.0,Vitamin C deficiency anaemia,Diagnosis of Other anaemias
+Other anaemias,D01y100,62257.0,Vitamin E deficiency anaemia,Diagnosis of Other anaemias
+Other anaemias,D01y.00,58136.0,Other specified nutritional deficiency anaemia,Possible Diagnosis of Other anaemias
+Other anaemias,D01yy00,100576.0,Other specified other nutritional deficiency anaemia,Possible Diagnosis of Other anaemias
+Other anaemias,D01yz00,92106.0,Other specified nutritional deficiency anaemia NOS,Possible Diagnosis of Other anaemias
+Other anaemias,D01z000,10506.0,[X]Megaloblastic anaemia NOS,Possible Diagnosis of Other anaemias
+Other anaemias,D01z.00,57274.0,Other deficiency anaemias NOS,Possible Diagnosis of Other anaemias
+Other anaemias,D01z.11,53799.0,Megaloblastic anaemia NOS,Possible Diagnosis of Other anaemias
+Other anaemias,D0...00,7841.0,Deficiency anaemias,Possible Diagnosis of Other anaemias
+Other anaemias,D0y..00,26327.0,Other specified deficiency anaemias,Possible Diagnosis of Other anaemias
+Other anaemias,D0z..00,8054.0,Deficiency anaemias NOS,Possible Diagnosis of Other anaemias
+Other anaemias,D210000,43330.0,Congenital sideroblastic anaemia,Diagnosis of Other anaemias
+Other anaemias,D210100,41699.0,Acquired sideroblastic anaemia,Diagnosis of Other anaemias
+Other anaemias,D210200,72276.0,Pyridoxine-responsive sideroblastic anaemia,Diagnosis of Other anaemias
+Other anaemias,D210300,31550.0,Secondary sideroblastic anaemia due to disease,Diagnosis of Other anaemias
+Other anaemias,D210400,47225.0,Secondary sideroblastic anaemia due to drugs and toxins,Diagnosis of Other anaemias
+Other anaemias,D210.00,15936.0,Sideroblastic anaemia,Diagnosis of Other anaemias
+Other anaemias,D210z00,94387.0,Sideroblastic anaemia NOS,Diagnosis of Other anaemias
+Other anaemias,D211.00,2743.0,Acute posthaemorrhagic anaemia,Diagnosis of Other anaemias
+Other anaemias,D211.11,45929.0,Normocytic anaemia following acute bleed,Diagnosis of Other anaemias
+Other anaemias,D212000,48145.0,Anaemia in ovarian carcinoma,Diagnosis of Other anaemias
+Other anaemias,D212.00,30637.0,Anaemia in neoplastic disease,Diagnosis of Other anaemias
+Other anaemias,D213.00,16052.0,Refractory Anaemia,Diagnosis of Other anaemias
+Other anaemias,D214.00,12176.0,Chronic anaemia,Diagnosis of Other anaemias
+Other anaemias,D215000,25394.0,Anaemia secondary to chronic renal failure,Diagnosis of Other anaemias
+Other anaemias,D215.00,16929.0,Anaemia secondary to renal failure,Diagnosis of Other anaemias
+Other anaemias,D21..00,3265.0,Other and unspecified anaemias,Possible Diagnosis of Other anaemias
+Other anaemias,D21y000,53422.0,Congenital dyshaematopoietic anaemia,Diagnosis of Other anaemias
+Other anaemias,D21y011,31040.0,Congenital dyserythropoietic anaemia,Diagnosis of Other anaemias
+Other anaemias,D21y012,56752.0,Congenital dyserythropoiesis NEC,Diagnosis of Other anaemias
+Other anaemias,D21y200,33278.0,Leukoerythroblastic anaemia,Diagnosis of Other anaemias
+Other anaemias,D21y300,70732.0,Hereditary erythroblast multinuclearity + positive acid test,Diagnosis of Other anaemias
+Other anaemias,D21y.00,34934.0,Other specified anaemias,Possible Diagnosis of Other anaemias
+Other anaemias,D21yy00,58695.0,Other specified other anaemia,Possible Diagnosis of Other anaemias
+Other anaemias,D21yz00,28768.0,Other specified anaemia NOS,Possible Diagnosis of Other anaemias
+Other anaemias,D21z.00,739.0,Anaemia unspecified,Possible Diagnosis of Other anaemias
+Other anaemias,D21z.11,4670.0,Secondary anaemia NOS,Possible Diagnosis of Other anaemias
+Other anaemias,D21z.12,1702.0,Normocytic anaemia due to unspecified cause,Possible Diagnosis of Other anaemias
+Other anaemias,D21z.13,797.0,Macrocytic anaemia of unspecified cause,Possible Diagnosis of Other anaemias
+Other anaemias,D2...00,37539.0,Aplastic and other anaemias,Possible Diagnosis of Other anaemias
+Other anaemias,D2y..00,25876.0,Other specified anaemias,Possible Diagnosis of Other anaemias
+Other anaemias,D2z..00,35160.0,Other anaemias NOS,Possible Diagnosis of Other anaemias
+Other anaemias,Dyu0.00,71840.0,[X]Nutritional anaemias,Possible Diagnosis of Other anaemias
+Other anaemias,Dyu2200,31205.0,[X]Anaemia in other chronic diseases classified elsewhere,Diagnosis of Other anaemias
+Other anaemias,Dyu2400,51169.0,[X]Other specified anaemias,Possible Diagnosis of Other anaemias
+Other anaemias,Q455000,99494.0,Congenital anaemia from fetal blood loss,Possible Diagnosis of Other anaemias
+Other anaemias,Q455.00,31248.0,Congenital anaemia,Possible Diagnosis of Other anaemias
+Other anaemias,Q456.00,19574.0,Anaemia of prematurity,Possible Diagnosis of Other anaemias
+Other anaemias,Qyu5C00,99222.0,"[X]Other congenital anaemias, not elsewhere classified",Possible Diagnosis of Other anaemias

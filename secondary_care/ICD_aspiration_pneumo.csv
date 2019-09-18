@@ -1,0 +1,4 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Aspiration pneumonitis,J69.0,Pneumonitis due to food and vomit,Diagnosis of Aspiration pneumonitis
+Aspiration pneumonitis,J69.1,Pneumonitis due to oils and essences,Diagnosis of Aspiration pneumonitis
+Aspiration pneumonitis,J69.8,Pneumonitis due to other solids and liquids,Diagnosis of Aspiration pneumonitis

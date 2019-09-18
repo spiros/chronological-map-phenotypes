@@ -1,52 +1,52 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Secondary Malignancy_Lymph Nodes","B560000","64918.0","Secondary and unspec malig neop of superficial parotid LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560100","66775.0","Secondary and unspec malignant neoplasm mastoid lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560200","33395.0","Secondary and unspec malig neop superficial cervical LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560300","65253.0","Secondary and unspec malignant neoplasm occipital lymph node","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560400","92703.0","Secondary and unspec malig neop deep parotid lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560500","39433.0","Secondary and unspec malig neop submandibular lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560600","28059.0","Secondary and unspec malig neop of facial lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560700","38343.0","Secondary and unspec malig neop submental lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560800","44627.0","Secondary and unspec malig neop anterior cervical LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560900","68611.0","Secondary and unspec malig neop deep cervical LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560.00","49214.0","Secondary and unspec malig neop lymph nodes head/face/neck","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B560z00","67129.0","Secondary unspec malig neop lymph nodes head/face/neck NOS","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561000","37919.0","Secondary and unspec malig neop internal mammary lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561100","105953.0","Secondary and unspec malig neop intercostal lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561200","95378.0","Secondary and unspec malig neop diaphragmatic lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561300","25366.0","Secondary and unspec malig neop ant mediastinal lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561400","55463.0","Secondary and unspec malig neop post mediastinal lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561500","58692.0","Secondary and unspec malig neop paratracheal lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561600","67797.0","Secondary and unspec malig neop superfic tracheobronchial LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561700","69392.0","Secondary and unspec malig neop inferior tracheobronchial LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561800","62124.0","Secondary and unspec malig neop bronchopulmonary lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561900","52190.0","Secondary and unspec malig neop pulmonary lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561.00","64116.0","Secondary and unspec malig neop intrathoracic lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B561z00","93716.0","Secondary and unspec malig neop intrathoracic LN NOS","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B562000","41691.0","Secondary and unspec malig neop coeliac lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B562100","72713.0","Secondary and unspec malig neop superficial mesenteric LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B562200","61677.0","Secondary and unspec malig neop inferior mesenteric LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B562300","18658.0","Secondary and unspec malig neop common iliac lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B562400","69132.0","Secondary and unspec malig neop external iliac lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B562.00","52736.0","Secondary and unspec malig neop intra-abdominal lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B562z00","44931.0","Secondary and unspec malig neop intra-abdominal LN NOS","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B563000","37540.0","Secondary and unspec malig neop axillary lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B563100","98626.0","Secondary and unspec malig neop supratrochlear lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B563200","50904.0","Secondary and unspec malig neop infraclavicular lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B563300","46409.0","Secondary and unspec malig neop pectoral lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B563.00","50199.0","Secondary and unspec malig neop axilla and upper limb LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B563z00","73538.0","Secondary and unspec malig neop axilla and upper limb LN NOS","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B564000","54278.0","Secondary and unspec malig neop superficial inguinal LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B564100","61289.0","Secondary and unspec malig neop deep inguinal lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B564.00","63915.0","Secondary and unspec malig neop inguinal and lower limb LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B564z00","70747.0","Secondary and unspec malig neop of inguinal and leg LN NOS","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B565000","84368.0","Secondary and unspec malig neop internal iliac lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B565200","101662.0","Secondary and unspec malig neop circumflex iliac LN","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B565300","47366.0","Secondary and unspec malig neop sacral lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B565.00","6701.0","Secondary and unspec malig neop intrapelvic lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B565z00","72803.0","Secondary and unspec malig neop intrapelvic LN NOS","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B56..00","9618.0","Secondary and unspecified malignant neoplasm of lymph nodes","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B56..11","7830.0","Lymph node metastases","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B56y.00","20159.0","Secondary and unspec malig neop lymph nodes multiple sites","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","B56z.00","15507.0","Secondary and unspec malig neop lymph nodes NOS","Diagnosis of Secondary Malignancy_Lymph Nodes"
-"Secondary Malignancy_Lymph Nodes","ByuC200","66163.0","[X]2ndry+unspcf malignant neoplasm lymph nodes/multi regions","Diagnosis of Secondary Malignancy_Lymph Nodes"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Secondary Malignancy_Lymph Nodes,B560000,64918.0,Secondary and unspec malig neop of superficial parotid LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560100,66775.0,Secondary and unspec malignant neoplasm mastoid lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560200,33395.0,Secondary and unspec malig neop superficial cervical LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560300,65253.0,Secondary and unspec malignant neoplasm occipital lymph node,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560400,92703.0,Secondary and unspec malig neop deep parotid lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560500,39433.0,Secondary and unspec malig neop submandibular lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560600,28059.0,Secondary and unspec malig neop of facial lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560700,38343.0,Secondary and unspec malig neop submental lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560800,44627.0,Secondary and unspec malig neop anterior cervical LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560900,68611.0,Secondary and unspec malig neop deep cervical LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560.00,49214.0,Secondary and unspec malig neop lymph nodes head/face/neck,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B560z00,67129.0,Secondary unspec malig neop lymph nodes head/face/neck NOS,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561000,37919.0,Secondary and unspec malig neop internal mammary lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561100,105953.0,Secondary and unspec malig neop intercostal lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561200,95378.0,Secondary and unspec malig neop diaphragmatic lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561300,25366.0,Secondary and unspec malig neop ant mediastinal lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561400,55463.0,Secondary and unspec malig neop post mediastinal lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561500,58692.0,Secondary and unspec malig neop paratracheal lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561600,67797.0,Secondary and unspec malig neop superfic tracheobronchial LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561700,69392.0,Secondary and unspec malig neop inferior tracheobronchial LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561800,62124.0,Secondary and unspec malig neop bronchopulmonary lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561900,52190.0,Secondary and unspec malig neop pulmonary lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561.00,64116.0,Secondary and unspec malig neop intrathoracic lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B561z00,93716.0,Secondary and unspec malig neop intrathoracic LN NOS,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B562000,41691.0,Secondary and unspec malig neop coeliac lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B562100,72713.0,Secondary and unspec malig neop superficial mesenteric LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B562200,61677.0,Secondary and unspec malig neop inferior mesenteric LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B562300,18658.0,Secondary and unspec malig neop common iliac lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B562400,69132.0,Secondary and unspec malig neop external iliac lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B562.00,52736.0,Secondary and unspec malig neop intra-abdominal lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B562z00,44931.0,Secondary and unspec malig neop intra-abdominal LN NOS,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B563000,37540.0,Secondary and unspec malig neop axillary lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B563100,98626.0,Secondary and unspec malig neop supratrochlear lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B563200,50904.0,Secondary and unspec malig neop infraclavicular lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B563300,46409.0,Secondary and unspec malig neop pectoral lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B563.00,50199.0,Secondary and unspec malig neop axilla and upper limb LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B563z00,73538.0,Secondary and unspec malig neop axilla and upper limb LN NOS,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B564000,54278.0,Secondary and unspec malig neop superficial inguinal LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B564100,61289.0,Secondary and unspec malig neop deep inguinal lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B564.00,63915.0,Secondary and unspec malig neop inguinal and lower limb LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B564z00,70747.0,Secondary and unspec malig neop of inguinal and leg LN NOS,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B565000,84368.0,Secondary and unspec malig neop internal iliac lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B565200,101662.0,Secondary and unspec malig neop circumflex iliac LN,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B565300,47366.0,Secondary and unspec malig neop sacral lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B565.00,6701.0,Secondary and unspec malig neop intrapelvic lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B565z00,72803.0,Secondary and unspec malig neop intrapelvic LN NOS,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B56..00,9618.0,Secondary and unspecified malignant neoplasm of lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B56..11,7830.0,Lymph node metastases,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B56y.00,20159.0,Secondary and unspec malig neop lymph nodes multiple sites,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,B56z.00,15507.0,Secondary and unspec malig neop lymph nodes NOS,Diagnosis of Secondary Malignancy_Lymph Nodes
+Secondary Malignancy_Lymph Nodes,ByuC200,66163.0,[X]2ndry+unspcf malignant neoplasm lymph nodes/multi regions,Diagnosis of Secondary Malignancy_Lymph Nodes

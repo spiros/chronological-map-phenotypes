@@ -1,6 +1,6 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Dementia","F00","Dementia in Alzheimer's disease","Diagnosis of Dementia"
-"Dementia","F01","Vascular dementia","Diagnosis of Dementia"
-"Dementia","F03","Unspecified dementia","Diagnosis of Dementia"
-"Dementia","F05.1","Delirium superimposed on dementia","Diagnosis of Dementia"
-"Dementia","G30","Alzheimer's disease","Diagnosis of Dementia"
+Disease,ICD10code,ICD10codeDescr,Category
+Dementia,F00,Dementia in Alzheimer's disease,Diagnosis of Dementia
+Dementia,F01,Vascular dementia,Diagnosis of Dementia
+Dementia,F03,Unspecified dementia,Diagnosis of Dementia
+Dementia,F05.1,Delirium superimposed on dementia,Diagnosis of Dementia
+Dementia,G30,Alzheimer's disease,Diagnosis of Dementia

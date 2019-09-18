@@ -1,0 +1,6 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Psoriatic arthropathy,M07.0,Distal interphalangeal psoriatic arthropathy,Diagnosis of Psoriatic arthropathy
+Psoriatic arthropathy,M07.1,Arthritis mutilans,Diagnosis of Psoriatic arthropathy
+Psoriatic arthropathy,M07.2,Psoriatic spondylitis,Diagnosis of Psoriatic arthropathy
+Psoriatic arthropathy,M07.3,Other psoriatic arthropathies,Diagnosis of Psoriatic arthropathy
+Psoriatic arthropathy,L40.5,Arthropathic psoriasis,Diagnosis of Psoriatic arthropathy

@@ -1,0 +1,4 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Anal fissure,K60.0,Acute anal fissure,Diagnosis of Anal fissure
+Anal fissure,K60.1,Chronic anal fissure,Diagnosis of Anal fissure
+Anal fissure,K60.2,"Anal fissure, unspecified",Diagnosis of Anal fissure

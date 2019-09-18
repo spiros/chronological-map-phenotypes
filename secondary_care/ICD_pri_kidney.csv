@@ -1,4 +1,4 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Primary Malignancy_Kidney and Ureter","C64","Malignant neoplasm of kidney, except renal pelvis","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","C65","Malignant neoplasm of renal pelvis","Diagnosis of Primary Malignancy_Kidney and Ureter"
-"Primary Malignancy_Kidney and Ureter","C66","Malignant neoplasm of ureter","Diagnosis of Primary Malignancy_Kidney and Ureter"
+Disease,ICD10code,ICD10codeDescr,Category
+Primary Malignancy_Kidney and Ureter,C64,"Malignant neoplasm of kidney, except renal pelvis",Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,C65,Malignant neoplasm of renal pelvis,Diagnosis of Primary Malignancy_Kidney and Ureter
+Primary Malignancy_Kidney and Ureter,C66,Malignant neoplasm of ureter,Diagnosis of Primary Malignancy_Kidney and Ureter

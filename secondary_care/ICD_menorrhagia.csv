@@ -1,5 +1,5 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Menorrhagia and polymenorrhoea","N92.0","Excessive and frequent menstruation with regular cycle","Diagnosis of Menorrhagia and polymenorrhoea"
-"Menorrhagia and polymenorrhoea","N92.1","Excessive and frequent menstruation with irregular cycle","Diagnosis of Menorrhagia and polymenorrhoea"
-"Menorrhagia and polymenorrhoea","N92.2","Excessive menstruation at puberty","Diagnosis of Menorrhagia and polymenorrhoea"
-"Menorrhagia and polymenorrhoea","N92.4","Excessive bleeding in the premenopausal period","Diagnosis of Menorrhagia and polymenorrhoea"
+Disease,ICD10code,ICD10codeDescr,Category
+Menorrhagia and polymenorrhoea,N92.0,Excessive and frequent menstruation with regular cycle,Diagnosis of Menorrhagia and polymenorrhoea
+Menorrhagia and polymenorrhoea,N92.1,Excessive and frequent menstruation with irregular cycle,Diagnosis of Menorrhagia and polymenorrhoea
+Menorrhagia and polymenorrhoea,N92.2,Excessive menstruation at puberty,Diagnosis of Menorrhagia and polymenorrhoea
+Menorrhagia and polymenorrhoea,N92.4,Excessive bleeding in the premenopausal period,Diagnosis of Menorrhagia and polymenorrhoea

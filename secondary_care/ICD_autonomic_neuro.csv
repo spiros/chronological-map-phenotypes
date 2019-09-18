@@ -1,5 +1,5 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Disorders of autonomic nervous system","G90","Disorders of autonomic nervous system","Diagnosis of autonomic neuropathy"
-"Disorders of autonomic nervous system","G99.0","Autonomic neuropathy in endocrine and metabolic diseases","Diagnosis of autonomic neuropathy"
-"Disorders of autonomic nervous system","G99.1","Other disorders of autonomic nervous system in other diseases classified elsewhere","Diagnosis of autonomic neuropathy"
-"Disorders of autonomic nervous system","M89.0","Algoneurodystrophy","Diagnosis of autonomic neuropathy"
+Disease,ICD10code,ICD10codeDescr,Category
+Disorders of autonomic nervous system,G90,Disorders of autonomic nervous system,Diagnosis of autonomic neuropathy
+Disorders of autonomic nervous system,G99.0,Autonomic neuropathy in endocrine and metabolic diseases,Diagnosis of autonomic neuropathy
+Disorders of autonomic nervous system,G99.1,Other disorders of autonomic nervous system in other diseases classified elsewhere,Diagnosis of autonomic neuropathy
+Disorders of autonomic nervous system,M89.0,Algoneurodystrophy,Diagnosis of autonomic neuropathy

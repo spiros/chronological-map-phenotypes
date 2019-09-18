@@ -1,4 +1,4 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Endometrial hyperplasia and hypertrophy","N85.0","Endometrial glandular hyperplasia","Diagnosis of Endometrial hyperplasia and hypertrophy"
-"Endometrial hyperplasia and hypertrophy","N85.1","Endometrial adenomatous hyperplasia","Diagnosis of Endometrial hyperplasia and hypertrophy"
-"Endometrial hyperplasia and hypertrophy","N85.2","Hypertrophy of uterus","Diagnosis of Endometrial hyperplasia and hypertrophy"
+Disease,ICD10code,ICD10codeDescr,Category
+Endometrial hyperplasia and hypertrophy,N85.0,Endometrial glandular hyperplasia,Diagnosis of Endometrial hyperplasia and hypertrophy
+Endometrial hyperplasia and hypertrophy,N85.1,Endometrial adenomatous hyperplasia,Diagnosis of Endometrial hyperplasia and hypertrophy
+Endometrial hyperplasia and hypertrophy,N85.2,Hypertrophy of uterus,Diagnosis of Endometrial hyperplasia and hypertrophy

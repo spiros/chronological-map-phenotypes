@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Cerebral palsy","G80","Cerebral palsy","Diagnosis of Cerebral palsy"
+Disease,ICD10code,ICD10codeDescr,Category
+Cerebral Palsy,G80,Cerebral palsy,Diagnosis of Cerebral palsy

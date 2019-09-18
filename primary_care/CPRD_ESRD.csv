@@ -1,108 +1,108 @@
-"Disease","Read code","Medcode","Descr","Category"
-"End stage renal disease","14S2.00","49028.0","H/O: kidney recipient","Procedure for End stage renal disease"
-"End stage renal disease","14V2.00","20196.0","H/O: renal dialysis","Procedure for End stage renal disease"
-"End stage renal disease","14V2.11","44422.0","H/O: kidney dialysis","Procedure for End stage renal disease"
-"End stage renal disease","1Z14.00","12585.0","Chronic kidney disease stage 5","Diagnosis of End stage renal disease"
-"End stage renal disease","1Z1K.00","95508.0","Chronic kidney disease stage 5 with proteinuria","Diagnosis of End stage renal disease"
-"End stage renal disease","1Z1L.00","95405.0","Chronic kidney disease stage 5 without proteinuria","Diagnosis of End stage renal disease"
-"End stage renal disease","1Z1L.11","97683.0","CKD stage 5 without proteinuria","Diagnosis of End stage renal disease"
-"End stage renal disease","4I29.00","98888.0","Peritoneal dialysis sample","Procedure for End stage renal disease"
-"End stage renal disease","4N0..00","101736.0","Dialysis fluid urea level","Procedure for End stage renal disease"
-"End stage renal disease","4N2..00","86419.0","Dialysis fluid glucose level","Procedure for End stage renal disease"
-"End stage renal disease","7B00100","11745.0","Transplantation of kidney from live donor","Procedure for End stage renal disease"
-"End stage renal disease","7B00111","66705.0","Allotransplantation of kidney from live donor","Procedure for End stage renal disease"
-"End stage renal disease","7B00200","24361.0","Transplantation of kidney from cadaver","Procedure for End stage renal disease"
-"End stage renal disease","7B00211","98364.0","Allotransplantation of kidney from cadaver","Procedure for End stage renal disease"
-"End stage renal disease","7B00212","105328.0","Cadaveric renal transplant","Procedure for End stage renal disease"
-"End stage renal disease","7B00300","89924.0","Allotransplantation of kidney from cadaver, heart-beating","Procedure for End stage renal disease"
-"End stage renal disease","7B00400","96133.0","Allotransplantation kidney from cadaver, heart non-beating","Procedure for End stage renal disease"
-"End stage renal disease","7B00500","109455.0","Allotransplantation of kidney from cadaver NEC","Procedure for End stage renal disease"
-"End stage renal disease","7B00.00","2997.0","Transplantation of kidney","Procedure for End stage renal disease"
-"End stage renal disease","7B00y00","70874.0","Other specified transplantation of kidney","Procedure for End stage renal disease"
-"End stage renal disease","7B00z00","5504.0","Transplantation of kidney NOS","Procedure for End stage renal disease"
-"End stage renal disease","7B01511","72004.0","Excision of rejected transplanted kidney","Procedure for End stage renal disease"
-"End stage renal disease","7B06300","26862.0","Exploration of renal transplant","Procedure for End stage renal disease"
-"End stage renal disease","7B0F300","103429.0","Post-transplantation of kidney examination, recipient","Procedure for End stage renal disease"
-"End stage renal disease","7B0F.00","93366.0","Interventions associated with transplantation of kidney","Procedure for End stage renal disease"
-"End stage renal disease","7B0Fy00","104050.0","OS interventions associated with transplantation of kidney","Procedure for End stage renal disease"
-"End stage renal disease","7B0Fz00","104049.0","Interventions associated with transplantation of kidney NOS","Procedure for End stage renal disease"
-"End stage renal disease","7L1A000","20073.0","Renal dialysis","Procedure for End stage renal disease"
-"End stage renal disease","7L1A011","101756.0","Thomas intravascular shunt for dialysis","Procedure for End stage renal disease"
-"End stage renal disease","7L1A100","2994.0","Peritoneal dialysis","Procedure for End stage renal disease"
-"End stage renal disease","7L1A200","2996.0","Haemodialysis NEC","Procedure for End stage renal disease"
-"End stage renal disease","7L1A400","88597.0","Automated peritoneal dialysis","Procedure for End stage renal disease"
-"End stage renal disease","7L1A500","30756.0","Continuous ambulatory peritoneal dialysis","Procedure for End stage renal disease"
-"End stage renal disease","7L1A600","64828.0","Peritoneal dialysis NEC","Procedure for End stage renal disease"
-"End stage renal disease","7L1A.11","11773.0","Dialysis for renal failure","Procedure for End stage renal disease"
-"End stage renal disease","7L1B000","8037.0","Insertion of ambulatory peritoneal dialysis catheter","Procedure for End stage renal disease"
-"End stage renal disease","7L1B100","23773.0","Removal of ambulatory peritoneal dialysis catheter","Procedure for End stage renal disease"
-"End stage renal disease","7L1B200","104586.0","Flushing of peritoneal dialysis catheter","Procedure for End stage renal disease"
-"End stage renal disease","7L1B.11","36442.0","Placement ambulatory dialysis apparatus - compens renal fail","Procedure for End stage renal disease"
-"End stage renal disease","7L1C000","30709.0","Insertion of temporary peritoneal dialysis catheter","Procedure for End stage renal disease"
-"End stage renal disease","8882.00","52123.0","Intestinal dialysis","Procedure for End stage renal disease"
-"End stage renal disease","G72C.00","105760.0","Ruptured aneurysm of dialysis vascular access","Procedure for End stage renal disease"
-"End stage renal disease","G72D000","110095.0","Aneurysm of superficialised artery of dialysis AV fistula","Procedure for End stage renal disease"
-"End stage renal disease","G72D100","107220.0","Aneurysm of needle site of dialysis arteriovenous fistula","Procedure for End stage renal disease"
-"End stage renal disease","G72D200","105742.0","Aneurysm of anastomotic site of dialysis AV fistula","Procedure for End stage renal disease"
-"End stage renal disease","G72D.00","107188.0","Aneurysm of dialysis arteriovenous fistula","Procedure for End stage renal disease"
-"End stage renal disease","Gy10.00","108699.0","Stenosis of dialysis arteriovenous graft","Procedure for End stage renal disease"
-"End stage renal disease","Gy1..00","107746.0","Stenosis of dialysis vascular access","Procedure for End stage renal disease"
-"End stage renal disease","Gy21.00","106720.0","Thrombosis of dialysis arteriovenous fistula","Procedure for End stage renal disease"
-"End stage renal disease","Gy2..00","109809.0","Thrombosis of dialysis vascular access","Procedure for End stage renal disease"
-"End stage renal disease","Gy30.00","109135.0","Occlusion of dialysis arteriovenous graft","Procedure for End stage renal disease"
-"End stage renal disease","Gy31.00","107082.0","Occlusion of dialysis arteriovenous fistula","Procedure for End stage renal disease"
-"End stage renal disease","Gy3..00","108116.0","Occlusion of dialysis vascular access","Procedure for End stage renal disease"
-"End stage renal disease","Gy40.00","108213.0","Infection of dialysis arteriovenous graft","Procedure for End stage renal disease"
-"End stage renal disease","Gy41.00","107260.0","Infection of dialysis arteriovenous fistula","Procedure for End stage renal disease"
-"End stage renal disease","Gy4..00","110051.0","Infection of dialysis vascular access","Procedure for End stage renal disease"
-"End stage renal disease","Gy51.00","106975.0","Haemorrhage of dialysis arteriovenous fistula","Procedure for End stage renal disease"
-"End stage renal disease","Gy5..00","108759.0","Haemorrhage of dialysis vascular access","Procedure for End stage renal disease"
-"End stage renal disease","Gy60.00","108423.0","Rupture of dialysis arteriovenous graft","Procedure for End stage renal disease"
-"End stage renal disease","K050.00","6712.0","End stage renal failure","Diagnosis of End stage renal disease"
-"End stage renal disease","K05..12","53852.0","End stage renal failure","Diagnosis of End stage renal disease"
-"End stage renal disease","K0B5.00","48057.0","Renal tubulo-interstitial disordrs in transplant rejectn","Procedure for End stage renal disease"
-"End stage renal disease","K0D..00","8330.0","End-stage renal disease","Procedure for End stage renal disease"
-"End stage renal disease","Kyu1C00","100693.0","[X]Renal tubulo-interstitial disorders/transplant rejection","Procedure for End stage renal disease"
-"End stage renal disease","SP01500","48639.0","Mechanical complication of dialysis catheter","Procedure for End stage renal disease"
-"End stage renal disease","SP05613","46438.0","[X] Peritoneal dialysis associated peritonitis","Procedure for End stage renal disease"
-"End stage renal disease","SP06B00","101124.0","Continuous ambulatory peritoneal dialysis associated perit","Procedure for End stage renal disease"
-"End stage renal disease","SP07G00","59315.0","Stenosis of arteriovenous dialysis fistula","Procedure for End stage renal disease"
-"End stage renal disease","SP08300","11553.0","Kidney transplant failure and rejection","Procedure for End stage renal disease"
-"End stage renal disease","SP08D00","104905.0","Acute-on-chronic rejection of renal transplant","Procedure for End stage renal disease"
-"End stage renal disease","SP08E00","104960.0","Acute rejection of renal transplant - grade I","Procedure for End stage renal disease"
-"End stage renal disease","SP08F00","107000.0","Acute rejection of renal transplant - grade II","Procedure for End stage renal disease"
-"End stage renal disease","SP08G00","104630.0","Acute rejection of renal transplant - grade III","Procedure for End stage renal disease"
-"End stage renal disease","SP08H00","104201.0","Acute rejection of renal transplant","Procedure for End stage renal disease"
-"End stage renal disease","SP08J00","106620.0","Chronic rejection of renal transplant","Procedure for End stage renal disease"
-"End stage renal disease","SP08N00","105724.0","Unexplained episode of renal transplant dysfunction","Procedure for End stage renal disease"
-"End stage renal disease","SP08P00","106301.0","Stenosis of vein of transplanted kidney","Procedure for End stage renal disease"
-"End stage renal disease","SP08R00","105811.0","Renal transplant rejection","Procedure for End stage renal disease"
-"End stage renal disease","SP08T00","107752.0","Urological complication of renal transplant","Procedure for End stage renal disease"
-"End stage renal disease","SP08V00","108437.0","Very mild acute rejection of renal transplant","Procedure for End stage renal disease"
-"End stage renal disease","SP08W00","106866.0","Vascular complication of renal transplant","Procedure for End stage renal disease"
-"End stage renal disease","SP0E.00","107900.0","Disorders associated with peritoneal dialysis","Procedure for End stage renal disease"
-"End stage renal disease","SP0F.00","108785.0","Haemodialysis first use syndrome","Procedure for End stage renal disease"
-"End stage renal disease","SP0G.00","105436.0","Anaphylactoid reaction due to haemodialysis","Procedure for End stage renal disease"
-"End stage renal disease","TA02000","96184.0","Accid cut,puncture,perf,h'ge - kidney dialysis","Procedure for End stage renal disease"
-"End stage renal disease","TA22000","69266.0","Failure of sterile precautions during kidney dialysis","Procedure for End stage renal disease"
-"End stage renal disease","TB00100","54990.0","Kidney transplant with complication, without blame","Procedure for End stage renal disease"
-"End stage renal disease","TB00111","18774.0","Renal transplant with complication, without blame","Procedure for End stage renal disease"
-"End stage renal disease","TB11.00","28158.0","Kidney dialysis with complication, without blame","Procedure for End stage renal disease"
-"End stage renal disease","TB11.11","66714.0","Renal dialysis with complication, without blame","Procedure for End stage renal disease"
-"End stage renal disease","Z1A1.00","104719.0","Peritoneal dialysis training","Procedure for End stage renal disease"
-"End stage renal disease","Z1A2.00","74905.0","Haemodialysis training","Procedure for End stage renal disease"
-"End stage renal disease","Z1A..00","101912.0","Dialysis training","Procedure for End stage renal disease"
-"End stage renal disease","Z919100","72336.0","Priming haemodialysis lines","Procedure for End stage renal disease"
-"End stage renal disease","Z919200","110072.0","Washing back through haemodialysis lines","Procedure for End stage renal disease"
-"End stage renal disease","Z919300","60498.0","Reversing haemodialysis lines","Procedure for End stage renal disease"
-"End stage renal disease","Z919.00","60446.0","Care of haemodialysis equipment","Procedure for End stage renal disease"
-"End stage renal disease","Z91A.00","63502.0","Peritoneal dialysis bag procedure","Procedure for End stage renal disease"
-"End stage renal disease","ZV42000","5911.0","[V]Kidney transplanted","Procedure for End stage renal disease"
-"End stage renal disease","ZV45100","22252.0","[V]Renal dialysis status","Procedure for End stage renal disease"
-"End stage renal disease","ZV56000","99692.0","[V]Aftercare involving extracorporeal dialysis","Procedure for End stage renal disease"
-"End stage renal disease","ZV56011","46145.0","[V]Aftercare involving renal dialysis NOS","Procedure for End stage renal disease"
-"End stage renal disease","ZV56y00","63488.0","[V]Other specified aftercare involving intermittent dialysis","Procedure for End stage renal disease"
-"End stage renal disease","ZV56y11","45160.0","[V]Aftercare involving peritoneal dialysis","Procedure for End stage renal disease"
-"End stage renal disease","ZV56.00","60743.0","[V]Aftercare involving intermittent dialysis","Procedure for End stage renal disease"
-"End stage renal disease","ZV56z00","63038.0","[V]Unspecified aftercare involving intermittent dialysis","Procedure for End stage renal disease"
-"End stage renal disease","ZVu3G00","69760.0","[X]Other dialysis","Procedure for End stage renal disease"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+End stage renal disease,14S2.00,49028.0,H/O: kidney recipient,Procedure for End stage renal disease
+End stage renal disease,14V2.00,20196.0,H/O: renal dialysis,Procedure for End stage renal disease
+End stage renal disease,14V2.11,44422.0,H/O: kidney dialysis,Procedure for End stage renal disease
+End stage renal disease,1Z14.00,12585.0,Chronic kidney disease stage 5,Diagnosis of End stage renal disease
+End stage renal disease,1Z1K.00,95508.0,Chronic kidney disease stage 5 with proteinuria,Diagnosis of End stage renal disease
+End stage renal disease,1Z1L.00,95405.0,Chronic kidney disease stage 5 without proteinuria,Diagnosis of End stage renal disease
+End stage renal disease,1Z1L.11,97683.0,CKD stage 5 without proteinuria,Diagnosis of End stage renal disease
+End stage renal disease,4I29.00,98888.0,Peritoneal dialysis sample,Procedure for End stage renal disease
+End stage renal disease,4N0..00,101736.0,Dialysis fluid urea level,Procedure for End stage renal disease
+End stage renal disease,4N2..00,86419.0,Dialysis fluid glucose level,Procedure for End stage renal disease
+End stage renal disease,7B00100,11745.0,Transplantation of kidney from live donor,Procedure for End stage renal disease
+End stage renal disease,7B00111,66705.0,Allotransplantation of kidney from live donor,Procedure for End stage renal disease
+End stage renal disease,7B00200,24361.0,Transplantation of kidney from cadaver,Procedure for End stage renal disease
+End stage renal disease,7B00211,98364.0,Allotransplantation of kidney from cadaver,Procedure for End stage renal disease
+End stage renal disease,7B00212,105328.0,Cadaveric renal transplant,Procedure for End stage renal disease
+End stage renal disease,7B00300,89924.0,"Allotransplantation of kidney from cadaver, heart-beating",Procedure for End stage renal disease
+End stage renal disease,7B00400,96133.0,"Allotransplantation kidney from cadaver, heart non-beating",Procedure for End stage renal disease
+End stage renal disease,7B00500,109455.0,Allotransplantation of kidney from cadaver NEC,Procedure for End stage renal disease
+End stage renal disease,7B00.00,2997.0,Transplantation of kidney,Procedure for End stage renal disease
+End stage renal disease,7B00y00,70874.0,Other specified transplantation of kidney,Procedure for End stage renal disease
+End stage renal disease,7B00z00,5504.0,Transplantation of kidney NOS,Procedure for End stage renal disease
+End stage renal disease,7B01511,72004.0,Excision of rejected transplanted kidney,Procedure for End stage renal disease
+End stage renal disease,7B06300,26862.0,Exploration of renal transplant,Procedure for End stage renal disease
+End stage renal disease,7B0F300,103429.0,"Post-transplantation of kidney examination, recipient",Procedure for End stage renal disease
+End stage renal disease,7B0F.00,93366.0,Interventions associated with transplantation of kidney,Procedure for End stage renal disease
+End stage renal disease,7B0Fy00,104050.0,OS interventions associated with transplantation of kidney,Procedure for End stage renal disease
+End stage renal disease,7B0Fz00,104049.0,Interventions associated with transplantation of kidney NOS,Procedure for End stage renal disease
+End stage renal disease,7L1A000,20073.0,Renal dialysis,Procedure for End stage renal disease
+End stage renal disease,7L1A011,101756.0,Thomas intravascular shunt for dialysis,Procedure for End stage renal disease
+End stage renal disease,7L1A100,2994.0,Peritoneal dialysis,Procedure for End stage renal disease
+End stage renal disease,7L1A200,2996.0,Haemodialysis NEC,Procedure for End stage renal disease
+End stage renal disease,7L1A400,88597.0,Automated peritoneal dialysis,Procedure for End stage renal disease
+End stage renal disease,7L1A500,30756.0,Continuous ambulatory peritoneal dialysis,Procedure for End stage renal disease
+End stage renal disease,7L1A600,64828.0,Peritoneal dialysis NEC,Procedure for End stage renal disease
+End stage renal disease,7L1A.11,11773.0,Dialysis for renal failure,Procedure for End stage renal disease
+End stage renal disease,7L1B000,8037.0,Insertion of ambulatory peritoneal dialysis catheter,Procedure for End stage renal disease
+End stage renal disease,7L1B100,23773.0,Removal of ambulatory peritoneal dialysis catheter,Procedure for End stage renal disease
+End stage renal disease,7L1B200,104586.0,Flushing of peritoneal dialysis catheter,Procedure for End stage renal disease
+End stage renal disease,7L1B.11,36442.0,Placement ambulatory dialysis apparatus - compens renal fail,Procedure for End stage renal disease
+End stage renal disease,7L1C000,30709.0,Insertion of temporary peritoneal dialysis catheter,Procedure for End stage renal disease
+End stage renal disease,8882.00,52123.0,Intestinal dialysis,Procedure for End stage renal disease
+End stage renal disease,G72C.00,105760.0,Ruptured aneurysm of dialysis vascular access,Procedure for End stage renal disease
+End stage renal disease,G72D000,110095.0,Aneurysm of superficialised artery of dialysis AV fistula,Procedure for End stage renal disease
+End stage renal disease,G72D100,107220.0,Aneurysm of needle site of dialysis arteriovenous fistula,Procedure for End stage renal disease
+End stage renal disease,G72D200,105742.0,Aneurysm of anastomotic site of dialysis AV fistula,Procedure for End stage renal disease
+End stage renal disease,G72D.00,107188.0,Aneurysm of dialysis arteriovenous fistula,Procedure for End stage renal disease
+End stage renal disease,Gy10.00,108699.0,Stenosis of dialysis arteriovenous graft,Procedure for End stage renal disease
+End stage renal disease,Gy1..00,107746.0,Stenosis of dialysis vascular access,Procedure for End stage renal disease
+End stage renal disease,Gy21.00,106720.0,Thrombosis of dialysis arteriovenous fistula,Procedure for End stage renal disease
+End stage renal disease,Gy2..00,109809.0,Thrombosis of dialysis vascular access,Procedure for End stage renal disease
+End stage renal disease,Gy30.00,109135.0,Occlusion of dialysis arteriovenous graft,Procedure for End stage renal disease
+End stage renal disease,Gy31.00,107082.0,Occlusion of dialysis arteriovenous fistula,Procedure for End stage renal disease
+End stage renal disease,Gy3..00,108116.0,Occlusion of dialysis vascular access,Procedure for End stage renal disease
+End stage renal disease,Gy40.00,108213.0,Infection of dialysis arteriovenous graft,Procedure for End stage renal disease
+End stage renal disease,Gy41.00,107260.0,Infection of dialysis arteriovenous fistula,Procedure for End stage renal disease
+End stage renal disease,Gy4..00,110051.0,Infection of dialysis vascular access,Procedure for End stage renal disease
+End stage renal disease,Gy51.00,106975.0,Haemorrhage of dialysis arteriovenous fistula,Procedure for End stage renal disease
+End stage renal disease,Gy5..00,108759.0,Haemorrhage of dialysis vascular access,Procedure for End stage renal disease
+End stage renal disease,Gy60.00,108423.0,Rupture of dialysis arteriovenous graft,Procedure for End stage renal disease
+End stage renal disease,K050.00,6712.0,End stage renal failure,Diagnosis of End stage renal disease
+End stage renal disease,K05..12,53852.0,End stage renal failure,Diagnosis of End stage renal disease
+End stage renal disease,K0B5.00,48057.0,Renal tubulo-interstitial disordrs in transplant rejectn,Procedure for End stage renal disease
+End stage renal disease,K0D..00,8330.0,End-stage renal disease,Procedure for End stage renal disease
+End stage renal disease,Kyu1C00,100693.0,[X]Renal tubulo-interstitial disorders/transplant rejection,Procedure for End stage renal disease
+End stage renal disease,SP01500,48639.0,Mechanical complication of dialysis catheter,Procedure for End stage renal disease
+End stage renal disease,SP05613,46438.0,[X] Peritoneal dialysis associated peritonitis,Procedure for End stage renal disease
+End stage renal disease,SP06B00,101124.0,Continuous ambulatory peritoneal dialysis associated perit,Procedure for End stage renal disease
+End stage renal disease,SP07G00,59315.0,Stenosis of arteriovenous dialysis fistula,Procedure for End stage renal disease
+End stage renal disease,SP08300,11553.0,Kidney transplant failure and rejection,Procedure for End stage renal disease
+End stage renal disease,SP08D00,104905.0,Acute-on-chronic rejection of renal transplant,Procedure for End stage renal disease
+End stage renal disease,SP08E00,104960.0,Acute rejection of renal transplant - grade I,Procedure for End stage renal disease
+End stage renal disease,SP08F00,107000.0,Acute rejection of renal transplant - grade II,Procedure for End stage renal disease
+End stage renal disease,SP08G00,104630.0,Acute rejection of renal transplant - grade III,Procedure for End stage renal disease
+End stage renal disease,SP08H00,104201.0,Acute rejection of renal transplant,Procedure for End stage renal disease
+End stage renal disease,SP08J00,106620.0,Chronic rejection of renal transplant,Procedure for End stage renal disease
+End stage renal disease,SP08N00,105724.0,Unexplained episode of renal transplant dysfunction,Procedure for End stage renal disease
+End stage renal disease,SP08P00,106301.0,Stenosis of vein of transplanted kidney,Procedure for End stage renal disease
+End stage renal disease,SP08R00,105811.0,Renal transplant rejection,Procedure for End stage renal disease
+End stage renal disease,SP08T00,107752.0,Urological complication of renal transplant,Procedure for End stage renal disease
+End stage renal disease,SP08V00,108437.0,Very mild acute rejection of renal transplant,Procedure for End stage renal disease
+End stage renal disease,SP08W00,106866.0,Vascular complication of renal transplant,Procedure for End stage renal disease
+End stage renal disease,SP0E.00,107900.0,Disorders associated with peritoneal dialysis,Procedure for End stage renal disease
+End stage renal disease,SP0F.00,108785.0,Haemodialysis first use syndrome,Procedure for End stage renal disease
+End stage renal disease,SP0G.00,105436.0,Anaphylactoid reaction due to haemodialysis,Procedure for End stage renal disease
+End stage renal disease,TA02000,96184.0,"Accid cut,puncture,perf,h'ge - kidney dialysis",Procedure for End stage renal disease
+End stage renal disease,TA22000,69266.0,Failure of sterile precautions during kidney dialysis,Procedure for End stage renal disease
+End stage renal disease,TB00100,54990.0,"Kidney transplant with complication, without blame",Procedure for End stage renal disease
+End stage renal disease,TB00111,18774.0,"Renal transplant with complication, without blame",Procedure for End stage renal disease
+End stage renal disease,TB11.00,28158.0,"Kidney dialysis with complication, without blame",Procedure for End stage renal disease
+End stage renal disease,TB11.11,66714.0,"Renal dialysis with complication, without blame",Procedure for End stage renal disease
+End stage renal disease,Z1A1.00,104719.0,Peritoneal dialysis training,Procedure for End stage renal disease
+End stage renal disease,Z1A2.00,74905.0,Haemodialysis training,Procedure for End stage renal disease
+End stage renal disease,Z1A..00,101912.0,Dialysis training,Procedure for End stage renal disease
+End stage renal disease,Z919100,72336.0,Priming haemodialysis lines,Procedure for End stage renal disease
+End stage renal disease,Z919200,110072.0,Washing back through haemodialysis lines,Procedure for End stage renal disease
+End stage renal disease,Z919300,60498.0,Reversing haemodialysis lines,Procedure for End stage renal disease
+End stage renal disease,Z919.00,60446.0,Care of haemodialysis equipment,Procedure for End stage renal disease
+End stage renal disease,Z91A.00,63502.0,Peritoneal dialysis bag procedure,Procedure for End stage renal disease
+End stage renal disease,ZV42000,5911.0,[V]Kidney transplanted,Procedure for End stage renal disease
+End stage renal disease,ZV45100,22252.0,[V]Renal dialysis status,Procedure for End stage renal disease
+End stage renal disease,ZV56000,99692.0,[V]Aftercare involving extracorporeal dialysis,Procedure for End stage renal disease
+End stage renal disease,ZV56011,46145.0,[V]Aftercare involving renal dialysis NOS,Procedure for End stage renal disease
+End stage renal disease,ZV56y00,63488.0,[V]Other specified aftercare involving intermittent dialysis,Procedure for End stage renal disease
+End stage renal disease,ZV56y11,45160.0,[V]Aftercare involving peritoneal dialysis,Procedure for End stage renal disease
+End stage renal disease,ZV56.00,60743.0,[V]Aftercare involving intermittent dialysis,Procedure for End stage renal disease
+End stage renal disease,ZV56z00,63038.0,[V]Unspecified aftercare involving intermittent dialysis,Procedure for End stage renal disease
+End stage renal disease,ZVu3G00,69760.0,[X]Other dialysis,Procedure for End stage renal disease

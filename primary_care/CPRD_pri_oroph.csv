@@ -1,143 +1,143 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_Oro-pharyngeal","B000000","66270.0","Malignant neoplasm of upper lip, external","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B000100","50296.0","Malignant neoplasm of upper lip, lipstick area","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B000.00","73962.0","Malignant neoplasm of upper lip, vermilion border","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B000z00","98740.0","Malignant neoplasm of upper lip, vermilion border NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B001000","66384.0","Malignant neoplasm of lower lip, external","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B001100","95480.0","Malignant neoplasm of lower lip, lipstick area","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B001.00","67446.0","Malignant neoplasm of lower lip, vermilion border","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B001z00","101707.0","Malignant neoplasm of lower lip, vermilion border NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B002100","99001.0","Malignant neoplasm of upper lip, frenulum","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B002200","98500.0","Malignant neoplasm of upper lip, mucosa","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B002300","90610.0","Malignant neoplasm of upper lip, oral aspect","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B002.00","99493.0","Malignant neoplasm of upper lip, inner aspect","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B002z00","100721.0","Malignant neoplasm of upper lip, inner aspect NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B003000","67504.0","Malignant neoplasm of lower lip, buccal aspect","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B003100","91843.0","Malignant neoplasm of lower lip, frenulum","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B003200","89909.0","Malignant neoplasm of lower lip, mucosa","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B003300","94441.0","Malignant neoplasm of lower lip, oral aspect","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B003.00","71147.0","Malignant neoplasm of lower lip, inner aspect","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B003z00","96782.0","Malignant neoplasm of lower lip, inner aspect NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B004000","73614.0","Malignant neoplasm of lip unspecified, buccal aspect","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B004200","68399.0","Malignant neoplasm of lip unspecified, mucosa","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B004300","100144.0","Malignant neoplasm of lip, oral aspect","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B004.00","61692.0","Malignant neoplasm of lip unspecified, inner aspect","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B005.00","96783.0","Malignant neoplasm of commissure of lip","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B006.00","18882.0","Malignant neoplasm of overlapping lesion of lip","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B007.00","37553.0","Malignant neoplasm of lip, unspecified","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B00..00","14712.0","Malignant neoplasm of lip","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B00..11","9984.0","Carcinoma of lip","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B00z000","100906.0","Malignant neoplasm of lip, unspecified, external","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B00z100","94251.0","Malignant neoplasm of lip, unspecified, lipstick area","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B00zz00","69761.0","Malignant neoplasm of lip, vermilion border NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B010000","34409.0","Malignant neoplasm of base of tongue dorsal surface","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B010.00","43431.0","Malignant neoplasm of base of tongue","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B010.11","69671.0","Malignant neoplasm of posterior third of tongue","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B010z00","91035.0","Malignant neoplasm of fixed part of tongue NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B011100","107258.0","Malignant neoplasm of midline of tongue","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B011.00","43642.0","Malignant neoplasm of dorsal surface of tongue","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B011z00","43781.0","Malignant neoplasm of dorsum of tongue NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B012.00","36161.0","Malignant neoplasm of tongue, tip and lateral border","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B013000","102142.0","Malignant neoplasm of anterior 2/3 of tongue ventral surface","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B013100","63979.0","Malignant neoplasm of frenulum linguae","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B013.00","62840.0","Malignant neoplasm of ventral surface of tongue","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B013z00","38488.0","Malignant neoplasm of ventral tongue surface NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B014.00","58121.0","Malignant neoplasm of anterior 2/3 of tongue unspecified","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B015.00","37096.0","Malignant neoplasm of tongue, junctional zone","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B016.00","24852.0","Malignant neoplasm of lingual tonsil","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B017.00","47205.0","Malignant overlapping lesion of tongue","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B01..00","10283.0","Malignant neoplasm of tongue","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B01y.00","41530.0","Malignant neoplasm of other sites of tongue","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B01z.00","40557.0","Malignant neoplasm of tongue NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B020.00","4388.0","Malignant neoplasm of parotid gland","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B021.00","51786.0","Malignant neoplasm of submandibular gland","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B022.00","70928.0","Malignant neoplasm of sublingual gland","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B02..00","20292.0","Malignant neoplasm of major salivary glands","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B02y.00","70696.0","Malignant neoplasm of other major salivary glands","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B02z.00","50475.0","Malignant neoplasm of major salivary gland NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B030.00","32024.0","Malignant neoplasm of upper gum","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B031.00","49360.0","Malignant neoplasm of lower gum","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B03..00","43400.0","Malignant neoplasm of gum","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B03y.00","101753.0","Malignant neoplasm of other sites of gum","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B03z.00","93218.0","Malignant neoplasm of gum NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B040.00","45408.0","Malignant neoplasm of anterior portion of floor of mouth","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B041.00","45986.0","Malignant neoplasm of lateral portion of floor of mouth","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B042.00","17912.0","Malignant neoplasm, overlapping lesion of floor of mouth","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B04..00","20092.0","Malignant neoplasm of floor of mouth","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B04y.00","56709.0","Malignant neoplasm of other sites of floor of mouth","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B04z.00","36716.0","Malignant neoplasm of floor of mouth NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B050.00","31364.0","Malignant neoplasm of cheek mucosa","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B050.11","30402.0","Malignant neoplasm of buccal mucosa","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B051000","95772.0","Malignant neoplasm of upper buccal sulcus","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B051100","97530.0","Malignant neoplasm of lower buccal sulcus","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B051.00","103796.0","Malignant neoplasm of vestibule of mouth","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B052.00","37590.0","Malignant neoplasm of hard palate","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B053.00","40292.0","Malignant neoplasm of soft palate","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B054.00","37516.0","Malignant neoplasm of uvula","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B055000","96003.0","Malignant neoplasm of junction of hard and soft palate","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B055100","69951.0","Malignant neoplasm of roof of mouth","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B055.00","70819.0","Malignant neoplasm of palate unspecified","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B055z00","28559.0","Malignant neoplasm of palate NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B056.00","37724.0","Malignant neoplasm of retromolar area","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B05..00","14792.0","Malignant neoplasm of other and unspecified parts of mouth","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B05y.00","37916.0","Malignant neoplasm of other specified mouth parts","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B05z.00","55015.0","Malignant neoplasm of mouth NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B060000","26448.0","Malignant neoplasm of faucial tonsil","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B060100","101988.0","Malignant neoplasm of palatine tonsil","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B060200","102151.0","Malignant neoplasm of overlapping lesion of tonsil","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B060.00","16241.0","Malignant neoplasm of tonsil","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B060z00","53884.0","Malignant neoplasm tonsil NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B061.00","24397.0","Malignant neoplasm of tonsillar fossa","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B062000","51926.0","Malignant neoplasm of faucial pillar","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B062100","99185.0","Malignant neoplasm of glossopalatine fold","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B062200","61510.0","Malignant neoplasm of palatoglossal arch","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B062300","93842.0","Malignant neoplasm of palatopharyngeal arch","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B062.00","55066.0","Malignant neoplasm of tonsillar pillar","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B062z00","100002.0","Malignant neoplasm of tonsillar fossa NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B063.00","39554.0","Malignant neoplasm of vallecula","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B064000","26134.0","Malignant neoplasm of epiglottis, free border","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B064100","91895.0","Malignant neoplasm of glossoepiglottic fold","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B064.00","46728.0","Malignant neoplasm of anterior epiglottis","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B064z00","73439.0","Malignant neoplasm of anterior epiglottis NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B065.00","48519.0","Malignant neoplasm of junctional region of epiglottis","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B066.00","56355.0","Malignant neoplasm of lateral wall of oropharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B067.00","90124.0","Malignant neoplasm of posterior wall of oropharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B06..00","22893.0","Malignant neoplasm of oropharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B06y.00","67323.0","Malignant neoplasm of oropharynx, other specified sites","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B06yz00","91037.0","Malignant neoplasm of other specified site of oropharynx NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B06z.00","43200.0","Malignant neoplasm of oropharynx NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B070.00","94390.0","Malignant neoplasm of roof of nasopharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B071000","33388.0","Malignant neoplasm of adenoid","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B071100","46548.0","Malignant neoplasm of pharyngeal tonsil","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B071.00","95429.0","Malignant neoplasm of posterior wall of nasopharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B071z00","96869.0","Malignant neoplasm of posterior wall of nasopharynx NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B072000","37940.0","Malignant neoplasm of pharyngeal recess","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B072.00","59004.0","Malignant neoplasm of lateral wall of nasopharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B072z00","102205.0","Malignant neoplasm of lateral wall of nasopharynx NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B073100","106915.0","Malignant neoplasm of nasopharyngeal soft palate surface","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B073200","99386.0","Malignant neoplasm posterior margin nasal septum and choanae","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B073.00","44139.0","Malignant neoplasm of anterior wall of nasopharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B073z00","100918.0","Malignant neoplasm of anterior wall of nasopharynx NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B074.00","66422.0","Malignant neoplasm, overlapping lesion of nasopharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B07..00","24675.0","Malignant neoplasm of nasopharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B07y.00","55630.0","Malignant neoplasm of other specified site of nasopharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B07z.00","28665.0","Malignant neoplasm of nasopharynx NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B080.00","43548.0","Malignant neoplasm of postcricoid region","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B081.00","39897.0","Malignant neoplasm of pyriform sinus","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B082.00","57248.0","Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B083.00","64462.0","Malignant neoplasm of posterior pharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B08..00","34012.0","Malignant neoplasm of hypopharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B08y.00","88362.0","Malignant neoplasm of other specified hypopharyngeal site","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B08z.00","28451.0","Malignant neoplasm of hypopharynx NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B0...00","19415.0","Malignant neoplasm of lip, oral cavity and pharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B0...11","24374.0","Carcinoma of lip, oral cavity and pharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B0z0.00","16297.0","Malignant neoplasm of pharynx unspecified","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B0z1.00","95016.0","Malignant neoplasm of Waldeyer's ring","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B0z2.00","39084.0","Malignant neoplasm of laryngopharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B0z..00","46114.0","Malig neop other/ill-defined sites lip, oral cavity, pharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B0zy.00","49758.0","Malignant neoplasm of other sites lip, oral cavity, pharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","B0zz.00","39430.0","Malignant neoplasm of lip, oral cavity and pharynx NOS","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","BB5y000","16902.0","[M]Basal cell adenocarcinoma","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","Byu0.00","58973.0","[X]Malignant neoplasm of lip, oral cavity and pharynx","Diagnosis of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","ZV10019","99931.0","[V]Personal history of malignant neoplasm of tongue","History of Primary Malignancy_Oro-pharyngeal"
-"Primary Malignancy_Oro-pharyngeal","ZV10y16","45803.0","[V]Personal history of malignant neoplasm of tongue","History of Primary Malignancy_Oro-pharyngeal"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_Oro-pharyngeal,B000000,66270.0,"Malignant neoplasm of upper lip, external",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B000100,50296.0,"Malignant neoplasm of upper lip, lipstick area",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B000.00,73962.0,"Malignant neoplasm of upper lip, vermilion border",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B000z00,98740.0,"Malignant neoplasm of upper lip, vermilion border NOS",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B001000,66384.0,"Malignant neoplasm of lower lip, external",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B001100,95480.0,"Malignant neoplasm of lower lip, lipstick area",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B001.00,67446.0,"Malignant neoplasm of lower lip, vermilion border",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B001z00,101707.0,"Malignant neoplasm of lower lip, vermilion border NOS",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B002100,99001.0,"Malignant neoplasm of upper lip, frenulum",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B002200,98500.0,"Malignant neoplasm of upper lip, mucosa",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B002300,90610.0,"Malignant neoplasm of upper lip, oral aspect",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B002.00,99493.0,"Malignant neoplasm of upper lip, inner aspect",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B002z00,100721.0,"Malignant neoplasm of upper lip, inner aspect NOS",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B003000,67504.0,"Malignant neoplasm of lower lip, buccal aspect",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B003100,91843.0,"Malignant neoplasm of lower lip, frenulum",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B003200,89909.0,"Malignant neoplasm of lower lip, mucosa",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B003300,94441.0,"Malignant neoplasm of lower lip, oral aspect",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B003.00,71147.0,"Malignant neoplasm of lower lip, inner aspect",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B003z00,96782.0,"Malignant neoplasm of lower lip, inner aspect NOS",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B004000,73614.0,"Malignant neoplasm of lip unspecified, buccal aspect",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B004200,68399.0,"Malignant neoplasm of lip unspecified, mucosa",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B004300,100144.0,"Malignant neoplasm of lip, oral aspect",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B004.00,61692.0,"Malignant neoplasm of lip unspecified, inner aspect",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B005.00,96783.0,Malignant neoplasm of commissure of lip,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B006.00,18882.0,Malignant neoplasm of overlapping lesion of lip,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B007.00,37553.0,"Malignant neoplasm of lip, unspecified",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B00..00,14712.0,Malignant neoplasm of lip,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B00..11,9984.0,Carcinoma of lip,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B00z000,100906.0,"Malignant neoplasm of lip, unspecified, external",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B00z100,94251.0,"Malignant neoplasm of lip, unspecified, lipstick area",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B00zz00,69761.0,"Malignant neoplasm of lip, vermilion border NOS",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B010000,34409.0,Malignant neoplasm of base of tongue dorsal surface,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B010.00,43431.0,Malignant neoplasm of base of tongue,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B010.11,69671.0,Malignant neoplasm of posterior third of tongue,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B010z00,91035.0,Malignant neoplasm of fixed part of tongue NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B011100,107258.0,Malignant neoplasm of midline of tongue,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B011.00,43642.0,Malignant neoplasm of dorsal surface of tongue,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B011z00,43781.0,Malignant neoplasm of dorsum of tongue NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B012.00,36161.0,"Malignant neoplasm of tongue, tip and lateral border",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B013000,102142.0,Malignant neoplasm of anterior 2/3 of tongue ventral surface,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B013100,63979.0,Malignant neoplasm of frenulum linguae,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B013.00,62840.0,Malignant neoplasm of ventral surface of tongue,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B013z00,38488.0,Malignant neoplasm of ventral tongue surface NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B014.00,58121.0,Malignant neoplasm of anterior 2/3 of tongue unspecified,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B015.00,37096.0,"Malignant neoplasm of tongue, junctional zone",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B016.00,24852.0,Malignant neoplasm of lingual tonsil,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B017.00,47205.0,Malignant overlapping lesion of tongue,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B01..00,10283.0,Malignant neoplasm of tongue,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B01y.00,41530.0,Malignant neoplasm of other sites of tongue,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B01z.00,40557.0,Malignant neoplasm of tongue NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B020.00,4388.0,Malignant neoplasm of parotid gland,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B021.00,51786.0,Malignant neoplasm of submandibular gland,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B022.00,70928.0,Malignant neoplasm of sublingual gland,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B02..00,20292.0,Malignant neoplasm of major salivary glands,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B02y.00,70696.0,Malignant neoplasm of other major salivary glands,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B02z.00,50475.0,Malignant neoplasm of major salivary gland NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B030.00,32024.0,Malignant neoplasm of upper gum,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B031.00,49360.0,Malignant neoplasm of lower gum,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B03..00,43400.0,Malignant neoplasm of gum,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B03y.00,101753.0,Malignant neoplasm of other sites of gum,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B03z.00,93218.0,Malignant neoplasm of gum NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B040.00,45408.0,Malignant neoplasm of anterior portion of floor of mouth,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B041.00,45986.0,Malignant neoplasm of lateral portion of floor of mouth,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B042.00,17912.0,"Malignant neoplasm, overlapping lesion of floor of mouth",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B04..00,20092.0,Malignant neoplasm of floor of mouth,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B04y.00,56709.0,Malignant neoplasm of other sites of floor of mouth,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B04z.00,36716.0,Malignant neoplasm of floor of mouth NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B050.00,31364.0,Malignant neoplasm of cheek mucosa,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B050.11,30402.0,Malignant neoplasm of buccal mucosa,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B051000,95772.0,Malignant neoplasm of upper buccal sulcus,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B051100,97530.0,Malignant neoplasm of lower buccal sulcus,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B051.00,103796.0,Malignant neoplasm of vestibule of mouth,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B052.00,37590.0,Malignant neoplasm of hard palate,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B053.00,40292.0,Malignant neoplasm of soft palate,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B054.00,37516.0,Malignant neoplasm of uvula,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B055000,96003.0,Malignant neoplasm of junction of hard and soft palate,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B055100,69951.0,Malignant neoplasm of roof of mouth,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B055.00,70819.0,Malignant neoplasm of palate unspecified,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B055z00,28559.0,Malignant neoplasm of palate NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B056.00,37724.0,Malignant neoplasm of retromolar area,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B05..00,14792.0,Malignant neoplasm of other and unspecified parts of mouth,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B05y.00,37916.0,Malignant neoplasm of other specified mouth parts,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B05z.00,55015.0,Malignant neoplasm of mouth NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B060000,26448.0,Malignant neoplasm of faucial tonsil,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B060100,101988.0,Malignant neoplasm of palatine tonsil,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B060200,102151.0,Malignant neoplasm of overlapping lesion of tonsil,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B060.00,16241.0,Malignant neoplasm of tonsil,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B060z00,53884.0,Malignant neoplasm tonsil NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B061.00,24397.0,Malignant neoplasm of tonsillar fossa,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B062000,51926.0,Malignant neoplasm of faucial pillar,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B062100,99185.0,Malignant neoplasm of glossopalatine fold,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B062200,61510.0,Malignant neoplasm of palatoglossal arch,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B062300,93842.0,Malignant neoplasm of palatopharyngeal arch,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B062.00,55066.0,Malignant neoplasm of tonsillar pillar,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B062z00,100002.0,Malignant neoplasm of tonsillar fossa NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B063.00,39554.0,Malignant neoplasm of vallecula,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B064000,26134.0,"Malignant neoplasm of epiglottis, free border",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B064100,91895.0,Malignant neoplasm of glossoepiglottic fold,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B064.00,46728.0,Malignant neoplasm of anterior epiglottis,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B064z00,73439.0,Malignant neoplasm of anterior epiglottis NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B065.00,48519.0,Malignant neoplasm of junctional region of epiglottis,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B066.00,56355.0,Malignant neoplasm of lateral wall of oropharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B067.00,90124.0,Malignant neoplasm of posterior wall of oropharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B06..00,22893.0,Malignant neoplasm of oropharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B06y.00,67323.0,"Malignant neoplasm of oropharynx, other specified sites",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B06yz00,91037.0,Malignant neoplasm of other specified site of oropharynx NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B06z.00,43200.0,Malignant neoplasm of oropharynx NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B070.00,94390.0,Malignant neoplasm of roof of nasopharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B071000,33388.0,Malignant neoplasm of adenoid,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B071100,46548.0,Malignant neoplasm of pharyngeal tonsil,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B071.00,95429.0,Malignant neoplasm of posterior wall of nasopharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B071z00,96869.0,Malignant neoplasm of posterior wall of nasopharynx NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B072000,37940.0,Malignant neoplasm of pharyngeal recess,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B072.00,59004.0,Malignant neoplasm of lateral wall of nasopharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B072z00,102205.0,Malignant neoplasm of lateral wall of nasopharynx NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B073100,106915.0,Malignant neoplasm of nasopharyngeal soft palate surface,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B073200,99386.0,Malignant neoplasm posterior margin nasal septum and choanae,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B073.00,44139.0,Malignant neoplasm of anterior wall of nasopharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B073z00,100918.0,Malignant neoplasm of anterior wall of nasopharynx NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B074.00,66422.0,"Malignant neoplasm, overlapping lesion of nasopharynx",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B07..00,24675.0,Malignant neoplasm of nasopharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B07y.00,55630.0,Malignant neoplasm of other specified site of nasopharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B07z.00,28665.0,Malignant neoplasm of nasopharynx NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B080.00,43548.0,Malignant neoplasm of postcricoid region,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B081.00,39897.0,Malignant neoplasm of pyriform sinus,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B082.00,57248.0,"Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B083.00,64462.0,Malignant neoplasm of posterior pharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B08..00,34012.0,Malignant neoplasm of hypopharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B08y.00,88362.0,Malignant neoplasm of other specified hypopharyngeal site,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B08z.00,28451.0,Malignant neoplasm of hypopharynx NOS,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B0...00,19415.0,"Malignant neoplasm of lip, oral cavity and pharynx",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B0...11,24374.0,"Carcinoma of lip, oral cavity and pharynx",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B0z0.00,16297.0,Malignant neoplasm of pharynx unspecified,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B0z1.00,95016.0,Malignant neoplasm of Waldeyer's ring,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B0z2.00,39084.0,Malignant neoplasm of laryngopharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B0z..00,46114.0,"Malig neop other/ill-defined sites lip, oral cavity, pharynx",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B0zy.00,49758.0,"Malignant neoplasm of other sites lip, oral cavity, pharynx",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,B0zz.00,39430.0,"Malignant neoplasm of lip, oral cavity and pharynx NOS",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,BB5y000,16902.0,[M]Basal cell adenocarcinoma,Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,Byu0.00,58973.0,"[X]Malignant neoplasm of lip, oral cavity and pharynx",Diagnosis of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,ZV10019,99931.0,[V]Personal history of malignant neoplasm of tongue,History of Primary Malignancy_Oro-pharyngeal
+Primary Malignancy_Oro-pharyngeal,ZV10y16,45803.0,[V]Personal history of malignant neoplasm of tongue,History of Primary Malignancy_Oro-pharyngeal

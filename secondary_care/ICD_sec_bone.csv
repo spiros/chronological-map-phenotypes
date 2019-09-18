@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Secondary Malignancy_Bone","C79.5","Secondary malignant neoplasm of bone and bone marrow","Diagnosis of Secondary Malignancy_Bone"
+Disease,ICD10code,ICD10codeDescr,Category
+Secondary Malignancy_Bone,C79.5,Secondary malignant neoplasm of bone and bone marrow,Diagnosis of Secondary Malignancy_Bone

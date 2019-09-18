@@ -1,9 +1,9 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Cataract","H25","Senile cataract","Diagnosis of Cataract"
-"Cataract","H26.0","Infantile, juvenile and presenile cataract","Diagnosis of Cataract"
-"Cataract","H26.2","Complicated cataract","Diagnosis of Cataract"
-"Cataract","H26.4","After-cataract","History of Cataract"
-"Cataract","H26.8","Other specified cataract","Diagnosis of Cataract"
-"Cataract","H26.9","Cataract, unspecified","Diagnosis of Cataract"
-"Cataract","H28","Cataract and other disorders of lens in diseases classified elsewhere","Diagnosis of Cataract"
-"Cataract","Q12.0","Congenital cataract","Diagnosis of Cataract"
+Disease,ICD10code,ICD10codeDescr,Category
+Cataract,H25,Senile cataract,Diagnosis of Cataract
+Cataract,H26.0,"Infantile, juvenile and presenile cataract",Diagnosis of Cataract
+Cataract,H26.2,Complicated cataract,Diagnosis of Cataract
+Cataract,H26.4,After-cataract,History of Cataract
+Cataract,H26.8,Other specified cataract,Diagnosis of Cataract
+Cataract,H26.9,"Cataract, unspecified",Diagnosis of Cataract
+Cataract,H28,Cataract and other disorders of lens in diseases classified elsewhere,Diagnosis of Cataract
+Cataract,Q12.0,Congenital cataract,Diagnosis of Cataract

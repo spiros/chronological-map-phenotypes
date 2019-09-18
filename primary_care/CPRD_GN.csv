@@ -1,113 +1,113 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Glomerulonephritis","D310100","22897.0","Henoch-Schonlein nephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","G752111","107564.0","Antiglomerular basement membrane disease","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","G752112","107045.0","Anti GBM disease - Antiglomerular basement membrane disease","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K000100","105723.0","Crescentic glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K000111","108711.0","CGN - Crescentic glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K000.00","29384.0","Acute proliferative glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K001.00","67460.0","Acute nephritis with lesions of necrotising glomerulitis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K00..00","2088.0","Acute glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K00..12","20074.0","Bright's disease","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K00y000","20027.0","Acute glomerulonephritis in diseases EC","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K00y.00","63599.0","Other acute glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K00yz00","47838.0","Other acute glomerulonephritis NOS","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K00z.00","20129.0","Acute glomerulonephritis NOS","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K010.00","9840.0","Nephrotic syndrome with proliferative glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K011.00","1803.0","Nephrotic syndrome with membranous glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K012.00","99644.0","Nephrotic syndrome+membranoproliferative glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K013.00","29634.0","Nephrotic syndrome with minimal change glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K013.11","40349.0","Lipoid nephrosis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K013.12","57926.0","Steroid sensitive nephrotic syndrome","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K014.00","23913.0","Nephrotic syndrome, minor glomerular abnormality","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K015.00","22852.0","Nephrotic syndrome, focal and segmental glomerular lesions","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K016.00","19316.0","Nephrotic syndrome, diffuse membranous glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K017.00","21947.0","Nephrotic syn difus mesangial prolifertiv glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K018.00","50472.0","Nephrotic syn,difus endocapilary proliftv glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K019.00","21989.0","Nephrotic syn,diffuse mesangiocapillary glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01A.00","56987.0","Nephrotic syndrome, dense deposit disease","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01B.00","17365.0","Nephrotic syndrome, diffuse crescentic glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01..00","2999.0","Nephrotic syndrome","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01x000","47922.0","Nephrotic syndrome in amyloidosis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01x200","99201.0","Nephrotic syndrome in malaria","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01x300","58750.0","Nephrotic syndrome in polyarteritis nodosa","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01x400","47672.0","Nephrotic syndrome in systemic lupus erythematosus","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01x411","22205.0","Lupus nephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01x.00","108816.0","Nephrotic syndrome in diseases EC","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01y.00","94373.0","Nephrotic syndrome with other pathological kidney lesions","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K01z.00","27427.0","Nephrotic syndrome NOS","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K020.00","34998.0","Chronic proliferative glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K021.00","10809.0","Chronic membranous glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K022.00","61494.0","Chronic membranoproliferative glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K023.00","65064.0","Chronic rapidly progressive glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K02..00","7804.0","Chronic glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K02y000","97758.0","Chronic glomerulonephritis + diseases EC","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K02y200","4669.0","Chronic focal glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K02y300","65400.0","Chronic diffuse glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K02y.00","60960.0","Other chronic glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K02yz00","63615.0","Other chronic glomerulonephritis NOS","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K02z.00","15097.0","Chronic glomerulonephritis NOS","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K030.00","16008.0","Proliferative nephritis unspecified","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K031.00","5291.0","Membranous nephritis unspecified","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032000","67995.0","Focal membranoproliferative glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032100","7164.0","Recurrent benign haematuria syndrome","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032200","107814.0","Focal glomerulon + focal recurr macroscop glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032300","62868.0","Anaphylactoid glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032600","21423.0","Berger's IgA or IgG nephropathy","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032.00","12465.0","Membranoproliferative nephritis unspecified","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032y00","67193.0","Nephritis unsp+OS membranoprolif glomerulonephritis lesion","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032y11","50305.0","Hypocomplementaemic persistent glomerulonephritis NEC","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032y13","36342.0","Mesangioproliferative glomerulonephritis NEC","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032y14","41881.0","Mesangiocapillary glomerulonephritis NEC","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032y15","97388.0","Mixed membranous and proliferative glomerulonephritis NEC","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K032z00","94350.0","Nephritis unsp+membranoprolif glomerulonephritis lesion NOS","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K033.00","58164.0","Rapidly progressive nephritis unspecified","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K03U.00","36125.0","Unspecif nephr synd, diff concentric glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K03V.00","60128.0","Unspecified nephritic syndrome, dense deposit disease","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K03W.00","62520.0","Unsp nephrit synd, diff endocap prolif glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K03X.00","30301.0","Unsp nephrit synd, diff mesang prolif glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K03z.00","5182.0","Unspecified glomerulonephritis NOS","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K072.00","7190.0","Glomerulosclerosis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A0000","100558.0","Acute nephritic syndrome, minor glomerular abnormality","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A0100","66136.0","Acute nephritic syndrome, focal+segmental glomerular lesions","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A0200","66503.0","Acute nephritic syn, diffuse membranous glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A0300","55389.0","Acut neph syn, diffuse mesangial prolifrative glomnephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A0400","101358.0","Ac neph syn difus endocaplry prolifrative glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A0500","54312.0","Acute neph syn, diffuse mesangiocapillary glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A0600","99685.0","Acute nephritic syndrome, dense deposit disease","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A0700","61814.0","Acute nephrotic syndrm diffuse crescentic glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A0.00","31581.0","Acute nephritic syndrome","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A1100","97734.0","Rapid progres nephritic syn focal+segmental glomerulr lesion","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A1200","41285.0","Rapid progres neph syn diffuse membranous glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A1300","58060.0","Rpd prog neph syn df mesangial prolifratv glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A1400","109945.0","Rapid progres neph syn df endocapilary prolifv glomnephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A1600","50200.0","Rapid progressive nephritic syndrome, dense deposit disease","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A1700","62320.0","Rapid progres nephritic syn df crescentic glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A1.00","71174.0","Rapidly progressive nephritic syndrome","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A2000","95546.0","Recurrent+persistnt haematuria minor glomerular abnormality","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A2100","68364.0","Recur+persist haematuria, focal+segmental glomerular lesions","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A2200","61317.0","Recur+persist haematuria difus membranous glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A2300","49642.0","Recur+persist haemuria df mesangial prolif glomerulnephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A2500","60484.0","Recur+persist hmuria df mesangiocapilary glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A2600","44541.0","Recurrent and persistent haematuria, dense deposit disease","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A2700","60856.0","Recur+persist haematuria difus crescentic glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A2800","85659.0","IgA nephropathy","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A2.00","17060.0","Recurrent and persistent haematuria","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A3000","66505.0","Chronic nephritic syndrome, minor glomerular abnormality","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A3100","40413.0","Chronic nephritic syndrm focal+segmental glomerular lesions","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A3200","57168.0","Chron nephritic syndrom difuse membranous glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A3300","56893.0","Chron neph syn difus mesangial prolifrtiv glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A3500","73026.0","Chronic neph syn difus mesangiocapillary glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A3600","60198.0","Chronic nephritic syndrome, dense deposit disease","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A3700","60857.0","Chronic nephritic syn diffuse crescentic glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A3.00","21297.0","Chronic nephritic syndrome","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A4100","44804.0","Isolatd proteinur/specifd morphlgcl les foc+seg glom lesn","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A4200","71964.0","Isolatd proteinur/specfd morphlgcl les df membrn glomneph","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A4300","66613.0","Isoltd prteinur/spcfd morph lesn df mesngl prolf glomneph","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A4500","61811.0","Isoltd prteinur+specfd morph les df mesangiocap glomnephr","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A4.00","43611.0","Isolated proteinuria with specified morphological lesion","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A4W00","59992.0","Isolated proteinuria, with unspecified morpholog changes","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A4X00","101572.0","Isolated proteinuria, with oth specif morpholog changes","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A7.00","55548.0","Glom disordr in blood diseas+disordr invlvg imun mechansm","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A8.00","105859.0","Rapidly progressive glomerulonephritis","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","K0A..00","8668.0","Glomerular disease","Diagnosis of Glomerulonephritis"
-"Glomerulonephritis","Kyu0900","71709.0","[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis","Diagnosis of Glomerulonephritis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Glomerulonephritis,D310100,22897.0,Henoch-Schonlein nephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,G752111,107564.0,Antiglomerular basement membrane disease,Diagnosis of Glomerulonephritis
+Glomerulonephritis,G752112,107045.0,Anti GBM disease - Antiglomerular basement membrane disease,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K000100,105723.0,Crescentic glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K000111,108711.0,CGN - Crescentic glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K000.00,29384.0,Acute proliferative glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K001.00,67460.0,Acute nephritis with lesions of necrotising glomerulitis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K00..00,2088.0,Acute glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K00..12,20074.0,Bright's disease,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K00y000,20027.0,Acute glomerulonephritis in diseases EC,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K00y.00,63599.0,Other acute glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K00yz00,47838.0,Other acute glomerulonephritis NOS,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K00z.00,20129.0,Acute glomerulonephritis NOS,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K010.00,9840.0,Nephrotic syndrome with proliferative glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K011.00,1803.0,Nephrotic syndrome with membranous glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K012.00,99644.0,Nephrotic syndrome+membranoproliferative glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K013.00,29634.0,Nephrotic syndrome with minimal change glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K013.11,40349.0,Lipoid nephrosis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K013.12,57926.0,Steroid sensitive nephrotic syndrome,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K014.00,23913.0,"Nephrotic syndrome, minor glomerular abnormality",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K015.00,22852.0,"Nephrotic syndrome, focal and segmental glomerular lesions",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K016.00,19316.0,"Nephrotic syndrome, diffuse membranous glomerulonephritis",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K017.00,21947.0,Nephrotic syn difus mesangial prolifertiv glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K018.00,50472.0,"Nephrotic syn,difus endocapilary proliftv glomerulonephritis",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K019.00,21989.0,"Nephrotic syn,diffuse mesangiocapillary glomerulonephritis",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01A.00,56987.0,"Nephrotic syndrome, dense deposit disease",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01B.00,17365.0,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01..00,2999.0,Nephrotic syndrome,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01x000,47922.0,Nephrotic syndrome in amyloidosis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01x200,99201.0,Nephrotic syndrome in malaria,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01x300,58750.0,Nephrotic syndrome in polyarteritis nodosa,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01x400,47672.0,Nephrotic syndrome in systemic lupus erythematosus,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01x411,22205.0,Lupus nephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01x.00,108816.0,Nephrotic syndrome in diseases EC,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01y.00,94373.0,Nephrotic syndrome with other pathological kidney lesions,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K01z.00,27427.0,Nephrotic syndrome NOS,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K020.00,34998.0,Chronic proliferative glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K021.00,10809.0,Chronic membranous glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K022.00,61494.0,Chronic membranoproliferative glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K023.00,65064.0,Chronic rapidly progressive glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K02..00,7804.0,Chronic glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K02y000,97758.0,Chronic glomerulonephritis + diseases EC,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K02y200,4669.0,Chronic focal glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K02y300,65400.0,Chronic diffuse glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K02y.00,60960.0,Other chronic glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K02yz00,63615.0,Other chronic glomerulonephritis NOS,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K02z.00,15097.0,Chronic glomerulonephritis NOS,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K030.00,16008.0,Proliferative nephritis unspecified,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K031.00,5291.0,Membranous nephritis unspecified,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032000,67995.0,Focal membranoproliferative glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032100,7164.0,Recurrent benign haematuria syndrome,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032200,107814.0,Focal glomerulon + focal recurr macroscop glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032300,62868.0,Anaphylactoid glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032600,21423.0,Berger's IgA or IgG nephropathy,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032.00,12465.0,Membranoproliferative nephritis unspecified,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032y00,67193.0,Nephritis unsp+OS membranoprolif glomerulonephritis lesion,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032y11,50305.0,Hypocomplementaemic persistent glomerulonephritis NEC,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032y13,36342.0,Mesangioproliferative glomerulonephritis NEC,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032y14,41881.0,Mesangiocapillary glomerulonephritis NEC,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032y15,97388.0,Mixed membranous and proliferative glomerulonephritis NEC,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K032z00,94350.0,Nephritis unsp+membranoprolif glomerulonephritis lesion NOS,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K033.00,58164.0,Rapidly progressive nephritis unspecified,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K03U.00,36125.0,"Unspecif nephr synd, diff concentric glomerulonephritis",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K03V.00,60128.0,"Unspecified nephritic syndrome, dense deposit disease",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K03W.00,62520.0,"Unsp nephrit synd, diff endocap prolif glomerulonephritis",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K03X.00,30301.0,"Unsp nephrit synd, diff mesang prolif glomerulonephritis",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K03z.00,5182.0,Unspecified glomerulonephritis NOS,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K072.00,7190.0,Glomerulosclerosis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A0000,100558.0,"Acute nephritic syndrome, minor glomerular abnormality",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A0100,66136.0,"Acute nephritic syndrome, focal+segmental glomerular lesions",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A0200,66503.0,"Acute nephritic syn, diffuse membranous glomerulonephritis",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A0300,55389.0,"Acut neph syn, diffuse mesangial prolifrative glomnephritis",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A0400,101358.0,Ac neph syn difus endocaplry prolifrative glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A0500,54312.0,"Acute neph syn, diffuse mesangiocapillary glomerulonephritis",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A0600,99685.0,"Acute nephritic syndrome, dense deposit disease",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A0700,61814.0,Acute nephrotic syndrm diffuse crescentic glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A0.00,31581.0,Acute nephritic syndrome,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A1100,97734.0,Rapid progres nephritic syn focal+segmental glomerulr lesion,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A1200,41285.0,Rapid progres neph syn diffuse membranous glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A1300,58060.0,Rpd prog neph syn df mesangial prolifratv glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A1400,109945.0,Rapid progres neph syn df endocapilary prolifv glomnephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A1600,50200.0,"Rapid progressive nephritic syndrome, dense deposit disease",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A1700,62320.0,Rapid progres nephritic syn df crescentic glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A1.00,71174.0,Rapidly progressive nephritic syndrome,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A2000,95546.0,Recurrent+persistnt haematuria minor glomerular abnormality,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A2100,68364.0,"Recur+persist haematuria, focal+segmental glomerular lesions",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A2200,61317.0,Recur+persist haematuria difus membranous glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A2300,49642.0,Recur+persist haemuria df mesangial prolif glomerulnephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A2500,60484.0,Recur+persist hmuria df mesangiocapilary glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A2600,44541.0,"Recurrent and persistent haematuria, dense deposit disease",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A2700,60856.0,Recur+persist haematuria difus crescentic glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A2800,85659.0,IgA nephropathy,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A2.00,17060.0,Recurrent and persistent haematuria,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A3000,66505.0,"Chronic nephritic syndrome, minor glomerular abnormality",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A3100,40413.0,Chronic nephritic syndrm focal+segmental glomerular lesions,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A3200,57168.0,Chron nephritic syndrom difuse membranous glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A3300,56893.0,Chron neph syn difus mesangial prolifrtiv glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A3500,73026.0,Chronic neph syn difus mesangiocapillary glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A3600,60198.0,"Chronic nephritic syndrome, dense deposit disease",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A3700,60857.0,Chronic nephritic syn diffuse crescentic glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A3.00,21297.0,Chronic nephritic syndrome,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A4100,44804.0,Isolatd proteinur/specifd morphlgcl les foc+seg glom lesn,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A4200,71964.0,Isolatd proteinur/specfd morphlgcl les df membrn glomneph,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A4300,66613.0,Isoltd prteinur/spcfd morph lesn df mesngl prolf glomneph,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A4500,61811.0,Isoltd prteinur+specfd morph les df mesangiocap glomnephr,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A4.00,43611.0,Isolated proteinuria with specified morphological lesion,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A4W00,59992.0,"Isolated proteinuria, with unspecified morpholog changes",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A4X00,101572.0,"Isolated proteinuria, with oth specif morpholog changes",Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A7.00,55548.0,Glom disordr in blood diseas+disordr invlvg imun mechansm,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A8.00,105859.0,Rapidly progressive glomerulonephritis,Diagnosis of Glomerulonephritis
+Glomerulonephritis,K0A..00,8668.0,Glomerular disease,Diagnosis of Glomerulonephritis
+Glomerulonephritis,Kyu0900,71709.0,"[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis",Diagnosis of Glomerulonephritis

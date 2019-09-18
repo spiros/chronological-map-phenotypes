@@ -1,0 +1,11 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Pulmonary embolism,14AC.00,10280.0,H/O: pulmonary embolus,History of Pulmonary embolism
+Pulmonary embolism,7A09300,45740.0,Open embolectomy of pulmonary artery,Procedure for Pulmonary embolism
+Pulmonary embolism,7A09311,34687.0,Trendelenburg pulmonary embolectomy,Procedure for Pulmonary embolism
+Pulmonary embolism,7A0A100,65459.0,Percutaneous transluminal embolectomy of pulmonary artery,Procedure for Pulmonary embolism
+Pulmonary embolism,7A0B000,89238.0,Pulmonary thromboendarterectomy,Procedure for Pulmonary embolism
+Pulmonary embolism,G401000,18121.0,Post operative pulmonary embolus,Diagnosis of Pulmonary embolism
+Pulmonary embolism,G401100,96209.0,Recurrent pulmonary embolism,Diagnosis of Pulmonary embolism
+Pulmonary embolism,G401.00,1266.0,Pulmonary embolism,Diagnosis of Pulmonary embolism
+Pulmonary embolism,G401.12,9701.0,Pulmonary embolus,Diagnosis of Pulmonary embolism
+Pulmonary embolism,ZV12900,16976.0,[V] Personal history of pulmonary embolism,History of Pulmonary embolism

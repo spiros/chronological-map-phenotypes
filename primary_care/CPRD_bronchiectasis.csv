@@ -1,7 +1,7 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Bronchiectasis","A115.00","15693.0","Tuberculous bronchiectasis","Diagnosis of Bronchiectasis"
-"Bronchiectasis","H340.00","20364.0","Recurrent bronchiectasis","Diagnosis of Bronchiectasis"
-"Bronchiectasis","H341.00","41491.0","Post-infective bronchiectasis","Diagnosis of Bronchiectasis"
-"Bronchiectasis","H34..00","2195.0","Bronchiectasis","Diagnosis of Bronchiectasis"
-"Bronchiectasis","H34z.00","32679.0","Bronchiectasis NOS","Diagnosis of Bronchiectasis"
-"Bronchiectasis","P861.00","56427.0","Congenital bronchiectasis","Diagnosis of Bronchiectasis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Bronchiectasis,A115.00,15693.0,Tuberculous bronchiectasis,Diagnosis of Bronchiectasis
+Bronchiectasis,H340.00,20364.0,Recurrent bronchiectasis,Diagnosis of Bronchiectasis
+Bronchiectasis,H341.00,41491.0,Post-infective bronchiectasis,Diagnosis of Bronchiectasis
+Bronchiectasis,H34..00,2195.0,Bronchiectasis,Diagnosis of Bronchiectasis
+Bronchiectasis,H34z.00,32679.0,Bronchiectasis NOS,Diagnosis of Bronchiectasis
+Bronchiectasis,P861.00,56427.0,Congenital bronchiectasis,Diagnosis of Bronchiectasis

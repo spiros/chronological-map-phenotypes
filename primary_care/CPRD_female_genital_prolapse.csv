@@ -1,90 +1,90 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Female genital prolapse","1594.00","9803.0","H/O: genital prolapse","History of Female genital prolapse"
-"Female genital prolapse","7D17000","7919.0","Ant and post colporrhaphy and amputation of cervix uteri","Procedure for Female genital prolapse"
-"Female genital prolapse","7D17100","33955.0","Anterior colporrhaphy and amputation of cervix uteri NEC","Procedure for Female genital prolapse"
-"Female genital prolapse","7D17111","4233.0","Fothergill anterior colporrhaphy and amputation of cervix","Procedure for Female genital prolapse"
-"Female genital prolapse","7D17200","20632.0","Posterior colporrhaphy and amputation of cervix uteri NEC","Procedure for Female genital prolapse"
-"Female genital prolapse","7D17.00","28602.0","Repair of vaginal prolapse and amputation of cervix uteri","Procedure for Female genital prolapse"
-"Female genital prolapse","7D17.11","21695.0","Colporrhaphy and amputation of cervix uteri","Procedure for Female genital prolapse"
-"Female genital prolapse","7D17y00","69708.0","Repair of vaginal prolapse & amputation of cervix uteri OS","Procedure for Female genital prolapse"
-"Female genital prolapse","7D17z00","15703.0","Repair of vaginal prolapse & amputation of cervix uteri NOS","Procedure for Female genital prolapse"
-"Female genital prolapse","7D17z11","5669.0","Manchester repair","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18000","19050.0","Anterior and posterior colporrhaphy NEC","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18011","2060.0","Anterior and posterior repair","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18100","2447.0","Anterior colporrhaphy NEC","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18111","631.0","Anterior repair","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18200","3145.0","Posterior colporrhaphy NEC","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18211","2287.0","Posterior repair","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18300","3420.0","Repair of enterocele NEC","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18311","72070.0","McCall repair of enterocele","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18312","67132.0","Moschowitz repair of enterocele","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18400","37274.0","Colporrhaphy NEC","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18500","44748.0","Anterior mesh vaginal repair","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18600","89963.0","Paravaginal repair","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18700","89708.0","Anterior colporrhaphy with mesh reinforcement","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18.00","11863.0","Other repair of vaginal prolapse","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18.11","2286.0","Colporrhaphy","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18800","84375.0","Posterior colporrhaphy with mesh reinforcement","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18y00","18606.0","Other specified other repair of vaginal prolapse","Procedure for Female genital prolapse"
-"Female genital prolapse","7D18z00","28040.0","Other repair of vaginal prolapse NOS","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19000","66379.0","Repair vaginal vault combined abdominal & vaginal approach","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19100","52417.0","Repair of vault of vagina using abdominal approach NEC","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19200","57237.0","Repair of vault of vagina using vaginal approach NEC","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19300","16175.0","Sacrocolpopexy","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19400","1652.0","Suspension of vagina NEC","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19500","18931.0","Sacrospinous fixation of vaginal vault","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19600","96345.0","Repair of vault of vagina with mesh using abdominal approach","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19700","46339.0","Repair of vault of vagina with mesh using vaginal approach","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19.00","17020.0","Repair of vault of vagina","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19y00","27604.0","Other specified repair of vault of vagina","Procedure for Female genital prolapse"
-"Female genital prolapse","7D19z00","48218.0","Repair of vault of vagina NOS","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1A411","5004.0","Colpoperineorrhaphy","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1B000","5351.0","Insertion of Hodge pessary into vagina","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1B100","826.0","Insertion of ring into vagina","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1B200","2576.0","Removal of supporting pessary from vagina","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1B300","9071.0","Change of vaginal pessary","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1B400","12255.0","Removal of ring pessary from vagina","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1B500","83494.0","Renewal of supporting pessary in vagina","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1B600","83479.0","Insertion of ring pessary into vagina","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1B.00","1750.0","Introduction of supporting pessary into vagina","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1By00","4163.0","Introduction of supporting pessary into vagina OS","Procedure for Female genital prolapse"
-"Female genital prolapse","7D1Bz00","14872.0","Introduction of supporting pessary into vagina NOS","Procedure for Female genital prolapse"
-"Female genital prolapse","K510000","211.0","Cystocele without uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K510100","25278.0","Cystourethrocele without uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K510200","2285.0","Rectocele without uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K510211","37918.0","Proctocele without uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K510300","4575.0","Urethrocele without uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K510400","22659.0","Vaginal prolapse unspecified without uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K510.00","1903.0","Vaginal wall prolapse without uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K510z00","17481.0","Vaginal prolapse without uterine prolapse NOS","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K511000","22757.0","First degree uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K511100","6882.0","Second degree uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K511200","37790.0","Third degree uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K511.00","1345.0","Uterine prolapse without vaginal wall prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K511.11","24299.0","Descens uteri","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K511z00","37185.0","Uterine prolapse without vaginal wall prolapse NOS","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K512000","30419.0","Cystocele with first degree uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K512100","12359.0","Cystocele with second degree uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K512.00","7870.0","Uterovaginal prolapse, incomplete","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K513000","25974.0","Cystocele with third degree uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K513.00","9356.0","Uterovaginal prolapse, complete","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K513.11","3986.0","Procidentia - uterine","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K514000","12845.0","Cystocele with unspecified uterine prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K514.00","1057.0","Uterovaginal prolapse, unspecified","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K515.00","10888.0","Post hysterectomy vaginal vault prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K516100","41136.0","Acquired vaginal enterocele","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K516.00","2846.0","Vaginal enterocele","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K516.11","73219.0","Pelvic enterocele","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K516z00","42057.0","Vaginal enterocele NOS","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K517.00","53883.0","Old laceration of pelvic floor muscle","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K518.00","96896.0","Female rectocele","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K519.00","105178.0","Cystocele","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K51..00","6819.0","Genital prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K51y000","102653.0","Incompetence of pelvic fundus","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K51y100","47681.0","Weakening of pelvic fundus","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K51y300","37373.0","Relaxation of pelvis","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K51y.00","23941.0","Other genital prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K51yz00","41895.0","Other genital prolapse NOS","Diagnosis of Female genital prolapse"
-"Female genital prolapse","K51z.00","33440.0","Genital prolapse NOS","Diagnosis of Female genital prolapse"
-"Female genital prolapse","Kyu9100","97649.0","[X]Other female genital prolapse","Diagnosis of Female genital prolapse"
-"Female genital prolapse","SP07900","7175.0","Problem with vaginal pessary","Diagnosis of Female genital prolapse"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Female genital prolapse,1594.00,9803.0,H/O: genital prolapse,History of Female genital prolapse
+Female genital prolapse,7D17000,7919.0,Ant and post colporrhaphy and amputation of cervix uteri,Procedure for Female genital prolapse
+Female genital prolapse,7D17100,33955.0,Anterior colporrhaphy and amputation of cervix uteri NEC,Procedure for Female genital prolapse
+Female genital prolapse,7D17111,4233.0,Fothergill anterior colporrhaphy and amputation of cervix,Procedure for Female genital prolapse
+Female genital prolapse,7D17200,20632.0,Posterior colporrhaphy and amputation of cervix uteri NEC,Procedure for Female genital prolapse
+Female genital prolapse,7D17.00,28602.0,Repair of vaginal prolapse and amputation of cervix uteri,Procedure for Female genital prolapse
+Female genital prolapse,7D17.11,21695.0,Colporrhaphy and amputation of cervix uteri,Procedure for Female genital prolapse
+Female genital prolapse,7D17y00,69708.0,Repair of vaginal prolapse & amputation of cervix uteri OS,Procedure for Female genital prolapse
+Female genital prolapse,7D17z00,15703.0,Repair of vaginal prolapse & amputation of cervix uteri NOS,Procedure for Female genital prolapse
+Female genital prolapse,7D17z11,5669.0,Manchester repair,Procedure for Female genital prolapse
+Female genital prolapse,7D18000,19050.0,Anterior and posterior colporrhaphy NEC,Procedure for Female genital prolapse
+Female genital prolapse,7D18011,2060.0,Anterior and posterior repair,Procedure for Female genital prolapse
+Female genital prolapse,7D18100,2447.0,Anterior colporrhaphy NEC,Procedure for Female genital prolapse
+Female genital prolapse,7D18111,631.0,Anterior repair,Procedure for Female genital prolapse
+Female genital prolapse,7D18200,3145.0,Posterior colporrhaphy NEC,Procedure for Female genital prolapse
+Female genital prolapse,7D18211,2287.0,Posterior repair,Procedure for Female genital prolapse
+Female genital prolapse,7D18300,3420.0,Repair of enterocele NEC,Procedure for Female genital prolapse
+Female genital prolapse,7D18311,72070.0,McCall repair of enterocele,Procedure for Female genital prolapse
+Female genital prolapse,7D18312,67132.0,Moschowitz repair of enterocele,Procedure for Female genital prolapse
+Female genital prolapse,7D18400,37274.0,Colporrhaphy NEC,Procedure for Female genital prolapse
+Female genital prolapse,7D18500,44748.0,Anterior mesh vaginal repair,Procedure for Female genital prolapse
+Female genital prolapse,7D18600,89963.0,Paravaginal repair,Procedure for Female genital prolapse
+Female genital prolapse,7D18700,89708.0,Anterior colporrhaphy with mesh reinforcement,Procedure for Female genital prolapse
+Female genital prolapse,7D18.00,11863.0,Other repair of vaginal prolapse,Procedure for Female genital prolapse
+Female genital prolapse,7D18.11,2286.0,Colporrhaphy,Procedure for Female genital prolapse
+Female genital prolapse,7D18800,84375.0,Posterior colporrhaphy with mesh reinforcement,Procedure for Female genital prolapse
+Female genital prolapse,7D18y00,18606.0,Other specified other repair of vaginal prolapse,Procedure for Female genital prolapse
+Female genital prolapse,7D18z00,28040.0,Other repair of vaginal prolapse NOS,Procedure for Female genital prolapse
+Female genital prolapse,7D19000,66379.0,Repair vaginal vault combined abdominal & vaginal approach,Procedure for Female genital prolapse
+Female genital prolapse,7D19100,52417.0,Repair of vault of vagina using abdominal approach NEC,Procedure for Female genital prolapse
+Female genital prolapse,7D19200,57237.0,Repair of vault of vagina using vaginal approach NEC,Procedure for Female genital prolapse
+Female genital prolapse,7D19300,16175.0,Sacrocolpopexy,Procedure for Female genital prolapse
+Female genital prolapse,7D19400,1652.0,Suspension of vagina NEC,Procedure for Female genital prolapse
+Female genital prolapse,7D19500,18931.0,Sacrospinous fixation of vaginal vault,Procedure for Female genital prolapse
+Female genital prolapse,7D19600,96345.0,Repair of vault of vagina with mesh using abdominal approach,Procedure for Female genital prolapse
+Female genital prolapse,7D19700,46339.0,Repair of vault of vagina with mesh using vaginal approach,Procedure for Female genital prolapse
+Female genital prolapse,7D19.00,17020.0,Repair of vault of vagina,Procedure for Female genital prolapse
+Female genital prolapse,7D19y00,27604.0,Other specified repair of vault of vagina,Procedure for Female genital prolapse
+Female genital prolapse,7D19z00,48218.0,Repair of vault of vagina NOS,Procedure for Female genital prolapse
+Female genital prolapse,7D1A411,5004.0,Colpoperineorrhaphy,Procedure for Female genital prolapse
+Female genital prolapse,7D1B000,5351.0,Insertion of Hodge pessary into vagina,Procedure for Female genital prolapse
+Female genital prolapse,7D1B100,826.0,Insertion of ring into vagina,Procedure for Female genital prolapse
+Female genital prolapse,7D1B200,2576.0,Removal of supporting pessary from vagina,Procedure for Female genital prolapse
+Female genital prolapse,7D1B300,9071.0,Change of vaginal pessary,Procedure for Female genital prolapse
+Female genital prolapse,7D1B400,12255.0,Removal of ring pessary from vagina,Procedure for Female genital prolapse
+Female genital prolapse,7D1B500,83494.0,Renewal of supporting pessary in vagina,Procedure for Female genital prolapse
+Female genital prolapse,7D1B600,83479.0,Insertion of ring pessary into vagina,Procedure for Female genital prolapse
+Female genital prolapse,7D1B.00,1750.0,Introduction of supporting pessary into vagina,Procedure for Female genital prolapse
+Female genital prolapse,7D1By00,4163.0,Introduction of supporting pessary into vagina OS,Procedure for Female genital prolapse
+Female genital prolapse,7D1Bz00,14872.0,Introduction of supporting pessary into vagina NOS,Procedure for Female genital prolapse
+Female genital prolapse,K510000,211.0,Cystocele without uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K510100,25278.0,Cystourethrocele without uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K510200,2285.0,Rectocele without uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K510211,37918.0,Proctocele without uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K510300,4575.0,Urethrocele without uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K510400,22659.0,Vaginal prolapse unspecified without uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K510.00,1903.0,Vaginal wall prolapse without uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K510z00,17481.0,Vaginal prolapse without uterine prolapse NOS,Diagnosis of Female genital prolapse
+Female genital prolapse,K511000,22757.0,First degree uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K511100,6882.0,Second degree uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K511200,37790.0,Third degree uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K511.00,1345.0,Uterine prolapse without vaginal wall prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K511.11,24299.0,Descens uteri,Diagnosis of Female genital prolapse
+Female genital prolapse,K511z00,37185.0,Uterine prolapse without vaginal wall prolapse NOS,Diagnosis of Female genital prolapse
+Female genital prolapse,K512000,30419.0,Cystocele with first degree uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K512100,12359.0,Cystocele with second degree uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K512.00,7870.0,"Uterovaginal prolapse, incomplete",Diagnosis of Female genital prolapse
+Female genital prolapse,K513000,25974.0,Cystocele with third degree uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K513.00,9356.0,"Uterovaginal prolapse, complete",Diagnosis of Female genital prolapse
+Female genital prolapse,K513.11,3986.0,Procidentia - uterine,Diagnosis of Female genital prolapse
+Female genital prolapse,K514000,12845.0,Cystocele with unspecified uterine prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K514.00,1057.0,"Uterovaginal prolapse, unspecified",Diagnosis of Female genital prolapse
+Female genital prolapse,K515.00,10888.0,Post hysterectomy vaginal vault prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K516100,41136.0,Acquired vaginal enterocele,Diagnosis of Female genital prolapse
+Female genital prolapse,K516.00,2846.0,Vaginal enterocele,Diagnosis of Female genital prolapse
+Female genital prolapse,K516.11,73219.0,Pelvic enterocele,Diagnosis of Female genital prolapse
+Female genital prolapse,K516z00,42057.0,Vaginal enterocele NOS,Diagnosis of Female genital prolapse
+Female genital prolapse,K517.00,53883.0,Old laceration of pelvic floor muscle,Diagnosis of Female genital prolapse
+Female genital prolapse,K518.00,96896.0,Female rectocele,Diagnosis of Female genital prolapse
+Female genital prolapse,K519.00,105178.0,Cystocele,Diagnosis of Female genital prolapse
+Female genital prolapse,K51..00,6819.0,Genital prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K51y000,102653.0,Incompetence of pelvic fundus,Diagnosis of Female genital prolapse
+Female genital prolapse,K51y100,47681.0,Weakening of pelvic fundus,Diagnosis of Female genital prolapse
+Female genital prolapse,K51y300,37373.0,Relaxation of pelvis,Diagnosis of Female genital prolapse
+Female genital prolapse,K51y.00,23941.0,Other genital prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,K51yz00,41895.0,Other genital prolapse NOS,Diagnosis of Female genital prolapse
+Female genital prolapse,K51z.00,33440.0,Genital prolapse NOS,Diagnosis of Female genital prolapse
+Female genital prolapse,Kyu9100,97649.0,[X]Other female genital prolapse,Diagnosis of Female genital prolapse
+Female genital prolapse,SP07900,7175.0,Problem with vaginal pessary,Diagnosis of Female genital prolapse

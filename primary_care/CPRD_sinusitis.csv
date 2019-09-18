@@ -1,0 +1,19 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Chronic sinusitis,H01..11,243.0,Sinusitis,Possible Diagnosis of Chronic sinusitis
+Chronic sinusitis,H130.00,4433.0,Chronic maxillary sinusitis,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H130.11,33437.0,Antritis - chronic,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H130.12,3624.0,Maxillary sinusitis,Possible Diagnosis of Chronic sinusitis
+Chronic sinusitis,H131.00,15163.0,Chronic frontal sinusitis,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H131.11,2984.0,Frontal sinusitis,Possible Diagnosis of Chronic sinusitis
+Chronic sinusitis,H132.00,1674.0,Chronic ethmoidal sinusitis,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H133.00,48703.0,Chronic sphenoidal sinusitis,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H135.00,17173.0,Recurrent sinusitis,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H13..00,2257.0,Chronic sinusitis,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H13..11,10546.0,Chronic rhinosinusitis,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H13y000,39501.0,Chronic pansinusitis,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H13y100,2233.0,Pansinusitis,Possible Diagnosis of Chronic sinusitis
+Chronic sinusitis,H13y.00,49548.0,Other chronic sinusitis,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H13yz00,54375.0,Other chronic sinusitis NOS,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H13z.00,5437.0,Chronic sinusitis NOS,Diagnosis of Chronic sinusitis
+Chronic sinusitis,H17..12,18572.0,Allergic rhinosinusitis,Diagnosis of Chronic sinusitis
+Chronic sinusitis,Hyu2200,63733.0,[X]Other chronic sinusitis,Diagnosis of Chronic sinusitis

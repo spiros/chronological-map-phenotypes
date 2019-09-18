@@ -1,87 +1,87 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Anxiety disorders","1466.00","3407.0","H/O: anxiety state","History of Anxiety disorders"
-"Anxiety disorders","146G.00","11764.0","H/O: agoraphobia","History of Anxiety disorders"
-"Anxiety disorders","1B1H.11","5347.0","Fear","Diagnosis of Anxiety disorders"
-"Anxiety disorders","1B1V.00","11890.0","C/O - panic attack","Diagnosis of Anxiety disorders"
-"Anxiety disorders","1Bb..00","18672.0","Specific fear","Diagnosis of Anxiety disorders"
-"Anxiety disorders","225J.00","19000.0","O/E - panic attack","Diagnosis of Anxiety disorders"
-"Anxiety disorders","225K.00","26331.0","O/E - fearful mood","Diagnosis of Anxiety disorders"
-"Anxiety disorders","285..00","15811.0","Neurotic condition, insight present","Diagnosis of Anxiety disorders"
-"Anxiety disorders","286..00","5274.0","Poor insight into neurotic condition","Diagnosis of Anxiety disorders"
-"Anxiety disorders","8G52.00","63521.0","Antiphobic therapy","Diagnosis of Anxiety disorders"
-"Anxiety disorders","8G94.00","9125.0","Anxiety management training","Diagnosis of Anxiety disorders"
-"Anxiety disorders","8HHp.00","28925.0","Referral for guided self-help for anxiety","Diagnosis of Anxiety disorders"
-"Anxiety disorders","9N54.00","53067.0","Encounter for fear","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E200000","6939.0","Anxiety state unspecified","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E200100","4069.0","Panic disorder","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E200111","462.0","Panic attack","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E200200","4659.0","Generalised anxiety disorder","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E200300","655.0","Anxiety with depression","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E200400","1758.0","Chronic anxiety","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E200500","4634.0","Recurrent anxiety","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E200.00","636.0","Anxiety states","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E200z00","4534.0","Anxiety state NOS","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E201B00","29322.0","Compensation neurosis","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202000","2300.0","Phobia unspecified","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202100","3076.0","Agoraphobia with panic attacks","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202200","12838.0","Agoraphobia without mention of panic attacks","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202300","16199.0","Social phobia, fear of eating in public","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202400","31957.0","Social phobia, fear of public speaking","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202500","18603.0","Social phobia, fear of public washing","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202600","28106.0","Acrophobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202700","28938.0","Animal phobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202800","1723.0","Claustrophobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202900","31672.0","Fear of crowds","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202A00","4167.0","Fear of flying","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202B00","1510.0","Cancer phobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202C00","2366.0","Dental phobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202D00","10390.0","Fear of death","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202.00","1907.0","Phobic disorders","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202.11","16638.0","Social phobic disorders","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202.12","9944.0","Phobic anxiety","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202E00","6071.0","Fear of pregnancy","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E202z00","14729.0","Phobic disorder NOS","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E20..00","5249.0","Neurotic disorders","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E20y100","3685.0","Writer's cramp neurosis","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E20y200","39518.0","Other occupational neurosis","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E20y300","72171.0","Psychasthenic neurosis","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E20y.00","42000.0","Other neurotic disorders","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E20yz00","43050.0","Other neurotic disorder NOS","Diagnosis of Anxiety disorders"
-"Anxiety disorders","E20z.00","14780.0","Neurotic disorder NOS","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu34111","8584.0","[X]Depressive neurosis","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu34113","7737.0","[X]Neurotic depression","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu34114","15220.0","[X]Persistant anxiety depression","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40000","2571.0","[X]Agoraphobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40011","16729.0","[X]Agoraphobia without history of panic disorder","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40012","14890.0","[X]Panic disorder with agoraphobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40100","11602.0","[X]Social phobias","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40112","42788.0","[X]Social neurosis","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40200","9785.0","[X]Specific (isolated) phobias","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40211","67965.0","[X]Acrophobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40212","18248.0","[X]Animal phobias","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40213","11280.0","[X]Claustrophobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40214","12635.0","[X]Simple phobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40300","12508.0","[X]Needle phobia","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40.00","9386.0","[X]Phobic anxiety disorders","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40y00","27685.0","[X]Other phobic anxiety disorders","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40z00","34064.0","[X]Phobic anxiety disorder, unspecified","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40z11","7222.0","[X]Phobia NOS","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu40z12","67898.0","[X]Phobic state NOS","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41000","8205.0","[X]Panic disorder [episodic paroxysmal anxiety]","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41011","6408.0","[X]Panic attack","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41012","4081.0","[X]Panic state","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41100","10344.0","[X]Generalized anxiety disorder","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41111","962.0","[X]Anxiety neurosis","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41112","35825.0","[X]Anxiety reaction","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41113","50191.0","[X]Anxiety state","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41200","11913.0","[X]Mixed anxiety and depressive disorder","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41211","7749.0","[X]Mild anxiety depression","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41300","44321.0","[X]Other mixed anxiety disorders","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41.00","5385.0","[X]Other anxiety disorders","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41y00","24066.0","[X]Other specified anxiety disorders","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41y11","28167.0","[X]Anxiety hysteria","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41z00","23838.0","[X]Anxiety disorder, unspecified","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Eu41z11","25638.0","[X]Anxiety NOS","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Z481.00","25749.0","Phobia counselling","Diagnosis of Anxiety disorders"
-"Anxiety disorders","Z4L1.00","7999.0","Anxiety counselling","Diagnosis of Anxiety disorders"
-"Anxiety disorders","ZV11200","51613.0","[V]Personal history of neurosis","History of Anxiety disorders"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Anxiety disorders,1466.00,3407.0,H/O: anxiety state,History of Anxiety disorders
+Anxiety disorders,146G.00,11764.0,H/O: agoraphobia,History of Anxiety disorders
+Anxiety disorders,1B1H.11,5347.0,Fear,Diagnosis of Anxiety disorders
+Anxiety disorders,1B1V.00,11890.0,C/O - panic attack,Diagnosis of Anxiety disorders
+Anxiety disorders,1Bb..00,18672.0,Specific fear,Diagnosis of Anxiety disorders
+Anxiety disorders,225J.00,19000.0,O/E - panic attack,Diagnosis of Anxiety disorders
+Anxiety disorders,225K.00,26331.0,O/E - fearful mood,Diagnosis of Anxiety disorders
+Anxiety disorders,285..00,15811.0,"Neurotic condition, insight present",Diagnosis of Anxiety disorders
+Anxiety disorders,286..00,5274.0,Poor insight into neurotic condition,Diagnosis of Anxiety disorders
+Anxiety disorders,8G52.00,63521.0,Antiphobic therapy,Diagnosis of Anxiety disorders
+Anxiety disorders,8G94.00,9125.0,Anxiety management training,Diagnosis of Anxiety disorders
+Anxiety disorders,8HHp.00,28925.0,Referral for guided self-help for anxiety,Diagnosis of Anxiety disorders
+Anxiety disorders,9N54.00,53067.0,Encounter for fear,Diagnosis of Anxiety disorders
+Anxiety disorders,E200000,6939.0,Anxiety state unspecified,Diagnosis of Anxiety disorders
+Anxiety disorders,E200100,4069.0,Panic disorder,Diagnosis of Anxiety disorders
+Anxiety disorders,E200111,462.0,Panic attack,Diagnosis of Anxiety disorders
+Anxiety disorders,E200200,4659.0,Generalised anxiety disorder,Diagnosis of Anxiety disorders
+Anxiety disorders,E200300,655.0,Anxiety with depression,Diagnosis of Anxiety disorders
+Anxiety disorders,E200400,1758.0,Chronic anxiety,Diagnosis of Anxiety disorders
+Anxiety disorders,E200500,4634.0,Recurrent anxiety,Diagnosis of Anxiety disorders
+Anxiety disorders,E200.00,636.0,Anxiety states,Diagnosis of Anxiety disorders
+Anxiety disorders,E200z00,4534.0,Anxiety state NOS,Diagnosis of Anxiety disorders
+Anxiety disorders,E201B00,29322.0,Compensation neurosis,Diagnosis of Anxiety disorders
+Anxiety disorders,E202000,2300.0,Phobia unspecified,Diagnosis of Anxiety disorders
+Anxiety disorders,E202100,3076.0,Agoraphobia with panic attacks,Diagnosis of Anxiety disorders
+Anxiety disorders,E202200,12838.0,Agoraphobia without mention of panic attacks,Diagnosis of Anxiety disorders
+Anxiety disorders,E202300,16199.0,"Social phobia, fear of eating in public",Diagnosis of Anxiety disorders
+Anxiety disorders,E202400,31957.0,"Social phobia, fear of public speaking",Diagnosis of Anxiety disorders
+Anxiety disorders,E202500,18603.0,"Social phobia, fear of public washing",Diagnosis of Anxiety disorders
+Anxiety disorders,E202600,28106.0,Acrophobia,Diagnosis of Anxiety disorders
+Anxiety disorders,E202700,28938.0,Animal phobia,Diagnosis of Anxiety disorders
+Anxiety disorders,E202800,1723.0,Claustrophobia,Diagnosis of Anxiety disorders
+Anxiety disorders,E202900,31672.0,Fear of crowds,Diagnosis of Anxiety disorders
+Anxiety disorders,E202A00,4167.0,Fear of flying,Diagnosis of Anxiety disorders
+Anxiety disorders,E202B00,1510.0,Cancer phobia,Diagnosis of Anxiety disorders
+Anxiety disorders,E202C00,2366.0,Dental phobia,Diagnosis of Anxiety disorders
+Anxiety disorders,E202D00,10390.0,Fear of death,Diagnosis of Anxiety disorders
+Anxiety disorders,E202.00,1907.0,Phobic disorders,Diagnosis of Anxiety disorders
+Anxiety disorders,E202.11,16638.0,Social phobic disorders,Diagnosis of Anxiety disorders
+Anxiety disorders,E202.12,9944.0,Phobic anxiety,Diagnosis of Anxiety disorders
+Anxiety disorders,E202E00,6071.0,Fear of pregnancy,Diagnosis of Anxiety disorders
+Anxiety disorders,E202z00,14729.0,Phobic disorder NOS,Diagnosis of Anxiety disorders
+Anxiety disorders,E20..00,5249.0,Neurotic disorders,Diagnosis of Anxiety disorders
+Anxiety disorders,E20y100,3685.0,Writer's cramp neurosis,Diagnosis of Anxiety disorders
+Anxiety disorders,E20y200,39518.0,Other occupational neurosis,Diagnosis of Anxiety disorders
+Anxiety disorders,E20y300,72171.0,Psychasthenic neurosis,Diagnosis of Anxiety disorders
+Anxiety disorders,E20y.00,42000.0,Other neurotic disorders,Diagnosis of Anxiety disorders
+Anxiety disorders,E20yz00,43050.0,Other neurotic disorder NOS,Diagnosis of Anxiety disorders
+Anxiety disorders,E20z.00,14780.0,Neurotic disorder NOS,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu34111,8584.0,[X]Depressive neurosis,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu34113,7737.0,[X]Neurotic depression,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu34114,15220.0,[X]Persistant anxiety depression,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40000,2571.0,[X]Agoraphobia,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40011,16729.0,[X]Agoraphobia without history of panic disorder,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40012,14890.0,[X]Panic disorder with agoraphobia,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40100,11602.0,[X]Social phobias,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40112,42788.0,[X]Social neurosis,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40200,9785.0,[X]Specific (isolated) phobias,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40211,67965.0,[X]Acrophobia,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40212,18248.0,[X]Animal phobias,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40213,11280.0,[X]Claustrophobia,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40214,12635.0,[X]Simple phobia,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40300,12508.0,[X]Needle phobia,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40.00,9386.0,[X]Phobic anxiety disorders,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40y00,27685.0,[X]Other phobic anxiety disorders,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40z00,34064.0,"[X]Phobic anxiety disorder, unspecified",Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40z11,7222.0,[X]Phobia NOS,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu40z12,67898.0,[X]Phobic state NOS,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41000,8205.0,[X]Panic disorder [episodic paroxysmal anxiety],Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41011,6408.0,[X]Panic attack,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41012,4081.0,[X]Panic state,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41100,10344.0,[X]Generalized anxiety disorder,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41111,962.0,[X]Anxiety neurosis,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41112,35825.0,[X]Anxiety reaction,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41113,50191.0,[X]Anxiety state,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41200,11913.0,[X]Mixed anxiety and depressive disorder,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41211,7749.0,[X]Mild anxiety depression,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41300,44321.0,[X]Other mixed anxiety disorders,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41.00,5385.0,[X]Other anxiety disorders,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41y00,24066.0,[X]Other specified anxiety disorders,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41y11,28167.0,[X]Anxiety hysteria,Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41z00,23838.0,"[X]Anxiety disorder, unspecified",Diagnosis of Anxiety disorders
+Anxiety disorders,Eu41z11,25638.0,[X]Anxiety NOS,Diagnosis of Anxiety disorders
+Anxiety disorders,Z481.00,25749.0,Phobia counselling,Diagnosis of Anxiety disorders
+Anxiety disorders,Z4L1.00,7999.0,Anxiety counselling,Diagnosis of Anxiety disorders
+Anxiety disorders,ZV11200,51613.0,[V]Personal history of neurosis,History of Anxiety disorders

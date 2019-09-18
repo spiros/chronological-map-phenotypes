@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Raynaud's syndrome","I73.0","Raynaud's syndrome","Diagnosis of Raynaud's syndrome"
+Disease,ICD10code,ICD10codeDescr,Category
+Raynaud's syndrome,I73.0,Raynaud's syndrome,Diagnosis of Raynaud's syndrome

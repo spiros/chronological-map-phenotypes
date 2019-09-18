@@ -1,5 +1,5 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Thalassaemia trait","D104100","1174.0","Thalassaemia minor NEC","Diagnosis of Thalassaemia trait"
-"Thalassaemia trait","D104400","12235.0","Alpha trait thalassaemia","Diagnosis of Thalassaemia trait"
-"Thalassaemia trait","D104500","9864.0","Beta trait thalassaemia","Diagnosis of Thalassaemia trait"
-"Thalassaemia trait","D104800","27761.0","Beta minor thalassaemia","Diagnosis of Thalassaemia trait"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Thalassaemia trait,D104100,1174.0,Thalassaemia minor NEC,Diagnosis of Thalassaemia trait
+Thalassaemia trait,D104400,12235.0,Alpha trait thalassaemia,Diagnosis of Thalassaemia trait
+Thalassaemia trait,D104500,9864.0,Beta trait thalassaemia,Diagnosis of Thalassaemia trait
+Thalassaemia trait,D104800,27761.0,Beta minor thalassaemia,Diagnosis of Thalassaemia trait

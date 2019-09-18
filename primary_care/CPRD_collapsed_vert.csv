@@ -1,0 +1,28 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Collapsed vertebra,7J41300,88269.0,Vertebroplasty of fracture of spine,Procedure for Collapsed vertebra
+Collapsed vertebra,7J41500,90472.0,Balloon kyphoplasty of fracture of spine,Procedure for Collapsed vertebra
+Collapsed vertebra,7J48M00,19376.0,Vertebroplasty,Procedure for Collapsed vertebra
+Collapsed vertebra,N331000,30616.0,Pathological fracture of thoracic vertebra,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331011,15837.0,Collapse of thoracic vertebra,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331100,30352.0,Pathological fracture of lumbar vertebra,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331111,23686.0,Collapse of lumbar vertebra,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331800,17377.0,Osteoporosis + pathological fracture lumbar vertebrae,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331900,12673.0,Osteoporosis + pathological fracture thoracic vertebrae,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331A00,48772.0,Osteoporosis + pathological fracture cervical vertebrae,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331C00,37945.0,Pathological fracture of cervical vertebra,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331D00,38728.0,Collapsed vertebra NOS,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331E00,17008.0,Collapse of cervical vertebra,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331F00,9319.0,Collapse of thoracic vertebra,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331G00,11543.0,Collapse of lumbar vertebra,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331H00,45736.0,Collapse of cervical vertebra due to osteoporosis,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331J00,5841.0,Collapse of lumbar vertebra due to osteoporosis,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331K00,19048.0,Collapse of thoracic vertebra due to osteoporosis,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331L00,4013.0,Collapse of vertebra due to osteoporosis NOS,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331.11,28575.0,Collapse of spine NOS,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331.12,2793.0,Collapse of vertebra NOS,Diagnosis of Collapsed vertebra
+Collapsed vertebra,N331.14,44386.0,Osteoporotic vertebral collapse,Diagnosis of Collapsed vertebra
+Collapsed vertebra,Nyu6700,73900.0,[X]Collapsed vertebra in diseases classified elsewhere,Diagnosis of Collapsed vertebra
+Collapsed vertebra,S100H00,53337.0,"Closed fracture cervical vertebra, wedge",Diagnosis of Collapsed vertebra
+Collapsed vertebra,S102100,28524.0,"Closed fracture thoracic vertebra, wedge",Diagnosis of Collapsed vertebra
+Collapsed vertebra,S104100,8266.0,"Closed fracture lumbar vertebra, wedge",Diagnosis of Collapsed vertebra
+Collapsed vertebra,S106000,72404.0,Closed compression fracture sacrum,Diagnosis of Collapsed vertebra

@@ -1,0 +1,6 @@
+Disease,ICD10code,ICD10codeDescr,Category
+COPD,J40,"Bronchitis, not specified as acute or chronic",Diagnosis of COPD
+COPD,J41,Simple and mucopurulent chronic bronchitis,Diagnosis of COPD
+COPD,J42,Unspecified chronic bronchitis,Diagnosis of COPD
+COPD,J43,Emphysema,Diagnosis of COPD
+COPD,J44,Other chronic obstructive pulmonary disease,Diagnosis of COPD

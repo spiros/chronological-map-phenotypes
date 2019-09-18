@@ -1,14 +1,14 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_Oesophageal","B100.00","61695.0","Malignant neoplasm of cervical oesophagus","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B101.00","41362.0","Malignant neoplasm of thoracic oesophagus","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B102.00","63470.0","Malignant neoplasm of abdominal oesophagus","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B103.00","50789.0","Malignant neoplasm of upper third of oesophagus","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B104.00","54171.0","Malignant neoplasm of middle third of oesophagus","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B105.00","42416.0","Malignant neoplasm of lower third of oesophagus","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B106.00","67497.0","Malignant neoplasm, overlapping lesion of oesophagus","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B107.00","98142.0","Siewert type I adenocarcinoma","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B10..00","1062.0","Malignant neoplasm of oesophagus","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B10y.00","53591.0","Malignant neoplasm of other specified part of oesophagus","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B10z.00","30700.0","Malignant neoplasm of oesophagus NOS","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","B10z.11","4865.0","Oesophageal cancer","Diagnosis of Primary Malignancy_Oesophageal"
-"Primary Malignancy_Oesophageal","ZV10016","51001.0","[V]Personal history of malignant neoplasm of oesophagus","History of Primary Malignancy_Oesophageal"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_Oesophageal,B100.00,61695.0,Malignant neoplasm of cervical oesophagus,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B101.00,41362.0,Malignant neoplasm of thoracic oesophagus,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B102.00,63470.0,Malignant neoplasm of abdominal oesophagus,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B103.00,50789.0,Malignant neoplasm of upper third of oesophagus,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B104.00,54171.0,Malignant neoplasm of middle third of oesophagus,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B105.00,42416.0,Malignant neoplasm of lower third of oesophagus,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B106.00,67497.0,"Malignant neoplasm, overlapping lesion of oesophagus",Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B107.00,98142.0,Siewert type I adenocarcinoma,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B10..00,1062.0,Malignant neoplasm of oesophagus,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B10y.00,53591.0,Malignant neoplasm of other specified part of oesophagus,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B10z.00,30700.0,Malignant neoplasm of oesophagus NOS,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,B10z.11,4865.0,Oesophageal cancer,Diagnosis of Primary Malignancy_Oesophageal
+Primary Malignancy_Oesophageal,ZV10016,51001.0,[V]Personal history of malignant neoplasm of oesophagus,History of Primary Malignancy_Oesophageal

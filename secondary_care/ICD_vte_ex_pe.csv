@@ -1,0 +1,9 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Venous thromboembolic disease (Excl PE),I80.1,Phlebitis and thrombophlebitis of femoral vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),I80.2,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),I63.6,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),I67.6,Nonpyogenic thrombosis of intracranial venous system,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),I81,Portal vein thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),I82.0,Budd-Chiari syndrome,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),I82.2,Embolism and thrombosis of vena cava,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),I82.3,Embolism and thrombosis of renal vein,Diagnosis of Venous thromboembolic disease (Excl PE)

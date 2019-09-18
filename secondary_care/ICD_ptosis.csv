@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Ptosis of eyelid","H02.4","Ptosis of eyelid","Diagnosis of ptosis of eyelid"
+Disease,ICD10code,ICD10codeDescr,Category
+Ptosis of eyelid,H02.4,Ptosis of eyelid,Diagnosis of ptosis of eyelid

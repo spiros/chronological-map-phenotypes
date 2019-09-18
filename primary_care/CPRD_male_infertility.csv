@@ -1,23 +1,23 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Male infertility","4914.00","38990.0","Semen exam.: low fertility","Diagnosis of Male infertility"
-"Male infertility","4915.00","61954.0","Semen exam.:very low fertility","Diagnosis of Male infertility"
-"Male infertility","4916.00","7273.0","Semen exam.: infertile","Diagnosis of Male infertility"
-"Male infertility","4917.00","4520.0","Semen exam: abnormal","Diagnosis of Male infertility"
-"Male infertility","K260.00","3331.0","Azoospermia","Diagnosis of Male infertility"
-"Male infertility","K260.11","32485.0","Young's syndrome","Diagnosis of Male infertility"
-"Male infertility","K261000","102597.0","Oligoasthenozoospermia","Diagnosis of Male infertility"
-"Male infertility","K261.00","1615.0","Oligospermia","Diagnosis of Male infertility"
-"Male infertility","K262.00","102703.0","Aspermia","Diagnosis of Male infertility"
-"Male infertility","K26..00","766.0","Male infertility","Diagnosis of Male infertility"
-"Male infertility","K26y200","36264.0","Infertility due to efferent duct obstruction","Diagnosis of Male infertility"
-"Male infertility","K26y300","101598.0","Infertility due to radiation","Possible diagnosis of Male infertility"
-"Male infertility","K26y400","108577.0","Infertility in systemic disease","Possible diagnosis of Male infertility"
-"Male infertility","K26y.00","99607.0","Infertility due to extratesticular cause","Diagnosis of Male infertility"
-"Male infertility","K26yz00","58858.0","Infertility due to extratesticular cause NOS","Diagnosis of Male infertility"
-"Male infertility","K26z.00","5292.0","Male infertility NOS","Diagnosis of Male infertility"
-"Male infertility","K5B1000","94448.0","Primary pituitary - hypothalamic infertility","Possible diagnosis of Male infertility"
-"Male infertility","K5B1100","99535.0","Secondary pituitary - hypothalamic infertility","Possible diagnosis of Male infertility"
-"Male infertility","K5B6.00","54282.0","Female infertility associated with male factors","Diagnosis of Male infertility"
-"Male infertility","K5By000","2014.0","Primary infertility unspecified","Possible diagnosis of Male infertility"
-"Male infertility","K5By100","1943.0","Secondary infertility unspecified","Possible diagnosis of Male infertility"
-"Male infertility","K5Byz11","7246.0","Subfertility","Possible diagnosis of Male infertility"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Male infertility,4914.00,38990.0,Semen exam.: low fertility,Diagnosis of Male infertility
+Male infertility,4915.00,61954.0,Semen exam.:very low fertility,Diagnosis of Male infertility
+Male infertility,4916.00,7273.0,Semen exam.: infertile,Diagnosis of Male infertility
+Male infertility,4917.00,4520.0,Semen exam: abnormal,Diagnosis of Male infertility
+Male infertility,K260.00,3331.0,Azoospermia,Diagnosis of Male infertility
+Male infertility,K260.11,32485.0,Young's syndrome,Diagnosis of Male infertility
+Male infertility,K261000,102597.0,Oligoasthenozoospermia,Diagnosis of Male infertility
+Male infertility,K261.00,1615.0,Oligospermia,Diagnosis of Male infertility
+Male infertility,K262.00,102703.0,Aspermia,Diagnosis of Male infertility
+Male infertility,K26..00,766.0,Male infertility,Diagnosis of Male infertility
+Male infertility,K26y200,36264.0,Infertility due to efferent duct obstruction,Diagnosis of Male infertility
+Male infertility,K26y300,101598.0,Infertility due to radiation,Possible diagnosis of Male infertility
+Male infertility,K26y400,108577.0,Infertility in systemic disease,Possible diagnosis of Male infertility
+Male infertility,K26y.00,99607.0,Infertility due to extratesticular cause,Diagnosis of Male infertility
+Male infertility,K26yz00,58858.0,Infertility due to extratesticular cause NOS,Diagnosis of Male infertility
+Male infertility,K26z.00,5292.0,Male infertility NOS,Diagnosis of Male infertility
+Male infertility,K5B1000,94448.0,Primary pituitary - hypothalamic infertility,Possible diagnosis of Male infertility
+Male infertility,K5B1100,99535.0,Secondary pituitary - hypothalamic infertility,Possible diagnosis of Male infertility
+Male infertility,K5B6.00,54282.0,Female infertility associated with male factors,Diagnosis of Male infertility
+Male infertility,K5By000,2014.0,Primary infertility unspecified,Possible diagnosis of Male infertility
+Male infertility,K5By100,1943.0,Secondary infertility unspecified,Possible diagnosis of Male infertility
+Male infertility,K5Byz11,7246.0,Subfertility,Possible diagnosis of Male infertility

@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Urticaria","L50","Urticaria","Diagnosis of Urticaria"
+Disease,ICD10code,ICD10codeDescr,Category
+Urticaria,L50,Urticaria,Diagnosis of Urticaria

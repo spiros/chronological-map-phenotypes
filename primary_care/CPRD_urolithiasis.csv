@@ -1,0 +1,112 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Urolithiasis,14D3.00,24994.0,H/O: urinary stone,History of Urolithiasis
+Urolithiasis,1A52.00,640.0,Renal colic,Diagnosis of Urolithiasis
+Urolithiasis,1A52.11,6770.0,"Renal colic, symptom",Diagnosis of Urolithiasis
+Urolithiasis,4G41.00,34584.0,O/E: oxalate renal calculus,Diagnosis of Urolithiasis
+Urolithiasis,4G42.00,24165.0,O/E: phosphate -staghorn-stone,Diagnosis of Urolithiasis
+Urolithiasis,4G42.11,32858.0,Phosphate kidney stone,Diagnosis of Urolithiasis
+Urolithiasis,4G43.00,27786.0,O/E: uric acid renal calculus,Diagnosis of Urolithiasis
+Urolithiasis,4G44.00,49783.0,O/E: cystine renal calculus,Diagnosis of Urolithiasis
+Urolithiasis,4G4..00,8399.0,O/E: renal calculus,Diagnosis of Urolithiasis
+Urolithiasis,4G4..11,6979.0,O/E: kidney stone,Diagnosis of Urolithiasis
+Urolithiasis,4G4Z.00,38461.0,O/E: renal stone NOS,Diagnosis of Urolithiasis
+Urolithiasis,4G6..00,14276.0,O/E - ureteric calculus,Diagnosis of Urolithiasis
+Urolithiasis,4G7..00,45245.0,O/E - urethral calculus,Diagnosis of Urolithiasis
+Urolithiasis,4G81.00,74021.0,O/E - vesical oxalate calculus,Diagnosis of Urolithiasis
+Urolithiasis,4G81.11,31773.0,Oxalate bladder stone,Diagnosis of Urolithiasis
+Urolithiasis,4G82.00,93608.0,O/E-vesical uric acid calculus,Diagnosis of Urolithiasis
+Urolithiasis,4G82.11,29242.0,Uric acid bladder stone,Diagnosis of Urolithiasis
+Urolithiasis,4G83.00,102293.0,O/E-vesical phosphate calculus,Diagnosis of Urolithiasis
+Urolithiasis,4G83.11,65920.0,Phosphate bladder stone,Diagnosis of Urolithiasis
+Urolithiasis,4G8..00,6978.0,O/E - bladder calculus,Diagnosis of Urolithiasis
+Urolithiasis,4G8Z.00,64699.0,O/E - bladder calculus NOS,Diagnosis of Urolithiasis
+Urolithiasis,7B05000,4139.0,Unspecified open removal of calculus from kidney,Procedure for Urolithiasis
+Urolithiasis,7B07000,41619.0,Nephroscopy and ultrasound lithotripsy of renal calculus,Procedure for Urolithiasis
+Urolithiasis,7B07011,36157.0,Endoscopic ultrasound fragmentation of renal calculus,Procedure for Urolithiasis
+Urolithiasis,7B07100,60234.0,Nephroscopy & electrohydraulic lithotripsy of renal calculus,Procedure for Urolithiasis
+Urolithiasis,7B07200,43350.0,Nephroscopy and laser lithotripsy of renal calculus,Procedure for Urolithiasis
+Urolithiasis,7B07211,8677.0,Endoscopic laser fragmentation of renal calculus,Procedure for Urolithiasis
+Urolithiasis,7B07400,34139.0,Endoscopic extraction of calculus of kidney nec,Procedure for Urolithiasis
+Urolithiasis,7B07.00,8190.0,Percutaneous renal stone surgery,Procedure for Urolithiasis
+Urolithiasis,7B07.11,56462.0,Nephroscopic percutaneous lithotripsy of renal calculus,Procedure for Urolithiasis
+Urolithiasis,7B07.12,2315.0,Percutaneous lithotripsy of renal calculus,Procedure for Urolithiasis
+Urolithiasis,7B07y00,66743.0,Other specified percutaneous renal stone surgery,Procedure for Urolithiasis
+Urolithiasis,7B07z00,7119.0,Percutaneous renal stone surgery NOS,Procedure for Urolithiasis
+Urolithiasis,7B0B000,17685.0,ESWL for renal calculus of unspecified size,Procedure for Urolithiasis
+Urolithiasis,7B0B100,52721.0,ESWL for renal calculus less than 2 cm in diameter,Procedure for Urolithiasis
+Urolithiasis,7B0B200,94219.0,ESWL for renal calculus 2 cm or more in diameter,Procedure for Urolithiasis
+Urolithiasis,7B0B.00,7682.0,Extracorporeal shockwave lithotripsy for renal calculus,Procedure for Urolithiasis
+Urolithiasis,7B0B.11,21401.0,Extracorporeal fragmentation of renal calculus,Procedure for Urolithiasis
+Urolithiasis,7B0By00,66113.0,Extracorporeal shockwave lithotripsy for renal calculus OS,Procedure for Urolithiasis
+Urolithiasis,7B0Bz00,28514.0,Extracorporeal shockwave lithotripsy for renal calculus NOS,Procedure for Urolithiasis
+Urolithiasis,7B17000,39511.0,Nephroscopic laser lithotripsy of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B17011,58004.0,Nephroscopic laser fragmentation of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B17100,23897.0,Other nephroscopic fragmentation of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B17111,20813.0,Other nephroscopic lithotripsy of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B17200,45673.0,Nephroscopic extraction of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B18000,36792.0,Ureteroscopic laser lithotripsy of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B18011,28790.0,Ureteroscopic laser fragmentation of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B18100,16025.0,Other ureteroscopic fragmentation of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B18200,38804.0,Ureteroscopic extraction of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B18.00,5366.0,Ureteroscopic operations for ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B19000,18190.0,Cystoscopic laser lithotripsy of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B19100,41871.0,Other cystoscopic fragmentation of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B19200,37073.0,Cystoscopic extraction of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B19211,10587.0,Basket extraction of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B19212,24933.0,Dormia basket extraction of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B19300,35743.0,Cystoscopic catheter drainage for ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B19400,39048.0,Cystoscopic dilation of ureter for drainage of calculus,Procedure for Urolithiasis
+Urolithiasis,7B19.00,4216.0,Cystoscopic removal of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B19y00,72447.0,Other specified cystoscopic removal of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B19z00,58149.0,Cystoscopic removal of ureteric calculus NOS,Procedure for Urolithiasis
+Urolithiasis,7B1C000,51305.0,Extracorp shockwave lithotripsy of unspec ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B1C100,61904.0,Extracorporeal shockwave therapy for stone in upper ureter,Procedure for Urolithiasis
+Urolithiasis,7B1C200,101583.0,Extracorporeal shockwave lithotripsy for stone in mid-ureter,Procedure for Urolithiasis
+Urolithiasis,7B1C300,71131.0,Extracorporeal shockwave lithotripsy stone in lower ureter,Procedure for Urolithiasis
+Urolithiasis,7B1C.00,3449.0,Extracorporeal shockwave lithotripsy of ureteric calculus,Procedure for Urolithiasis
+Urolithiasis,7B1Cy00,29477.0,Extracorporeal shockwave lithotripsy of ureteric calculus OS,Procedure for Urolithiasis
+Urolithiasis,7B1Cz00,29464.0,Extracorporeal shockwave lithotripsy ureteric calculus NOS,Procedure for Urolithiasis
+Urolithiasis,7B1F000,102036.0,Endoscopic extraction of calculus of urinary diversion,Procedure for Urolithiasis
+Urolithiasis,7B25000,23381.0,Open removal of bladder calculus,Procedure for Urolithiasis
+Urolithiasis,7B29100,28595.0,Other endoscopic extraction of bladder calculus,Procedure for Urolithiasis
+Urolithiasis,7B29400,9323.0,Electrokinetic lithotripsy of bladder calculus,Procedure for Urolithiasis
+Urolithiasis,7B2B400,40272.0,Removal of bladder calculus by urethral catheter suction,Procedure for Urolithiasis
+Urolithiasis,7B42300,34097.0,Open urethrotomy and removal of calculus,Procedure for Urolithiasis
+Urolithiasis,7B42400,90777.0,Open extraction of calculus from urethra,Procedure for Urolithiasis
+Urolithiasis,7B43900,28953.0,Endoscopic removal of urethral calculus,Procedure for Urolithiasis
+Urolithiasis,C341100,43744.0,Uric acid nephrolithiasis,Diagnosis of Urolithiasis
+Urolithiasis,C341111,9162.0,Renal stone - uric acid,Diagnosis of Urolithiasis
+Urolithiasis,K100600,2939.0,Calculous pyelonephritis,Diagnosis of Urolithiasis
+Urolithiasis,K112.00,27592.0,Hydronephrosis with renal and ureteral calculous obstruction,Diagnosis of Urolithiasis
+Urolithiasis,K120000,10282.0,Staghorn calculus,Diagnosis of Urolithiasis
+Urolithiasis,K120.00,4928.0,Calculus of kidney,Diagnosis of Urolithiasis
+Urolithiasis,K120.11,24047.0,Nephrolithiasis NOS,Diagnosis of Urolithiasis
+Urolithiasis,K120.12,1858.0,Renal calculus,Diagnosis of Urolithiasis
+Urolithiasis,K120.13,2258.0,Renal stone,Diagnosis of Urolithiasis
+Urolithiasis,K120z00,3906.0,Renal calculus NOS,Diagnosis of Urolithiasis
+Urolithiasis,K121.00,3308.0,Calculus of ureter,Diagnosis of Urolithiasis
+Urolithiasis,K121.11,2410.0,Ureteric calculus,Diagnosis of Urolithiasis
+Urolithiasis,K121.12,6048.0,Ureteric stone,Diagnosis of Urolithiasis
+Urolithiasis,K121.13,36972.0,Ureterolithiasis,Diagnosis of Urolithiasis
+Urolithiasis,K122.00,33746.0,Calculus of kidney with calculus of ureter,Diagnosis of Urolithiasis
+Urolithiasis,K12..00,9950.0,Calculus of kidney and ureter,Diagnosis of Urolithiasis
+Urolithiasis,K12..11,8777.0,Kidney calculus,Diagnosis of Urolithiasis
+Urolithiasis,K12..12,3669.0,Urinary calculus,Diagnosis of Urolithiasis
+Urolithiasis,K12z.00,1256.0,Urinary calculus NOS,Diagnosis of Urolithiasis
+Urolithiasis,K140000,67386.0,Calculus in diverticulum of bladder,Diagnosis of Urolithiasis
+Urolithiasis,K140100,94420.0,Other calculus in bladder,Diagnosis of Urolithiasis
+Urolithiasis,K140.00,5729.0,Bladder calculus,Diagnosis of Urolithiasis
+Urolithiasis,K140.11,1912.0,Bladder stone,Diagnosis of Urolithiasis
+Urolithiasis,K140z00,59834.0,Bladder calculus NOS,Diagnosis of Urolithiasis
+Urolithiasis,K141.00,2105.0,Calculus in urethra,Diagnosis of Urolithiasis
+Urolithiasis,K14..00,47869.0,Lower urinary tract calculus,Diagnosis of Urolithiasis
+Urolithiasis,K14y.00,46291.0,Other lower urinary tract calculus,Diagnosis of Urolithiasis
+Urolithiasis,K14z.00,44648.0,Lower urinary tract calculus NOS,Diagnosis of Urolithiasis
+Urolithiasis,K1A..00,52569.0,Urinary calculus in schistosomiasis,Diagnosis of Urolithiasis
+Urolithiasis,Kyu3000,106912.0,[X]Other lower urinary tract calculus,Diagnosis of Urolithiasis
+Urolithiasis,Kyu3100,23917.0,[X]Calculus of urinary tract in other diseases CE,Diagnosis of Urolithiasis
+Urolithiasis,Kyu3.00,45765.0,[X]Urolithiasis,Diagnosis of Urolithiasis
+Urolithiasis,R080000,15201.0,"[D]Renal colic, unspecified",Diagnosis of Urolithiasis
+Urolithiasis,R080100,6147.0,[D]Ureteric colic,Diagnosis of Urolithiasis
+Urolithiasis,R080.00,6087.0,[D]Renal colic,Diagnosis of Urolithiasis
+Urolithiasis,R080z00,33747.0,[D]Renal colic NOS,Diagnosis of Urolithiasis

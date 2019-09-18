@@ -1,0 +1,8 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+High birth weight,L266000,52921.0,Large-for-dates unspecified,Diagnosis of High birth weight
+High birth weight,L266100,68452.0,Large-for-dates - delivered,Diagnosis of High birth weight
+High birth weight,L266200,107186.0,Large-for-dates with antenatal problem,Diagnosis of High birth weight
+High birth weight,L266z00,60947.0,Large-for-dates NOS,Diagnosis of High birth weight
+High birth weight,Q120.00,57655.0,Very large baby - weight greater than 4500gm,Diagnosis of High birth weight
+High birth weight,Q121.00,25037.0,Other 'large-for-dates' infant,Diagnosis of High birth weight
+High birth weight,Q12..11,40354.0,Large baby born,Diagnosis of High birth weight

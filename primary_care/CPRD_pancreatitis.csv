@@ -1,0 +1,25 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Pancreatitis,14CG.00,32954.0,History of acute pancreatitis,History of Pancreatitis
+Pancreatitis,14CH.00,71633.0,History of chronic pancreatitis,History of Pancreatitis
+Pancreatitis,A723.00,18544.0,Mumps pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,A785100,44278.0,Cytomegaloviral pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,D201612,61326.0,Pancytopenia with pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670000,49499.0,Acute pancreatitis unspecified,Diagnosis of Pancreatitis
+Pancreatitis,J670100,1506.0,Acute recurrent pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670200,31395.0,Acute haemorrhagic pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670300,44571.0,Acute suppurative pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670400,48685.0,Subacute pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670500,12316.0,Gallstone acute pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670600,105194.0,Idiopathic acute pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670700,104385.0,Biliary acute pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670800,104611.0,Alcohol-induced acute pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670900,105910.0,Drug-induced acute pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670.00,1113.0,Acute pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670y00,105066.0,Other acute pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J670z00,14905.0,Acute pancreatitis NOS,Diagnosis of Pancreatitis
+Pancreatitis,J670z11,656.0,Pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J671000,24984.0,Alcohol-induced chronic pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J671100,42278.0,Gallstone chronic pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J671.00,1419.0,Chronic pancreatitis,Diagnosis of Pancreatitis
+Pancreatitis,J672100,4650.0,Pseudocyst of pancreas,Diagnosis of Pancreatitis
+Pancreatitis,Jyu8400,49353.0,[X]Other chronic pancreatitis,Diagnosis of Pancreatitis

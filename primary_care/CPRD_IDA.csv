@@ -1,4 +1,4 @@
-Disease,Read code,Medcode,Descr,Category
+Disease,Readcode,Medcode,ReadcodeDescr,Category
 Iron deficiency anaemia,D000.00,27726,Iron deficiency anaemia due to chronic blood loss,Diagnosis of Iron deficiency anaemia
 Iron deficiency anaemia,D000.11,6816,Normocytic anaemia due to chronic blood loss,Diagnosis of Iron deficiency anaemia
 Iron deficiency anaemia,D000.12,48338,Iron deficiency anaemia due to blood loss,Diagnosis of Iron deficiency anaemia

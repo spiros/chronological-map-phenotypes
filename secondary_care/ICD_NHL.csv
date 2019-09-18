@@ -1,0 +1,6 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Non-Hodgkin Lymphoma,C82,Follicular lymphoma,Diagnosis of Non-Hodgkin Lymphoma
+Non-Hodgkin Lymphoma,C83,Non-follicular lymphoma,Diagnosis of Non-Hodgkin Lymphoma
+Non-Hodgkin Lymphoma,C84,Mature T/NK-cell lymphomas,Diagnosis of Non-Hodgkin Lymphoma
+Non-Hodgkin Lymphoma,C85,Other and unspecified types of non-Hodgkin lymphoma,Diagnosis of Non-Hodgkin Lymphoma
+Non-Hodgkin Lymphoma,C86,Other specified types of T/NK-cell lymphoma,Diagnosis of Non-Hodgkin Lymphoma

@@ -1,21 +1,21 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Ptosis of eyelid","2BE2.00","38956.0","O/E - ptosis present","Diagnosis of ptosis"
-"Ptosis of eyelid","2BE..00","8696.0","O/E - ptosis","Diagnosis of ptosis"
-"Ptosis of eyelid","2BE3.00","22097.0","O/E - Horner's syndrome","Diagnosis of ptosis"
-"Ptosis of eyelid","2BEZ.00","35069.0","O/E - ptosis NOS","Diagnosis of ptosis"
-"Ptosis of eyelid","7218000.0","17472.0","Correction of eyelid ptosis using levator muscle technique","Diagnosis of ptosis"
-"Ptosis of eyelid","7218100.0","43924.0","Correction of eyelid ptosis using frontalis muscle technique","Diagnosis of ptosis"
-"Ptosis of eyelid","7218200.0","27441.0","Correction of ptosis of eyelid using sling of fascia","Diagnosis of ptosis"
-"Ptosis of eyelid","7218300.0","36100.0","Correction of eyelid ptosis using superior rectus technique","Diagnosis of ptosis"
-"Ptosis of eyelid","7218500.0","17932.0","Correction of eyelid ptosis using aponeurosis technique","Diagnosis of ptosis"
-"Ptosis of eyelid","7218.00","1633.0","Correction of ptosis of eyelid","Diagnosis of ptosis"
-"Ptosis of eyelid","7218y00","49096.0","Other specified correction of ptosis of eyelid","Diagnosis of ptosis"
-"Ptosis of eyelid","7218z00","4141.0","Correction of ptosis of eyelid NOS","Diagnosis of ptosis"
-"Ptosis of eyelid","F4E3000","38413.0","Unspecified ptosis of eyelid","Diagnosis of ptosis"
-"Ptosis of eyelid","F4E3100","47614.0","Paralytic ptosis","Diagnosis of ptosis"
-"Ptosis of eyelid","F4E3200","66515.0","Myogenic ptosis","Diagnosis of ptosis"
-"Ptosis of eyelid","F4E3300","17923.0","Mechanical ptosis","Diagnosis of ptosis"
-"Ptosis of eyelid","F4E3.00","2232.0","Ptosis of eyelid","Diagnosis of ptosis"
-"Ptosis of eyelid","F4E3z00","35130.0","Ptosis of eyelid NOS","Diagnosis of ptosis"
-"Ptosis of eyelid","P360.00","8319.0","Congenital ptosis","Diagnosis of ptosis"
-"Ptosis of eyelid","P360.11","16690.0","Blepharoptosis","Diagnosis of ptosis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Ptosis of eyelid,2BE2.00,38956.0,O/E - ptosis present,Diagnosis of ptosis
+Ptosis of eyelid,2BE..00,8696.0,O/E - ptosis,Diagnosis of ptosis
+Ptosis of eyelid,2BE3.00,22097.0,O/E - Horner's syndrome,Diagnosis of ptosis
+Ptosis of eyelid,2BEZ.00,35069.0,O/E - ptosis NOS,Diagnosis of ptosis
+Ptosis of eyelid,7218000.0,17472.0,Correction of eyelid ptosis using levator muscle technique,Diagnosis of ptosis
+Ptosis of eyelid,7218100.0,43924.0,Correction of eyelid ptosis using frontalis muscle technique,Diagnosis of ptosis
+Ptosis of eyelid,7218200.0,27441.0,Correction of ptosis of eyelid using sling of fascia,Diagnosis of ptosis
+Ptosis of eyelid,7218300.0,36100.0,Correction of eyelid ptosis using superior rectus technique,Diagnosis of ptosis
+Ptosis of eyelid,7218500.0,17932.0,Correction of eyelid ptosis using aponeurosis technique,Diagnosis of ptosis
+Ptosis of eyelid,7218.00,1633.0,Correction of ptosis of eyelid,Diagnosis of ptosis
+Ptosis of eyelid,7218y00,49096.0,Other specified correction of ptosis of eyelid,Diagnosis of ptosis
+Ptosis of eyelid,7218z00,4141.0,Correction of ptosis of eyelid NOS,Diagnosis of ptosis
+Ptosis of eyelid,F4E3000,38413.0,Unspecified ptosis of eyelid,Diagnosis of ptosis
+Ptosis of eyelid,F4E3100,47614.0,Paralytic ptosis,Diagnosis of ptosis
+Ptosis of eyelid,F4E3200,66515.0,Myogenic ptosis,Diagnosis of ptosis
+Ptosis of eyelid,F4E3300,17923.0,Mechanical ptosis,Diagnosis of ptosis
+Ptosis of eyelid,F4E3.00,2232.0,Ptosis of eyelid,Diagnosis of ptosis
+Ptosis of eyelid,F4E3z00,35130.0,Ptosis of eyelid NOS,Diagnosis of ptosis
+Ptosis of eyelid,P360.00,8319.0,Congenital ptosis,Diagnosis of ptosis
+Ptosis of eyelid,P360.11,16690.0,Blepharoptosis,Diagnosis of ptosis

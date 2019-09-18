@@ -1,0 +1,111 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Alcohol Problems,136S.00,19494.0,Hazardous alcohol use,Diagnosis of Alcohol Problems
+Alcohol Problems,136T.00,30695.0,Harmful alcohol use,Diagnosis of Alcohol Problems
+Alcohol Problems,136W.00,94670.0,Alcohol misuse,Diagnosis of Alcohol Problems
+Alcohol Problems,13Y8.00,18156.0,Alcoholics anonymous,Diagnosis of Alcohol Problems
+Alcohol Problems,1462.00,8430.0,H/O: alcoholism,History of Alcohol Problems
+Alcohol Problems,1B1c.00,38061.0,Alcohol induced hallucinations,Diagnosis of Alcohol Problems
+Alcohol Problems,66e0.00,32964.0,Alcohol abuse monitoring,Diagnosis of Alcohol Problems
+Alcohol Problems,66e..00,12442.0,Alcohol disorder monitoring,Diagnosis of Alcohol Problems
+Alcohol Problems,7P22100,56410.0,Delivery of rehabilitation for alcohol addiction,Diagnosis of Alcohol Problems
+Alcohol Problems,8BA8.00,2083.0,Alcohol detoxification,Diagnosis of Alcohol Problems
+Alcohol Problems,8CAv.00,97309.0,Advised to contact primary care alcohol worker,Diagnosis of Alcohol Problems
+Alcohol Problems,8G32.00,29691.0,Aversion therapy - alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,8H35.00,21650.0,Admitted to alcohol detoxification centre,Diagnosis of Alcohol Problems
+Alcohol Problems,8H7p.00,9849.0,Referral to community alcohol team,Diagnosis of Alcohol Problems
+Alcohol Problems,8HkG.00,94553.0,Referral to specialist alcohol treatment service,Diagnosis of Alcohol Problems
+Alcohol Problems,8HkJ.00,96993.0,Referral to alcohol brief intervention service,Diagnosis of Alcohol Problems
+Alcohol Problems,9k12.00,63529.0,Alcohol misuse - enhanced service completed,Diagnosis of Alcohol Problems
+Alcohol Problems,9k1..00,11740.0,Alcohol misuse - enhanced services administration,Diagnosis of Alcohol Problems
+Alcohol Problems,9k1A.00,96053.0,Brief intervention for excessive alcohol consumptn completed,Diagnosis of Alcohol Problems
+Alcohol Problems,9k1B.00,96054.0,Extended intervention for excessive alcohol consumptn complt,Diagnosis of Alcohol Problems
+Alcohol Problems,9NN2.00,9489.0,Under care of community alcohol team,Diagnosis of Alcohol Problems
+Alcohol Problems,C150500,65754.0,Alcohol-induced pseudo-Cushing's syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,C251.11,4501.0,Wernicke's encephalopathy,Diagnosis of Alcohol Problems
+Alcohol Problems,C253.00,11107.0,Wernicke's encephalopathy,Diagnosis of Alcohol Problems
+Alcohol Problems,E010.00,16225.0,Alcohol withdrawal delirium,Diagnosis of Alcohol Problems
+Alcohol Problems,E010.11,22277.0,DTs - delirium tremens,Diagnosis of Alcohol Problems
+Alcohol Problems,E010.12,1476.0,Delirium tremens,Diagnosis of Alcohol Problems
+Alcohol Problems,E011000,4500.0,Korsakov's alcoholic psychosis,Diagnosis of Alcohol Problems
+Alcohol Problems,E011100,11106.0,Korsakov's alcoholic psychosis with peripheral neuritis,Diagnosis of Alcohol Problems
+Alcohol Problems,E011200,18636.0,Wernicke-Korsakov syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,E011.00,20762.0,Alcohol amnestic syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,E011z00,41920.0,Alcohol amnestic syndrome NOS,Diagnosis of Alcohol Problems
+Alcohol Problems,E012000,37946.0,Chronic alcoholic brain syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,E012.00,54505.0,Other alcoholic dementia,Diagnosis of Alcohol Problems
+Alcohol Problems,E012.11,27342.0,Alcoholic dementia NOS,Diagnosis of Alcohol Problems
+Alcohol Problems,E013.00,25110.0,Alcohol withdrawal hallucinosis,Diagnosis of Alcohol Problems
+Alcohol Problems,E015.00,30404.0,Alcoholic paranoia,Diagnosis of Alcohol Problems
+Alcohol Problems,E01..00,16237.0,Alcoholic psychoses,Diagnosis of Alcohol Problems
+Alcohol Problems,E01y000,2082.0,Alcohol withdrawal syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,E01y.00,33670.0,Other alcoholic psychosis,Diagnosis of Alcohol Problems
+Alcohol Problems,E01yz00,68111.0,Other alcoholic psychosis NOS,Diagnosis of Alcohol Problems
+Alcohol Problems,E01z.00,67651.0,Alcoholic psychosis NOS,Diagnosis of Alcohol Problems
+Alcohol Problems,E230000,40530.0,"Acute alcoholic intoxication, unspecified, in alcoholism",Diagnosis of Alcohol Problems
+Alcohol Problems,E230100,56947.0,Continuous acute alcoholic intoxication in alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,E230200,21624.0,Episodic acute alcoholic intoxication in alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,E230300,59574.0,"Acute alcoholic intoxication in remission, in alcoholism",Diagnosis of Alcohol Problems
+Alcohol Problems,E230.00,5740.0,Acute alcoholic intoxication in alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,E230.11,57714.0,Alcohol dependence with acute alcoholic intoxication,Diagnosis of Alcohol Problems
+Alcohol Problems,E230z00,36296.0,Acute alcoholic intoxication in alcoholism NOS,Diagnosis of Alcohol Problems
+Alcohol Problems,E231000,43193.0,Unspecified chronic alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,E231100,24064.0,Continuous chronic alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,E231200,26106.0,Episodic chronic alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,E231300,24485.0,Chronic alcoholism in remission,Diagnosis of Alcohol Problems
+Alcohol Problems,E231.00,31443.0,Chronic alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,E231.11,37605.0,Dipsomania,Diagnosis of Alcohol Problems
+Alcohol Problems,E231z00,33635.0,Chronic alcoholism NOS,Diagnosis of Alcohol Problems
+Alcohol Problems,E23..00,2084.0,Alcohol dependence syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,E23..11,2081.0,Alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,E23..12,1399.0,Alcohol problem drinking,Diagnosis of Alcohol Problems
+Alcohol Problems,E23z.00,6169.0,Alcohol dependence syndrome NOS,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10100,21879.0,[X]Mental and behav dis due to use of alcohol: harmful use,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10200,39327.0,[X]Mental and behav dis due to use alcohol: dependence syndr,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10211,28780.0,[X]Alcohol addiction,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10212,5758.0,[X]Chronic alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10213,69691.0,[X]Dipsomania,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10300,20514.0,[X]Mental and behav dis due to use alcohol: withdrawal state,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10400,64101.0,[X]Men & behav dis due alcohl: withdrawl state with delirium,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10411,17259.0,"[X]Delirium tremens, alcohol induced",Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10500,12353.0,[X]Mental & behav dis due to use alcohol: psychotic disorder,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10511,6467.0,[X]Alcoholic hallucinosis,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10512,65932.0,[X]Alcoholic jealousy,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10513,30162.0,[X]Alcoholic paranoia,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10514,17607.0,[X]Alcoholic psychosis NOS,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10600,39799.0,[X]Mental and behav dis due to use alcohol: amnesic syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10611,11670.0,"[X]Korsakov's psychosis, alcohol induced",Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10700,62000.0,[X]Men & behav dis due alcoh: resid & late-onset psychot dis,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10711,26323.0,[X]Alcoholic dementia NOS,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10712,37691.0,[X]Chronic alcoholic brain syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10800,32927.0,[X]Alcohol withdrawal-induced seizure,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10.00,5611.0,[X]Mental and behavioural disorders due to use of alcohol,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10y00,45169.0,[X]Men & behav dis due to use alcohol: oth men & behav dis,Diagnosis of Alcohol Problems
+Alcohol Problems,Eu10z00,64389.0,[X]Ment & behav dis due use alcohol: unsp ment & behav dis,Diagnosis of Alcohol Problems
+Alcohol Problems,F11x000,47555.0,Cerebral degeneration due to alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,F11x011,36748.0,Alcoholic encephalopathy,Diagnosis of Alcohol Problems
+Alcohol Problems,F144000,33839.0,Cerebellar ataxia due to alcoholism,Diagnosis of Alcohol Problems
+Alcohol Problems,F25B.00,30604.0,Alcohol-induced epilepsy,Diagnosis of Alcohol Problems
+Alcohol Problems,F375.00,2925.0,Alcoholic polyneuropathy,Diagnosis of Alcohol Problems
+Alcohol Problems,F394100,31742.0,Alcoholic myopathy,Diagnosis of Alcohol Problems
+Alcohol Problems,G555.00,4915.0,Alcoholic cardiomyopathy,Diagnosis of Alcohol Problems
+Alcohol Problems,G852300,8363.0,Oesophageal varices in alcoholic cirrhosis of the liver,Diagnosis of Alcohol Problems
+Alcohol Problems,J153.00,4506.0,Alcoholic gastritis,Diagnosis of Alcohol Problems
+Alcohol Problems,J610.00,10691.0,Alcoholic fatty liver,Diagnosis of Alcohol Problems
+Alcohol Problems,J611.00,3216.0,Acute alcoholic hepatitis,Diagnosis of Alcohol Problems
+Alcohol Problems,J612000,21713.0,Alcoholic fibrosis and sclerosis of liver,Diagnosis of Alcohol Problems
+Alcohol Problems,J612.00,4743.0,Alcoholic cirrhosis of liver,Diagnosis of Alcohol Problems
+Alcohol Problems,J613000,17330.0,Alcoholic hepatic failure,Diagnosis of Alcohol Problems
+Alcohol Problems,J613.00,7885.0,Alcoholic liver damage unspecified,Diagnosis of Alcohol Problems
+Alcohol Problems,J617000,7602.0,Chronic alcoholic hepatitis,Diagnosis of Alcohol Problems
+Alcohol Problems,J617.00,7943.0,Alcoholic hepatitis,Diagnosis of Alcohol Problems
+Alcohol Problems,J670800,104611.0,Alcohol-induced acute pancreatitis,Diagnosis of Alcohol Problems
+Alcohol Problems,J671000,24984.0,Alcohol-induced chronic pancreatitis,Diagnosis of Alcohol Problems
+Alcohol Problems,Z191100,46677.0,Alcohol withdrawal regime,Diagnosis of Alcohol Problems
+Alcohol Problems,Z191200,61383.0,Planned reduction of alcohol consumption,Diagnosis of Alcohol Problems
+Alcohol Problems,Z191211,95181.0,Alcohol reduction programme,Diagnosis of Alcohol Problems
+Alcohol Problems,Z191.00,41983.0,Alcohol detoxification,Diagnosis of Alcohol Problems
+Alcohol Problems,Z4B1.00,30460.0,Alcoholism counselling,Diagnosis of Alcohol Problems
+Alcohol Problems,ZV11300,7123.0,[V]Personal history of alcoholism,History of Alcohol Problems
+Alcohol Problems,ZV11311,16587.0,[V]Problems related to lifestyle alcohol use,Diagnosis of Alcohol Problems
+Alcohol Problems,ZV57A00,8388.0,[V]Alcohol rehabilitation,Diagnosis of Alcohol Problems
+Alcohol Problems,ZV6D600,8030.0,[V]Alcohol abuse counselling and surveillance,Diagnosis of Alcohol Problems

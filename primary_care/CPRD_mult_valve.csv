@@ -1,20 +1,20 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Multiple valve dz","G130.00","8274.0","Mitral and aortic stenosis","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G131.00","49355.0","Mitral stenosis and aortic insufficiency","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G131.13","61250.0","Mitral stenosis and aortic incompetence","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G131.14","17596.0","Mitral stenosis and aortic regurgitation","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G132.00","33262.0","Mitral insufficiency and aortic stenosis","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G132.12","31759.0","Mitral incompetence and aortic stenosis","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G132.13","33907.0","Mitral regurgitation and aortic stenosis","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G133.00","31727.0","Mitral and aortic incompetence","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G133.11","94872.0","Mitral and aortic insufficiency","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G133.12","11878.0","Mitral and aortic regurgitation","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G13..00","10078.0","Diseases of mitral and aortic valves","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G13y.00","70698.0","Multiple mitral and aortic valve involvement","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G13z.00","29158.0","Mitral and aortic valve disease NOS","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G544000","40582.0","Disorders of both aortic and tricuspid valves","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G544100","19699.0","Disorders of both mitral and tricuspid valves","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G544200","18475.0","Combined disorders of mitral, aortic and tricuspid valves","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G544.00","40239.0","Multiple valve diseases","Diagnosis of Multiple valve dz"
-"Multiple valve dz","G544X00","57338.0","Multiple valve disease, unspecified","Diagnosis of Multiple valve dz"
-"Multiple valve dz","Gyu5D00","100910.0","[X]Multiple valve disorders/diseases CE","Diagnosis of Multiple valve dz"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Multiple valve dz,G130.00,8274.0,Mitral and aortic stenosis,Diagnosis of Multiple valve dz
+Multiple valve dz,G131.00,49355.0,Mitral stenosis and aortic insufficiency,Diagnosis of Multiple valve dz
+Multiple valve dz,G131.13,61250.0,Mitral stenosis and aortic incompetence,Diagnosis of Multiple valve dz
+Multiple valve dz,G131.14,17596.0,Mitral stenosis and aortic regurgitation,Diagnosis of Multiple valve dz
+Multiple valve dz,G132.00,33262.0,Mitral insufficiency and aortic stenosis,Diagnosis of Multiple valve dz
+Multiple valve dz,G132.12,31759.0,Mitral incompetence and aortic stenosis,Diagnosis of Multiple valve dz
+Multiple valve dz,G132.13,33907.0,Mitral regurgitation and aortic stenosis,Diagnosis of Multiple valve dz
+Multiple valve dz,G133.00,31727.0,Mitral and aortic incompetence,Diagnosis of Multiple valve dz
+Multiple valve dz,G133.11,94872.0,Mitral and aortic insufficiency,Diagnosis of Multiple valve dz
+Multiple valve dz,G133.12,11878.0,Mitral and aortic regurgitation,Diagnosis of Multiple valve dz
+Multiple valve dz,G13..00,10078.0,Diseases of mitral and aortic valves,Diagnosis of Multiple valve dz
+Multiple valve dz,G13y.00,70698.0,Multiple mitral and aortic valve involvement,Diagnosis of Multiple valve dz
+Multiple valve dz,G13z.00,29158.0,Mitral and aortic valve disease NOS,Diagnosis of Multiple valve dz
+Multiple valve dz,G544000,40582.0,Disorders of both aortic and tricuspid valves,Diagnosis of Multiple valve dz
+Multiple valve dz,G544100,19699.0,Disorders of both mitral and tricuspid valves,Diagnosis of Multiple valve dz
+Multiple valve dz,G544200,18475.0,"Combined disorders of mitral, aortic and tricuspid valves",Diagnosis of Multiple valve dz
+Multiple valve dz,G544.00,40239.0,Multiple valve diseases,Diagnosis of Multiple valve dz
+Multiple valve dz,G544X00,57338.0,"Multiple valve disease, unspecified",Diagnosis of Multiple valve dz
+Multiple valve dz,Gyu5D00,100910.0,[X]Multiple valve disorders/diseases CE,Diagnosis of Multiple valve dz

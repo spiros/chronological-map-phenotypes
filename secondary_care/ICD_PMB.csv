@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Postmenopausal bleeding","N95.0","Postmenopausal bleeding","Diagnosis of Postmenopausal bleeding"
+Disease,ICD10code,ICD10codeDescr,Category
+Postmenopausal bleeding,N95.0,Postmenopausal bleeding,Diagnosis of Postmenopausal bleeding

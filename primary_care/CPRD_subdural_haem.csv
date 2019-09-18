@@ -1,3 +1,3 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Subdural haematoma - nontraumatic","G621.00","4273.0","Subdural haemorrhage - nontraumatic","Diagnosis of Subdural haematoma – nontraumatic"
-"Subdural haematoma - nontraumatic","G622.00","17734.0","Subdural haematoma - nontraumatic","Diagnosis of Subdural haematoma – nontraumatic"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Subdural haematoma - nontraumatic,G621.00,4273.0,Subdural haemorrhage - nontraumatic,Diagnosis of Subdural haematoma – nontraumatic
+Subdural haematoma - nontraumatic,G622.00,17734.0,Subdural haematoma - nontraumatic,Diagnosis of Subdural haematoma – nontraumatic

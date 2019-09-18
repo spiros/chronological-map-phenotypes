@@ -1,27 +1,27 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Migraine","1474000.0","103451.0","H/O migraine with aura","History of Migraine"
-"Migraine","1474.00","5029.0","H/O: migraine","History of Migraine"
-"Migraine","8B6N.00","11389.0","Migraine prophylaxis","History of Migraine"
-"Migraine","F260.00","3220.0","Classical migraine","Diagnosis of Migraine"
-"Migraine","F260.11","103502.0","Migraine with aura","Diagnosis of Migraine"
-"Migraine","F261000","9633.0","Atypical migraine","Diagnosis of Migraine"
-"Migraine","F261.00","2424.0","Common migraine","Diagnosis of Migraine"
-"Migraine","F261.11","103602.0","Migraine without aura","Diagnosis of Migraine"
-"Migraine","F261z00","41497.0","Common migraine NOS","Diagnosis of Migraine"
-"Migraine","F262200","2861.0","Abdominal migraine","Diagnosis of Migraine"
-"Migraine","F262300","9004.0","Basilar migraine","Diagnosis of Migraine"
-"Migraine","F262400","10583.0","Ophthalmic migraine","Diagnosis of Migraine"
-"Migraine","F262800","103973.0","Migraine induced by oestrogen contraceptive","Diagnosis of Migraine"
-"Migraine","F262.00","5509.0","Migraine variants","Diagnosis of Migraine"
-"Migraine","F262z00","23621.0","Migraine variant NOS","Diagnosis of Migraine"
-"Migraine","F26..00","161.0","Migraine","Diagnosis of Migraine"
-"Migraine","F26y000","3658.0","Hemiplegic migraine","Diagnosis of Migraine"
-"Migraine","F26y100","12511.0","Ophthalmoplegic migraine","Diagnosis of Migraine"
-"Migraine","F26y111","65262.0","Moebius' ophthalmoplegic migraine","Diagnosis of Migraine"
-"Migraine","F26y200","22685.0","Status migrainosus","Diagnosis of Migraine"
-"Migraine","F26y300","27930.0","Complicated migraine","Diagnosis of Migraine"
-"Migraine","F26y.00","28031.0","Other forms of migraine","Diagnosis of Migraine"
-"Migraine","F26yz00","28092.0","Other forms of migraine NOS","Diagnosis of Migraine"
-"Migraine","F26z.00","14700.0","Migraine NOS","Diagnosis of Migraine"
-"Migraine","Fyu5300","53813.0","[X]Other migraine","Diagnosis of Migraine"
-"Migraine","K584.11","11138.0","Migraine - menstrual","Diagnosis of Migraine"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Migraine,1474000.0,103451.0,H/O migraine with aura,History of Migraine
+Migraine,1474.00,5029.0,H/O: migraine,History of Migraine
+Migraine,8B6N.00,11389.0,Migraine prophylaxis,History of Migraine
+Migraine,F260.00,3220.0,Classical migraine,Diagnosis of Migraine
+Migraine,F260.11,103502.0,Migraine with aura,Diagnosis of Migraine
+Migraine,F261000,9633.0,Atypical migraine,Diagnosis of Migraine
+Migraine,F261.00,2424.0,Common migraine,Diagnosis of Migraine
+Migraine,F261.11,103602.0,Migraine without aura,Diagnosis of Migraine
+Migraine,F261z00,41497.0,Common migraine NOS,Diagnosis of Migraine
+Migraine,F262200,2861.0,Abdominal migraine,Diagnosis of Migraine
+Migraine,F262300,9004.0,Basilar migraine,Diagnosis of Migraine
+Migraine,F262400,10583.0,Ophthalmic migraine,Diagnosis of Migraine
+Migraine,F262800,103973.0,Migraine induced by oestrogen contraceptive,Diagnosis of Migraine
+Migraine,F262.00,5509.0,Migraine variants,Diagnosis of Migraine
+Migraine,F262z00,23621.0,Migraine variant NOS,Diagnosis of Migraine
+Migraine,F26..00,161.0,Migraine,Diagnosis of Migraine
+Migraine,F26y000,3658.0,Hemiplegic migraine,Diagnosis of Migraine
+Migraine,F26y100,12511.0,Ophthalmoplegic migraine,Diagnosis of Migraine
+Migraine,F26y111,65262.0,Moebius' ophthalmoplegic migraine,Diagnosis of Migraine
+Migraine,F26y200,22685.0,Status migrainosus,Diagnosis of Migraine
+Migraine,F26y300,27930.0,Complicated migraine,Diagnosis of Migraine
+Migraine,F26y.00,28031.0,Other forms of migraine,Diagnosis of Migraine
+Migraine,F26yz00,28092.0,Other forms of migraine NOS,Diagnosis of Migraine
+Migraine,F26z.00,14700.0,Migraine NOS,Diagnosis of Migraine
+Migraine,Fyu5300,53813.0,[X]Other migraine,Diagnosis of Migraine
+Migraine,K584.11,11138.0,Migraine - menstrual,Diagnosis of Migraine

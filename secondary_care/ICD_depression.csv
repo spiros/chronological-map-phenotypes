@@ -1,0 +1,3 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Depression,F32,Depressive episode,Diagnosis of Depression
+Depression,F33,Recurrent depressive disorder,Diagnosis of Depression

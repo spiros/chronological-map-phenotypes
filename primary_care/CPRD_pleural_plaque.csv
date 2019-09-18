@@ -1,5 +1,5 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Pleural plaque","H410.00","5005.0","Pleural plaque disease due to asbestosis","Diagnosis of Pleural plaque"
-"Pleural plaque","H410.11","100994.0","Asbestos-induced pleural plaque","Diagnosis of Pleural plaque"
-"Pleural plaque","H510100","3409.0","Thickening of pleura","Diagnosis of Pleural plaque"
-"Pleural plaque","H510C00","102492.0","Pleural plaque","Diagnosis of Pleural plaque"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Pleural plaque,H410.00,5005.0,Pleural plaque disease due to asbestosis,Diagnosis of Pleural plaque
+Pleural plaque,H410.11,100994.0,Asbestos-induced pleural plaque,Diagnosis of Pleural plaque
+Pleural plaque,H510100,3409.0,Thickening of pleura,Diagnosis of Pleural plaque
+Pleural plaque,H510C00,102492.0,Pleural plaque,Diagnosis of Pleural plaque

@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Actinic keratosis","L57.0","Actinic keratosis","Diagnosis of Actinic keratosis"
+Disease,ICD10code,ICD10codeDescr,Category
+Actinic keratosis,L57.0,Actinic keratosis,Diagnosis of Actinic keratosis

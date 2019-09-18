@@ -1,0 +1,50 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Immunodeficiencies,C390000,15137.0,Hypogammaglobulinaemia NOS,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390100,8548.0,Selective IgA immunodeficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390200,18701.0,Selective IgM immunodeficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390300,18700.0,Selective IgG immunodeficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390400,68440.0,Other selective immunoglobulin deficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390500,57161.0,Congenital hypogammaglobulinaemia,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390511,65603.0,Bruton's agammaglobulinaemia,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390512,60880.0,Congenital X-linked agammaglobulinaemia,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390600,69373.0,Immunodeficiency with IgM hypergammaglobulinaemia,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390700,57322.0,Common variable immunodeficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390800,92569.0,Transient infant hypogammaglobulinaemia,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390900,62598.0,Agammaglobulinaemia NEC,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390A00,69184.0,Dysimmunoglobulinaemia NEC,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390A11,43653.0,Dysgammaglobulinaemia NEC,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390B00,60026.0,Antibod def wth nr-norm imunoglob/or wth hyperimunoglobaemia,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390.00,44147.0,Deficiencies of humoral immunity,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390.11,35682.0,Agammaglobulinaemia,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390y00,69854.0,Other specified deficiency of humoral immunity,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C390z00,16295.0,Deficiency of humoral immunity NOS,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C391000,50665.0,Predominantly T-cell immuno-deficiency NOS,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C391011,48035.0,T-lymphocyte deficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C391012,60758.0,Cellular immunity syndrome,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C391100,10955.0,Di George syndrome,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C391200,31322.0,Wiskott - Aldrich syndrome,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C391211,42439.0,Thrombocytopenic eczema with immunodeficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C391.00,48307.0,Deficiencies of cell-mediated immunity,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392100,48293.0,Severe combined immunodeficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392111,94120.0,Swiss type agammaglobulinaemia,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392300,31541.0,Severe combined immunodefiency with reticular dysgenesis,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392400,66073.0,Severe combined immunodef with low T- and B-cell numbers,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392500,49542.0,Severe combined immunodef with low or normal B-cell numbers,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392600,72804.0,Adenosine deaminase deficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392700,93936.0,Purine nucleoside phosphorylase deficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392800,50526.0,Major histocompatibility complex class I deficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392900,103977.0,Major histocompatibility complex class II deficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392.00,62236.0,Combined immunity deficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C392z00,62328.0,Combined immunity deficiency NOS,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C393.00,3129.0,Unspecified immunity deficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C395.00,65617.0,Immunodeficiency with short-limbed stature,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C396.00,56108.0,Immunodef follow hereditary defect respon Epstein-Barr vir,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C397.00,54203.0,Hyperimmunoglobulin E syndrome,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C398000,93892.0,Com var immunodef with predom abn B-cell numbers and functns,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C398200,66857.0,Common variable immunodef wth autoantibod to B- or T-cells,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C398.00,21975.0,Common variable immunodeficiency,Diagnosis of Immunodeficiencies
+Immunodeficiencies,C39X.00,39800.0,"Immunodeficiency associated+major defect, unspecified",Diagnosis of Immunodeficiencies
+Immunodeficiencies,C39y000,54904.0,Lymphocyte function antigen-1 defect,Diagnosis of Immunodeficiencies
+Immunodeficiencies,Cyu0000,106788.0,[X]Other immunodeficiencies+predominantly antibody defects,Diagnosis of Immunodeficiencies
+Immunodeficiencies,Cyu0400,73131.0,[X]Other common variable immunodeficiencies,Diagnosis of Immunodeficiencies
+Immunodeficiencies,Cyu0500,66386.0,[X]Other specified immunodeficiency disorders,Diagnosis of Immunodeficiencies

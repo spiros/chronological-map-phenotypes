@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Hypertrophic Cardiomyopathy","G551.00","8010.0","Hypertrophic obstructive cardiomyopathy","Diagnosis of Hypertrophic Cardiomyopathy"
-"Hypertrophic Cardiomyopathy","G554300","3499.0","Hypertrophic non-obstructive cardiomyopathy","Diagnosis of Hypertrophic Cardiomyopathy"
-"Hypertrophic Cardiomyopathy","Gyu5M00","70648.0","[X]Other hypertrophic cardiomyopathy","Diagnosis of Hypertrophic Cardiomyopathy"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Hypertrophic Cardiomyopathy,G551.00,8010.0,Hypertrophic obstructive cardiomyopathy,Diagnosis of Hypertrophic Cardiomyopathy
+Hypertrophic Cardiomyopathy,G554300,3499.0,Hypertrophic non-obstructive cardiomyopathy,Diagnosis of Hypertrophic Cardiomyopathy
+Hypertrophic Cardiomyopathy,Gyu5M00,70648.0,[X]Other hypertrophic cardiomyopathy,Diagnosis of Hypertrophic Cardiomyopathy

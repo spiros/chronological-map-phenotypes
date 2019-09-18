@@ -1,0 +1,22 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Bacterial sepsis of newborn,Q408200,96711.0,Eschericha coli intra-amniotic fetal infection,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q408400,39324.0,Group A haemolytic streptococcal intra-amniotic infect. NEC,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q408500,13303.0,Group B haemolytic streptococcal intra-amniotic infect. NEC,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q408600,96710.0,Pseudomonas pyocyaneus congenital infection,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40A000,39691.0,Sepsis of newborn due to Staphylococcus aureus,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40A100,56336.0,Sepsis of newborn due to Escherichia coli,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40A200,110079.0,Sepsis of newborn due to anaerobes,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40A300,60617.0,Perinatal coagulase negative staphylococcus,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40A.00,3613.0,Sepsis of the newborn,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40W.00,47693.0,Sepsis of newborn due to other+unspecified streptococci,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40y000,67438.0,"Intrauterine fetal sepsis, unspecified",Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40y011,55606.0,Congenital sepsis NOS,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40y012,99123.0,Congenital septicaemia,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40y100,6097.0,Neonatal urinary tract infection,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40y200,22031.0,Septicaemia of newborn,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40y.00,68665.0,Other specified perinatal infection,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40yz00,66780.0,Other specified perinatal infection NOS,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Q40z.00,54637.0,Perinatal infections NOS,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Qyu4100,98669.0,[X]Sepsis/newborn due to other+unspecified staphylococcus,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Qyu4200,93976.0,[X]Other bacterial sepsis of newborn,Diagnosis of Bacterial sepsis of newborn
+Bacterial sepsis of newborn,Qyu4800,98366.0,[X]Sepsis of newborn due to other+unspecified streptococci,Diagnosis of Bacterial sepsis of newborn

@@ -1,25 +1,25 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_Stomach","B110000","100584.0","Malignant neoplasm of cardiac orifice of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B110100","22894.0","Malignant neoplasm of cardio-oesophageal junction of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B110111","94278.0","Malignant neoplasm of gastro-oesophageal junction","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B110.00","32022.0","Malignant neoplasm of cardia of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B110z00","37859.0","Malignant neoplasm of cardia of stomach NOS","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B111000","48237.0","Malignant neoplasm of prepylorus of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B111100","41215.0","Malignant neoplasm of pyloric canal of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B111.00","21620.0","Malignant neoplasm of pylorus of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B111z00","59092.0","Malignant neoplasm of pylorus of stomach NOS","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B112.00","19318.0","Malignant neoplasm of pyloric antrum of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B113.00","32362.0","Malignant neoplasm of fundus of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B114.00","43572.0","Malignant neoplasm of body of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B115.00","42193.0","Malignant neoplasm of lesser curve of stomach unspecified","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B116.00","55434.0","Malignant neoplasm of greater curve of stomach unspecified","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B117.00","51690.0","Malignant neoplasm, overlapping lesion of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B118.00","97499.0","Siewert type II adenocarcinoma","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B119.00","96094.0","Siewert type III adenocarcinoma","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B11..00","8386.0","Malignant neoplasm of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B11y000","65312.0","Malignant neoplasm of anterior wall of stomach NEC","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B11y100","96802.0","Malignant neoplasm of posterior wall of stomach NEC","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B11y.00","55019.0","Malignant neoplasm of other specified site of stomach","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B11yz00","65372.0","Malignant neoplasm of other specified site of stomach NOS","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","B11z.00","14800.0","Malignant neoplasm of stomach NOS","Diagnosis of Primary Malignancy_Stomach"
-"Primary Malignancy_Stomach","ZV10018","49447.0","[V]Personal history of malignant neoplasm of stomach","History of Primary Malignancy_Stomach"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_Stomach,B110000,100584.0,Malignant neoplasm of cardiac orifice of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B110100,22894.0,Malignant neoplasm of cardio-oesophageal junction of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B110111,94278.0,Malignant neoplasm of gastro-oesophageal junction,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B110.00,32022.0,Malignant neoplasm of cardia of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B110z00,37859.0,Malignant neoplasm of cardia of stomach NOS,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B111000,48237.0,Malignant neoplasm of prepylorus of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B111100,41215.0,Malignant neoplasm of pyloric canal of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B111.00,21620.0,Malignant neoplasm of pylorus of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B111z00,59092.0,Malignant neoplasm of pylorus of stomach NOS,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B112.00,19318.0,Malignant neoplasm of pyloric antrum of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B113.00,32362.0,Malignant neoplasm of fundus of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B114.00,43572.0,Malignant neoplasm of body of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B115.00,42193.0,Malignant neoplasm of lesser curve of stomach unspecified,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B116.00,55434.0,Malignant neoplasm of greater curve of stomach unspecified,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B117.00,51690.0,"Malignant neoplasm, overlapping lesion of stomach",Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B118.00,97499.0,Siewert type II adenocarcinoma,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B119.00,96094.0,Siewert type III adenocarcinoma,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B11..00,8386.0,Malignant neoplasm of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B11y000,65312.0,Malignant neoplasm of anterior wall of stomach NEC,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B11y100,96802.0,Malignant neoplasm of posterior wall of stomach NEC,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B11y.00,55019.0,Malignant neoplasm of other specified site of stomach,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B11yz00,65372.0,Malignant neoplasm of other specified site of stomach NOS,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,B11z.00,14800.0,Malignant neoplasm of stomach NOS,Diagnosis of Primary Malignancy_Stomach
+Primary Malignancy_Stomach,ZV10018,49447.0,[V]Personal history of malignant neoplasm of stomach,History of Primary Malignancy_Stomach

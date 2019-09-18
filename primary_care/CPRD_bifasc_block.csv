@@ -1,0 +1,5 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Bifascicular block,329F.00,100888.0,ECG: right bundle branch and left anterior fascicular block,Diagnosis of Bifascicular block
+Bifascicular block,329G.00,104676.0,ECG: right bundle branch and left posterior fascicular block,Diagnosis of Bifascicular block
+Bifascicular block,G565100,98675.0,Right BBB with left posterior fascicular block,Diagnosis of Bifascicular block
+Bifascicular block,G565200,57069.0,Right BBB with left anterior fascicular block,Diagnosis of Bifascicular block

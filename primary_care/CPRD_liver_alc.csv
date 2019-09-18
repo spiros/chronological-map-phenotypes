@@ -1,11 +1,11 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Alcoholic liver disease","G852300","8363.0","Oesophageal varices in alcoholic cirrhosis of the liver","Diagnosis of Alcoholic liver disease"
-"Alcoholic liver disease","J610.00","10691.0","Alcoholic fatty liver","Diagnosis of Alcoholic liver disease"
-"Alcoholic liver disease","J611.00","3216.0","Acute alcoholic hepatitis","Diagnosis of Alcoholic liver disease"
-"Alcoholic liver disease","J612000","21713.0","Alcoholic fibrosis and sclerosis of liver","Diagnosis of Alcoholic liver disease"
-"Alcoholic liver disease","J612.00","4743.0","Alcoholic cirrhosis of liver","Diagnosis of Alcoholic liver disease"
-"Alcoholic liver disease","J612.12","100474.0","Laennec's cirrhosis","Diagnosis of Alcoholic liver disease"
-"Alcoholic liver disease","J613000","17330.0","Alcoholic hepatic failure","Diagnosis of Alcoholic liver disease"
-"Alcoholic liver disease","J613.00","7885.0","Alcoholic liver damage unspecified","Diagnosis of Alcoholic liver disease"
-"Alcoholic liver disease","J617000","7602.0","Chronic alcoholic hepatitis","Diagnosis of Alcoholic liver disease"
-"Alcoholic liver disease","J617.00","7943.0","Alcoholic hepatitis","Diagnosis of Alcoholic liver disease"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Alcoholic liver disease,G852300,8363.0,Oesophageal varices in alcoholic cirrhosis of the liver,Diagnosis of Alcoholic liver disease
+Alcoholic liver disease,J610.00,10691.0,Alcoholic fatty liver,Diagnosis of Alcoholic liver disease
+Alcoholic liver disease,J611.00,3216.0,Acute alcoholic hepatitis,Diagnosis of Alcoholic liver disease
+Alcoholic liver disease,J612000,21713.0,Alcoholic fibrosis and sclerosis of liver,Diagnosis of Alcoholic liver disease
+Alcoholic liver disease,J612.00,4743.0,Alcoholic cirrhosis of liver,Diagnosis of Alcoholic liver disease
+Alcoholic liver disease,J612.12,100474.0,Laennec's cirrhosis,Diagnosis of Alcoholic liver disease
+Alcoholic liver disease,J613000,17330.0,Alcoholic hepatic failure,Diagnosis of Alcoholic liver disease
+Alcoholic liver disease,J613.00,7885.0,Alcoholic liver damage unspecified,Diagnosis of Alcoholic liver disease
+Alcoholic liver disease,J617000,7602.0,Chronic alcoholic hepatitis,Diagnosis of Alcoholic liver disease
+Alcoholic liver disease,J617.00,7943.0,Alcoholic hepatitis,Diagnosis of Alcoholic liver disease

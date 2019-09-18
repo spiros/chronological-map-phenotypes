@@ -1,20 +1,20 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_biliary tract","B151000","65124.0","Malignant neoplasm of interlobular bile ducts","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B151200","89593.0","Malignant neoplasm of intrahepatic biliary passages","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B151400","58088.0","Malignant neoplasm of intrahepatic gall duct","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B151.00","16915.0","Malignant neoplasm of intrahepatic bile ducts","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B151z00","61643.0","Malignant neoplasm of intrahepatic bile ducts NOS","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B161000","72445.0","Malignant neoplasm of cystic duct","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B161100","52537.0","Malignant neoplasm of hepatic duct","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B161200","7982.0","Malignant neoplasm of common bile duct","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B161211","36495.0","Carcinoma common bile duct","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B161300","105613.0","Malignant neoplasm of sphincter of Oddi","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B161.00","23433.0","Malignant neoplasm of extrahepatic bile ducts","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B161z00","74896.0","Malignant neoplasm of extrahepatic bile ducts NOS","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B162.00","10949.0","Malignant neoplasm of ampulla of Vater","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","B163.00","35039.0","Malignant neoplasm, overlapping lesion of biliary tract","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","BB5D100","8711.0","[M]Cholangiocarcinoma","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","BB5D111","40438.0","[M]Bile duct carcinoma","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","BB5D300","41313.0","[M]Bile duct cystadenocarcinoma","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","BB5D700","107299.0","[M]Combined hepatocellular carcinoma and cholangiocarcinoma","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","BB5D711","110147.0","[M]Hepatocholangiocarcinoma","Diagnosis of Primary Malignancy_biliary tract"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_biliary tract,B151000,65124.0,Malignant neoplasm of interlobular bile ducts,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B151200,89593.0,Malignant neoplasm of intrahepatic biliary passages,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B151400,58088.0,Malignant neoplasm of intrahepatic gall duct,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B151.00,16915.0,Malignant neoplasm of intrahepatic bile ducts,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B151z00,61643.0,Malignant neoplasm of intrahepatic bile ducts NOS,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B161000,72445.0,Malignant neoplasm of cystic duct,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B161100,52537.0,Malignant neoplasm of hepatic duct,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B161200,7982.0,Malignant neoplasm of common bile duct,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B161211,36495.0,Carcinoma common bile duct,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B161300,105613.0,Malignant neoplasm of sphincter of Oddi,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B161.00,23433.0,Malignant neoplasm of extrahepatic bile ducts,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B161z00,74896.0,Malignant neoplasm of extrahepatic bile ducts NOS,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B162.00,10949.0,Malignant neoplasm of ampulla of Vater,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,B163.00,35039.0,"Malignant neoplasm, overlapping lesion of biliary tract",Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,BB5D100,8711.0,[M]Cholangiocarcinoma,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,BB5D111,40438.0,[M]Bile duct carcinoma,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,BB5D300,41313.0,[M]Bile duct cystadenocarcinoma,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,BB5D700,107299.0,[M]Combined hepatocellular carcinoma and cholangiocarcinoma,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,BB5D711,110147.0,[M]Hepatocholangiocarcinoma,Diagnosis of Primary Malignancy_biliary tract

@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Polycythaemia vera","D45","Polycythaemia vera","Diagnosis of Polycythaemia vera"
+Disease,ICD10code,ICD10codeDescr,Category
+Polycythaemia vera,D45,Polycythaemia vera,Diagnosis of Polycythaemia vera

@@ -1,0 +1,56 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+COPD,14B3.12,103494.0,History of chronic obstructive pulmonary disease,History of COPD
+COPD,H310000,15626.0,Chronic catarrhal bronchitis,Diagnosis of COPD
+COPD,H310.00,25603.0,Simple chronic bronchitis,Diagnosis of COPD
+COPD,H310z00,61118.0,Simple chronic bronchitis NOS,Diagnosis of COPD
+COPD,H311000,40159.0,Purulent chronic bronchitis,Diagnosis of COPD
+COPD,H311100,37959.0,Fetid chronic bronchitis,Diagnosis of COPD
+COPD,H311.00,11150.0,Mucopurulent chronic bronchitis,Diagnosis of COPD
+COPD,H311z00,61513.0,Mucopurulent chronic bronchitis NOS,Diagnosis of COPD
+COPD,H312000,5798.0,Chronic asthmatic bronchitis,Diagnosis of COPD
+COPD,H312011,5909.0,Chronic wheezy bronchitis,Diagnosis of COPD
+COPD,H312100,14798.0,Emphysematous bronchitis,Diagnosis of COPD
+COPD,H312200,1446.0,Acute exacerbation of chronic obstructive airways disease,Diagnosis of COPD
+COPD,H312300,26125.0,Bronchiolitis obliterans,Diagnosis of COPD
+COPD,H312.00,27819.0,Obstructive chronic bronchitis,Diagnosis of COPD
+COPD,H312z00,44525.0,Obstructive chronic bronchitis NOS,Diagnosis of COPD
+COPD,H313.00,24248.0,Mixed simple and mucopurulent chronic bronchitis,Diagnosis of COPD
+COPD,H31..00,3243.0,Chronic bronchitis,Diagnosis of COPD
+COPD,H31y100,45089.0,Chronic tracheobronchitis,Diagnosis of COPD
+COPD,H31y.00,66043.0,Other chronic bronchitis,Diagnosis of COPD
+COPD,H31yz00,68066.0,Other chronic bronchitis NOS,Diagnosis of COPD
+COPD,H31z.00,15157.0,Chronic bronchitis NOS,Diagnosis of COPD
+COPD,H320000,56860.0,Segmental bullous emphysema,Diagnosis of COPD
+COPD,H320100,68662.0,Zonal bullous emphysema,Diagnosis of COPD
+COPD,H320200,60188.0,Giant bullous emphysema,Diagnosis of COPD
+COPD,H320300,99536.0,Bullous emphysema with collapse,Diagnosis of COPD
+COPD,H320.00,26306.0,Chronic bullous emphysema,Diagnosis of COPD
+COPD,H320z00,23492.0,Chronic bullous emphysema NOS,Diagnosis of COPD
+COPD,H321.00,46578.0,Panlobular emphysema,Diagnosis of COPD
+COPD,H322.00,10980.0,Centrilobular emphysema,Diagnosis of COPD
+COPD,H32..00,794.0,Emphysema,Diagnosis of COPD
+COPD,H32y000,92955.0,Acute vesicular emphysema,Diagnosis of COPD
+COPD,H32y100,70787.0,Atrophic (senile) emphysema,Diagnosis of COPD
+COPD,H32y111,59263.0,Acute interstitial emphysema,Diagnosis of COPD
+COPD,H32y200,63479.0,MacLeod's unilateral emphysema,Diagnosis of COPD
+COPD,H32y.00,40788.0,Other emphysema,Diagnosis of COPD
+COPD,H32yz00,16410.0,Other emphysema NOS,Diagnosis of COPD
+COPD,H32z.00,33450.0,Emphysema NOS,Diagnosis of COPD
+COPD,H36..00,10863.0,Mild chronic obstructive pulmonary disease,Diagnosis of COPD
+COPD,H37..00,10802.0,Moderate chronic obstructive pulmonary disease,Diagnosis of COPD
+COPD,H38..00,9876.0,Severe chronic obstructive pulmonary disease,Diagnosis of COPD
+COPD,H39..00,93568.0,Very severe chronic obstructive pulmonary disease,Diagnosis of COPD
+COPD,H3A..00,104608.0,End stage chronic obstructive airways disease,Diagnosis of COPD
+COPD,H3...00,1001.0,Chronic obstructive pulmonary disease,Diagnosis of COPD
+COPD,H3...11,998.0,Chronic obstructive airways disease,Diagnosis of COPD
+COPD,H3y0.00,21061.0,Chronic obstruct pulmonary dis with acute lower resp infectn,Diagnosis of COPD
+COPD,H3y1.00,7884.0,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",Diagnosis of COPD
+COPD,H3y..00,12166.0,Other specified chronic obstructive airways disease,Diagnosis of COPD
+COPD,H3y..11,67040.0,Other specified chronic obstructive pulmonary disease,Diagnosis of COPD
+COPD,H3z..00,5710.0,Chronic obstructive airways disease NOS,Diagnosis of COPD
+COPD,H3z..11,37247.0,Chronic obstructive pulmonary disease NOS,Diagnosis of COPD
+COPD,H464000,64721.0,Chronic emphysema due to chemical fumes,Diagnosis of COPD
+COPD,H464100,63216.0,Obliterative bronchiolitis due to chemical fumes,Diagnosis of COPD
+COPD,H583200,106650.0,Eosinophilic bronchitis,Diagnosis of COPD
+COPD,Hyu3000,66058.0,[X]Other emphysema,Diagnosis of COPD
+COPD,Hyu3100,65733.0,[X]Other specified chronic obstructive pulmonary disease,Diagnosis of COPD

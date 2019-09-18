@@ -1,37 +1,37 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Glaucoma","7259000.0","65079.0","Needling of bleb following glaucoma surgery","Diagnosis of glaucoma"
-"Glaucoma","7259100.0","89934.0","Injection of bleb following glaucoma surgery","Diagnosis of glaucoma"
-"Glaucoma","7259200.0","88595.0","Revision of bleb NEC following glaucoma surgery","Diagnosis of glaucoma"
-"Glaucoma","7259300.0","91442.0","Removal of releasable suture following glaucoma surgery","Diagnosis of glaucoma"
-"Glaucoma","7259400.0","93967.0","Laser suture lysis following glaucoma surgery","Diagnosis of glaucoma"
-"Glaucoma","7259.00","46069.0","Operations following glaucoma surgery","Diagnosis of glaucoma"
-"Glaucoma","7259y00","88142.0","Other specified operations following glaucoma surgery","Diagnosis of glaucoma"
-"Glaucoma","7259z00","95852.0","Operations following glaucoma surgery NOS","Diagnosis of glaucoma"
-"Glaucoma","7275.00","11059.0","Pan retinal photocoagulation for glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F404211","44338.0","Glaucoma - absolute","Diagnosis of glaucoma"
-"Glaucoma","F450100","10070.0","Open angle glaucoma with borderline intraocular pressure","Diagnosis of glaucoma"
-"Glaucoma","F451000","42447.0","Unspecified open-angle glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F451100","4581.0","Primary open-angle glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F451111","30649.0","Simple chronic glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F451200","9469.0","Low tension glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F451211","53879.0","Normal pressure glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F451500","72394.0","Open-angle glaucoma residual stage","Diagnosis of glaucoma"
-"Glaucoma","F451.00","1798.0","Open-angle glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F451z00","28189.0","Open-angle glaucoma NOS","Diagnosis of glaucoma"
-"Glaucoma","F452000","20520.0","Unspecified primary angle-closure glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F452100","44817.0","Intermittent primary angle-closure glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F452200","28536.0","Acute primary angle-closure glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F452300","35446.0","Chronic primary angle-closure glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F452400","67413.0","Primary angle-closure glaucoma residual stage","Diagnosis of glaucoma"
-"Glaucoma","F452500","107407.0","Plateau iris","Diagnosis of glaucoma"
-"Glaucoma","F452.00","2823.0","Primary angle-closure glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F452.11","6315.0","Closed angle glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F452z00","39120.0","Primary angle-closure glaucoma NOS","Diagnosis of glaucoma"
-"Glaucoma","F45..00","2074.0","Glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F45y200","8132.0","Low tension glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F45y.00","28505.0","Other specified forms of glaucoma","Diagnosis of glaucoma"
-"Glaucoma","F45yz00","44295.0","Other specified glaucoma NOS","Diagnosis of glaucoma"
-"Glaucoma","F45z.00","8001.0","Glaucoma NOS","Diagnosis of glaucoma"
-"Glaucoma","F463100","107168.0","Glaucomatous subcapsular flecks","Diagnosis of glaucoma"
-"Glaucoma","F4H1400","20230.0","Optic disc glaucomatous atrophy","Diagnosis of glaucoma"
-"Glaucoma","FyuG.00","52888.0","[X]Glaucoma","Diagnosis of glaucoma"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Glaucoma,7259000.0,65079.0,Needling of bleb following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259100.0,89934.0,Injection of bleb following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259200.0,88595.0,Revision of bleb NEC following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259300.0,91442.0,Removal of releasable suture following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259400.0,93967.0,Laser suture lysis following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259.00,46069.0,Operations following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259y00,88142.0,Other specified operations following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259z00,95852.0,Operations following glaucoma surgery NOS,Diagnosis of glaucoma
+Glaucoma,7275.00,11059.0,Pan retinal photocoagulation for glaucoma,Diagnosis of glaucoma
+Glaucoma,F404211,44338.0,Glaucoma - absolute,Diagnosis of glaucoma
+Glaucoma,F450100,10070.0,Open angle glaucoma with borderline intraocular pressure,Diagnosis of glaucoma
+Glaucoma,F451000,42447.0,Unspecified open-angle glaucoma,Diagnosis of glaucoma
+Glaucoma,F451100,4581.0,Primary open-angle glaucoma,Diagnosis of glaucoma
+Glaucoma,F451111,30649.0,Simple chronic glaucoma,Diagnosis of glaucoma
+Glaucoma,F451200,9469.0,Low tension glaucoma,Diagnosis of glaucoma
+Glaucoma,F451211,53879.0,Normal pressure glaucoma,Diagnosis of glaucoma
+Glaucoma,F451500,72394.0,Open-angle glaucoma residual stage,Diagnosis of glaucoma
+Glaucoma,F451.00,1798.0,Open-angle glaucoma,Diagnosis of glaucoma
+Glaucoma,F451z00,28189.0,Open-angle glaucoma NOS,Diagnosis of glaucoma
+Glaucoma,F452000,20520.0,Unspecified primary angle-closure glaucoma,Diagnosis of glaucoma
+Glaucoma,F452100,44817.0,Intermittent primary angle-closure glaucoma,Diagnosis of glaucoma
+Glaucoma,F452200,28536.0,Acute primary angle-closure glaucoma,Diagnosis of glaucoma
+Glaucoma,F452300,35446.0,Chronic primary angle-closure glaucoma,Diagnosis of glaucoma
+Glaucoma,F452400,67413.0,Primary angle-closure glaucoma residual stage,Diagnosis of glaucoma
+Glaucoma,F452500,107407.0,Plateau iris,Diagnosis of glaucoma
+Glaucoma,F452.00,2823.0,Primary angle-closure glaucoma,Diagnosis of glaucoma
+Glaucoma,F452.11,6315.0,Closed angle glaucoma,Diagnosis of glaucoma
+Glaucoma,F452z00,39120.0,Primary angle-closure glaucoma NOS,Diagnosis of glaucoma
+Glaucoma,F45..00,2074.0,Glaucoma,Diagnosis of glaucoma
+Glaucoma,F45y200,8132.0,Low tension glaucoma,Diagnosis of glaucoma
+Glaucoma,F45y.00,28505.0,Other specified forms of glaucoma,Diagnosis of glaucoma
+Glaucoma,F45yz00,44295.0,Other specified glaucoma NOS,Diagnosis of glaucoma
+Glaucoma,F45z.00,8001.0,Glaucoma NOS,Diagnosis of glaucoma
+Glaucoma,F463100,107168.0,Glaucomatous subcapsular flecks,Diagnosis of glaucoma
+Glaucoma,F4H1400,20230.0,Optic disc glaucomatous atrophy,Diagnosis of glaucoma
+Glaucoma,FyuG.00,52888.0,[X]Glaucoma,Diagnosis of glaucoma

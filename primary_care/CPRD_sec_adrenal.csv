@@ -1,2 +1,2 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Secondary Malignancy_Adrenal gland","B587.00","36401.0","Secondary malignant neoplasm of adrenal gland","Diagnosis of Secondary Malignancy_Adrenal gland"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Secondary Malignancy_Adrenal gland,B587.00,36401.0,Secondary malignant neoplasm of adrenal gland,Diagnosis of Secondary Malignancy_Adrenal gland

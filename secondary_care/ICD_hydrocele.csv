@@ -1,6 +1,6 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Hydrocoele (incl infected)","N43.0","Encysted hydrocele","Diagnosis of Hydrocoele (incl infected)"
-"Hydrocoele (incl infected)","N43.1","Infected hydrocele","Diagnosis of Hydrocoele (incl infected)"
-"Hydrocoele (incl infected)","N43.2","Other hydrocele","Diagnosis of Hydrocoele (incl infected)"
-"Hydrocoele (incl infected)","N43.3","Hydrocele, unspecified","Diagnosis of Hydrocoele (incl infected)"
-"Hydrocoele (incl infected)","P83.5","Congenital hydrocele","Diagnosis of Hydrocoele (incl infected)"
+Disease,ICD10code,ICD10codeDescr,Category
+Hydrocoele (incl infected),N43.0,Encysted hydrocele,Diagnosis of Hydrocoele (incl infected)
+Hydrocoele (incl infected),N43.1,Infected hydrocele,Diagnosis of Hydrocoele (incl infected)
+Hydrocoele (incl infected),N43.2,Other hydrocele,Diagnosis of Hydrocoele (incl infected)
+Hydrocoele (incl infected),N43.3,"Hydrocele, unspecified",Diagnosis of Hydrocoele (incl infected)
+Hydrocoele (incl infected),P83.5,Congenital hydrocele,Diagnosis of Hydrocoele (incl infected)

@@ -1,8 +1,8 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Rheumatic fever","I00","Rheumatic fever without mention of heart involvement","Diagnosis of Rheumatic fever"
-"Rheumatic fever","I01","Rheumatic fever with heart involvement","Diagnosis of Rheumatic fever"
-"Rheumatic fever","I02","Rheumatic chorea","Diagnosis of Rheumatic fever"
-"Rheumatic fever","I05","Rheumatic mitral valve diseases","History of Rheumatic fever"
-"Rheumatic fever","I06","Rheumatic aortic valve diseases","History of Rheumatic fever"
-"Rheumatic fever","I07","Rheumatic tricuspid valve diseases","History of Rheumatic fever"
-"Rheumatic fever","I09","Other rheumatic heart diseases","History of Rheumatic fever"
+Disease,ICD10code,ICD10codeDescr,Category
+Rheumatic fever,I00,Rheumatic fever without mention of heart involvement,Diagnosis of Rheumatic fever
+Rheumatic fever,I01,Rheumatic fever with heart involvement,Diagnosis of Rheumatic fever
+Rheumatic fever,I02,Rheumatic chorea,Diagnosis of Rheumatic fever
+Rheumatic fever,I05,Rheumatic mitral valve diseases,History of Rheumatic fever
+Rheumatic fever,I06,Rheumatic aortic valve diseases,History of Rheumatic fever
+Rheumatic fever,I07,Rheumatic tricuspid valve diseases,History of Rheumatic fever
+Rheumatic fever,I09,Other rheumatic heart diseases,History of Rheumatic fever

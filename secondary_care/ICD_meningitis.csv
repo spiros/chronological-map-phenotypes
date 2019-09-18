@@ -1,19 +1,19 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Meningitis","A17.0","Tuberculous meningitis","Diagnosis of Meningitis"
-"Meningitis","A17.1","Meningeal tuberculoma","Diagnosis of Meningitis"
-"Meningitis","A20.3","Plague meningitis","Diagnosis of Meningitis"
-"Meningitis","A32.1","Listerial meningitis and meningoencephalitis","Diagnosis of Meningitis"
-"Meningitis","A39.0","Meningococcal meningitis","Diagnosis of Meningitis"
-"Meningitis","A87","Viral meningitis","Diagnosis of Meningitis"
-"Meningitis","B00.3","Herpesviral meningitis","Diagnosis of Meningitis"
-"Meningitis","B01.0","Varicella meningitis","Diagnosis of Meningitis"
-"Meningitis","B02.1","Zoster meningitis","Diagnosis of Meningitis"
-"Meningitis","B05.1","Measles complicated by meningitis","Diagnosis of Meningitis"
-"Meningitis","B26.1","Mumps meningitis","Diagnosis of Meningitis"
-"Meningitis","B37.5","Candidal meningitis","Diagnosis of Meningitis"
-"Meningitis","B38.4","Coccidioidomycosis meningitis","Diagnosis of Meningitis"
-"Meningitis","G00","Bacterial meningitis, not elsewhere classified","Diagnosis of Meningitis"
-"Meningitis","G01","Meningitis in bacterial diseases classified elsewhere","Diagnosis of Meningitis"
-"Meningitis","G02.0","Meningitis in viral diseases classified elsewhere","Diagnosis of Meningitis"
-"Meningitis","G02.1","Meningitis in mycoses","Diagnosis of Meningitis"
-"Meningitis","G02.8","Meningitis in other specified infectious and parasitic diseases classified elsewhere","Diagnosis of Meningitis"
+Disease,ICD10code,ICD10codeDescr,Category
+Meningitis,A17.0,Tuberculous meningitis,Diagnosis of Meningitis
+Meningitis,A17.1,Meningeal tuberculoma,Diagnosis of Meningitis
+Meningitis,A20.3,Plague meningitis,Diagnosis of Meningitis
+Meningitis,A32.1,Listerial meningitis and meningoencephalitis,Diagnosis of Meningitis
+Meningitis,A39.0,Meningococcal meningitis,Diagnosis of Meningitis
+Meningitis,A87,Viral meningitis,Diagnosis of Meningitis
+Meningitis,B00.3,Herpesviral meningitis,Diagnosis of Meningitis
+Meningitis,B01.0,Varicella meningitis,Diagnosis of Meningitis
+Meningitis,B02.1,Zoster meningitis,Diagnosis of Meningitis
+Meningitis,B05.1,Measles complicated by meningitis,Diagnosis of Meningitis
+Meningitis,B26.1,Mumps meningitis,Diagnosis of Meningitis
+Meningitis,B37.5,Candidal meningitis,Diagnosis of Meningitis
+Meningitis,B38.4,Coccidioidomycosis meningitis,Diagnosis of Meningitis
+Meningitis,G00,"Bacterial meningitis, not elsewhere classified",Diagnosis of Meningitis
+Meningitis,G01,Meningitis in bacterial diseases classified elsewhere,Diagnosis of Meningitis
+Meningitis,G02.0,Meningitis in viral diseases classified elsewhere,Diagnosis of Meningitis
+Meningitis,G02.1,Meningitis in mycoses,Diagnosis of Meningitis
+Meningitis,G02.8,Meningitis in other specified infectious and parasitic diseases classified elsewhere,Diagnosis of Meningitis

@@ -1,3 +1,3 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Secondary Malignancy_Bowel","C78.4","Secondary malignant neoplasm of small intestine","Diagnosis of Secondary Malignancy_Bowel"
-"Secondary Malignancy_Bowel","C78.5","Secondary malignant neoplasm of large intestine and rectum","Diagnosis of Secondary Malignancy_Bowel"
+Disease,ICD10code,ICD10codeDescr,Category
+Secondary Malignancy_Bowel,C78.4,Secondary malignant neoplasm of small intestine,Diagnosis of Secondary Malignancy_Bowel
+Secondary Malignancy_Bowel,C78.5,Secondary malignant neoplasm of large intestine and rectum,Diagnosis of Secondary Malignancy_Bowel

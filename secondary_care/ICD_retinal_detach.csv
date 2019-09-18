@@ -1,5 +1,5 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Retinal detachments and breaks","H33.0","Retinal detachment with retinal break","Diagnosis of Retinal detachments and breaks"
-"Retinal detachments and breaks","H33.3","Retinal breaks without detachment","Diagnosis of Retinal detachments and breaks"
-"Retinal detachments and breaks","H33.4","Traction detachment of retina","Diagnosis of Retinal detachments and breaks"
-"Retinal detachments and breaks","H33.5","Other retinal detachments","Diagnosis of Retinal detachments and breaks"
+Disease,ICD10code,ICD10codeDescr,Category
+Retinal detachments and breaks,H33.0,Retinal detachment with retinal break,Diagnosis of Retinal detachments and breaks
+Retinal detachments and breaks,H33.3,Retinal breaks without detachment,Diagnosis of Retinal detachments and breaks
+Retinal detachments and breaks,H33.4,Traction detachment of retina,Diagnosis of Retinal detachments and breaks
+Retinal detachments and breaks,H33.5,Other retinal detachments,Diagnosis of Retinal detachments and breaks

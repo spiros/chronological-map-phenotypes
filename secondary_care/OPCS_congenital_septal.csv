@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
 "Congenital malformations of cardiac septa","K04","Repair of tetralogy of Fallot","Procedure for Congenital malformations of cardiac septa"
 "Congenital malformations of cardiac septa","K04.1","Repair of tetralogy of Fallot using valved right ventricular outflow conduit","Procedure for Congenital malformations of cardiac septa"
 "Congenital malformations of cardiac septa","K04.2","Repair of tetralogy of Fallot using right ventricular outflow conduit NEC","Procedure for Congenital malformations of cardiac septa"

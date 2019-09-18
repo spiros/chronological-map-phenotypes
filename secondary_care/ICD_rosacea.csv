@@ -1,4 +1,4 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Rosacea","L71.1","Rhinophyma","Diagnosis of Rosacea"
-"Rosacea","L71.8","Other rosacea","Diagnosis of Rosacea"
-"Rosacea","L71.9","Rosacea, unspecified","Diagnosis of Rosacea"
+Disease,ICD10code,ICD10codeDescr,Category
+Rosacea,L71.1,Rhinophyma,Diagnosis of Rosacea
+Rosacea,L71.8,Other rosacea,Diagnosis of Rosacea
+Rosacea,L71.9,"Rosacea, unspecified",Diagnosis of Rosacea

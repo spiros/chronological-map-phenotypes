@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Visual impairment and blindness","H54","Visual impairment including blindness (binocular or monocular)","Diagnosis of Visual impairment and blindness"
+Disease,ICD10code,ICD10codeDescr,Category
+Visual impairment and blindness,H54,Visual impairment including blindness (binocular or monocular),Diagnosis of Visual impairment and blindness

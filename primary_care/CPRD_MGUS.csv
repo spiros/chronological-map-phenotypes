@@ -1,8 +1,8 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Monoclonal gammopathy of undetermined significance (MGUS)","BBm7.00","10395.0","[M] Monoclonal gammopathy","1.0"
-"Monoclonal gammopathy of undetermined significance (MGUS)","C331000","106381.0","Monoclonal gammopathy of uncertain significance","1.0"
-"Monoclonal gammopathy of undetermined significance (MGUS)","C331.00","15883.0","Monoclonal paraproteinaemia","1.0"
-"Monoclonal gammopathy of undetermined significance (MGUS)","C331.11","7586.0","Monoclonal gammopathy","1.0"
-"Monoclonal gammopathy of undetermined significance (MGUS)","C332200","12306.0","Benign paraproteinaemia","1.0"
-"Monoclonal gammopathy of undetermined significance (MGUS)","C332.00","3451.0","Other paraproteinaemias","1.0"
-"Monoclonal gammopathy of undetermined significance (MGUS)","C332z00","12386.0","Paraproteinaemia NOS","1.0"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Monoclonal gammopathy of undetermined significance (MGUS),BBm7.00,10395.0,[M] Monoclonal gammopathy,1.0
+Monoclonal gammopathy of undetermined significance (MGUS),C331000,106381.0,Monoclonal gammopathy of uncertain significance,1.0
+Monoclonal gammopathy of undetermined significance (MGUS),C331.00,15883.0,Monoclonal paraproteinaemia,1.0
+Monoclonal gammopathy of undetermined significance (MGUS),C331.11,7586.0,Monoclonal gammopathy,1.0
+Monoclonal gammopathy of undetermined significance (MGUS),C332200,12306.0,Benign paraproteinaemia,1.0
+Monoclonal gammopathy of undetermined significance (MGUS),C332.00,3451.0,Other paraproteinaemias,1.0
+Monoclonal gammopathy of undetermined significance (MGUS),C332z00,12386.0,Paraproteinaemia NOS,1.0

@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Nonrheumatic aortic valve disorders","I35","Nonrheumatic aortic valve disorders","Diagnosis of Nonrheumatic aortic valve disorders"
+Disease,ICD10code,ICD10codeDescr,Category
+Nonrheumatic aortic valve disorders,I35,Nonrheumatic aortic valve disorders,Diagnosis of Nonrheumatic aortic valve disorders

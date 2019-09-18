@@ -1,24 +1,24 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Mycoses","B20.4","HIV disease resulting in candidiasis","Diagnosis of mycoses"
-"Mycoses","B20.5","HIV disease resulting in other mycoses","Diagnosis of mycoses"
-"Mycoses","B20.6","HIV disease resulting in Pneumocystis jirovecii pneumonia","Diagnosis of mycoses"
-"Mycoses","B35","Dermatophytosis","Diagnosis of mycoses"
-"Mycoses","B36","Other superficial mycoses","Diagnosis of mycoses"
-"Mycoses","B37","Candidiasis","Diagnosis of mycoses"
-"Mycoses","B38","Coccidioidomycosis","Diagnosis of mycoses"
-"Mycoses","B39","Histoplasmosis","Diagnosis of mycoses"
-"Mycoses","B40","Blastomycosis","Diagnosis of mycoses"
-"Mycoses","B41","Paracoccidioidomycosis","Diagnosis of mycoses"
-"Mycoses","B42","Sporotrichosis","Diagnosis of mycoses"
-"Mycoses","B43","Chromomycosis and phaeomycotic abscess","Diagnosis of mycoses"
-"Mycoses","B44","Aspergillosis","Diagnosis of mycoses"
-"Mycoses","B45","Cryptococcosis","Diagnosis of mycoses"
-"Mycoses","B46","Zygomycosis","Diagnosis of mycoses"
-"Mycoses","B47","Mycetoma","Diagnosis of mycoses"
-"Mycoses","B48","Other mycoses, not elsewhere classified","Diagnosis of mycoses"
-"Mycoses","B49","Unspecified mycosis","Diagnosis of mycoses"
-"Mycoses","B59","Pneumocystosis","Diagnosis of mycoses"
-"Mycoses","G02.1","Meningitis in mycoses","Diagnosis of mycoses"
-"Mycoses","H62.2","Otitis externa in mycoses","Diagnosis of mycoses"
-"Mycoses","J17.2","Pneumonia in mycoses","Diagnosis of mycoses"
-"Mycoses","M01.6","Arthritis in mycoses","Diagnosis of mycoses"
+Disease,ICD10code,ICD10codeDescr,Category
+Mycoses,B20.4,HIV disease resulting in candidiasis,Diagnosis of mycoses
+Mycoses,B20.5,HIV disease resulting in other mycoses,Diagnosis of mycoses
+Mycoses,B20.6,HIV disease resulting in Pneumocystis jirovecii pneumonia,Diagnosis of mycoses
+Mycoses,B35,Dermatophytosis,Diagnosis of mycoses
+Mycoses,B36,Other superficial mycoses,Diagnosis of mycoses
+Mycoses,B37,Candidiasis,Diagnosis of mycoses
+Mycoses,B38,Coccidioidomycosis,Diagnosis of mycoses
+Mycoses,B39,Histoplasmosis,Diagnosis of mycoses
+Mycoses,B40,Blastomycosis,Diagnosis of mycoses
+Mycoses,B41,Paracoccidioidomycosis,Diagnosis of mycoses
+Mycoses,B42,Sporotrichosis,Diagnosis of mycoses
+Mycoses,B43,Chromomycosis and phaeomycotic abscess,Diagnosis of mycoses
+Mycoses,B44,Aspergillosis,Diagnosis of mycoses
+Mycoses,B45,Cryptococcosis,Diagnosis of mycoses
+Mycoses,B46,Zygomycosis,Diagnosis of mycoses
+Mycoses,B47,Mycetoma,Diagnosis of mycoses
+Mycoses,B48,"Other mycoses, not elsewhere classified",Diagnosis of mycoses
+Mycoses,B49,Unspecified mycosis,Diagnosis of mycoses
+Mycoses,B59,Pneumocystosis,Diagnosis of mycoses
+Mycoses,G02.1,Meningitis in mycoses,Diagnosis of mycoses
+Mycoses,H62.2,Otitis externa in mycoses,Diagnosis of mycoses
+Mycoses,J17.2,Pneumonia in mycoses,Diagnosis of mycoses
+Mycoses,M01.6,Arthritis in mycoses,Diagnosis of mycoses

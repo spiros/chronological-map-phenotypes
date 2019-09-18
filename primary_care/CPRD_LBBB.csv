@@ -1,4 +1,4 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Left bundle branch block","329A.00","4690.0","ECG: left bundle branch block","Diagnosis of Left bundle branch block"
-"Left bundle branch block","G562.11","17840.0","Left bundle branch block","Diagnosis of Left bundle branch block"
-"Left bundle branch block","G563.00","26318.0","Left main stem bundle branch block","Diagnosis of Left bundle branch block"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Left bundle branch block,329A.00,4690.0,ECG: left bundle branch block,Diagnosis of Left bundle branch block
+Left bundle branch block,G562.11,17840.0,Left bundle branch block,Diagnosis of Left bundle branch block
+Left bundle branch block,G563.00,26318.0,Left main stem bundle branch block,Diagnosis of Left bundle branch block

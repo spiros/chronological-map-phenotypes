@@ -1,0 +1,13 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Hyperparathyroidism,C120000,18740.0,Primary hyperparathyroidism,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,C120100,73934.0,Hyperparathyroid bone disease,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,C120111,19457.0,Osteitis fibrosa cystica,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,C120112,73923.0,Von Recklinghausen's bone disease,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,C120200,105537.0,Tertiary hyperparathyroidism,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,C120.00,3559.0,Hyperparathyroidism,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,C120.11,49456.0,Osteitis fibrosa cystica,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,C120.12,4116.0,Von Recklinghausen's bone disease,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,C1z3100,65478.0,Ectopic hyperparathyroidism,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,Cyu4100,53819.0,[X]Other hyperparathyroidism,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,K08y100,17339.0,Secondary hyperparathyroidism,Diagnosis of Hyperparathyroidism
+Hyperparathyroidism,N332500,56524.0,Brown tumour of hyperparathyroidism,Diagnosis of Hyperparathyroidism

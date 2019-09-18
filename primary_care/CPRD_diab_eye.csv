@@ -1,0 +1,68 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Diabetic ophthalmic complications,2BBk.00,47328.0,O/E - right eye stable treated prolif diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBl.00,52041.0,O/E - left eye stable treated prolif diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBL.00,9835.0,O/E - diabetic maculopathy present both eyes,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBM.00,47144.0,O/E - diabetic maculopathy absent both eyes,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBo.00,52630.0,O/E - sight threatening diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBP.00,11433.0,O/E - right eye background diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBQ.00,11129.0,O/E - left eye background diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBr.00,101881.0,Impaired vision due to diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBR.00,13099.0,O/E - right eye preproliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBS.00,13103.0,O/E - left eye preproliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBT.00,13097.0,O/E - right eye proliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBV.00,13101.0,O/E - left eye proliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBW.00,13102.0,O/E - right eye diabetic maculopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,2BBX.00,13108.0,O/E - left eye diabetic maculopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,7276.00,11599.0,Pan retinal photocoagulation for diabetes,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C105000,69748.0,"Diabetes mellitus, juvenile type, + ophthalmic manifestation",Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C105100,41389.0,"Diabetes mellitus, adult onset, + ophthalmic manifestation",Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C105.00,33254.0,Diabetes mellitus with ophthalmic manifestation,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C105y00,47377.0,Other specified diabetes mellitus with ophthalmic complicatn,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C105z00,34283.0,Diabetes mellitus NOS with ophthalmic manifestation,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C108100,49276.0,Insulin-dependent diabetes mellitus with ophthalmic comps,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C108112,102740.0,Type 1 diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C108700,6509.0,Insulin dependent diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C108711,38161.0,Type I diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C108712,41049.0,Type 1 diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C108F00,44260.0,Insulin dependent diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C108F11,17545.0,Type I diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C108F12,110400.0,Type 1 diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C109100,50429.0,Non-insulin-dependent diabetes mellitus with ophthalm comps,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C109111,59725.0,Type II diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C109112,70316.0,Type 2 diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C109600,17262.0,Non-insulin-dependent diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C109611,58604.0,Type II diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C109612,42762.0,Type 2 diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C109E00,69278.0,Non-insulin depend diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C109E11,48192.0,Type II diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C109E12,44779.0,Type 2 diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10E100,47649.0,Type 1 diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10E111,99311.0,Type I diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10E112,98071.0,Insulin-dependent diabetes mellitus with ophthalmic comps,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10E700,18387.0,Type 1 diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10E711,95343.0,Type I diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10E712,93875.0,Insulin dependent diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10EF00,49554.0,Type 1 diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10EF12,100770.0,Insulin dependent diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10EP00,22871.0,Type 1 diabetes mellitus with exudative maculopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10EP11,97894.0,Type I diabetes mellitus with exudative maculopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10F100,47321.0,Type 2 diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10F111,100964.0,Type II diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10F600,18496.0,Type 2 diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10F611,49655.0,Type II diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10FE00,44982.0,Type 2 diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10FE11,93727.0,Type II diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,C10FQ00,25591.0,Type 2 diabetes mellitus with exudative maculopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420000,7069.0,Background diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420100,3286.0,Proliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420200,2986.0,Preproliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420300,10099.0,Advanced diabetic maculopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420400,3837.0,Diabetic maculopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420500,47584.0,Advanced diabetic retinal disease,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420600,10755.0,Non proliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420700,30477.0,High risk proliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420800,65463.0,High risk non proliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420.00,1323.0,Diabetic retinopathy,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F420z00,11626.0,Diabetic retinopathy NOS,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F440700,17313.0,Diabetic iritis,Diagnosis of diabetic ophthalmic complications
+Diabetic ophthalmic complications,F464000,10659.0,Diabetic cataract,Diagnosis of diabetic ophthalmic complications

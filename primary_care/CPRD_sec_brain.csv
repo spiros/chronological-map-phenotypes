@@ -1,6 +1,6 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Secondary Malignancy_Brain, Other CNS and Intracranial","B583000","5198.0","Secondary malignant neoplasm of brain","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial"
-"Secondary Malignancy_Brain, Other CNS and Intracranial","B583100","38918.0","Secondary malignant neoplasm of spinal cord","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial"
-"Secondary Malignancy_Brain, Other CNS and Intracranial","B583200","5199.0","Cerebral metastasis","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial"
-"Secondary Malignancy_Brain, Other CNS and Intracranial","B583.00","33843.0","Secondary malignant neoplasm of brain and spinal cord","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial"
-"Secondary Malignancy_Brain, Other CNS and Intracranial","B583z00","59375.0","Secondary malignant neoplasm of brain or spinal cord NOS","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+"Secondary Malignancy_Brain, Other CNS and Intracranial",B583000,5198.0,Secondary malignant neoplasm of brain,"Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial"
+"Secondary Malignancy_Brain, Other CNS and Intracranial",B583100,38918.0,Secondary malignant neoplasm of spinal cord,"Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial"
+"Secondary Malignancy_Brain, Other CNS and Intracranial",B583200,5199.0,Cerebral metastasis,"Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial"
+"Secondary Malignancy_Brain, Other CNS and Intracranial",B583.00,33843.0,Secondary malignant neoplasm of brain and spinal cord,"Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial"
+"Secondary Malignancy_Brain, Other CNS and Intracranial",B583z00,59375.0,Secondary malignant neoplasm of brain or spinal cord NOS,"Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial"

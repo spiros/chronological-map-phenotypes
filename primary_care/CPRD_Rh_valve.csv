@@ -1,32 +1,32 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Rheumatic valve dz","G110.00","1885.0","Mitral stenosis","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G110.11","32435.0","Rheumatic mitral stenosis","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G111.00","51879.0","Rheumatic mitral insufficiency","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G111.11","21807.0","Mitral incompetence - rheumatic","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G111.12","22837.0","Mitral regurgitation - rheumatic","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G112.00","44488.0","Mitral stenosis with insufficiency","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G112.12","50983.0","Mitral stenosis with incompetence","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G112.13","44328.0","Mitral stenosis with regurgitation","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G11..11","16545.0","Rheumatic mitral valve disease","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G120.00","9391.0","Rheumatic aortic stenosis","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G121.00","32211.0","Rheumatic aortic insufficiency","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G121.11","43347.0","Aortic incompetence - rheumatic","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G121.12","7963.0","Aortic regurgitation - rheumatic","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G122.00","63960.0","Rheumatic aortic stenosis with insufficiency","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G12..00","18100.0","Rheumatic aortic valve disease","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G12z.00","50809.0","Rheumatic aortic valve disease NOS","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G140000","31505.0","Rheumatic tricuspid stenosis","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G140100","60266.0","Rheumatic tricuspid insufficiency","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G140111","21980.0","Tricuspid regurgitation - rheumatic","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G140112","42239.0","Tricuspid incompetence - rheumatic","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G140200","93114.0","Rheumatic tricuspid stenosis and insufficiency","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G14021X","93113.0","Rheumatic tricuspid stenosis and regurgitation","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G14021Y","62186.0","Rheumatic tricuspid stenosis and incompetence","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G140z00","72613.0","Rheumatic tricuspid valve disease NOS","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G141000","62207.0","Rheumatic pulmonary stenosis","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G141100","54088.0","Rheumatic pulmonary insufficiency","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G141200","105626.0","Rheumatic pulmonary stenosis and insufficiency","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G141.00","44167.0","Rheumatic pulmonary valve disease","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G141z00","36768.0","Rheumatic pulmonary valve disease NOS","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","G14z.11","59275.0","Rheumatic valvulitis, chronic NOS","Diagnosis of Rheumatic valve dz"
-"Rheumatic valve dz","Gyu1100","94521.0","[X]Other rheumatic aortic valve diseases","Diagnosis of Rheumatic valve dz"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Rheumatic valve dz,G110.00,1885.0,Mitral stenosis,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G110.11,32435.0,Rheumatic mitral stenosis,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G111.00,51879.0,Rheumatic mitral insufficiency,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G111.11,21807.0,Mitral incompetence - rheumatic,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G111.12,22837.0,Mitral regurgitation - rheumatic,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G112.00,44488.0,Mitral stenosis with insufficiency,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G112.12,50983.0,Mitral stenosis with incompetence,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G112.13,44328.0,Mitral stenosis with regurgitation,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G11..11,16545.0,Rheumatic mitral valve disease,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G120.00,9391.0,Rheumatic aortic stenosis,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G121.00,32211.0,Rheumatic aortic insufficiency,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G121.11,43347.0,Aortic incompetence - rheumatic,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G121.12,7963.0,Aortic regurgitation - rheumatic,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G122.00,63960.0,Rheumatic aortic stenosis with insufficiency,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G12..00,18100.0,Rheumatic aortic valve disease,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G12z.00,50809.0,Rheumatic aortic valve disease NOS,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G140000,31505.0,Rheumatic tricuspid stenosis,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G140100,60266.0,Rheumatic tricuspid insufficiency,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G140111,21980.0,Tricuspid regurgitation - rheumatic,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G140112,42239.0,Tricuspid incompetence - rheumatic,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G140200,93114.0,Rheumatic tricuspid stenosis and insufficiency,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G14021X,93113.0,Rheumatic tricuspid stenosis and regurgitation,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G14021Y,62186.0,Rheumatic tricuspid stenosis and incompetence,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G140z00,72613.0,Rheumatic tricuspid valve disease NOS,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G141000,62207.0,Rheumatic pulmonary stenosis,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G141100,54088.0,Rheumatic pulmonary insufficiency,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G141200,105626.0,Rheumatic pulmonary stenosis and insufficiency,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G141.00,44167.0,Rheumatic pulmonary valve disease,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G141z00,36768.0,Rheumatic pulmonary valve disease NOS,Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,G14z.11,59275.0,"Rheumatic valvulitis, chronic NOS",Diagnosis of Rheumatic valve dz
+Rheumatic valve dz,Gyu1100,94521.0,[X]Other rheumatic aortic valve diseases,Diagnosis of Rheumatic valve dz

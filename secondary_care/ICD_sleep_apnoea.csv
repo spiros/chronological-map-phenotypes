@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Sleep apnoea","G47.3","Sleep apnoea","Diagnosis of sleep apnoea"
+Disease,ICD10code,ICD10codeDescr,Category
+Sleep apnoea,G47.3,Sleep apnoea,Diagnosis of sleep apnoea

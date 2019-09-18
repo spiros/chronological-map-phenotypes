@@ -1,63 +1,63 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Venous thromboembolic disease (Excl PE)","14A8100","5614.0","H/O: Deep Vein Thrombosis","History of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","8CMWA00","106566.0","On deep vein thrombosis care pathway","History of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","9kg0.00","102776.0","DVT stage 1 service level - enhanced services administration","History of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","9kg..00","101655.0","Deep vein thrombosis - enhanced services administration","History of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","9kg0.11","104290.0","DVT enhanced services administration stage 1 service level","History of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","9kg1.00","102777.0","DVT stage 2 service level - enhanced services administration","History of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","9kg2.00","107023.0","DVT stage 3 service level - enhanced services administration","History of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F050000","55885.0","Embolism cavernous sinus","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F050.00","36568.0","Embolism of central nervous system venous sinus","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F05..00","49715.0","Phlebitis and thrombophlebitis of intracranial sinuses","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F050100","64467.0","Embolism superior longitudinal sinus","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F050300","84404.0","Embolism transverse sinus","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F051000","22006.0","Thrombosis cavernous sinus","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F051.00","31390.0","Thrombosis of central nervous system venous sinuses","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F051100","20161.0","Thrombosis of superior longitudinal sinus","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F051200","3585.0","Thrombosis lateral sinus","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F051300","28309.0","Thrombosis transverse sinus","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F051z00","61366.0","Thrombosis of central nervous system venous sinus NOS","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F053000","55883.0","Thrombophlebitis of cavernous sinus","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F053.00","41180.0","Thrombophlebitis of central nervous system venous sinuses","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F053100","70455.0","Thrombophlebitis of superior longitudinal venous sinus","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","F05z.00","65855.0","Phlebitis or thrombophlebitis of CNS venous sinus NOS","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G676000","39344.0","Cereb infarct due cerebral venous thrombosis, nonpyogenic","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G676.00","37947.0","Nonpyogenic venous sinus thrombosis","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G67A.00","101733.0","Cerebral vein thrombosis","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801.00","3576.0","Deep vein phlebitis and thrombophlebitis of the leg","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801.11","824.0","Deep vein thrombosis","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801.12","25478.0","Deep vein thrombosis, leg","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801.13","3392.0","DVT - Deep vein thrombosis","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801600","15382.0","Thrombophlebitis of the femoral vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801700","55661.0","Thrombophlebitis of the popliteal vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801800","95077.0","Thrombophlebitis of the anterior tibial vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801900","106482.0","Thrombophlebitis of the dorsalis pedis vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801A00","61760.0","Thrombophlebitis of the posterior tibial vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801B00","32002.0","Deep vein thrombophlebitis of the leg unspecified","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801C00","42506.0","Deep vein thrombosis of leg related to air travel","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801D00","22038.0","Deep vein thrombosis of lower limb","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801E00","48920.0","Deep vein thrombosis of leg related to intravenous drug use","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801F00","98526.0","Deep vein thrombosis of peroneal vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801G00","104342.0","Recurrent deep vein thrombosis","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G801z00","27284.0","Deep vein phlebitis and thrombophlebitis of the leg NOS","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G80y.11","38099.0","Phlebitis and/or thrombophlebitis of iliac vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G80y400","58166.0","Thrombophlebitis of the common iliac vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G80y500","94496.0","Thrombophlebitis of the internal iliac vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G80y600","58023.0","Thrombophlebitis of the external iliac vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G80y700","91282.0","Thrombophlebitis of the iliac vein unspecified","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G80y800","70467.0","Phlebitis and thrombophlebitis of the iliac vein NOS","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G81..00","8769.0","Portal vein thrombosis","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G820.00","20676.0","Budd - Chiari syndrome (hepatic vein thrombosis)","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G820.11","57100.0","Hepatic vein thrombosis","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G822000","97808.0","Thrombosis of inferior vena cava","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G822.00","43555.0","Embolism and thrombosis of the vena cava","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G823.00","5503.0","Embolism and thrombosis of the renal vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G824.00","100103.0","Axillary vein thrombosis","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G825.00","105403.0","Thrombosis of subclavian vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G826.00","106850.0","Thrombosis of internal jugular vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","G827.00","107851.0","Thrombosis of external jugular vein","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","Gyu8000","97853.0","[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","J420200","54205.0","Thrombus of the superior mesenteric veins","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","SP12200","1224.0","Post operative deep vein thrombosis","Diagnosis of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","ZV12800","19562.0","[V] Personal history deep vein thrombosis","History of Venous thromboembolic disease (Excl PE)"
-"Venous thromboembolic disease (Excl PE)","ZV12811","17847.0","[V] Personal history DVT- deep vein thrombosis","History of Venous thromboembolic disease (Excl PE)"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Venous thromboembolic disease (Excl PE),14A8100,5614.0,H/O: Deep Vein Thrombosis,History of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),8CMWA00,106566.0,On deep vein thrombosis care pathway,History of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),9kg0.00,102776.0,DVT stage 1 service level - enhanced services administration,History of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),9kg..00,101655.0,Deep vein thrombosis - enhanced services administration,History of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),9kg0.11,104290.0,DVT enhanced services administration stage 1 service level,History of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),9kg1.00,102777.0,DVT stage 2 service level - enhanced services administration,History of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),9kg2.00,107023.0,DVT stage 3 service level - enhanced services administration,History of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F050000,55885.0,Embolism cavernous sinus,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F050.00,36568.0,Embolism of central nervous system venous sinus,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F05..00,49715.0,Phlebitis and thrombophlebitis of intracranial sinuses,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F050100,64467.0,Embolism superior longitudinal sinus,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F050300,84404.0,Embolism transverse sinus,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F051000,22006.0,Thrombosis cavernous sinus,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F051.00,31390.0,Thrombosis of central nervous system venous sinuses,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F051100,20161.0,Thrombosis of superior longitudinal sinus,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F051200,3585.0,Thrombosis lateral sinus,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F051300,28309.0,Thrombosis transverse sinus,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F051z00,61366.0,Thrombosis of central nervous system venous sinus NOS,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F053000,55883.0,Thrombophlebitis of cavernous sinus,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F053.00,41180.0,Thrombophlebitis of central nervous system venous sinuses,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F053100,70455.0,Thrombophlebitis of superior longitudinal venous sinus,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),F05z.00,65855.0,Phlebitis or thrombophlebitis of CNS venous sinus NOS,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G676000,39344.0,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G676.00,37947.0,Nonpyogenic venous sinus thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G67A.00,101733.0,Cerebral vein thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801.00,3576.0,Deep vein phlebitis and thrombophlebitis of the leg,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801.11,824.0,Deep vein thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801.12,25478.0,"Deep vein thrombosis, leg",Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801.13,3392.0,DVT - Deep vein thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801600,15382.0,Thrombophlebitis of the femoral vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801700,55661.0,Thrombophlebitis of the popliteal vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801800,95077.0,Thrombophlebitis of the anterior tibial vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801900,106482.0,Thrombophlebitis of the dorsalis pedis vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801A00,61760.0,Thrombophlebitis of the posterior tibial vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801B00,32002.0,Deep vein thrombophlebitis of the leg unspecified,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801C00,42506.0,Deep vein thrombosis of leg related to air travel,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801D00,22038.0,Deep vein thrombosis of lower limb,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801E00,48920.0,Deep vein thrombosis of leg related to intravenous drug use,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801F00,98526.0,Deep vein thrombosis of peroneal vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801G00,104342.0,Recurrent deep vein thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G801z00,27284.0,Deep vein phlebitis and thrombophlebitis of the leg NOS,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G80y.11,38099.0,Phlebitis and/or thrombophlebitis of iliac vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G80y400,58166.0,Thrombophlebitis of the common iliac vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G80y500,94496.0,Thrombophlebitis of the internal iliac vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G80y600,58023.0,Thrombophlebitis of the external iliac vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G80y700,91282.0,Thrombophlebitis of the iliac vein unspecified,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G80y800,70467.0,Phlebitis and thrombophlebitis of the iliac vein NOS,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G81..00,8769.0,Portal vein thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G820.00,20676.0,Budd - Chiari syndrome (hepatic vein thrombosis),Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G820.11,57100.0,Hepatic vein thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G822000,97808.0,Thrombosis of inferior vena cava,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G822.00,43555.0,Embolism and thrombosis of the vena cava,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G823.00,5503.0,Embolism and thrombosis of the renal vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G824.00,100103.0,Axillary vein thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G825.00,105403.0,Thrombosis of subclavian vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G826.00,106850.0,Thrombosis of internal jugular vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),G827.00,107851.0,Thrombosis of external jugular vein,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),Gyu8000,97853.0,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),J420200,54205.0,Thrombus of the superior mesenteric veins,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),SP12200,1224.0,Post operative deep vein thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),ZV12800,19562.0,[V] Personal history deep vein thrombosis,History of Venous thromboembolic disease (Excl PE)
+Venous thromboembolic disease (Excl PE),ZV12811,17847.0,[V] Personal history DVT- deep vein thrombosis,History of Venous thromboembolic disease (Excl PE)

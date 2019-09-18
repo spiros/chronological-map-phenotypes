@@ -1,0 +1,39 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Appendicitis,14C2.00,7210.0,H/O: appendicitis,History of Appendicitis
+Appendicitis,25J6.00,9388.0,Appendix mass,Diagnosis of Appendicitis
+Appendicitis,7700000.0,23344.0,Emergency excision of abnormal appendix and drainage HFQ,Procedure for Appendicitis
+Appendicitis,7700100.0,33538.0,Emergency excision of abnormal appendix NEC,Procedure for Appendicitis
+Appendicitis,7700300.0,7832.0,Emergency appendicectomy NEC,Procedure for Appendicitis
+Appendicitis,7700400.0,9206.0,Endoscopic emergency appendicectomy,Procedure for Appendicitis
+Appendicitis,7700.00,10830.0,Emergency excision of appendix,Procedure for Appendicitis
+Appendicitis,7700.11,3141.0,Emergency appendicectomy,Procedure for Appendicitis
+Appendicitis,7700y00,60360.0,Other specified emergency excision of appendix,Procedure for Appendicitis
+Appendicitis,7700z00,33826.0,Emergency excision of appendix NOS,Procedure for Appendicitis
+Appendicitis,7701000.0,10119.0,Interval appendicectomy,Procedure for Appendicitis
+Appendicitis,7701300.0,5692.0,Planned delayed appendicectomy NEC,Procedure for Appendicitis
+Appendicitis,7701400.0,28587.0,Endoscopic appendicectomy NEC,Procedure for Appendicitis
+Appendicitis,7701.00,9699.0,Other excision of appendix,Procedure for Appendicitis
+Appendicitis,7701.11,662.0,Non emergency appendicectomy,Procedure for Appendicitis
+Appendicitis,7701y00,59158.0,Other specified other excision of appendix,Procedure for Appendicitis
+Appendicitis,7701z00,29710.0,Other excision of appendix NOS,Procedure for Appendicitis
+Appendicitis,7701z11,422.0,Appendicectomy NEC,Procedure for Appendicitis
+Appendicitis,7702000.0,2394.0,Drainage of abscess of appendix,Procedure for Appendicitis
+Appendicitis,7702100.0,29890.0,Drainage of appendix NEC,Procedure for Appendicitis
+Appendicitis,J200.00,1999.0,Acute appendicitis with peritonitis,Diagnosis of Appendicitis
+Appendicitis,J201.00,16040.0,Acute appendicitis with appendix abscess,Diagnosis of Appendicitis
+Appendicitis,J201.11,16716.0,Abscess of appendix,Diagnosis of Appendicitis
+Appendicitis,J201.12,4130.0,Appendix abscess,Diagnosis of Appendicitis
+Appendicitis,J202.00,29882.0,Acute appendicitis without peritonitis,Diagnosis of Appendicitis
+Appendicitis,J203.00,104496.0,Acute appendicitis with generalised peritonitis,Diagnosis of Appendicitis
+Appendicitis,J204.00,104722.0,Acute appendicitis with localised peritonitis,Diagnosis of Appendicitis
+Appendicitis,J20..00,698.0,Acute appendicitis,Diagnosis of Appendicitis
+Appendicitis,J20z100,17014.0,Acute gangrenous appendicitis,Diagnosis of Appendicitis
+Appendicitis,J20z.00,15490.0,Acute appendicitis NOS,Diagnosis of Appendicitis
+Appendicitis,J21..00,25856.0,"Appendicitis, unqualified",Diagnosis of Appendicitis
+Appendicitis,J220.00,24325.0,Subacute appendicitis,Diagnosis of Appendicitis
+Appendicitis,J221.00,16152.0,Chronic appendicitis,Diagnosis of Appendicitis
+Appendicitis,J222.00,3472.0,Relapsing appendicitis,Diagnosis of Appendicitis
+Appendicitis,J223.00,15393.0,Recurrent appendicitis,Diagnosis of Appendicitis
+Appendicitis,J22..00,35406.0,Other appendicitis,Diagnosis of Appendicitis
+Appendicitis,J22z.00,37817.0,Other appendicitis NOS,Diagnosis of Appendicitis
+Appendicitis,Jyu2000,52383.0,[X]Other appendicitis,Diagnosis of Appendicitis

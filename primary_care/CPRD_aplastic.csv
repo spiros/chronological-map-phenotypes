@@ -1,44 +1,44 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Aplastic anaemias","D200000","37320.0","Congenital hypoplastic anaemia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200011","69061.0","Constitutional aplastic anaemia without malformation","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200100","34754.0","Fanconi's familial refractory anaemia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200111","64625.0","Fanconi's hypoplastic anaemia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200200","102848.0","Constitutional aplastic anaemia with malformation","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200211","31491.0","Pancytopenia-dysmelia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200300","72252.0","Constitutional red cell aplasia and hypoplasia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200311","32900.0","Blackfan - Diamond syndrome","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200312","7225.0","Congenital pure red cell aplasia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200313","47438.0","Constitutional red cell hypoplasia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200314","61462.0","Congenital red cell hypoplasia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200400","107828.0","Erythrogenesis imperfecta","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200.00","69027.0","Constitutional aplastic anaemia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200.13","109273.0","Blackfan - Diamond syndrome","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200.15","44913.0","Hypoplastic anaemia - familial","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D200y00","69379.0","Other specified constitutional aplastic anaemia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201000","16108.0","Aplastic anaemia due to chronic disease","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201100","43166.0","Aplastic anaemia due to drugs","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201111","32715.0","Hypoplastic anaemia due to drug or chemical substance","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201200","57859.0","Aplastic anaemia due to infection","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201211","65351.0","Hypoplastic anaemia due to infection","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201311","70128.0","Radiation aplastic anaemia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201400","66239.0","Aplastic anaemia due to toxic cause","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201412","57114.0","Hypoplastic anaemia due to toxic cause","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201500","5823.0","Pancytopenia - acquired","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201600","938.0","Pancytopenia NOS","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201611","31275.0","Pancytopenia with malformation","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201612","61326.0","Pancytopenia with pancreatitis","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201700","34953.0","Transient hypoplastic anaemia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201800","30994.0","[X]Pure red cell aplasia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201.00","15658.0","Acquired aplastic anaemia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201.11","43825.0","Normocytic anaemia due to aplasia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201z00","21723.0","Acquired aplastic anaemia NOS","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201z12","72104.0","Red cell hypoplasia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201z13","31774.0","Secondary red cell hypoplasia NEC","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D201z14","65502.0","Secondary red cell aplasia NEC","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D202.00","71965.0","Chronic acquired pure red cell aplasia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D203000","47620.0","Transient erythroblastopenia of childhood","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D203.00","40244.0","Transient acquired pure red cell aplasia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D204.00","41142.0","Idiopathic aplastic anaemia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D20..00","15422.0","Aplastic anaemia","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D20X.00","69269.0","Acquired pure red cell aplasia, unspecified","Diagnosis of Aplastic anaemias"
-"Aplastic anaemias","D20z.00","68087.0","Aplastic anaemia NOS","Diagnosis of Aplastic anaemias"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Aplastic anaemias,D200000,37320.0,Congenital hypoplastic anaemia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200011,69061.0,Constitutional aplastic anaemia without malformation,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200100,34754.0,Fanconi's familial refractory anaemia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200111,64625.0,Fanconi's hypoplastic anaemia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200200,102848.0,Constitutional aplastic anaemia with malformation,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200211,31491.0,Pancytopenia-dysmelia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200300,72252.0,Constitutional red cell aplasia and hypoplasia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200311,32900.0,Blackfan - Diamond syndrome,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200312,7225.0,Congenital pure red cell aplasia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200313,47438.0,Constitutional red cell hypoplasia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200314,61462.0,Congenital red cell hypoplasia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200400,107828.0,Erythrogenesis imperfecta,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200.00,69027.0,Constitutional aplastic anaemia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200.13,109273.0,Blackfan - Diamond syndrome,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200.15,44913.0,Hypoplastic anaemia - familial,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D200y00,69379.0,Other specified constitutional aplastic anaemia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201000,16108.0,Aplastic anaemia due to chronic disease,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201100,43166.0,Aplastic anaemia due to drugs,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201111,32715.0,Hypoplastic anaemia due to drug or chemical substance,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201200,57859.0,Aplastic anaemia due to infection,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201211,65351.0,Hypoplastic anaemia due to infection,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201311,70128.0,Radiation aplastic anaemia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201400,66239.0,Aplastic anaemia due to toxic cause,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201412,57114.0,Hypoplastic anaemia due to toxic cause,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201500,5823.0,Pancytopenia - acquired,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201600,938.0,Pancytopenia NOS,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201611,31275.0,Pancytopenia with malformation,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201612,61326.0,Pancytopenia with pancreatitis,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201700,34953.0,Transient hypoplastic anaemia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201800,30994.0,[X]Pure red cell aplasia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201.00,15658.0,Acquired aplastic anaemia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201.11,43825.0,Normocytic anaemia due to aplasia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201z00,21723.0,Acquired aplastic anaemia NOS,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201z12,72104.0,Red cell hypoplasia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201z13,31774.0,Secondary red cell hypoplasia NEC,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D201z14,65502.0,Secondary red cell aplasia NEC,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D202.00,71965.0,Chronic acquired pure red cell aplasia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D203000,47620.0,Transient erythroblastopenia of childhood,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D203.00,40244.0,Transient acquired pure red cell aplasia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D204.00,41142.0,Idiopathic aplastic anaemia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D20..00,15422.0,Aplastic anaemia,Diagnosis of Aplastic anaemias
+Aplastic anaemias,D20X.00,69269.0,"Acquired pure red cell aplasia, unspecified",Diagnosis of Aplastic anaemias
+Aplastic anaemias,D20z.00,68087.0,Aplastic anaemia NOS,Diagnosis of Aplastic anaemias

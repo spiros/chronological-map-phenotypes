@@ -1,0 +1,5 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Peptic ulcer disease,K25,Gastric ulcer,Diagnosis of Peptic ulcer disease
+Peptic ulcer disease,K26,Duodenal ulcer,Diagnosis of Peptic ulcer disease
+Peptic ulcer disease,K27,"Peptic ulcer, site unspecified",Diagnosis of Peptic ulcer disease
+Peptic ulcer disease,K28,Gastrojejunal ulcer,Diagnosis of Peptic ulcer disease

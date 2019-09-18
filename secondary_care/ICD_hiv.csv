@@ -1,9 +1,9 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"HIV","B20","Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases","Diagnosis of HIV"
-"HIV","B21","Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms","Diagnosis of HIV"
-"HIV","B22","Human immunodeficiency virus [HIV] disease resulting in other specified diseases","Diagnosis of HIV"
-"HIV","B23","Human immunodeficiency virus [HIV] disease resulting in other conditions","Diagnosis of HIV"
-"HIV","B24","Unspecified human immunodeficiency virus [HIV] disease","Diagnosis of HIV"
-"HIV","F02.4","Dementia in human immunodeficiency virus [HIV] disease","Diagnosis of HIV"
-"HIV","R75","Laboratory evidence of human immunodeficiency virus [HIV]","Diagnosis of HIV"
-"HIV","Z21","Asymptomatic human immunodeficiency virus [HIV] infection status","Diagnosis of HIV"
+Disease,ICD10code,ICD10codeDescr,Category
+HIV,B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,Diagnosis of HIV
+HIV,B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,Diagnosis of HIV
+HIV,B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,Diagnosis of HIV
+HIV,B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,Diagnosis of HIV
+HIV,B24,Unspecified human immunodeficiency virus [HIV] disease,Diagnosis of HIV
+HIV,F02.4,Dementia in human immunodeficiency virus [HIV] disease,Diagnosis of HIV
+HIV,R75,Laboratory evidence of human immunodeficiency virus [HIV],Diagnosis of HIV
+HIV,Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,Diagnosis of HIV

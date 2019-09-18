@@ -1,3 +1,3 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Intrauterine hypoxia","P20","Intrauterine hypoxia","Diagnosis of Intrauterine hypoxia"
-"Intrauterine hypoxia","P24.0","Neonatal aspiration of meconium","Diagnosis of Intrauterine hypoxia"
+Disease,ICD10code,ICD10codeDescr,Category
+Intrauterine hypoxia,P20,Intrauterine hypoxia,Diagnosis of Intrauterine hypoxia
+Intrauterine hypoxia,P24.0,Neonatal aspiration of meconium,Diagnosis of Intrauterine hypoxia

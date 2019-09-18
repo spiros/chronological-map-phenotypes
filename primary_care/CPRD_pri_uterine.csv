@@ -1,17 +1,17 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Primary Malignancy_Uterine","B40..00","2744.0","Malignant neoplasm of uterus, part unspecified","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B430000","72723.0","Malignant neoplasm of cornu of corpus uteri","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B430100","68155.0","Malignant neoplasm of fundus of corpus uteri","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B430200","2890.0","Malignant neoplasm of endometrium of corpus uteri","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B430211","49400.0","Malignant neoplasm of endometrium","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B430300","45793.0","Malignant neoplasm of myometrium of corpus uteri","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B430.00","3213.0","Malignant neoplasm of corpus uteri, excluding isthmus","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B430z00","45490.0","Malignant neoplasm of corpus uteri NOS","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B431000","59097.0","Malignant neoplasm of lower uterine segment","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B431.00","43940.0","Malignant neoplasm of isthmus of uterine body","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B431z00","70729.0","Malignant neoplasm of isthmus of uterine body NOS","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B432.00","16967.0","Malignant neoplasm of overlapping lesion of corpus uteri","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B43..00","7046.0","Malignant neoplasm of body of uterus","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B43y.00","31608.0","Malignant neoplasm of other site of uterine body","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","B43z.00","33617.0","Malignant neoplasm of body of uterus NOS","Diagnosis of Primary Malignancy_Uterine"
-"Primary Malignancy_Uterine","ZV10417","46779.0","[V]Personal history of malignant neoplasm of uterine body","History of Primary Malignancy_Uterine"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Primary Malignancy_Uterine,B40..00,2744.0,"Malignant neoplasm of uterus, part unspecified",Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B430000,72723.0,Malignant neoplasm of cornu of corpus uteri,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B430100,68155.0,Malignant neoplasm of fundus of corpus uteri,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B430200,2890.0,Malignant neoplasm of endometrium of corpus uteri,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B430211,49400.0,Malignant neoplasm of endometrium,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B430300,45793.0,Malignant neoplasm of myometrium of corpus uteri,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B430.00,3213.0,"Malignant neoplasm of corpus uteri, excluding isthmus",Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B430z00,45490.0,Malignant neoplasm of corpus uteri NOS,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B431000,59097.0,Malignant neoplasm of lower uterine segment,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B431.00,43940.0,Malignant neoplasm of isthmus of uterine body,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B431z00,70729.0,Malignant neoplasm of isthmus of uterine body NOS,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B432.00,16967.0,Malignant neoplasm of overlapping lesion of corpus uteri,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B43..00,7046.0,Malignant neoplasm of body of uterus,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B43y.00,31608.0,Malignant neoplasm of other site of uterine body,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,B43z.00,33617.0,Malignant neoplasm of body of uterus NOS,Diagnosis of Primary Malignancy_Uterine
+Primary Malignancy_Uterine,ZV10417,46779.0,[V]Personal history of malignant neoplasm of uterine body,History of Primary Malignancy_Uterine

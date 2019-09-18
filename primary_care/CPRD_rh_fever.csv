@@ -1,65 +1,65 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Rheumatic fever","14A1.00","5927.0","H/O: rheumatic fever","History of Rheumatic fever"
-"Rheumatic fever","G00..00","48189.0","Rheumatic fever without heart involvement","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G010.00","24636.0","Acute rheumatic pericarditis","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G011.00","36886.0","Acute rheumatic endocarditis","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G012.00","48099.0","Acute rheumatic myocarditis","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G01..00","44756.0","Rheumatic fever with heart involvement","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G01y000","23619.0","Acute rheumatic pancarditis","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G01y.00","73540.0","Other acute rheumatic heart disease","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G01yz00","105615.0","Other acute rheumatic heart disease NOS","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G01z.00","68849.0","Acute rheumatic heart disease NOS","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G020.00","69995.0","Rheumatic chorea with heart involvement","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G021.00","63252.0","Rheumatic chorea without mention of heart involvement","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G02..00","5326.0","Rheumatic chorea","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G02..11","20246.0","Sydenham's chorea","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G02z.00","72936.0","Rheumatic chorea NOS","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G0...00","764.0","Acute rheumatic fever","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G0y..00","59942.0","Other specified acute rheumatic fever","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G0z..00","14840.0","Acute rheumatic fever NOS","Diagnosis of Rheumatic fever"
-"Rheumatic fever","G100.00","40957.0","Adherent rheumatic pericardium","History of Rheumatic fever"
-"Rheumatic fever","G102.00","72628.0","Chronic rheumatic myopericarditis","History of Rheumatic fever"
-"Rheumatic fever","G10..00","44376.0","Chronic rheumatic pericarditis","History of Rheumatic fever"
-"Rheumatic fever","G110.11","32435.0","Rheumatic mitral stenosis","History of Rheumatic fever"
-"Rheumatic fever","G111.00","51879.0","Rheumatic mitral insufficiency","History of Rheumatic fever"
-"Rheumatic fever","G111.11","21807.0","Mitral incompetence - rheumatic","History of Rheumatic fever"
-"Rheumatic fever","G111.12","22837.0","Mitral regurgitation - rheumatic","History of Rheumatic fever"
-"Rheumatic fever","G11..11","16545.0","Rheumatic mitral valve disease","History of Rheumatic fever"
-"Rheumatic fever","G120.00","9391.0","Rheumatic aortic stenosis","History of Rheumatic fever"
-"Rheumatic fever","G121.00","32211.0","Rheumatic aortic insufficiency","History of Rheumatic fever"
-"Rheumatic fever","G121.11","43347.0","Aortic incompetence - rheumatic","History of Rheumatic fever"
-"Rheumatic fever","G121.12","7963.0","Aortic regurgitation - rheumatic","History of Rheumatic fever"
-"Rheumatic fever","G122.00","63960.0","Rheumatic aortic stenosis with insufficiency","History of Rheumatic fever"
-"Rheumatic fever","G12..00","18100.0","Rheumatic aortic valve disease","History of Rheumatic fever"
-"Rheumatic fever","G12z.00","50809.0","Rheumatic aortic valve disease NOS","History of Rheumatic fever"
-"Rheumatic fever","G140000","31505.0","Rheumatic tricuspid stenosis","History of Rheumatic fever"
-"Rheumatic fever","G140100","60266.0","Rheumatic tricuspid insufficiency","History of Rheumatic fever"
-"Rheumatic fever","G140111","21980.0","Tricuspid regurgitation - rheumatic","History of Rheumatic fever"
-"Rheumatic fever","G140112","42239.0","Tricuspid incompetence - rheumatic","History of Rheumatic fever"
-"Rheumatic fever","G140200","93114.0","Rheumatic tricuspid stenosis and insufficiency","History of Rheumatic fever"
-"Rheumatic fever","G14021X","93113.0","Rheumatic tricuspid stenosis and regurgitation","History of Rheumatic fever"
-"Rheumatic fever","G14021Y","62186.0","Rheumatic tricuspid stenosis and incompetence","History of Rheumatic fever"
-"Rheumatic fever","G140z00","72613.0","Rheumatic tricuspid valve disease NOS","History of Rheumatic fever"
-"Rheumatic fever","G141000","62207.0","Rheumatic pulmonary stenosis","History of Rheumatic fever"
-"Rheumatic fever","G141100","54088.0","Rheumatic pulmonary insufficiency","History of Rheumatic fever"
-"Rheumatic fever","G141200","105626.0","Rheumatic pulmonary stenosis and insufficiency","History of Rheumatic fever"
-"Rheumatic fever","G141.00","44167.0","Rheumatic pulmonary valve disease","History of Rheumatic fever"
-"Rheumatic fever","G141z00","36768.0","Rheumatic pulmonary valve disease NOS","History of Rheumatic fever"
-"Rheumatic fever","G14..00","68126.0","Other chronic rheumatic endocardial disease","History of Rheumatic fever"
-"Rheumatic fever","G14z.00","15132.0","Rheumatic endocarditis NOS","History of Rheumatic fever"
-"Rheumatic fever","G14z.11","59275.0","Rheumatic valvulitis, chronic NOS","History of Rheumatic fever"
-"Rheumatic fever","G1...00","9312.0","Chronic rheumatic heart disease","History of Rheumatic fever"
-"Rheumatic fever","G1y0.00","62404.0","Rheumatic myocarditis","History of Rheumatic fever"
-"Rheumatic fever","G1y..00","15643.0","Other specified chronic rheumatic heart disease","History of Rheumatic fever"
-"Rheumatic fever","G1yz000","53878.0","Rheumatic heart disease unspecified","History of Rheumatic fever"
-"Rheumatic fever","G1yz100","22262.0","Rheumatic left ventricular failure","History of Rheumatic fever"
-"Rheumatic fever","G1yz.00","57980.0","Other and unspecified rheumatic heart disease","History of Rheumatic fever"
-"Rheumatic fever","G1yzz00","59854.0","Other rheumatic heart disease NOS","History of Rheumatic fever"
-"Rheumatic fever","G1z..00","20001.0","Chronic rheumatic heart disease NOS","History of Rheumatic fever"
-"Rheumatic fever","GA0..00","107591.0","Carditis due to rheumatic fever","History of Rheumatic fever"
-"Rheumatic fever","GA...00","107462.0","Rheumatic heart disease","History of Rheumatic fever"
-"Rheumatic fever","Gyu0000","100051.0","[X]Other acute rheumatic heart disease","Diagnosis of Rheumatic fever"
-"Rheumatic fever","Gyu0.00","101539.0","[X]Acute rheumatic fever","Diagnosis of Rheumatic fever"
-"Rheumatic fever","Gyu1100","94521.0","[X]Other rheumatic aortic valve diseases","History of Rheumatic fever"
-"Rheumatic fever","H571.00","64799.0","Rheumatic pneumonia","Diagnosis of Rheumatic fever"
-"Rheumatic fever","M15y600","34916.0","Erythema marginatum in acute rheumatic fever","Diagnosis of Rheumatic fever"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Rheumatic fever,14A1.00,5927.0,H/O: rheumatic fever,History of Rheumatic fever
+Rheumatic fever,G00..00,48189.0,Rheumatic fever without heart involvement,Diagnosis of Rheumatic fever
+Rheumatic fever,G010.00,24636.0,Acute rheumatic pericarditis,Diagnosis of Rheumatic fever
+Rheumatic fever,G011.00,36886.0,Acute rheumatic endocarditis,Diagnosis of Rheumatic fever
+Rheumatic fever,G012.00,48099.0,Acute rheumatic myocarditis,Diagnosis of Rheumatic fever
+Rheumatic fever,G01..00,44756.0,Rheumatic fever with heart involvement,Diagnosis of Rheumatic fever
+Rheumatic fever,G01y000,23619.0,Acute rheumatic pancarditis,Diagnosis of Rheumatic fever
+Rheumatic fever,G01y.00,73540.0,Other acute rheumatic heart disease,Diagnosis of Rheumatic fever
+Rheumatic fever,G01yz00,105615.0,Other acute rheumatic heart disease NOS,Diagnosis of Rheumatic fever
+Rheumatic fever,G01z.00,68849.0,Acute rheumatic heart disease NOS,Diagnosis of Rheumatic fever
+Rheumatic fever,G020.00,69995.0,Rheumatic chorea with heart involvement,Diagnosis of Rheumatic fever
+Rheumatic fever,G021.00,63252.0,Rheumatic chorea without mention of heart involvement,Diagnosis of Rheumatic fever
+Rheumatic fever,G02..00,5326.0,Rheumatic chorea,Diagnosis of Rheumatic fever
+Rheumatic fever,G02..11,20246.0,Sydenham's chorea,Diagnosis of Rheumatic fever
+Rheumatic fever,G02z.00,72936.0,Rheumatic chorea NOS,Diagnosis of Rheumatic fever
+Rheumatic fever,G0...00,764.0,Acute rheumatic fever,Diagnosis of Rheumatic fever
+Rheumatic fever,G0y..00,59942.0,Other specified acute rheumatic fever,Diagnosis of Rheumatic fever
+Rheumatic fever,G0z..00,14840.0,Acute rheumatic fever NOS,Diagnosis of Rheumatic fever
+Rheumatic fever,G100.00,40957.0,Adherent rheumatic pericardium,History of Rheumatic fever
+Rheumatic fever,G102.00,72628.0,Chronic rheumatic myopericarditis,History of Rheumatic fever
+Rheumatic fever,G10..00,44376.0,Chronic rheumatic pericarditis,History of Rheumatic fever
+Rheumatic fever,G110.11,32435.0,Rheumatic mitral stenosis,History of Rheumatic fever
+Rheumatic fever,G111.00,51879.0,Rheumatic mitral insufficiency,History of Rheumatic fever
+Rheumatic fever,G111.11,21807.0,Mitral incompetence - rheumatic,History of Rheumatic fever
+Rheumatic fever,G111.12,22837.0,Mitral regurgitation - rheumatic,History of Rheumatic fever
+Rheumatic fever,G11..11,16545.0,Rheumatic mitral valve disease,History of Rheumatic fever
+Rheumatic fever,G120.00,9391.0,Rheumatic aortic stenosis,History of Rheumatic fever
+Rheumatic fever,G121.00,32211.0,Rheumatic aortic insufficiency,History of Rheumatic fever
+Rheumatic fever,G121.11,43347.0,Aortic incompetence - rheumatic,History of Rheumatic fever
+Rheumatic fever,G121.12,7963.0,Aortic regurgitation - rheumatic,History of Rheumatic fever
+Rheumatic fever,G122.00,63960.0,Rheumatic aortic stenosis with insufficiency,History of Rheumatic fever
+Rheumatic fever,G12..00,18100.0,Rheumatic aortic valve disease,History of Rheumatic fever
+Rheumatic fever,G12z.00,50809.0,Rheumatic aortic valve disease NOS,History of Rheumatic fever
+Rheumatic fever,G140000,31505.0,Rheumatic tricuspid stenosis,History of Rheumatic fever
+Rheumatic fever,G140100,60266.0,Rheumatic tricuspid insufficiency,History of Rheumatic fever
+Rheumatic fever,G140111,21980.0,Tricuspid regurgitation - rheumatic,History of Rheumatic fever
+Rheumatic fever,G140112,42239.0,Tricuspid incompetence - rheumatic,History of Rheumatic fever
+Rheumatic fever,G140200,93114.0,Rheumatic tricuspid stenosis and insufficiency,History of Rheumatic fever
+Rheumatic fever,G14021X,93113.0,Rheumatic tricuspid stenosis and regurgitation,History of Rheumatic fever
+Rheumatic fever,G14021Y,62186.0,Rheumatic tricuspid stenosis and incompetence,History of Rheumatic fever
+Rheumatic fever,G140z00,72613.0,Rheumatic tricuspid valve disease NOS,History of Rheumatic fever
+Rheumatic fever,G141000,62207.0,Rheumatic pulmonary stenosis,History of Rheumatic fever
+Rheumatic fever,G141100,54088.0,Rheumatic pulmonary insufficiency,History of Rheumatic fever
+Rheumatic fever,G141200,105626.0,Rheumatic pulmonary stenosis and insufficiency,History of Rheumatic fever
+Rheumatic fever,G141.00,44167.0,Rheumatic pulmonary valve disease,History of Rheumatic fever
+Rheumatic fever,G141z00,36768.0,Rheumatic pulmonary valve disease NOS,History of Rheumatic fever
+Rheumatic fever,G14..00,68126.0,Other chronic rheumatic endocardial disease,History of Rheumatic fever
+Rheumatic fever,G14z.00,15132.0,Rheumatic endocarditis NOS,History of Rheumatic fever
+Rheumatic fever,G14z.11,59275.0,"Rheumatic valvulitis, chronic NOS",History of Rheumatic fever
+Rheumatic fever,G1...00,9312.0,Chronic rheumatic heart disease,History of Rheumatic fever
+Rheumatic fever,G1y0.00,62404.0,Rheumatic myocarditis,History of Rheumatic fever
+Rheumatic fever,G1y..00,15643.0,Other specified chronic rheumatic heart disease,History of Rheumatic fever
+Rheumatic fever,G1yz000,53878.0,Rheumatic heart disease unspecified,History of Rheumatic fever
+Rheumatic fever,G1yz100,22262.0,Rheumatic left ventricular failure,History of Rheumatic fever
+Rheumatic fever,G1yz.00,57980.0,Other and unspecified rheumatic heart disease,History of Rheumatic fever
+Rheumatic fever,G1yzz00,59854.0,Other rheumatic heart disease NOS,History of Rheumatic fever
+Rheumatic fever,G1z..00,20001.0,Chronic rheumatic heart disease NOS,History of Rheumatic fever
+Rheumatic fever,GA0..00,107591.0,Carditis due to rheumatic fever,History of Rheumatic fever
+Rheumatic fever,GA...00,107462.0,Rheumatic heart disease,History of Rheumatic fever
+Rheumatic fever,Gyu0000,100051.0,[X]Other acute rheumatic heart disease,Diagnosis of Rheumatic fever
+Rheumatic fever,Gyu0.00,101539.0,[X]Acute rheumatic fever,Diagnosis of Rheumatic fever
+Rheumatic fever,Gyu1100,94521.0,[X]Other rheumatic aortic valve diseases,History of Rheumatic fever
+Rheumatic fever,H571.00,64799.0,Rheumatic pneumonia,Diagnosis of Rheumatic fever
+Rheumatic fever,M15y600,34916.0,Erythema marginatum in acute rheumatic fever,Diagnosis of Rheumatic fever

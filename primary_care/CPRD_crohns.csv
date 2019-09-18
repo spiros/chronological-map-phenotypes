@@ -1,0 +1,27 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Crohn's disease,J08z900,29616.0,Orofacial Crohn's disease,Diagnosis of Crohn's disease
+Crohn's disease,J400000,71945.0,Regional enteritis of the duodenum,Diagnosis of Crohn's disease
+Crohn's disease,J400100,63036.0,Regional enteritis of the jejunum,Diagnosis of Crohn's disease
+Crohn's disease,J400200,28476.0,Crohn's disease of the terminal ileum,Diagnosis of Crohn's disease
+Crohn's disease,J400300,66238.0,Crohn's disease of the ileum unspecified,Diagnosis of Crohn's disease
+Crohn's disease,J400400,39278.0,Crohn's disease of the ileum NOS,Diagnosis of Crohn's disease
+Crohn's disease,J400500,36913.0,Exacerbation of Crohn's disease of small intestine,Diagnosis of Crohn's disease
+Crohn's disease,J400.00,51576.0,Regional enteritis of the small bowel,Diagnosis of Crohn's disease
+Crohn's disease,J400z00,9359.0,Crohn's disease of the small bowel NOS,Diagnosis of Crohn's disease
+Crohn's disease,J401000,62628.0,Regional enteritis of the colon,Diagnosis of Crohn's disease
+Crohn's disease,J401100,64773.0,Regional enteritis of the rectum,Diagnosis of Crohn's disease
+Crohn's disease,J401200,39037.0,Exacerbation of Crohn's disease of large intestine,Diagnosis of Crohn's disease
+Crohn's disease,J401.00,44426.0,Regional enteritis of the large bowel,Diagnosis of Crohn's disease
+Crohn's disease,J401z00,20688.0,Crohn's disease of the large bowel NOS,Diagnosis of Crohn's disease
+Crohn's disease,J401z11,6538.0,Crohn's colitis,Diagnosis of Crohn's disease
+Crohn's disease,J402.00,15773.0,Regional ileocolitis,Diagnosis of Crohn's disease
+Crohn's disease,J40..00,11286.0,Regional enteritis - Crohn's disease,Diagnosis of Crohn's disease
+Crohn's disease,J40..11,593.0,Crohn's disease,Diagnosis of Crohn's disease
+Crohn's disease,J40..12,51578.0,Granulomatous enteritis,Diagnosis of Crohn's disease
+Crohn's disease,J40z.00,52449.0,Regional enteritis NOS,Diagnosis of Crohn's disease
+Crohn's disease,J40z.11,59994.0,Crohn's disease NOS,Diagnosis of Crohn's disease
+Crohn's disease,Jyu4000,69959.0,[X]Other Crohn's disease,Diagnosis of Crohn's disease
+Crohn's disease,N031100,20480.0,Arthropathy in Crohn's disease,Diagnosis of Crohn's disease
+Crohn's disease,N045300,12575.0,Juvenile arthritis in Crohn's disease,History of Crohn's disease
+Crohn's disease,ZR3S.00,11337.0,Crohn's disease activity index,Diagnosis of Crohn's disease
+Crohn's disease,ZR3S.11,11119.0,CDAI - Crohn's disease activity index,Diagnosis of Crohn's disease

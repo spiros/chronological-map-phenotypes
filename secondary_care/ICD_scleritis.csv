@@ -1,4 +1,4 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Scleritis and episcleritis","H15.0","Scleritis","Diagnosis of scleritis and episcleritis"
-"Scleritis and episcleritis","H15.1","Episcleritis","Diagnosis of scleritis and episcleritis"
-"Scleritis and episcleritis","H19.0","Scleritis and episcleritis in diseases classified elsewhere","Diagnosis of scleritis and episcleritis"
+Disease,ICD10code,ICD10codeDescr,Category
+Scleritis and episcleritis,H15.0,Scleritis,Diagnosis of scleritis and episcleritis
+Scleritis and episcleritis,H15.1,Episcleritis,Diagnosis of scleritis and episcleritis
+Scleritis and episcleritis,H19.0,Scleritis and episcleritis in diseases classified elsewhere,Diagnosis of scleritis and episcleritis

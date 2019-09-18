@@ -1,0 +1,9 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Splenomegaly,D414.00,10702.0,Hypersplenism,Diagnosis of Splenomegaly
+Splenomegaly,D415100,96439.0,Chronic congestive splenamegaly,Diagnosis of Splenomegaly
+Splenomegaly,J61y200,1780.0,Hepatosplenomegaly,Diagnosis of Splenomegaly
+Splenomegaly,PK03.00,59741.0,Congenital splenomegaly,Diagnosis of Splenomegaly
+Splenomegaly,PK03.11,62455.0,Hyperplasia of spleen,Diagnosis of Splenomegaly
+Splenomegaly,R092000,29832.0,[D]Spleen enlargement,Diagnosis of Splenomegaly
+Splenomegaly,R092.00,3125.0,[D]Splenomegaly,Diagnosis of Splenomegaly
+Splenomegaly,R092z00,44281.0,[D]Splenomegaly NOS,Diagnosis of Splenomegaly

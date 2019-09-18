@@ -1,0 +1,7 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Abdominal Hernia,K40,Inguinal hernia,Diagnosis of Abdominal Hernia
+Abdominal Hernia,K41,Femoral hernia,Diagnosis of Abdominal Hernia
+Abdominal Hernia,K42,Umbilical hernia,Diagnosis of Abdominal Hernia
+Abdominal Hernia,K43,Ventral hernia,Diagnosis of Abdominal Hernia
+Abdominal Hernia,K45,Other abdominal hernia,Diagnosis of Abdominal Hernia
+Abdominal Hernia,K46,Unspecified abdominal hernia,Diagnosis of Abdominal Hernia

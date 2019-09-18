@@ -1,0 +1,8 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Other Cardiomyopathy,I25.5,Ischaemic cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,I42.3,Endomyocardial (eosinophilic) disease,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,I42.5,Other restrictive cardiomyopathy,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,I42.7,Cardiomyopathy due to drugs and other external agents,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,I42.8,Other cardiomyopathies,Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,I42.9,"Cardiomyopathy, unspecified",Diagnosis of Other Cardiomyopathy
+Other Cardiomyopathy,I43,Cardiomyopathy in diseases classified elsewhere,Diagnosis of Other Cardiomyopathy

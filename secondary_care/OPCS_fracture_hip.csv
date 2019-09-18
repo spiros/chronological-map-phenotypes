@@ -1,4 +1,4 @@
-"Disease","OPCS4code","OPCS4codeDescr","Incl_Cat"
-"Fracture of the hip","W19.1","Primary open reduction of fracture of neck of femur and open fixation using pin and plate","Procedure for Fracture of the hip"
-"Fracture of the hip","W24.1","Closed reduction of intracapsular fracture of neck of femur and fixation using nail or screw","Procedure for Fracture of the hip"
-"Fracture of the hip","O17.1","Remanipulation of intracapsular fracture of neck of femur and fixation using nail or screw","Procedure for Fracture of the hip"
+"Disease","OPCS4code","OPCS4codeDescr","Category"
+"Fracture of hip","W19.1","Primary open reduction of fracture of neck of femur and open fixation using pin and plate","Procedure for Fracture of the hip"
+"Fracture of hip","W24.1","Closed reduction of intracapsular fracture of neck of femur and fixation using nail or screw","Procedure for Fracture of the hip"
+"Fracture of hip","O17.1","Remanipulation of intracapsular fracture of neck of femur and fixation using nail or screw","Procedure for Fracture of the hip"

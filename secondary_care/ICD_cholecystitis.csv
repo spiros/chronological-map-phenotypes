@@ -1,5 +1,5 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Cholecystitis","K80.0","Calculus of gallbladder with acute cholecystitis","Diagnosis of Cholecystitis"
-"Cholecystitis","K80.1","Calculus of gallbladder with other cholecystitis","Diagnosis of Cholecystitis"
-"Cholecystitis","K80.4","Calculus of bile duct with cholecystitis","Diagnosis of Cholecystitis"
-"Cholecystitis","K81","Cholecystitis","Diagnosis of Cholecystitis"
+Disease,ICD10code,ICD10codeDescr,Category
+Cholecystitis,K80.0,Calculus of gallbladder with acute cholecystitis,Diagnosis of Cholecystitis
+Cholecystitis,K80.1,Calculus of gallbladder with other cholecystitis,Diagnosis of Cholecystitis
+Cholecystitis,K80.4,Calculus of bile duct with cholecystitis,Diagnosis of Cholecystitis
+Cholecystitis,K81,Cholecystitis,Diagnosis of Cholecystitis

@@ -1,0 +1,70 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Other haemolytic anaemias,1453.00,21335.0,H/O: haemolytic anaemia,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D100.00,7237.0,Hereditary spherocytosis,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D100.11,39682.0,Acholuric familial jaundice,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D100.12,64619.0,Minkowski - Chauffard syndrome,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D101.00,31107.0,Hereditary elliptocytosis,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D101.11,49822.0,Ovalocytosis - hereditary,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D102000,22531.0,Glucose-6-phosphate dehydrogenase deficiency anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D102100,44381.0,Favism,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D102200,49451.0,Drug-induced enzyme deficiency anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D102.00,71808.0,Haemolytic anaemia due to glutathione metabolism disorder,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D103000,107820.0,Haemolytic anaemia due to hexokinase deficiency,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D103100,55561.0,Haemolytic anaemia due to pyruvate kinase deficiency,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D103300,104454.0,Anaemia due to disorders of nucleotide metabolism,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D103z00,110176.0,Enzyme deficiency haemolytic anaemia NOS,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107000,57298.0,Congenital Heinz-body anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107100,45944.0,Hereditary persistence of fetal haemoglobin [HPFH],Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107111,46322.0,Hb F disease,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107200,40545.0,Haemoglobin Bart's disease,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107300,31800.0,Haemoglobin-C disease,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107400,7624.0,Haemoglobin-D disease,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107500,32373.0,Haemoglobin-E disease,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107600,31662.0,Haemoglobin Zurich disease,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107700,7526.0,Haemoglobin-H disease,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107.00,1529.0,Other haemoglobinopathies,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107y00,45935.0,Other specified other haemoglobinopathy,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D107z00,31462.0,Other haemoglobinopathy NOS,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D10..00,39456.0,Hereditary haemolytic anaemias,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D10y000,47598.0,Stomatocytosis,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D10y.00,72721.0,Other specified hereditary haemolytic anaemias,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D10yz00,103151.0,Other specified hereditary haemolytic anaemia NOS,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D10z.00,14698.0,Hereditary haemolytic anaemia NOS,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D110000,39944.0,Primary cold-type haemolytic anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D110100,49182.0,Primary warm-type haemolytic anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D110200,57575.0,Secondary cold-type haemolytic anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D110400,31734.0,Drug-induced autoimmune haemolytic anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D110.00,3818.0,Autoimmune haemolytic anaemias,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D110.11,21369.0,Coombs positive haemolysis,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D110z00,39876.0,Autoimmune haemolytic anaemia NOS,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D111000,43367.0,Mechanical haemolytic anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D111100,38327.0,Microangiopathic haemolytic anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D111300,29323.0,Haemolytic-uraemic syndrome,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D111400,67088.0,Drug-induced haemolytic anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D111500,63936.0,Infective haemolytic anaemia,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D111.00,57897.0,Non-autoimmune haemolytic anaemia,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D111y00,99308.0,Other specified non-autoimmune haemolytic anaemia,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D111z00,94214.0,Non-autoimmune haemolytic anaemia NOS,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D112000,91034.0,Haemoglobinuria from exertion,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D112011,5434.0,March haemoglobinuria,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D112012,100022.0,Marchiafava - Micheli syndrome,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D112100,35612.0,Paroxysmal nocturnal haemoglobinuria,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D112200,28238.0,Paroxysmal cold haemoglobinuria,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D112.00,26437.0,Haemoglobinuria due to haemolysis from external causes,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D112z00,52522.0,Haemoglobinuria due to haemolysis from external cause NOS,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D112z11,48096.0,Cold haemoglobinuria,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D112z12,50495.0,Acquired haemolytic anaemia with haemoglobinuria NEC,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D112z13,61665.0,Paroxysmal haemoglobinuria NOS,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D11..00,27771.0,Acquired haemolytic anaemias,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D11z000,29933.0,Acquired spherocytosis,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D11z100,64468.0,"Pyknocytosis, infantile",Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D11z.00,15314.0,Acquired haemolytic anaemia NOS,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D1...00,3326.0,Haemolytic anaemias,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D1y..00,39967.0,Other specified haemolytic anaemias,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,D1z..00,18631.0,Haemolytic anaemias NOS,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,Dyu1300,87112.0,[X]Other haemoglobinopathies,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,Dyu1500,100388.0,[X]Other autoimmune haemolytic anaemias,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,Dyu1.00,99917.0,[X]Haemolytic anaemias,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,Q430000,39164.0,Neonatal jaundice + glucose-6-phosphate dehydrogenase defic.,Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,Q430.00,70762.0,Perinatal jaundice from hereditary haemolytic anaemias,Possible Diagnosis of Other haemolytic anaemias
+Other haemolytic anaemias,Q430z00,103252.0,Perinatal jaundice from hereditary haemolytic anaemia NOS,Possible Diagnosis of Other haemolytic anaemias

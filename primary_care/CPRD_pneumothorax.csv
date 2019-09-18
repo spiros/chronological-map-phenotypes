@@ -1,12 +1,12 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Pneumothorax","14B5.00","5131.0","H/O: pneumothorax","History of Pneumothorax"
-"Pneumothorax","H520.00","27821.0","Spontaneous tension pneumothorax","Diagnosis of Pneumothorax"
-"Pneumothorax","H52..00","1550.0","Pneumothorax","Diagnosis of Pneumothorax"
-"Pneumothorax","H52y000","36017.0","Acute pneumothorax NOS","Diagnosis of Pneumothorax"
-"Pneumothorax","H52y100","70492.0","Chronic pneumothorax","Diagnosis of Pneumothorax"
-"Pneumothorax","H52y.00","23766.0","Other spontaneous pneumothorax","Diagnosis of Pneumothorax"
-"Pneumothorax","H52yz00","2486.0","Other spontaneous pneumothorax NOS","Diagnosis of Pneumothorax"
-"Pneumothorax","H52yz11","9101.0","Spontaneous pneumothorax NOS","Diagnosis of Pneumothorax"
-"Pneumothorax","H52z.00","28695.0","Pneumothorax NOS","Diagnosis of Pneumothorax"
-"Pneumothorax","Hyu7100","98427.0","[X]Other spontaneous pneumothorax","Diagnosis of Pneumothorax"
-"Pneumothorax","Hyu7200","53808.0","[X]Other pneumothorax","Diagnosis of Pneumothorax"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Pneumothorax,14B5.00,5131.0,H/O: pneumothorax,History of Pneumothorax
+Pneumothorax,H520.00,27821.0,Spontaneous tension pneumothorax,Diagnosis of Pneumothorax
+Pneumothorax,H52..00,1550.0,Pneumothorax,Diagnosis of Pneumothorax
+Pneumothorax,H52y000,36017.0,Acute pneumothorax NOS,Diagnosis of Pneumothorax
+Pneumothorax,H52y100,70492.0,Chronic pneumothorax,Diagnosis of Pneumothorax
+Pneumothorax,H52y.00,23766.0,Other spontaneous pneumothorax,Diagnosis of Pneumothorax
+Pneumothorax,H52yz00,2486.0,Other spontaneous pneumothorax NOS,Diagnosis of Pneumothorax
+Pneumothorax,H52yz11,9101.0,Spontaneous pneumothorax NOS,Diagnosis of Pneumothorax
+Pneumothorax,H52z.00,28695.0,Pneumothorax NOS,Diagnosis of Pneumothorax
+Pneumothorax,Hyu7100,98427.0,[X]Other spontaneous pneumothorax,Diagnosis of Pneumothorax
+Pneumothorax,Hyu7200,53808.0,[X]Other pneumothorax,Diagnosis of Pneumothorax

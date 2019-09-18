@@ -1,24 +1,24 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Enthesopathies & synovial disorders","M46.0","Spinal enthesopathy","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M65.2","Calcific tendinitis","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M65.3","Trigger finger","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M65.4","Radial styloid tenosynovitis [de Quervain]","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M65.8","Other synovitis and tenosynovitis","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M65.9","Synovitis and tenosynovitis, unspecified","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M66","Spontaneous rupture of synovium and tendon","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M70","Soft tissue disorders related to use, overuse and pressure","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M71.2","Synovial cyst of popliteal space [Baker]","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M71.3","Other bursal cyst","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M71.4","Calcium deposit in bursa","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M71.5","Other bursitis, not elsewhere classified","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M71.8","Other specified bursopathies","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M71.9","Bursopathy, unspecified","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M75","Shoulder lesions","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M76","Enthesopathies of lower limb, excluding foot","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M77.0","Medial epicondylitis","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M77.1","Lateral epicondylitis","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M77.2","Periarthritis of wrist","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M77.3","Calcaneal spur","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M77.5","Other enthesopathy of foot","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M77.8","Other enthesopathies, not elsewhere classified","Diagnosis of Enthesopathies & synovial disorders"
-"Enthesopathies & synovial disorders","M77.9","Enthesopathy, unspecified","Diagnosis of Enthesopathies & synovial disorders"
+Disease,ICD10code,ICD10codeDescr,Category
+Enthesopathies & synovial disorders,M46.0,Spinal enthesopathy,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M65.2,Calcific tendinitis,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M65.3,Trigger finger,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M65.4,Radial styloid tenosynovitis [de Quervain],Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M65.8,Other synovitis and tenosynovitis,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M65.9,"Synovitis and tenosynovitis, unspecified",Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M66,Spontaneous rupture of synovium and tendon,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M70,"Soft tissue disorders related to use, overuse and pressure",Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M71.2,Synovial cyst of popliteal space [Baker],Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M71.3,Other bursal cyst,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M71.4,Calcium deposit in bursa,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M71.5,"Other bursitis, not elsewhere classified",Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M71.8,Other specified bursopathies,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M71.9,"Bursopathy, unspecified",Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M75,Shoulder lesions,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M76,"Enthesopathies of lower limb, excluding foot",Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M77.0,Medial epicondylitis,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M77.1,Lateral epicondylitis,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M77.2,Periarthritis of wrist,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M77.3,Calcaneal spur,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M77.5,Other enthesopathy of foot,Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M77.8,"Other enthesopathies, not elsewhere classified",Diagnosis of Enthesopathies & synovial disorders
+Enthesopathies & synovial disorders,M77.9,"Enthesopathy, unspecified",Diagnosis of Enthesopathies & synovial disorders

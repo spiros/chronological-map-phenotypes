@@ -1,4 +1,4 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Anorectal fistula","K60.3","Anal fistula","Diagnosis of Anorectal fistula"
-"Anorectal fistula","K60.4","Rectal fistula","Diagnosis of Anorectal fistula"
-"Anorectal fistula","K60.5","Anorectal fistula","Diagnosis of Anorectal fistula"
+Disease,ICD10code,ICD10codeDescr,Category
+Anorectal fistula,K60.3,Anal fistula,Diagnosis of Anorectal fistula
+Anorectal fistula,K60.4,Rectal fistula,Diagnosis of Anorectal fistula
+Anorectal fistula,K60.5,Anorectal fistula,Diagnosis of Anorectal fistula

@@ -1,9 +1,9 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Stroke not otherwise specified","G46.3","Brain stem stroke syndrome","Diagnosis of Stroke NOS"
-"Stroke not otherwise specified","G46.4","Cerebellar stroke syndrome","Diagnosis of Stroke NOS"
-"Stroke not otherwise specified","G46.5","Pure motor lacunar syndrome","Diagnosis of Stroke NOS"
-"Stroke not otherwise specified","G46.6","Pure sensory lacunar syndrome","Diagnosis of Stroke NOS"
-"Stroke not otherwise specified","G46.7","Other lacunar syndromes","Diagnosis of Stroke NOS"
-"Stroke not otherwise specified","G46.8","Other vascular syndromes of brain in cerebrovascular diseases","Diagnosis of Stroke NOS"
-"Stroke not otherwise specified","I64","Stroke, not specified as haemorrhage or infarction","Diagnosis of Stroke NOS"
-"Stroke not otherwise specified","I69.4","Sequelae of stroke, not specified as haemorrhage or infarction","History of stroke, not specified as haemorrhage or infarction"
+Disease,ICD10code,ICD10codeDescr,Category
+Stroke NOS,G46.3,Brain stem stroke syndrome,Diagnosis of Stroke NOS
+Stroke NOS,G46.4,Cerebellar stroke syndrome,Diagnosis of Stroke NOS
+Stroke NOS,G46.5,Pure motor lacunar syndrome,Diagnosis of Stroke NOS
+Stroke NOS,G46.6,Pure sensory lacunar syndrome,Diagnosis of Stroke NOS
+Stroke NOS,G46.7,Other lacunar syndromes,Diagnosis of Stroke NOS
+Stroke NOS,G46.8,Other vascular syndromes of brain in cerebrovascular diseases,Diagnosis of Stroke NOS
+Stroke NOS,I64,"Stroke, not specified as haemorrhage or infarction",Diagnosis of Stroke NOS
+Stroke NOS,I69.4,"Sequelae of stroke, not specified as haemorrhage or infarction","History of stroke, not specified as haemorrhage or infarction"

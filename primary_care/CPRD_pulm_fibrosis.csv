@@ -1,14 +1,14 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Other interstitial pulmonary diseases with fibrosis","23E5.00","2680.0","O/E - fibrosis of lung present","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","23E5.11","7994.0","O/E - fibrosis of lung","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","H55..00","7791.0","Postinflammatory pulmonary fibrosis","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","H55..11","40953.0","Cirrhosis of lung","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","H563100","6051.0","Diffuse pulmonary fibrosis","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","H563200","103472.0","Pulmonary fibrosis","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","H563300","103559.0","Usual interstitial pneumonitis","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","H563.00","6837.0","Idiopathic fibrosing alveolitis","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","H563.11","63174.0","Hamman - Rich syndrome","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","H563.12","5519.0","Cryptogenic fibrosing alveolitis","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","H563.13","103753.0","Idiopathic pulmonary fibrosis","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","H563z00","28229.0","Idiopathic fibrosing alveolitis NOS","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
-"Other interstitial pulmonary diseases with fibrosis","Hyu5000","65060.0","[X]Other interstitial pulmonary diseases with fibrosis","Diagnosis of Other interstitial pulmonary diseases with fibrosis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Other interstitial pulmonary diseases with fibrosis,23E5.00,2680.0,O/E - fibrosis of lung present,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,23E5.11,7994.0,O/E - fibrosis of lung,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,H55..00,7791.0,Postinflammatory pulmonary fibrosis,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,H55..11,40953.0,Cirrhosis of lung,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,H563100,6051.0,Diffuse pulmonary fibrosis,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,H563200,103472.0,Pulmonary fibrosis,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,H563300,103559.0,Usual interstitial pneumonitis,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,H563.00,6837.0,Idiopathic fibrosing alveolitis,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,H563.11,63174.0,Hamman - Rich syndrome,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,H563.12,5519.0,Cryptogenic fibrosing alveolitis,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,H563.13,103753.0,Idiopathic pulmonary fibrosis,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,H563z00,28229.0,Idiopathic fibrosing alveolitis NOS,Diagnosis of Other interstitial pulmonary diseases with fibrosis
+Other interstitial pulmonary diseases with fibrosis,Hyu5000,65060.0,[X]Other interstitial pulmonary diseases with fibrosis,Diagnosis of Other interstitial pulmonary diseases with fibrosis

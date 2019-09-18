@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Secondary malignancy_Liver and intrahepatic bile duct","C78.7","Secondary malignant neoplasm of liver and intrahepatic bile duct","Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct"
+Disease,ICD10code,ICD10codeDescr,Category
+Secondary malignancy_Liver and intrahepatic bile duct,C78.7,Secondary malignant neoplasm of liver and intrahepatic bile duct,Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct

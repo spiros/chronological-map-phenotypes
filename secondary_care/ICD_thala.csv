@@ -1,0 +1,6 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Thalassaemia,D56.0,Alpha thalassaemia,Diagnosis of Thalassaemia
+Thalassaemia,D56.1,Beta thalassaemia,Diagnosis of Thalassaemia
+Thalassaemia,D56.2,Delta-beta thalassaemia,Diagnosis of Thalassaemia
+Thalassaemia,D56.8,Other thalassaemias,Diagnosis of Thalassaemia
+Thalassaemia,D56.9,"Thalassaemia, unspecified",Diagnosis of Thalassaemia

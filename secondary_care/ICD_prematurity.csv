@@ -1,0 +1,3 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Prematurity,P07.2,Extreme immaturity,Diagnosis of Prematurity
+Prematurity,P07.3,Other preterm infants,Diagnosis of Prematurity

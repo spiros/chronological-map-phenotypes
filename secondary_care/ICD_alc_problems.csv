@@ -1,0 +1,21 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Alcohol Problems,F10.1,Mental and behavioural disorders due to use of alcohol - Harmful use,Diagnosis of Alcohol Problems
+Alcohol Problems,F10.2,Mental and behavioural disorders due to use of alcohol - Dependence syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,F10.3,Mental and behavioural disorders due to use of alcohol - Withdrawal state,Diagnosis of Alcohol Problems
+Alcohol Problems,F10.4,Mental and behavioural disorders due to use of alcohol - Withdrawal state with delirium,Diagnosis of Alcohol Problems
+Alcohol Problems,F10.5,Mental and behavioural disorders due to use of alcohol - Psychotic disorder,Diagnosis of Alcohol Problems
+Alcohol Problems,F10.6,Mental and behavioural disorders due to use of alcohol - Amnesic syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,F10.7,Mental and behavioural disorders due to use of alcohol - Residual and late-onset psychotic disorder,Diagnosis of Alcohol Problems
+Alcohol Problems,F10.8,Mental and behavioural disorders due to use of alcohol - Other mental and behavioural disorders,Diagnosis of Alcohol Problems
+Alcohol Problems,F10.9,Mental and behavioural disorders due to use of alcohol - Unspecified mental and behavioural disorder,Diagnosis of Alcohol Problems
+Alcohol Problems,E24.4,Alcohol-induced pseudo-Cushing's syndrome,Diagnosis of Alcohol Problems
+Alcohol Problems,G31.2,Degeneration of nervous system due to alcohol,Diagnosis of Alcohol Problems
+Alcohol Problems,G62.1,Alcoholic polyneuropathy,Diagnosis of Alcohol Problems
+Alcohol Problems,G72.1,Alcoholic myopathy,Diagnosis of Alcohol Problems
+Alcohol Problems,I42.6,Alcoholic cardiomyopathy,Diagnosis of Alcohol Problems
+Alcohol Problems,K29.2,Alcoholic gastritis,Diagnosis of Alcohol Problems
+Alcohol Problems,K70,Alcoholic liver disease,Diagnosis of Alcohol Problems
+Alcohol Problems,K85.2,Alcohol-induced acute pancreatitis,Diagnosis of Alcohol Problems
+Alcohol Problems,K86.0,Alcohol-induced chronic pancreatitis,Diagnosis of Alcohol Problems
+Alcohol Problems,Z50.2,Alcohol rehabilitation,Diagnosis of Alcohol Problems
+Alcohol Problems,Z71.4,Alcohol abuse counselling and surveillance,Diagnosis of Alcohol Problems

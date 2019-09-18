@@ -1,2 +1,2 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Systemic sclerosis","M34","Systemic sclerosis","Diagnosis of Systemic sclerosis"
+Disease,ICD10code,ICD10codeDescr,Category
+Systemic sclerosis,M34,Systemic sclerosis,Diagnosis of Systemic sclerosis

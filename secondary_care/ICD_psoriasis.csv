@@ -1,7 +1,7 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Psoriasis","L40","Psoriasis","Diagnosis of Psoriasis"
-"Psoriasis","M07.0","Distal interphalangeal psoriatic arthropathy","Diagnosis of Psoriasis"
-"Psoriasis","M07.1","Arthritis mutilans","Diagnosis of Psoriasis"
-"Psoriasis","M07.2","Psoriatic spondylitis","Diagnosis of Psoriasis"
-"Psoriasis","M07.3","Other psoriatic arthropathies","Diagnosis of Psoriasis"
-"Psoriasis","M09.0","Juvenile arthritis in psoriasis","Diagnosis of Psoriasis"
+Disease,ICD10code,ICD10codeDescr,Category
+Psoriasis,L40,Psoriasis,Diagnosis of Psoriasis
+Psoriasis,M07.0,Distal interphalangeal psoriatic arthropathy,Diagnosis of Psoriasis
+Psoriasis,M07.1,Arthritis mutilans,Diagnosis of Psoriasis
+Psoriasis,M07.2,Psoriatic spondylitis,Diagnosis of Psoriasis
+Psoriasis,M07.3,Other psoriatic arthropathies,Diagnosis of Psoriasis
+Psoriasis,M09.0,Juvenile arthritis in psoriasis,Diagnosis of Psoriasis

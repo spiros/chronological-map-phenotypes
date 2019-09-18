@@ -1,3 +1,3 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Primary Malignancy_biliary tract","C22.1","Malignant neoplasm: Intrahepatic bile duct carcinoma","Diagnosis of Primary Malignancy_biliary tract"
-"Primary Malignancy_biliary tract","C24","Malignant neoplasm of other and unspecified parts of biliary tract","Diagnosis of Primary Malignancy_biliary tract"
+Disease,ICD10code,ICD10codeDescr,Category
+Primary Malignancy_biliary tract,C22.1,Malignant neoplasm: Intrahepatic bile duct carcinoma,Diagnosis of Primary Malignancy_biliary tract
+Primary Malignancy_biliary tract,C24,Malignant neoplasm of other and unspecified parts of biliary tract,Diagnosis of Primary Malignancy_biliary tract

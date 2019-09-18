@@ -1,14 +1,14 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Benign neoplasm and polyp of uterus","7E0D311","29737.0","Endoscopic endometrial polypectomy","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","7E0D700","7789.0","Endoscopic endometrial polypectomy","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","B791000","22609.0","Benign neoplasm of endometrium NEC","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","B791100","45735.0","Benign neoplasm of myometrium NEC","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","B791200","70785.0","Benign neoplasm of uterine fundus NEC","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","B791.00","62383.0","Benign neoplasm corpus uteri NEC","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","B791z00","66816.0","Benign neoplasm of corpus uteri NOS","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","B79..00","14960.0","Other benign neoplasm of uterus","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","B79y.00","66436.0","Benign neoplasm of other specified sites of uterus","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","B79z.00","56515.0","Benign neoplasm of uterus NOS","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","ByuGB00","33859.0","[X]Benign neoplasm of other parts of uterus","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","K540.00","2742.0","Polyp of the corpus uteri","Diagnosis of Benign neoplasm and polyp of uterus"
-"Benign neoplasm and polyp of uterus","K540.11","1269.0","Endometrial polyp","Diagnosis of Benign neoplasm and polyp of uterus"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Benign neoplasm and polyp of uterus,7E0D311,29737.0,Endoscopic endometrial polypectomy,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,7E0D700,7789.0,Endoscopic endometrial polypectomy,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,B791000,22609.0,Benign neoplasm of endometrium NEC,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,B791100,45735.0,Benign neoplasm of myometrium NEC,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,B791200,70785.0,Benign neoplasm of uterine fundus NEC,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,B791.00,62383.0,Benign neoplasm corpus uteri NEC,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,B791z00,66816.0,Benign neoplasm of corpus uteri NOS,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,B79..00,14960.0,Other benign neoplasm of uterus,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,B79y.00,66436.0,Benign neoplasm of other specified sites of uterus,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,B79z.00,56515.0,Benign neoplasm of uterus NOS,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,ByuGB00,33859.0,[X]Benign neoplasm of other parts of uterus,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,K540.00,2742.0,Polyp of the corpus uteri,Diagnosis of Benign neoplasm and polyp of uterus
+Benign neoplasm and polyp of uterus,K540.11,1269.0,Endometrial polyp,Diagnosis of Benign neoplasm and polyp of uterus

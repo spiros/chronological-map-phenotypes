@@ -1,11 +1,11 @@
-"Disease","ICD10codes","ICD10codeDescr","Category"
-"Obstructive and reflux uropathy","N13.0","Hydronephrosis with ureteropelvic junction obstruction","Diagnosis of Obstructive and reflux uropathy"
-"Obstructive and reflux uropathy","N13.1","Hydronephrosis with ureteral stricture, not elsewhere classified","Diagnosis of Obstructive and reflux uropathy"
-"Obstructive and reflux uropathy","N13.2","Hydronephrosis with renal and ureteral calculous obstruction","Diagnosis of Obstructive and reflux uropathy"
-"Obstructive and reflux uropathy","N13.3","Other and unspecified hydronephrosis","Diagnosis of Obstructive and reflux uropathy"
-"Obstructive and reflux uropathy","N13.4","Hydroureter","Diagnosis of Obstructive and reflux uropathy"
-"Obstructive and reflux uropathy","N13.5","Kinking and stricture of ureter without hydronephrosis","Diagnosis of Obstructive and reflux uropathy"
-"Obstructive and reflux uropathy","N13.6","Pyonephrosis","Diagnosis of Obstructive and reflux uropathy"
-"Obstructive and reflux uropathy","N13.7","Vesicoureteral-reflux-associated uropathy","Diagnosis of Obstructive and reflux uropathy"
-"Obstructive and reflux uropathy","N13.8","Other obstructive and reflux uropathy","Diagnosis of Obstructive and reflux uropathy"
-"Obstructive and reflux uropathy","N13.9","Obstructive and reflux uropathy, unspecified","Diagnosis of Obstructive and reflux uropathy"
+Disease,ICD10code,ICD10codeDescr,Category
+Obstructive and reflux uropathy,N13.0,Hydronephrosis with ureteropelvic junction obstruction,Diagnosis of Obstructive and reflux uropathy
+Obstructive and reflux uropathy,N13.1,"Hydronephrosis with ureteral stricture, not elsewhere classified",Diagnosis of Obstructive and reflux uropathy
+Obstructive and reflux uropathy,N13.2,Hydronephrosis with renal and ureteral calculous obstruction,Diagnosis of Obstructive and reflux uropathy
+Obstructive and reflux uropathy,N13.3,Other and unspecified hydronephrosis,Diagnosis of Obstructive and reflux uropathy
+Obstructive and reflux uropathy,N13.4,Hydroureter,Diagnosis of Obstructive and reflux uropathy
+Obstructive and reflux uropathy,N13.5,Kinking and stricture of ureter without hydronephrosis,Diagnosis of Obstructive and reflux uropathy
+Obstructive and reflux uropathy,N13.6,Pyonephrosis,Diagnosis of Obstructive and reflux uropathy
+Obstructive and reflux uropathy,N13.7,Vesicoureteral-reflux-associated uropathy,Diagnosis of Obstructive and reflux uropathy
+Obstructive and reflux uropathy,N13.8,Other obstructive and reflux uropathy,Diagnosis of Obstructive and reflux uropathy
+Obstructive and reflux uropathy,N13.9,"Obstructive and reflux uropathy, unspecified",Diagnosis of Obstructive and reflux uropathy

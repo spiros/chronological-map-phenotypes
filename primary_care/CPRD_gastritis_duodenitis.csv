@@ -1,29 +1,29 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Gastritis and duodenitis","A074313","14928.0","Helicobacter gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J11z.11","2877.0","Gastric erosions","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J123.00","3462.0","Duodenal erosion","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J150000","29492.0","Acute haemorrhagic gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J150.00","5635.0","Acute gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J151000","15025.0","Chronic atrophic gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J151100","11497.0","Chronic inflammatory gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J151200","38638.0","Chronic superficial gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J151.00","2936.0","Chronic gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J151z00","19190.0","Chronic gastritis NOS","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J152.00","14787.0","Gastric mucosal hypertrophy","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J153.00","4506.0","Alcoholic gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J154000","33820.0","Allergic gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J154100","15348.0","Bile induced gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J154200","11519.0","Irritant gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J154300","27763.0","Corrosive gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J154400","10906.0","Helicobacter gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J154.00","5858.0","Other specified gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J154z00","18260.0","Other specified gastritis NOS","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J155.00","1138.0","Gastritis unspecified","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J156.00","25544.0","Gastroduodenitis unspecified","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J157.00","376.0","Duodenitis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J15..00","3341.0","Gastritis and duodenitis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J15z.00","9731.0","Gastritis and duodenitis NOS","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","J4z0.00","6420.0","Non-infective gastritis NOS","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","Jyu1200","73154.0","[X]Other acute gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","Jyu1300","45769.0","[X]Other gastritis","Diagnosis of Gastritis and duodenitis"
-"Gastritis and duodenitis","ZV65316","18596.0","[V]Dietary counselling in gastritis","Diagnosis of Gastritis and duodenitis"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Gastritis and duodenitis,A074313,14928.0,Helicobacter gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J11z.11,2877.0,Gastric erosions,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J123.00,3462.0,Duodenal erosion,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J150000,29492.0,Acute haemorrhagic gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J150.00,5635.0,Acute gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J151000,15025.0,Chronic atrophic gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J151100,11497.0,Chronic inflammatory gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J151200,38638.0,Chronic superficial gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J151.00,2936.0,Chronic gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J151z00,19190.0,Chronic gastritis NOS,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J152.00,14787.0,Gastric mucosal hypertrophy,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J153.00,4506.0,Alcoholic gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J154000,33820.0,Allergic gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J154100,15348.0,Bile induced gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J154200,11519.0,Irritant gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J154300,27763.0,Corrosive gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J154400,10906.0,Helicobacter gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J154.00,5858.0,Other specified gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J154z00,18260.0,Other specified gastritis NOS,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J155.00,1138.0,Gastritis unspecified,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J156.00,25544.0,Gastroduodenitis unspecified,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J157.00,376.0,Duodenitis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J15..00,3341.0,Gastritis and duodenitis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J15z.00,9731.0,Gastritis and duodenitis NOS,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,J4z0.00,6420.0,Non-infective gastritis NOS,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,Jyu1200,73154.0,[X]Other acute gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,Jyu1300,45769.0,[X]Other gastritis,Diagnosis of Gastritis and duodenitis
+Gastritis and duodenitis,ZV65316,18596.0,[V]Dietary counselling in gastritis,Diagnosis of Gastritis and duodenitis

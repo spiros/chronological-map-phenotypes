@@ -1,28 +1,28 @@
-"Disease","Read code","Medcode","Descr","Category"
-"Benign neoplasm of ovary","7E20300","958.0","Ovarian cystectomy","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","7E23300","11747.0","Open drainage of cyst of ovary","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","7E25200","9380.0","Endoscopic drainage of cyst of ovary","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","7E25211","6521.0","Laparoscopic drainage ovarian cyst","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","7E29100","49911.0","Transvaginal drainage of ovarian cyst","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","7E2B000","85236.0","Transvaginal ultrasound guided aspiration of ovarian cyst","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","B7A2.00","11937.0","Benign teratoma of ovary","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","B7A..00","18639.0","Benign neoplasm of ovary","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","B7A..11","11728.0","Dermoid cyst of ovary","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","BB81.00","2979.0","[M]Ovarian cystic, mucinous and serous neoplasms","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","BB81z00","40033.0","[M]Ovarian cystic, mucinous or serous neoplasm NOS","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K530.00","15786.0","Follicular cyst of ovary","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K530.11","40974.0","Graafian follicle cyst","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K531000","53674.0","Corpus luteum cyst unspecified","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K531100","49824.0","Corpus luteum cyst haemorrhage","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K531200","5588.0","Corpus luteum cyst rupture","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K531.00","20030.0","Corpus luteum cyst","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K531z00","41667.0","Corpus luteum cyst NOS","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K532000","51846.0","Corpus albicans cyst of the ovary","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K532100","35115.0","Theca lutein cyst of the ovary","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K532300","25689.0","Simple cystoma of the ovary","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K532.00","33932.0","Other ovarian cysts","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K532z00","6251.0","Ovarian cyst NOS","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","K53..11","957.0","Ovarian cysts","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","Kyu9500","52995.0","[X]Other and unspecified ovarian cysts","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","PC04.00","17505.0","Developmental ovarian cyst","Diagnosis of Benign neoplasm of ovary"
-"Benign neoplasm of ovary","ZV13G00","105462.0","[V]Personal history of ovarian cyst","History of Benign neoplasm of ovary"
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Benign neoplasm of ovary,7E20300,958.0,Ovarian cystectomy,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,7E23300,11747.0,Open drainage of cyst of ovary,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,7E25200,9380.0,Endoscopic drainage of cyst of ovary,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,7E25211,6521.0,Laparoscopic drainage ovarian cyst,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,7E29100,49911.0,Transvaginal drainage of ovarian cyst,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,7E2B000,85236.0,Transvaginal ultrasound guided aspiration of ovarian cyst,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,B7A2.00,11937.0,Benign teratoma of ovary,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,B7A..00,18639.0,Benign neoplasm of ovary,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,B7A..11,11728.0,Dermoid cyst of ovary,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,BB81.00,2979.0,"[M]Ovarian cystic, mucinous and serous neoplasms",Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,BB81z00,40033.0,"[M]Ovarian cystic, mucinous or serous neoplasm NOS",Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K530.00,15786.0,Follicular cyst of ovary,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K530.11,40974.0,Graafian follicle cyst,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K531000,53674.0,Corpus luteum cyst unspecified,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K531100,49824.0,Corpus luteum cyst haemorrhage,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K531200,5588.0,Corpus luteum cyst rupture,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K531.00,20030.0,Corpus luteum cyst,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K531z00,41667.0,Corpus luteum cyst NOS,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K532000,51846.0,Corpus albicans cyst of the ovary,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K532100,35115.0,Theca lutein cyst of the ovary,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K532300,25689.0,Simple cystoma of the ovary,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K532.00,33932.0,Other ovarian cysts,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K532z00,6251.0,Ovarian cyst NOS,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,K53..11,957.0,Ovarian cysts,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,Kyu9500,52995.0,[X]Other and unspecified ovarian cysts,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,PC04.00,17505.0,Developmental ovarian cyst,Diagnosis of Benign neoplasm of ovary
+Benign neoplasm of ovary,ZV13G00,105462.0,[V]Personal history of ovarian cyst,History of Benign neoplasm of ovary

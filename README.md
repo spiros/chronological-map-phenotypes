@@ -38,7 +38,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Abdominal Hernia'  during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_hernia_abdo.csv'>CPRD_hernia_abdo.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_hernia_abdo.csv'>CPRD_hernia_abdo.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -1033,7 +1033,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_hernia_abdo.csv'>ICD_hernia_abdo.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_hernia_abdo.csv'>ICD_hernia_abdo.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -1068,7 +1068,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_hernia_abdo.csv'>OPCS_hernia_abdo.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_hernia_abdo.csv'>OPCS_hernia_abdo.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -1379,7 +1379,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Acne' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_acne.csv'>CPRD_acne.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_acne.csv'>CPRD_acne.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -1502,7 +1502,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_acne.csv'>ICD_acne.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_acne.csv'>ICD_acne.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -1549,7 +1549,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Actinic keratosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_actinic_keratosis.csv'>CPRD_actinic_keratosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_actinic_keratosis.csv'>CPRD_actinic_keratosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -1576,7 +1576,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_actinic_keratosis.csv'>ICD_actinic_keratosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_actinic_keratosis.csv'>ICD_actinic_keratosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -1600,7 +1600,7 @@ At the specified date, a patient is defined as having had 'Acute Kidney Injury' 
 Secondary care
 1. ALL diagnoses of 'Acute Kidney Injury' or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_AKI.csv'>ICD_AKI.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_AKI.csv'>ICD_AKI.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -1643,7 +1643,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Agranulocytosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_agranulocytosis.csv'>CPRD_agranulocytosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_agranulocytosis.csv'>CPRD_agranulocytosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -1742,7 +1742,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_agranulocytosis.csv'>ICD_agranulocytosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_agranulocytosis.csv'>ICD_agranulocytosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -1769,7 +1769,7 @@ OR
 Secondary care
 1. ALL diagnoses of Alcohol Problems or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_alc_problems.csv'>CPRD_alc_problems.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_alc_problems.csv'>CPRD_alc_problems.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2220,7 +2220,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_alc_problems.csv'>ICD_alc_problems.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_alc_problems.csv'>ICD_alc_problems.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2323,7 +2323,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Alcoholic liver disease' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_liver_alc.csv'>CPRD_liver_alc.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_liver_alc.csv'>CPRD_liver_alc.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2374,7 +2374,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_liver_alc.csv'>ICD_liver_alc.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_liver_alc.csv'>ICD_liver_alc.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2401,7 +2401,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Allergic and chronic rhinitis or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_allergic_rhinitis.csv'>CPRD_allergic_rhinitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_allergic_rhinitis.csv'>CPRD_allergic_rhinitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2552,7 +2552,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_allergic_rhinitis.csv'>ICD_allergic_rhinitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_allergic_rhinitis.csv'>ICD_allergic_rhinitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2595,7 +2595,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Alopecia areata' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_alopecia_areata.csv'>CPRD_alopecia_areata.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_alopecia_areata.csv'>CPRD_alopecia_areata.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2630,7 +2630,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_alopecia_areata.csv'>ICD_alopecia_areata.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_alopecia_areata.csv'>ICD_alopecia_areata.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2660,7 +2660,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Anal fissure' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_anal_fissure.csv'>CPRD_anal_fissure.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_anal_fissure.csv'>CPRD_anal_fissure.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2703,7 +2703,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_anal_fissure.csv'>ICD_anal_fissure.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_anal_fissure.csv'>ICD_anal_fissure.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2726,7 +2726,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_anal_fissure.csv'>OPCS_anal_fissure.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_anal_fissure.csv'>OPCS_anal_fissure.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2753,7 +2753,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Angiodysplasia of colon' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_angiodysplasia_colon.csv'>CPRD_angiodysplasia_colon.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_angiodysplasia_colon.csv'>CPRD_angiodysplasia_colon.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2768,7 +2768,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_angiodysplasia_colon.csv'>ICD_angiodysplasia_colon.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_angiodysplasia_colon.csv'>ICD_angiodysplasia_colon.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2795,7 +2795,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Ankylosing spondylitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_ank_spond.csv'>CPRD_ank_spond.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_ank_spond.csv'>CPRD_ank_spond.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2822,7 +2822,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_ank_spond.csv'>ICD_ank_spond.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_ank_spond.csv'>ICD_ank_spond.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2852,7 +2852,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Anorectal fistula' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_anorectal_fistula.csv'>CPRD_anorectal_fistula.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_anorectal_fistula.csv'>CPRD_anorectal_fistula.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2935,7 +2935,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_anorectal_fistula.csv'>ICD_anorectal_fistula.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_anorectal_fistula.csv'>ICD_anorectal_fistula.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -2958,7 +2958,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_anorectal_fistula.csv'>OPCS_anorectal_fistula.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_anorectal_fistula.csv'>OPCS_anorectal_fistula.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -3012,7 +3012,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Anorectal prolapse' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_anorectal_prolapse.csv'>CPRD_anorectal_prolapse.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_anorectal_prolapse.csv'>CPRD_anorectal_prolapse.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -3159,7 +3159,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_anorectal_prolapse.csv'>ICD_anorectal_prolapse.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_anorectal_prolapse.csv'>ICD_anorectal_prolapse.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -3178,7 +3178,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_anorectal_prolapse.csv'>OPCS_anorectal_prolapse.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_anorectal_prolapse.csv'>OPCS_anorectal_prolapse.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -3257,7 +3257,7 @@ OR
 Secondary care
 1. ALL diagnoses of Anorexia and bulimia nervosa or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_eating_dz.csv'>CPRD_eating_dz.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_eating_dz.csv'>CPRD_eating_dz.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -3304,7 +3304,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_eating_dz.csv'>ICD_eating_dz.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_eating_dz.csv'>ICD_eating_dz.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -3343,7 +3343,7 @@ OR
 Secondary care
 1. ALL diagnoses of Anterior and Intermediate Uveitis or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_ant_uveitis.csv'>CPRD_ant_uveitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_ant_uveitis.csv'>CPRD_ant_uveitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -3494,7 +3494,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_ant_uveitis.csv'>ICD_ant_uveitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_ant_uveitis.csv'>ICD_ant_uveitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -3549,7 +3549,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Anxiety disorders' disorders or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_anxiety.csv'>CPRD_anxiety.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_anxiety.csv'>CPRD_anxiety.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -3904,7 +3904,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_anxiety.csv'>ICD_anxiety.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_anxiety.csv'>ICD_anxiety.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -3935,7 +3935,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Aplastic anaemias' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_aplastic.csv'>CPRD_aplastic.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_aplastic.csv'>CPRD_aplastic.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4118,7 +4118,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_aplastic.csv'>ICD_aplastic.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_aplastic.csv'>ICD_aplastic.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4152,7 +4152,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Appendicitis' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_appendicitis.csv'>CPRD_appendicitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_appendicitis.csv'>CPRD_appendicitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4315,7 +4315,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_appendicitis.csv'>ICD_appendicitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_appendicitis.csv'>ICD_appendicitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4338,7 +4338,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_appendicitis.csv'>OPCS_appendicitis.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_appendicitis.csv'>OPCS_appendicitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4417,7 +4417,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Asbestosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_asbestosis.csv'>CPRD_asbestosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_asbestosis.csv'>CPRD_asbestosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4444,7 +4444,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_asbestosis.csv'>ICD_asbestosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_asbestosis.csv'>ICD_asbestosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4471,7 +4471,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Aspiration pneumonitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_aspiration_pneumo.csv'>CPRD_aspiration_pneumo.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_aspiration_pneumo.csv'>CPRD_aspiration_pneumo.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4562,7 +4562,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_aspiration_pneumo.csv'>ICD_aspiration_pneumo.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_aspiration_pneumo.csv'>ICD_aspiration_pneumo.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4597,7 +4597,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Asthma' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_asthma.csv'>CPRD_asthma.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_asthma.csv'>CPRD_asthma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4776,7 +4776,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_asthma.csv'>ICD_asthma.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_asthma.csv'>ICD_asthma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4820,7 +4820,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Atrioventricular block, complete or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_av_block_3.csv'>CPRD_av_block_3.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_av_block_3.csv'>CPRD_av_block_3.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4847,7 +4847,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_av_block_3.csv'>ICD_av_block_3.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_av_block_3.csv'>ICD_av_block_3.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4874,7 +4874,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Atrioventricular block, first degree' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_av_block_1.csv'>CPRD_av_block_1.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_av_block_1.csv'>CPRD_av_block_1.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4901,7 +4901,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_av_block_1.csv'>ICD_av_block_1.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_av_block_1.csv'>ICD_av_block_1.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4928,7 +4928,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Atrioventricular block, second degree' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_av_block_2.csv'>CPRD_av_block_2.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_av_block_2.csv'>CPRD_av_block_2.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -4975,7 +4975,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_av_block_2.csv'>ICD_av_block_2.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_av_block_2.csv'>ICD_av_block_2.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5002,7 +5002,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Autism and Asperger's syndrome' and Asperger's syndrome or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_autism.csv'>CPRD_autism.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_autism.csv'>CPRD_autism.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5077,7 +5077,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_autism.csv'>ICD_autism.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_autism.csv'>ICD_autism.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5112,7 +5112,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Autoimmune liver disease' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_autoimm_liver.csv'>CPRD_autoimm_liver.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_autoimm_liver.csv'>CPRD_autoimm_liver.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5139,7 +5139,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_autoimm_liver.csv'>ICD_autoimm_liver.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_autoimm_liver.csv'>ICD_autoimm_liver.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5167,7 +5167,7 @@ At the specified date, a patient is defined as having had 'Bacterial Diseases (e
 Secondary care
 1. ALL diagnoses of Bacterial Diseases (excl TB) or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_bacterial.csv'>ICD_bacterial.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_bacterial.csv'>ICD_bacterial.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5802,7 +5802,7 @@ OR
 Secondary care
 1. ALL diagnoses of  Bacterial sepsis of newborn or history of diagnosis during a hospitalization AND IF the patient is aged < 1y at the first event date
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sepsis_newborn.csv'>CPRD_sepsis_newborn.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sepsis_newborn.csv'>CPRD_sepsis_newborn.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5897,7 +5897,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sepsis_newborn.csv'>ICD_sepsis_newborn.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sepsis_newborn.csv'>ICD_sepsis_newborn.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5924,7 +5924,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Barrett's oesophagus' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_barretts.csv'>CPRD_barretts.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_barretts.csv'>CPRD_barretts.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5947,7 +5947,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_barretts.csv'>ICD_barretts.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_barretts.csv'>ICD_barretts.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5974,7 +5974,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Bell's palsy' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_bells.csv'>CPRD_bells.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_bells.csv'>CPRD_bells.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -5993,7 +5993,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_bells.csv'>ICD_bells.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_bells.csv'>ICD_bells.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6020,7 +6020,7 @@ OR
 Secondary care
 1. ALL diagnoses of Benign neoplasm and polyp of uterus or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_benign_uterus.csv'>CPRD_benign_uterus.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_benign_uterus.csv'>CPRD_benign_uterus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6083,7 +6083,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_benign_uterus.csv'>ICD_benign_uterus.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_benign_uterus.csv'>ICD_benign_uterus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6122,7 +6122,7 @@ OR
 Secondary care
 1. ALL diagnoses of Benign neoplasm of brain and other parts of central nervous system or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_benign_brain.csv'>CPRD_benign_brain.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_benign_brain.csv'>CPRD_benign_brain.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6305,7 +6305,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_benign_brain.csv'>ICD_benign_brain.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_benign_brain.csv'>ICD_benign_brain.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6356,7 +6356,7 @@ OR
 Secondary care
 1. ALL diagnoses of Benign neoplasm of colon, rectum, anus and anal canal or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_benign_colon.csv'>CPRD_benign_colon.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_benign_colon.csv'>CPRD_benign_colon.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6495,7 +6495,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_benign_colon.csv'>ICD_benign_colon.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_benign_colon.csv'>ICD_benign_colon.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6534,7 +6534,7 @@ OR
 Secondary care
 1. ALL diagnoses of Benign neoplasm of ovary or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_benign_ovary.csv'>CPRD_benign_ovary.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_benign_ovary.csv'>CPRD_benign_ovary.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6653,7 +6653,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_benign_ovary.csv'>ICD_benign_ovary.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_benign_ovary.csv'>ICD_benign_ovary.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6692,7 +6692,7 @@ OR
 Secondary care
 1. ALL diagnoses of Benign neoplasm of stomach and duodenum or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_benign_stomach.csv'>CPRD_benign_stomach.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_benign_stomach.csv'>CPRD_benign_stomach.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6783,7 +6783,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_benign_stomach.csv'>ICD_benign_stomach.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_benign_stomach.csv'>ICD_benign_stomach.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6822,7 +6822,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Bifascicular block' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_bifasc_block.csv'>CPRD_bifasc_block.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_bifasc_block.csv'>CPRD_bifasc_block.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6849,7 +6849,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_bifasc_block.csv'>ICD_bifasc_block.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_bifasc_block.csv'>ICD_bifasc_block.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -6876,7 +6876,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Bipolar affective disorder and mania' and mania or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_BAD.csv'>CPRD_BAD.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_BAD.csv'>CPRD_BAD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7291,7 +7291,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_BAD.csv'>ICD_BAD.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_BAD.csv'>ICD_BAD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7322,7 +7322,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Bronchiectasis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_bronchiectasis.csv'>CPRD_bronchiectasis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_bronchiectasis.csv'>CPRD_bronchiectasis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7357,7 +7357,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_bronchiectasis.csv'>ICD_bronchiectasis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_bronchiectasis.csv'>ICD_bronchiectasis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7388,7 +7388,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of COPD or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_COPD.csv'>CPRD_COPD.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_COPD.csv'>CPRD_COPD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7619,7 +7619,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_COPD.csv'>ICD_COPD.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_COPD.csv'>ICD_COPD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7662,7 +7662,7 @@ OR
 Secondary care
 1. ALL diagnoses of Carcinoma in situ_cervical or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_cin_cervical.csv'>CPRD_cin_cervical.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_cin_cervical.csv'>CPRD_cin_cervical.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7793,7 +7793,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_cin_cervical.csv'>ICD_cin_cervical.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_cin_cervical.csv'>ICD_cin_cervical.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7827,7 +7827,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Carpal tunnel syndrome' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_carpal_tunnel.csv'>CPRD_carpal_tunnel.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_carpal_tunnel.csv'>CPRD_carpal_tunnel.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7878,7 +7878,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_carpal_tunnel.csv'>ICD_carpal_tunnel.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_carpal_tunnel.csv'>ICD_carpal_tunnel.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7893,7 +7893,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_carpal_tunnel.csv'>OPCS_carpal_tunnel.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_carpal_tunnel.csv'>OPCS_carpal_tunnel.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -7927,7 +7927,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Cataract' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_cataract.csv'>CPRD_cataract.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_cataract.csv'>CPRD_cataract.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -8358,7 +8358,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_cataract.csv'>ICD_cataract.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_cataract.csv'>ICD_cataract.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -8401,7 +8401,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_cataract.csv'>OPCS_cataract.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_cataract.csv'>OPCS_cataract.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -8552,7 +8552,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Cerebral Palsy' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_cerebral_palsy.csv'>CPRD_cerebral_palsy.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_cerebral_palsy.csv'>CPRD_cerebral_palsy.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -8735,7 +8735,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_cerebral_palsy.csv'>ICD_cerebral_palsy.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_cerebral_palsy.csv'>ICD_cerebral_palsy.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -8762,7 +8762,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Cholangitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_cholangitis.csv'>CPRD_cholangitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_cholangitis.csv'>CPRD_cholangitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -8833,7 +8833,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_cholangitis.csv'>ICD_cholangitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_cholangitis.csv'>ICD_cholangitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -8864,7 +8864,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Cholecystitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_cholecystitis.csv'>CPRD_cholecystitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_cholecystitis.csv'>CPRD_cholecystitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -8963,7 +8963,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_cholecystitis.csv'>ICD_cholecystitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_cholecystitis.csv'>ICD_cholecystitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9002,7 +9002,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Cholelithiasis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_cholelithiasis.csv'>CPRD_cholelithiasis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_cholelithiasis.csv'>CPRD_cholelithiasis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9229,7 +9229,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_cholelithiasis.csv'>ICD_cholelithiasis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_cholelithiasis.csv'>ICD_cholelithiasis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9296,7 +9296,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Chronic sinusitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sinusitis.csv'>CPRD_sinusitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sinusitis.csv'>CPRD_sinusitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9379,7 +9379,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sinusitis.csv'>ICD_sinusitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sinusitis.csv'>ICD_sinusitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9406,7 +9406,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Chronic viral hepatitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_chr_hep.csv'>CPRD_chr_hep.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_chr_hep.csv'>CPRD_chr_hep.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9577,7 +9577,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_chr_hep.csv'>ICD_chr_hep.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_chr_hep.csv'>ICD_chr_hep.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9604,7 +9604,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Coeliac disease' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_coeliac.csv'>CPRD_coeliac.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_coeliac.csv'>CPRD_coeliac.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9675,7 +9675,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_coeliac.csv'>ICD_coeliac.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_coeliac.csv'>ICD_coeliac.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9705,7 +9705,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Collapsed vertebra' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_collapsed_vert.csv'>CPRD_collapsed_vert.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_collapsed_vert.csv'>CPRD_collapsed_vert.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9824,7 +9824,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_collapsed_vert.csv'>ICD_collapsed_vert.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_collapsed_vert.csv'>ICD_collapsed_vert.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9843,7 +9843,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_collapsed_vert.csv'>OPCS_collapsed_vert.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_collapsed_vert.csv'>OPCS_collapsed_vert.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -9901,7 +9901,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for Congenital malformations of cardiac septa during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_congenital_septal.csv'>CPRD_congenital_septal.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_congenital_septal.csv'>CPRD_congenital_septal.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -10172,7 +10172,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_congenital_septal.csv'>ICD_congenital_septal.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_congenital_septal.csv'>ICD_congenital_septal.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -10187,7 +10187,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_congenital_septal.csv'>OPCS_congenital_septal.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_congenital_septal.csv'>OPCS_congenital_septal.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -10523,7 +10523,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Crohn's disease' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_crohns.csv'>CPRD_crohns.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_crohns.csv'>CPRD_crohns.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -10638,7 +10638,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_crohns.csv'>ICD_crohns.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_crohns.csv'>ICD_crohns.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -10665,7 +10665,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Cystic Fibrosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_CF.csv'>CPRD_CF.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_CF.csv'>CPRD_CF.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -10748,7 +10748,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_CF.csv'>ICD_CF.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_CF.csv'>ICD_CF.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -10775,7 +10775,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Delirium, not induced by alcohol and other psychoactive substances', not induced by alcohol and other psychoactive substances or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_delirium.csv'>CPRD_delirium.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_delirium.csv'>CPRD_delirium.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -10898,7 +10898,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_delirium.csv'>ICD_delirium.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_delirium.csv'>ICD_delirium.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -10925,7 +10925,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Dementia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_dementia.csv'>CPRD_dementia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_dementia.csv'>CPRD_dementia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -11228,7 +11228,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_dementia.csv'>ICD_dementia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_dementia.csv'>ICD_dementia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -11271,7 +11271,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Depression' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_depression.csv'>CPRD_depression.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_depression.csv'>CPRD_depression.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -11766,7 +11766,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_depression.csv'>ICD_depression.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_depression.csv'>ICD_depression.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -11797,7 +11797,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Dermatitis (atopc/contact/other/unspecified)' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_dermatitis.csv'>CPRD_dermatitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_dermatitis.csv'>CPRD_dermatitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -12480,7 +12480,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_dermatitis.csv'>ICD_dermatitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_dermatitis.csv'>ICD_dermatitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -12555,7 +12555,7 @@ OR
 Secondary care
 1. ALL diagnoses of Diabetic neurological complications or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_dm_neuro.csv'>CPRD_dm_neuro.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_dm_neuro.csv'>CPRD_dm_neuro.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -12790,7 +12790,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_dm_neuro.csv'>ICD_dm_neuro.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_dm_neuro.csv'>ICD_dm_neuro.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -12841,7 +12841,7 @@ OR
 Secondary care
 1. ALL diagnoses of Diabetic ophthalmic complications or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_diab_eye.csv'>CPRD_diab_eye.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_diab_eye.csv'>CPRD_diab_eye.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13120,7 +13120,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_diab_eye.csv'>ICD_diab_eye.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_diab_eye.csv'>ICD_diab_eye.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13182,7 +13182,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Diaphragmatic hernia' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_hernia_diaphragm.csv'>CPRD_hernia_diaphragm.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_hernia_diaphragm.csv'>CPRD_hernia_diaphragm.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13297,7 +13297,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_hernia_diaphragm.csv'>ICD_hernia_diaphragm.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_hernia_diaphragm.csv'>ICD_hernia_diaphragm.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13312,7 +13312,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_hernia_diaphragm.csv'>OPCS_hernia_diaphragm.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_hernia_diaphragm.csv'>OPCS_hernia_diaphragm.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13363,7 +13363,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Dilated cardiomyopathy' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_dcm.csv'>CPRD_dcm.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_dcm.csv'>CPRD_dcm.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13390,7 +13390,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_dcm.csv'>ICD_dcm.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_dcm.csv'>ICD_dcm.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13421,7 +13421,7 @@ OR
 Secondary care
 1. ALL diagnoses of Disorder of the autonomic nervous system or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_autonomic_neuro.csv'>CPRD_autonomic_neuro.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_autonomic_neuro.csv'>CPRD_autonomic_neuro.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13560,7 +13560,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_autonomic_neuro.csv'>ICD_autonomic_neuro.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_autonomic_neuro.csv'>ICD_autonomic_neuro.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13602,7 +13602,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Diverticular disease of intestine (acute and chronic)' of intestine (acute and chronic) during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_diverticuli.csv'>CPRD_diverticuli.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_diverticuli.csv'>CPRD_diverticuli.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13781,7 +13781,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_diverticuli.csv'>ICD_diverticuli.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_diverticuli.csv'>ICD_diverticuli.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13800,7 +13800,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_diverticuli.csv'>OPCS_diverticuli.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_diverticuli.csv'>OPCS_diverticuli.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13827,7 +13827,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Down's syndrome or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_downs.csv'>CPRD_downs.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_downs.csv'>CPRD_downs.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13878,7 +13878,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_downs.csv'>ICD_downs.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_downs.csv'>ICD_downs.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13905,7 +13905,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Dysmenorrhoea' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_dysmenorrhoea.csv'>CPRD_dysmenorrhoea.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_dysmenorrhoea.csv'>CPRD_dysmenorrhoea.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13956,7 +13956,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_dysmenorrhoea.csv'>ICD_dysmenorrhoea.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_dysmenorrhoea.csv'>ICD_dysmenorrhoea.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -13988,7 +13988,7 @@ At the specified date, a patient is defined as having had Ear and Upper Respirat
 Secondary care
 1. ALL diagnoses of Ear and Upper Respiratory Tract Infections or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_ear_urti.csv'>ICD_ear_urti.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_ear_urti.csv'>ICD_ear_urti.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -14152,7 +14152,7 @@ At the specified date, a patient is defined as having had 'Encephalitis' IF they
 Secondary care
 1. ALL diagnoses of 'Encephalitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_enceph.csv'>ICD_enceph.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_enceph.csv'>ICD_enceph.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -14223,7 +14223,7 @@ Secondary care
 Secondary care (OPCS4)
 1. ALL procedures for 'End stage renal disease' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_ESRD.csv'>CPRD_ESRD.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_ESRD.csv'>CPRD_ESRD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -14662,7 +14662,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_ESRD.csv'>ICD_ESRD.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_ESRD.csv'>ICD_ESRD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -14717,7 +14717,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_ESRD.csv'>OPCS_ESRD.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_ESRD.csv'>OPCS_ESRD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -14832,7 +14832,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Endometrial hyperplasia and hypertrophy' and hypertrophy or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_endometrial_hyper.csv'>CPRD_endometrial_hyper.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_endometrial_hyper.csv'>CPRD_endometrial_hyper.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -14883,7 +14883,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_endometrial_hyper.csv'>ICD_endometrial_hyper.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_endometrial_hyper.csv'>ICD_endometrial_hyper.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -14918,7 +14918,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Endometriosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_endometriosis.csv'>CPRD_endometriosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_endometriosis.csv'>CPRD_endometriosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -15077,7 +15077,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_endometriosis.csv'>ICD_endometriosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_endometriosis.csv'>ICD_endometriosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -15104,7 +15104,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Enteropathic arthropathy' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_entero_arthro.csv'>CPRD_entero_arthro.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_entero_arthro.csv'>CPRD_entero_arthro.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -15127,7 +15127,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_entero_arthro.csv'>ICD_entero_arthro.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_entero_arthro.csv'>ICD_entero_arthro.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -15162,7 +15162,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Enthesopathies & synovial disorders' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_enthesopathy.csv'>CPRD_enthesopathy.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_enthesopathy.csv'>CPRD_enthesopathy.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -15949,7 +15949,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_enthesopathy.csv'>ICD_enthesopathy.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_enthesopathy.csv'>ICD_enthesopathy.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -16064,7 +16064,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Epilepsy' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_epilepsy.csv'>CPRD_epilepsy.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_epilepsy.csv'>CPRD_epilepsy.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -16587,7 +16587,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_epilepsy.csv'>ICD_epilepsy.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_epilepsy.csv'>ICD_epilepsy.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -16622,7 +16622,7 @@ Secondary care
 OR
 2. ALL possible diagnosis of 'Erectile dysfunction' during a hospitalization IF patient = male
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_ED.csv'>CPRD_ED.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_ED.csv'>CPRD_ED.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -16709,7 +16709,7 @@ OR
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_ED.csv'>ICD_ED.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_ED.csv'>ICD_ED.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -16740,7 +16740,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Essential tremor' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_essential_tremor.csv'>CPRD_essential_tremor.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_essential_tremor.csv'>CPRD_essential_tremor.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -16759,7 +16759,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_essential_tremor.csv'>ICD_essential_tremor.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_essential_tremor.csv'>ICD_essential_tremor.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -16783,7 +16783,7 @@ At the specified date, a patient is defined as having had Eye infections IF they
 Secondary care
 1. ALL diagnoses of Eye infections or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_eye.csv'>ICD_eye.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_eye.csv'>ICD_eye.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -16878,7 +16878,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Fatty Liver' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_fatty_liver.csv'>CPRD_fatty_liver.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_fatty_liver.csv'>CPRD_fatty_liver.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -16909,7 +16909,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_fatty_liver.csv'>ICD_fatty_liver.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_fatty_liver.csv'>ICD_fatty_liver.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -16944,7 +16944,7 @@ OR
 Secondary care
 1. ALL diagnoses of Female genital prolapse or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_female_genital_prolapse.csv'>CPRD_female_genital_prolapse.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_female_genital_prolapse.csv'>CPRD_female_genital_prolapse.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -17311,7 +17311,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_female_genital_prolapse.csv'>ICD_female_genital_prolapse.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_female_genital_prolapse.csv'>ICD_female_genital_prolapse.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -17340,7 +17340,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Female infertility' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_female_infertility.csv'>CPRD_female_infertility.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_female_infertility.csv'>CPRD_female_infertility.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -17491,7 +17491,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_female_infertility.csv'>ICD_female_infertility.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_female_infertility.csv'>ICD_female_infertility.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -17515,7 +17515,7 @@ At the specified date, a patient is defined as having had Female 'Female pelvic 
 Secondary care
 1. ALL diagnoses of Female 'Female pelvic inflammatory disease' or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PID.csv'>ICD_PID.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PID.csv'>ICD_PID.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -17561,7 +17561,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Fibromatoses' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_fibromatosis.csv'>CPRD_fibromatosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_fibromatosis.csv'>CPRD_fibromatosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -17668,7 +17668,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_fibromatosis.csv'>ICD_fibromatosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_fibromatosis.csv'>ICD_fibromatosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -17687,7 +17687,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_fibromatosis.csv'>OPCS_fibromatosis.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_fibromatosis.csv'>OPCS_fibromatosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -17722,7 +17722,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Folate deficiency anaemia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_folatedef.csv'>CPRD_folatedef.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_folatedef.csv'>CPRD_folatedef.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -17777,7 +17777,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_folatedef.csv'>ICD_folatedef.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_folatedef.csv'>ICD_folatedef.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -17807,7 +17807,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for Fracture of hip during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_fracture_hip.csv'>CPRD_fracture_hip.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_fracture_hip.csv'>CPRD_fracture_hip.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18242,7 +18242,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_fracture_hip.csv'>ICD_fracture_hip.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_fracture_hip.csv'>ICD_fracture_hip.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18265,7 +18265,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_fracture_hip.csv'>OPCS_fracture_hip.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_fracture_hip.csv'>OPCS_fracture_hip.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18300,7 +18300,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Fracture of wrist or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_fracture_wrist.csv'>CPRD_fracture_wrist.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_fracture_wrist.csv'>CPRD_fracture_wrist.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18551,7 +18551,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_fracture_wrist.csv'>ICD_fracture_wrist.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_fracture_wrist.csv'>ICD_fracture_wrist.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18582,7 +18582,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Gastritis and duodenitis' and duodenitis or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_gastritis_duodenitis.csv'>CPRD_gastritis_duodenitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_gastritis_duodenitis.csv'>CPRD_gastritis_duodenitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18705,7 +18705,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_gastritis_duodenitis.csv'>ICD_gastritis_duodenitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_gastritis_duodenitis.csv'>ICD_gastritis_duodenitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18735,7 +18735,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Gastro-oesophageal reflux disease' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_GORD.csv'>CPRD_GORD.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_GORD.csv'>CPRD_GORD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18842,7 +18842,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_GORD.csv'>ICD_GORD.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_GORD.csv'>ICD_GORD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18857,7 +18857,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_GORD.csv'>OPCS_GORD.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_GORD.csv'>OPCS_GORD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18940,7 +18940,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Giant Cell arteritis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_GCA.csv'>CPRD_GCA.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_GCA.csv'>CPRD_GCA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -18979,7 +18979,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_GCA.csv'>ICD_GCA.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_GCA.csv'>ICD_GCA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -19013,7 +19013,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Glaucoma' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_glaucoma.csv'>CPRD_glaucoma.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_glaucoma.csv'>CPRD_glaucoma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -19168,7 +19168,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_glaucoma.csv'>ICD_glaucoma.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_glaucoma.csv'>ICD_glaucoma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -19191,7 +19191,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_glaucoma.csv'>OPCS_glaucoma.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_glaucoma.csv'>OPCS_glaucoma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -19298,7 +19298,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Glomerulonephritis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_GN.csv'>CPRD_GN.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_GN.csv'>CPRD_GN.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -19757,7 +19757,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_GN.csv'>ICD_GN.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_GN.csv'>ICD_GN.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -20048,7 +20048,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Gout' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_gout.csv'>CPRD_gout.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_gout.csv'>CPRD_gout.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -20215,7 +20215,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_gout.csv'>ICD_gout.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_gout.csv'>ICD_gout.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -20246,7 +20246,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'HIV' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_hiv.csv'>CPRD_hiv.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_hiv.csv'>CPRD_hiv.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -20449,7 +20449,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_hiv.csv'>ICD_hiv.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_hiv.csv'>ICD_hiv.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -20504,7 +20504,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Haemangioma, any site' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_haemangioma.csv'>CPRD_haemangioma.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_haemangioma.csv'>CPRD_haemangioma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -20679,7 +20679,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_haemangioma.csv'>ICD_haemangioma.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_haemangioma.csv'>ICD_haemangioma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -20706,7 +20706,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Hearing loss or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_deaf.csv'>CPRD_deaf.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_deaf.csv'>CPRD_deaf.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -21321,7 +21321,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_deaf.csv'>ICD_deaf.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_deaf.csv'>ICD_deaf.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -21364,7 +21364,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Heart failure' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_hf.csv'>CPRD_hf.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_hf.csv'>CPRD_hf.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -21683,7 +21683,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_hf.csv'>ICD_hf.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_hf.csv'>ICD_hf.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -21722,7 +21722,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Hepatic failure' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_liver_fail.csv'>CPRD_liver_fail.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_liver_fail.csv'>CPRD_liver_fail.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -21865,7 +21865,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_liver_fail.csv'>ICD_liver_fail.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_liver_fail.csv'>ICD_liver_fail.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -21920,7 +21920,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Hidradenitis suppurativa' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_hidradenitis.csv'>CPRD_hidradenitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_hidradenitis.csv'>CPRD_hidradenitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -21939,7 +21939,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_hidradenitis.csv'>ICD_hidradenitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_hidradenitis.csv'>ICD_hidradenitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -21966,7 +21966,7 @@ OR
 Secondary care
 1. ALL diagnoses of  'High birth weight' or history of diagnosis during a hospitalization AND IF the patient is aged < 1y at the first event date
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_HBW.csv'>CPRD_HBW.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_HBW.csv'>CPRD_HBW.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22005,7 +22005,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_HBW.csv'>ICD_HBW.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_HBW.csv'>ICD_HBW.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22036,7 +22036,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Hodgkin Lymphoma' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_hodgkins.csv'>CPRD_hodgkins.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_hodgkins.csv'>CPRD_hodgkins.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22339,7 +22339,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_hodgkins.csv'>ICD_hodgkins.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_hodgkins.csv'>ICD_hodgkins.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22366,7 +22366,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Hydrocoele (incl infected)' (incl infected) or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_hydrocele.csv'>CPRD_hydrocele.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_hydrocele.csv'>CPRD_hydrocele.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22473,7 +22473,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_hydrocele.csv'>ICD_hydrocele.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_hydrocele.csv'>ICD_hydrocele.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22516,7 +22516,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Hyperkinetic disorders' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_ADHD.csv'>CPRD_ADHD.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_ADHD.csv'>CPRD_ADHD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22607,7 +22607,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_ADHD.csv'>ICD_ADHD.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_ADHD.csv'>ICD_ADHD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22634,7 +22634,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Hyperparathyroidism' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_PTH.csv'>CPRD_PTH.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_PTH.csv'>CPRD_PTH.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22693,7 +22693,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PTH.csv'>ICD_PTH.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PTH.csv'>ICD_PTH.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22732,7 +22732,7 @@ OR
 Secondary care
 1. ALL diagnoses of Hyperplasia of prostate or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_BPH.csv'>CPRD_BPH.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_BPH.csv'>CPRD_BPH.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22783,7 +22783,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_BPH.csv'>ICD_BPH.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_BPH.csv'>ICD_BPH.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22820,7 +22820,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Hypertrophic Cardiomyopathy' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_hocm.csv'>CPRD_hocm.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_hocm.csv'>CPRD_hocm.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22843,7 +22843,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_hocm.csv'>ICD_hocm.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_hocm.csv'>ICD_hocm.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22874,7 +22874,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Hypertrophy of nasal turbinates or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_hyper_nasal_turbs.csv'>CPRD_hyper_nasal_turbs.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_hyper_nasal_turbs.csv'>CPRD_hyper_nasal_turbs.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22889,7 +22889,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_hyper_nasal_turbs.csv'>ICD_hyper_nasal_turbs.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_hyper_nasal_turbs.csv'>ICD_hyper_nasal_turbs.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -22916,7 +22916,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Hypo or hyperthyroidism or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_thyroid.csv'>CPRD_thyroid.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_thyroid.csv'>CPRD_thyroid.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -23271,7 +23271,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_thyroid.csv'>ICD_thyroid.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_thyroid.csv'>ICD_thyroid.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -23350,7 +23350,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Hyposplenism' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_hyposplenism.csv'>CPRD_hyposplenism.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_hyposplenism.csv'>CPRD_hyposplenism.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -23437,7 +23437,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_hyposplenism.csv'>ICD_hyposplenism.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_hyposplenism.csv'>ICD_hyposplenism.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -23468,7 +23468,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Immunodeficiencies' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_immunodef.csv'>CPRD_immunodef.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_immunodef.csv'>CPRD_immunodef.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -23675,7 +23675,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_immunodef.csv'>ICD_immunodef.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_immunodef.csv'>ICD_immunodef.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -23723,7 +23723,7 @@ At the specified date, a patient is defined as having had Infection of anal and 
 Secondary care
 1. ALL diagnoses of Infection of anal and rectal regions or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_anorectal.csv'>ICD_anorectal.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_anorectal.csv'>ICD_anorectal.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -23771,7 +23771,7 @@ At the specified date, a patient is defined as having had Infection of bones and
 Secondary care
 1. ALL diagnoses of Infection of bones and joints or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_bone.csv'>ICD_bone.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_bone.csv'>ICD_bone.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -23867,7 +23867,7 @@ At the specified date, a patient is defined as having had Infection of liver IF 
 Secondary care
 1. ALL diagnoses of Infection of liver or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_liver.csv'>ICD_liver.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_liver.csv'>ICD_liver.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -23943,7 +23943,7 @@ At the specified date, a patient is defined as having had Infection of male geni
 Secondary care
 1. ALL diagnoses of Infection of male genital system or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_male_GU.csv'>ICD_male_GU.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_male_GU.csv'>ICD_male_GU.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -23993,7 +23993,7 @@ Secondary care
 OR
 2. ALL possible diagnosis of 'Infection of other or unspecified genitourinary system' during a hospitalization IF NO record satisfying criteria for Urinary Tract Infections, Infection of male genital system or Female pelvic inflammatory disease 30 days before or 30 days after the first event date for 'Infection of other or unspecified genitourinary system'.
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_oth_gu.csv'>ICD_oth_gu.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_oth_gu.csv'>ICD_oth_gu.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -24085,7 +24085,7 @@ At the specified date, a patient is defined as having had Infection of skin and 
 Secondary care
 1. ALL diagnoses of Infection of skin and subcutaneous tissues or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_skin.csv'>ICD_skin.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_skin.csv'>ICD_skin.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -24296,7 +24296,7 @@ o)	Infection of male genital system
 p)	Female Pelvic Inflammatory Disease
 q)	Infection of other or unspecified genitourinary system
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_oth_organs.csv'>ICD_oth_organs.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_oth_organs.csv'>ICD_oth_organs.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -25208,7 +25208,7 @@ At the specified date, a patient is defined as having had Infections of the Hear
 Secondary care
 1. ALL diagnoses of Infections of the Heart or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_heart.csv'>ICD_heart.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_heart.csv'>ICD_heart.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -25288,7 +25288,7 @@ At the specified date, a patient is defined as having had Infections of the dige
 Secondary care
 1. ALL diagnoses of Infections of the digestive system or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_digestive.csv'>ICD_digestive.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_digestive.csv'>ICD_digestive.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -25415,7 +25415,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Intellectual disability' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_intell_dz.csv'>CPRD_intell_dz.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_intell_dz.csv'>CPRD_intell_dz.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -25758,7 +25758,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_intell_dz.csv'>ICD_intell_dz.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_intell_dz.csv'>ICD_intell_dz.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -25812,7 +25812,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Intervertebral disc disorders's during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_intervert_disc.csv'>CPRD_intervert_disc.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_intervert_disc.csv'>CPRD_intervert_disc.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -26363,7 +26363,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_intervert_disc.csv'>ICD_intervert_disc.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_intervert_disc.csv'>ICD_intervert_disc.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -26382,7 +26382,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_intervert_disc.csv'>OPCS_intervert_disc.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_intervert_disc.csv'>OPCS_intervert_disc.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -26849,7 +26849,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Intracerebral haemorrhage' or sequelae of 'Intracerebral haemorrhage' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_Intracereb_haem.csv'>CPRD_Intracereb_haem.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_Intracereb_haem.csv'>CPRD_Intracereb_haem.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -26952,7 +26952,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_Intracereb_haem.csv'>ICD_Intracereb_haem.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_Intracereb_haem.csv'>ICD_Intracereb_haem.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -26983,7 +26983,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Intracranial hypertension' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_intracranial_htn.csv'>CPRD_intracranial_htn.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_intracranial_htn.csv'>CPRD_intracranial_htn.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27002,7 +27002,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_intracranial_htn.csv'>ICD_intracranial_htn.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_intracranial_htn.csv'>ICD_intracranial_htn.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27029,7 +27029,7 @@ OR
 Secondary care
 1. ALL diagnoses of  Post-term infant or history of diagnosis during a hospitalization AND IF the patient is aged < 1y at the first event date
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_intrauterine_hypoxia.csv'>CPRD_intrauterine_hypoxia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_intrauterine_hypoxia.csv'>CPRD_intrauterine_hypoxia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27196,7 +27196,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_intrauterine_hypoxia.csv'>ICD_intrauterine_hypoxia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_intrauterine_hypoxia.csv'>ICD_intrauterine_hypoxia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27227,7 +27227,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Iron deficiency anaemia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_IDA.csv'>CPRD_IDA.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_IDA.csv'>CPRD_IDA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27314,7 +27314,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_IDA.csv'>ICD_IDA.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_IDA.csv'>ICD_IDA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27341,7 +27341,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Irritable bowel syndrome' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_IBS.csv'>CPRD_IBS.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_IBS.csv'>CPRD_IBS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27376,7 +27376,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_IBS.csv'>ICD_IBS.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_IBS.csv'>ICD_IBS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27403,7 +27403,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Ischaemic stroke' or sequelae of 'Ischaemic stroke' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_Isch_stroke.csv'>CPRD_Isch_stroke.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_Isch_stroke.csv'>CPRD_Isch_stroke.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27522,7 +27522,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_Isch_stroke.csv'>ICD_Isch_stroke.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_Isch_stroke.csv'>ICD_Isch_stroke.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27581,7 +27581,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Juvenile arthritis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_juv_arth.csv'>CPRD_juv_arth.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_juv_arth.csv'>CPRD_juv_arth.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27652,7 +27652,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_juv_arth.csv'>ICD_juv_arth.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_juv_arth.csv'>ICD_juv_arth.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27683,7 +27683,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Keratitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_keratitis.csv'>CPRD_keratitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_keratitis.csv'>CPRD_keratitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27870,7 +27870,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_keratitis.csv'>ICD_keratitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_keratitis.csv'>ICD_keratitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27909,7 +27909,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Left bundle branch block' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_LBBB.csv'>CPRD_LBBB.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_LBBB.csv'>CPRD_LBBB.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27932,7 +27932,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_LBBB.csv'>ICD_LBBB.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_LBBB.csv'>ICD_LBBB.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -27959,7 +27959,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Leiomyoma of uterus' of uterus or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_leiomyoma.csv'>CPRD_leiomyoma.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_leiomyoma.csv'>CPRD_leiomyoma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -28038,7 +28038,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_leiomyoma.csv'>ICD_leiomyoma.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_leiomyoma.csv'>ICD_leiomyoma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -28065,7 +28065,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Leukaemia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_leukaemia.csv'>CPRD_leukaemia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_leukaemia.csv'>CPRD_leukaemia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -28592,7 +28592,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_leukaemia.csv'>ICD_leukaemia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_leukaemia.csv'>ICD_leukaemia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -28635,7 +28635,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Lichen planus' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_lichen_planus.csv'>CPRD_lichen_planus.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_lichen_planus.csv'>CPRD_lichen_planus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -28698,7 +28698,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_lichen_planus.csv'>ICD_lichen_planus.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_lichen_planus.csv'>ICD_lichen_planus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -28729,7 +28729,7 @@ OR
 Secondary care
 1. ALL diagnoses of Liver fibrosis, sclerosis and 'Liver fibrosis, sclerosis and cirrhosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_cirrhosis.csv'>CPRD_cirrhosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_cirrhosis.csv'>CPRD_cirrhosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -28920,7 +28920,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_cirrhosis.csv'>ICD_cirrhosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_cirrhosis.csv'>ICD_cirrhosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29005,7 +29005,7 @@ At the specified date, a patient is defined as having had Lower Respiratory Trac
 Secondary care
 1. ALL diagnoses of Lower Respiratory Tract Infections or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_lrti.csv'>ICD_lrti.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_lrti.csv'>ICD_lrti.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29236,7 +29236,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Lupus erythematosus (local and systemic)' (local and systemic) or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_SLE.csv'>CPRD_SLE.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_SLE.csv'>CPRD_SLE.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29371,7 +29371,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_SLE.csv'>ICD_SLE.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_SLE.csv'>ICD_SLE.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29402,7 +29402,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Macular degeneration' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_macula_degen.csv'>CPRD_macula_degen.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_macula_degen.csv'>CPRD_macula_degen.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29461,7 +29461,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_macula_degen.csv'>ICD_macula_degen.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_macula_degen.csv'>ICD_macula_degen.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29490,7 +29490,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Male infertility' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_male_infertility.csv'>CPRD_male_infertility.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_male_infertility.csv'>CPRD_male_infertility.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29589,7 +29589,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_male_infertility.csv'>ICD_male_infertility.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_male_infertility.csv'>ICD_male_infertility.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29616,7 +29616,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Ménière's disease or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_meniere.csv'>CPRD_meniere.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_meniere.csv'>CPRD_meniere.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29667,7 +29667,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_meniere.csv'>ICD_meniere.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_meniere.csv'>ICD_meniere.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29691,7 +29691,7 @@ At the specified date, a patient is defined as having had 'Meningitis' IF they m
 Secondary care
 1. ALL diagnoses of 'Meningitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_meningitis.csv'>ICD_meningitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_meningitis.csv'>ICD_meningitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29786,7 +29786,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Menorrhagia and polymenorrhoea' and polymenorrhoea or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_menorrhagia.csv'>CPRD_menorrhagia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_menorrhagia.csv'>CPRD_menorrhagia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29865,7 +29865,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_menorrhagia.csv'>ICD_menorrhagia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_menorrhagia.csv'>ICD_menorrhagia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -29904,7 +29904,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Migraine' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_migraine.csv'>CPRD_migraine.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_migraine.csv'>CPRD_migraine.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30019,7 +30019,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_migraine.csv'>ICD_migraine.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_migraine.csv'>ICD_migraine.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30046,7 +30046,7 @@ OR
 Secondary care
 1. ALL diagnoses of Monoclonal gammopathy of undetermined significance (MGUS) or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_MGUS.csv'>CPRD_MGUS.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_MGUS.csv'>CPRD_MGUS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30085,7 +30085,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_MGUS.csv'>ICD_MGUS.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_MGUS.csv'>ICD_MGUS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30112,7 +30112,7 @@ OR
 Secondary care
 1. ALL diagnoses of motor neuron disease or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_MND.csv'>CPRD_MND.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_MND.csv'>CPRD_MND.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30171,7 +30171,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_MND.csv'>ICD_MND.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_MND.csv'>ICD_MND.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30198,7 +30198,7 @@ OR
 Secondary care
 1. ALL diagnoses of Multiple myeloma and malignant plasma cell neoplasms or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_plasmacell.csv'>CPRD_plasmacell.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_plasmacell.csv'>CPRD_plasmacell.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30353,7 +30353,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_plasmacell.csv'>ICD_plasmacell.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_plasmacell.csv'>ICD_plasmacell.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30388,7 +30388,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Multiple sclerosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_MS.csv'>CPRD_MS.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_MS.csv'>CPRD_MS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30491,7 +30491,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_MS.csv'>ICD_MS.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_MS.csv'>ICD_MS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30518,7 +30518,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Multiple valve dz' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_mult_valve.csv'>CPRD_mult_valve.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_mult_valve.csv'>CPRD_mult_valve.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30605,7 +30605,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_mult_valve.csv'>ICD_mult_valve.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_mult_valve.csv'>ICD_mult_valve.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30632,7 +30632,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Myasthenia gravis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_myasthenia.csv'>CPRD_myasthenia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_myasthenia.csv'>CPRD_myasthenia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30655,7 +30655,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_myasthenia.csv'>ICD_myasthenia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_myasthenia.csv'>ICD_myasthenia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30679,7 +30679,7 @@ At the specified date, a patient is defined as having had Mycoses IF they meet t
 Secondary care
 1. ALL diagnoses of Mycoses or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_mycoses.csv'>ICD_mycoses.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_mycoses.csv'>ICD_mycoses.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30794,7 +30794,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Myelodysplastic syndromes' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_MDS.csv'>CPRD_MDS.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_MDS.csv'>CPRD_MDS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30885,7 +30885,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_MDS.csv'>ICD_MDS.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_MDS.csv'>ICD_MDS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -30925,7 +30925,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Nasal polyp or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_nasal_polyp.csv'>CPRD_nasal_polyp.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_nasal_polyp.csv'>CPRD_nasal_polyp.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -31032,7 +31032,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_nasal_polyp.csv'>ICD_nasal_polyp.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_nasal_polyp.csv'>ICD_nasal_polyp.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -31059,7 +31059,7 @@ OR
 Secondary care
 1. ALL diagnoses of  'Neonatal jaundice (excl haemolytic dz of the newborn)' (excl haemolytic dz of the newborn) or history of diagnosis during a hospitalization AND IF the patient is aged < 1y at the first event date
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_neo_jaundice.csv'>CPRD_neo_jaundice.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_neo_jaundice.csv'>CPRD_neo_jaundice.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -31250,7 +31250,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_neo_jaundice.csv'>ICD_neo_jaundice.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_neo_jaundice.csv'>ICD_neo_jaundice.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -31281,7 +31281,7 @@ OR
 Secondary care
 1. ALL diagnoses of Neuromuscular dysfunction of bladder or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_neuro_bladder.csv'>CPRD_neuro_bladder.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_neuro_bladder.csv'>CPRD_neuro_bladder.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -31400,7 +31400,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_neuro_bladder.csv'>ICD_neuro_bladder.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_neuro_bladder.csv'>ICD_neuro_bladder.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -31427,7 +31427,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Non-Hodgkin Lymphoma' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_NHL.csv'>CPRD_NHL.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_NHL.csv'>CPRD_NHL.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32178,7 +32178,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_NHL.csv'>ICD_NHL.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_NHL.csv'>ICD_NHL.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32221,7 +32221,7 @@ OR
 Secondary care
 1. ALL diagnoses of Non-acute cystitis or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_chr_cystitis.csv'>CPRD_chr_cystitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_chr_cystitis.csv'>CPRD_chr_cystitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32276,7 +32276,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_chr_cystitis.csv'>ICD_chr_cystitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_chr_cystitis.csv'>ICD_chr_cystitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32307,7 +32307,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Nonrheumatic aortic valve disorders' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_nonRh_aortic.csv'>CPRD_nonRh_aortic.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_nonRh_aortic.csv'>CPRD_nonRh_aortic.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32386,7 +32386,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_nonRh_aortic.csv'>ICD_nonRh_aortic.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_nonRh_aortic.csv'>ICD_nonRh_aortic.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32413,7 +32413,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Nonrheumatic mitral valve disorders' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_nonRh_mitral.csv'>CPRD_nonRh_mitral.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_nonRh_mitral.csv'>CPRD_nonRh_mitral.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32484,7 +32484,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_nonRh_mitral.csv'>ICD_nonRh_mitral.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_nonRh_mitral.csv'>ICD_nonRh_mitral.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32515,7 +32515,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Obesity' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_obesity.csv'>CPRD_obesity.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_obesity.csv'>CPRD_obesity.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32806,7 +32806,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_obesity.csv'>ICD_obesity.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_obesity.csv'>ICD_obesity.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32833,7 +32833,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Obsessive-compulsive disorder' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_ocd.csv'>CPRD_ocd.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_ocd.csv'>CPRD_ocd.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32896,7 +32896,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_ocd.csv'>ICD_ocd.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_ocd.csv'>ICD_ocd.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -32923,7 +32923,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Obstructive and reflux uropathy' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_obstr_reflux.csv'>CPRD_obstr_reflux.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_obstr_reflux.csv'>CPRD_obstr_reflux.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -33030,7 +33030,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_obstr_reflux.csv'>ICD_obstr_reflux.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_obstr_reflux.csv'>ICD_obstr_reflux.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -33096,7 +33096,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Oesophageal varices' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_varices.csv'>CPRD_varices.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_varices.csv'>CPRD_varices.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -33195,7 +33195,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_varices.csv'>ICD_varices.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_varices.csv'>ICD_varices.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -33218,7 +33218,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_varices.csv'>OPCS_varices.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_varices.csv'>OPCS_varices.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -33281,7 +33281,7 @@ OR
 Secondary care
 1. ALL diagnoses of Oesophagitis and 'Oesophagitis and oesophageal ulcer' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_oesoph_ulc.csv'>CPRD_oesoph_ulc.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_oesoph_ulc.csv'>CPRD_oesoph_ulc.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -33380,7 +33380,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_oesoph_ulc.csv'>ICD_oesoph_ulc.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_oesoph_ulc.csv'>ICD_oesoph_ulc.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -33415,7 +33415,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Osteoarthritis (excl spine)' (excl spine) or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_OA.csv'>CPRD_OA.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_OA.csv'>CPRD_OA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -33922,7 +33922,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_OA.csv'>ICD_OA.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_OA.csv'>ICD_OA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -33968,7 +33968,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for Fibromatoses during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_osteoporosis.csv'>CPRD_osteoporosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_osteoporosis.csv'>CPRD_osteoporosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -34191,7 +34191,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_osteoporosis.csv'>ICD_osteoporosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_osteoporosis.csv'>ICD_osteoporosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -34226,7 +34226,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Other Cardiomyopathy or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_cardiomyo_oth.csv'>CPRD_cardiomyo_oth.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_cardiomyo_oth.csv'>CPRD_cardiomyo_oth.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -34373,7 +34373,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_cardiomyo_oth.csv'>ICD_cardiomyo_oth.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_cardiomyo_oth.csv'>ICD_cardiomyo_oth.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -34426,7 +34426,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Other anaemias or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_oth_anaemia.csv'>CPRD_oth_anaemia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_oth_anaemia.csv'>CPRD_oth_anaemia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -34705,7 +34705,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_oth_anaemia.csv'>ICD_oth_anaemia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_oth_anaemia.csv'>ICD_oth_anaemia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -34746,7 +34746,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Other haemolytic anaemias' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_oth_haem_anaemia.csv'>CPRD_oth_haem_anaemia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_oth_haem_anaemia.csv'>CPRD_oth_haem_anaemia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -35033,7 +35033,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_oth_haem_anaemia.csv'>ICD_oth_haem_anaemia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_oth_haem_anaemia.csv'>ICD_oth_haem_anaemia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -35068,7 +35068,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Other interstitial pulmonary diseases with fibrosis or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pulm_fibrosis.csv'>CPRD_pulm_fibrosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pulm_fibrosis.csv'>CPRD_pulm_fibrosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -35131,7 +35131,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pulm_fibrosis.csv'>ICD_pulm_fibrosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pulm_fibrosis.csv'>ICD_pulm_fibrosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -35157,7 +35157,7 @@ Secondary care
 OR
 2. ALL possible diagnosis of Other nervous system infections during a hospitalization IF NO record satisfying criteria for Meningitis or Encephalitis 30 days before or 30 days after the first event date for Other nervous system infections.
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_oth_nerv_sys.csv'>ICD_oth_nerv_sys.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_oth_nerv_sys.csv'>ICD_oth_nerv_sys.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -35299,7 +35299,7 @@ Secondary care
 OR
 2. ALL possible diagnosis of Diseases caused by Other or unspecified infectious organisms during a hospitalization IF NO record satisfying criteria for Bacterial Diseases, Tuberculosis, Viral diseases, Chronic viral Hepatitis, HIV, Mycoses or Parasitic Infections 30 days before or 30 days after the first event date for Diseases caused by Other or unspecified infectious organisms.
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_oth_organisms.csv'>ICD_oth_organisms.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_oth_organisms.csv'>ICD_oth_organisms.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -35686,7 +35686,7 @@ OR
 Secondary care
 1. ALL diagnoses of Other psychoactive 'Other psychoactive substance misuse' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_substance_misuse.csv'>CPRD_substance_misuse.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_substance_misuse.csv'>CPRD_substance_misuse.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -37373,7 +37373,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_substance_misuse.csv'>ICD_substance_misuse.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_substance_misuse.csv'>ICD_substance_misuse.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -37428,7 +37428,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Pancreatitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pancreatitis.csv'>CPRD_pancreatitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pancreatitis.csv'>CPRD_pancreatitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -37535,7 +37535,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pancreatitis.csv'>ICD_pancreatitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pancreatitis.csv'>ICD_pancreatitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -37571,7 +37571,7 @@ At the specified date, a patient is defined as having had 'Parasitic infections'
 Secondary care
 1. ALL diagnoses of 'Parasitic infections' or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_parasitic.csv'>ICD_parasitic.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_parasitic.csv'>ICD_parasitic.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -37758,7 +37758,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Parkinson's disease' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_Parkinsons.csv'>CPRD_Parkinsons.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_Parkinsons.csv'>CPRD_Parkinsons.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -37793,7 +37793,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_Parkinsons.csv'>ICD_Parkinsons.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_Parkinsons.csv'>ICD_Parkinsons.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -37827,7 +37827,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Patent ductus arteriosus' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_PDA.csv'>CPRD_PDA.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_PDA.csv'>CPRD_PDA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -37886,7 +37886,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PDA.csv'>ICD_PDA.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PDA.csv'>ICD_PDA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -37901,7 +37901,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_PDA.csv'>OPCS_PDA.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_PDA.csv'>OPCS_PDA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -37963,7 +37963,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Peptic ulcer disease' disease during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_ulcer_peptic.csv'>CPRD_ulcer_peptic.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_ulcer_peptic.csv'>CPRD_ulcer_peptic.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -38506,7 +38506,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_ulcer_peptic.csv'>ICD_ulcer_peptic.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_ulcer_peptic.csv'>ICD_ulcer_peptic.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -38533,7 +38533,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_ulcer_peptic.csv'>OPCS_ulcer_peptic.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_ulcer_peptic.csv'>OPCS_ulcer_peptic.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -38600,7 +38600,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Pericardial effusion (noninflammatory)' (noninflammatory) or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pericardial_effusion.csv'>CPRD_pericardial_effusion.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pericardial_effusion.csv'>CPRD_pericardial_effusion.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -38631,7 +38631,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pericardial_effusion.csv'>ICD_pericardial_effusion.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pericardial_effusion.csv'>ICD_pericardial_effusion.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -38681,7 +38681,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)' (excluding cranial nerve and carpal tunnel syndromes) or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_periph_neuro.csv'>CPRD_periph_neuro.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_periph_neuro.csv'>CPRD_periph_neuro.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -39348,7 +39348,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_periph_neuro.csv'>ICD_periph_neuro.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_periph_neuro.csv'>ICD_periph_neuro.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -39442,7 +39442,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Peritonitis' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_peritonitis.csv'>CPRD_peritonitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_peritonitis.csv'>CPRD_peritonitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -39849,7 +39849,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_peritonitis.csv'>ICD_peritonitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_peritonitis.csv'>ICD_peritonitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -39960,7 +39960,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_peritonitis.csv'>OPCS_peritonitis.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_peritonitis.csv'>OPCS_peritonitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40015,7 +40015,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Personality disorders's or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_PD.csv'>CPRD_PD.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_PD.csv'>CPRD_PD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40354,7 +40354,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PD.csv'>ICD_PD.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PD.csv'>ICD_PD.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40388,7 +40388,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Pilonidal cyst/sinus' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pilonidal.csv'>CPRD_pilonidal.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pilonidal.csv'>CPRD_pilonidal.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40479,7 +40479,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pilonidal.csv'>ICD_pilonidal.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pilonidal.csv'>ICD_pilonidal.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40494,7 +40494,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_pilonidal.csv'>OPCS_pilonidal.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_pilonidal.csv'>OPCS_pilonidal.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40565,7 +40565,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Pleural effusion' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pleural_effusion.csv'>CPRD_pleural_effusion.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pleural_effusion.csv'>CPRD_pleural_effusion.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40640,7 +40640,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pleural_effusion.csv'>ICD_pleural_effusion.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pleural_effusion.csv'>ICD_pleural_effusion.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40671,7 +40671,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Pleural plaque' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pleural_plaque.csv'>CPRD_pleural_plaque.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pleural_plaque.csv'>CPRD_pleural_plaque.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40698,7 +40698,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pleural_plaque.csv'>ICD_pleural_plaque.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pleural_plaque.csv'>ICD_pleural_plaque.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40729,7 +40729,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Pneumothorax' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pneumothorax.csv'>CPRD_pneumothorax.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pneumothorax.csv'>CPRD_pneumothorax.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40784,7 +40784,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pneumothorax.csv'>ICD_pneumothorax.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pneumothorax.csv'>ICD_pneumothorax.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40811,7 +40811,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Polycystic ovarian syndrome' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_PCOS.csv'>CPRD_PCOS.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_PCOS.csv'>CPRD_PCOS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40830,7 +40830,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PCOS.csv'>ICD_PCOS.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PCOS.csv'>ICD_PCOS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40857,7 +40857,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Polycythaemia vera' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_PCV.csv'>CPRD_PCV.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_PCV.csv'>CPRD_PCV.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40896,7 +40896,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PCV.csv'>ICD_PCV.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PCV.csv'>ICD_PCV.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40923,7 +40923,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Polymyalgia Rheumatica' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_PMR.csv'>CPRD_PMR.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_PMR.csv'>CPRD_PMR.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40946,7 +40946,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PMR.csv'>ICD_PMR.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PMR.csv'>ICD_PMR.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40977,7 +40977,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Portal hypertension' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_portal_htn.csv'>CPRD_portal_htn.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_portal_htn.csv'>CPRD_portal_htn.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -40992,7 +40992,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_portal_htn.csv'>ICD_portal_htn.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_portal_htn.csv'>ICD_portal_htn.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41019,7 +41019,7 @@ OR
 Secondary care
 1. ALL diagnoses of  Post-term infant or history of diagnosis during a hospitalization AND IF the patient is aged < 1y at the first event date
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_post_term.csv'>CPRD_post_term.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_post_term.csv'>CPRD_post_term.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41042,7 +41042,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_post_term.csv'>ICD_post_term.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_post_term.csv'>ICD_post_term.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41069,7 +41069,7 @@ OR
 Secondary care
 1. ALL diagnoses of Postcoital and contact bleeding or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_PCB.csv'>CPRD_PCB.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_PCB.csv'>CPRD_PCB.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41100,7 +41100,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PCB.csv'>ICD_PCB.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PCB.csv'>ICD_PCB.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41128,7 +41128,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Posterior Uveitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_post_uveitis.csv'>CPRD_post_uveitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_post_uveitis.csv'>CPRD_post_uveitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41275,7 +41275,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_post_uveitis.csv'>ICD_post_uveitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_post_uveitis.csv'>ICD_post_uveitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41318,7 +41318,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Postinfective and reactive arthropathies or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_reactive.csv'>CPRD_reactive.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_reactive.csv'>CPRD_reactive.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41457,7 +41457,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_reactive.csv'>ICD_reactive.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_reactive.csv'>ICD_reactive.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41488,7 +41488,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Postmenopausal bleeding' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_PMB.csv'>CPRD_PMB.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_PMB.csv'>CPRD_PMB.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41511,7 +41511,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PMB.csv'>ICD_PMB.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PMB.csv'>ICD_PMB.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41538,7 +41538,7 @@ OR
 Secondary care
 1. ALL diagnoses of Postviral fatigue syndrome, neurasthenia and fibromyalgia or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_chronic_fatigue.csv'>CPRD_chronic_fatigue.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_chronic_fatigue.csv'>CPRD_chronic_fatigue.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41649,7 +41649,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_chronic_fatigue.csv'>ICD_chronic_fatigue.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_chronic_fatigue.csv'>ICD_chronic_fatigue.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41684,7 +41684,7 @@ OR
 Secondary care
 1. ALL diagnoses of  Prematurity or history of diagnosis during a hospitalization AND IF the patient is aged < 1y at the first event date
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_prematurity.csv'>CPRD_prematurity.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_prematurity.csv'>CPRD_prematurity.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41787,7 +41787,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_prematurity.csv'>ICD_prematurity.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_prematurity.csv'>ICD_prematurity.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41818,7 +41818,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Bladder or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_bladder.csv'>CPRD_pri_bladder.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_bladder.csv'>CPRD_pri_bladder.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41885,7 +41885,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_bladder.csv'>ICD_pri_bladder.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_bladder.csv'>ICD_pri_bladder.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -41912,7 +41912,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Bone and articular cartilage or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_bone.csv'>CPRD_pri_bone.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_bone.csv'>CPRD_pri_bone.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -42355,7 +42355,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_bone.csv'>ICD_pri_bone.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_bone.csv'>ICD_pri_bone.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -42386,7 +42386,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Brain, Other CNS and Intracranial or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_brain.csv'>CPRD_pri_brain.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_brain.csv'>CPRD_pri_brain.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -42749,7 +42749,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_brain.csv'>ICD_pri_brain.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_brain.csv'>ICD_pri_brain.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -42804,7 +42804,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Breast or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_breast.csv'>CPRD_pri_breast.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_breast.csv'>CPRD_pri_breast.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -42995,7 +42995,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_breast.csv'>ICD_pri_breast.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_breast.csv'>ICD_pri_breast.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43026,7 +43026,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Cervical or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_cervical.csv'>CPRD_pri_cervical.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_cervical.csv'>CPRD_pri_cervical.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43093,7 +43093,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_cervical.csv'>ICD_pri_cervical.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_cervical.csv'>ICD_pri_cervical.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43120,7 +43120,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Kidney and ureter or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_kidney.csv'>CPRD_pri_kidney.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_kidney.csv'>CPRD_pri_kidney.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43183,7 +43183,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_kidney.csv'>ICD_pri_kidney.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_kidney.csv'>ICD_pri_kidney.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43218,7 +43218,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Liver or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_liver.csv'>CPRD_pri_liver.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_liver.csv'>CPRD_pri_liver.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43293,7 +43293,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_liver.csv'>ICD_pri_liver.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_liver.csv'>ICD_pri_liver.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43340,7 +43340,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Lung and trachea or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_lung.csv'>CPRD_pri_lung.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_lung.csv'>CPRD_pri_lung.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43483,7 +43483,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_lung.csv'>ICD_pri_lung.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_lung.csv'>ICD_pri_lung.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43514,7 +43514,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Malignant Melanoma or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_melanoma.csv'>CPRD_pri_melanoma.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_melanoma.csv'>CPRD_pri_melanoma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43865,7 +43865,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_melanoma.csv'>ICD_pri_melanoma.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_melanoma.csv'>ICD_pri_melanoma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43892,7 +43892,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Mesothelioma or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_mesothelioma.csv'>CPRD_pri_mesothelioma.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_mesothelioma.csv'>CPRD_pri_mesothelioma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43919,7 +43919,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_mesothelioma.csv'>ICD_pri_mesothelioma.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_mesothelioma.csv'>ICD_pri_mesothelioma.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43946,7 +43946,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Multiple Independent Sites or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_multindep.csv'>CPRD_pri_multindep.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_multindep.csv'>CPRD_pri_multindep.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43969,7 +43969,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_multindep.csv'>ICD_pri_multindep.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_multindep.csv'>ICD_pri_multindep.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -43996,7 +43996,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Oesophageal or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_oesoph.csv'>CPRD_pri_oesoph.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_oesoph.csv'>CPRD_pri_oesoph.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -44059,7 +44059,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_oesoph.csv'>ICD_pri_oesoph.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_oesoph.csv'>ICD_pri_oesoph.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -44086,7 +44086,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Oropharyngeal or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_oroph.csv'>CPRD_pri_oroph.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_oroph.csv'>CPRD_pri_oroph.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -44665,7 +44665,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_oroph.csv'>ICD_pri_oroph.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_oroph.csv'>ICD_pri_oroph.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -44751,7 +44751,7 @@ Secondary care
 OR
 2. ALL possible diagnosis of Primary Malignancy_Other organs during a hospitalization IF NO record satisfying criteria for Primary Malignancy of any other organ in this document OR Haematological Malignancy (Hodgkin Lymphoma, Non-Hodgkin Lymphoma, Multiple Myeloma, Leukaemia)
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_other.csv'>CPRD_pri_other.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_other.csv'>CPRD_pri_other.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -46146,7 +46146,7 @@ OR
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_other.csv'>ICD_pri_other.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_other.csv'>ICD_pri_other.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -46341,7 +46341,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy Skin or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_skin.csv'>CPRD_pri_skin.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_skin.csv'>CPRD_pri_skin.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -46720,7 +46720,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_skin.csv'>ICD_pri_skin.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_skin.csv'>ICD_pri_skin.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -46747,7 +46747,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy Ovarian or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_ovarian.csv'>CPRD_pri_ovarian.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_ovarian.csv'>CPRD_pri_ovarian.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -46786,7 +46786,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_ovarian.csv'>ICD_pri_ovarian.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_ovarian.csv'>ICD_pri_ovarian.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -46813,7 +46813,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy Pancreatic or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_pancr.csv'>CPRD_pri_pancr.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_pancr.csv'>CPRD_pri_pancr.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -46888,7 +46888,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_pancr.csv'>ICD_pri_pancr.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_pancr.csv'>ICD_pri_pancr.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -46915,7 +46915,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy_Prostate or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_prost.csv'>CPRD_pri_prost.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_prost.csv'>CPRD_pri_prost.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -46978,7 +46978,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_prost.csv'>ICD_pri_prost.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_prost.csv'>ICD_pri_prost.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47005,7 +47005,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy Stomach or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_stomach.csv'>CPRD_pri_stomach.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_stomach.csv'>CPRD_pri_stomach.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47112,7 +47112,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_stomach.csv'>ICD_pri_stomach.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_stomach.csv'>ICD_pri_stomach.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47139,7 +47139,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy Testicular or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_testis.csv'>CPRD_pri_testis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_testis.csv'>CPRD_pri_testis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47202,7 +47202,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_testis.csv'>ICD_pri_testis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_testis.csv'>ICD_pri_testis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47229,7 +47229,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy Thyroid or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_thyroid.csv'>CPRD_pri_thyroid.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_thyroid.csv'>CPRD_pri_thyroid.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47248,7 +47248,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_thyroid.csv'>ICD_pri_thyroid.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_thyroid.csv'>ICD_pri_thyroid.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47275,7 +47275,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy Uterine or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_uterine.csv'>CPRD_pri_uterine.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_uterine.csv'>CPRD_pri_uterine.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47350,7 +47350,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_uterine.csv'>ICD_pri_uterine.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_uterine.csv'>ICD_pri_uterine.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47381,7 +47381,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy biliary tract or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_biliary.csv'>CPRD_pri_biliary.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_biliary.csv'>CPRD_pri_biliary.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47468,7 +47468,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_biliary.csv'>ICD_pri_biliary.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_biliary.csv'>ICD_pri_biliary.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47499,7 +47499,7 @@ OR
 Secondary care
 1. ALL diagnoses of Primary Malignancy colorectal and anus or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_bowel.csv'>CPRD_pri_bowel.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_bowel.csv'>CPRD_pri_bowel.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47630,7 +47630,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_bowel.csv'>ICD_pri_bowel.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_bowel.csv'>ICD_pri_bowel.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47669,7 +47669,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Primary or Idiopathic Thrombocytopaenia or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pri_thrombocytopaenia.csv'>CPRD_pri_thrombocytopaenia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pri_thrombocytopaenia.csv'>CPRD_pri_thrombocytopaenia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47748,7 +47748,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pri_thrombocytopaenia.csv'>ICD_pri_thrombocytopaenia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pri_thrombocytopaenia.csv'>ICD_pri_thrombocytopaenia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47779,7 +47779,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Primary pulmonary hypertension' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_prim_pulm_htn.csv'>CPRD_prim_pulm_htn.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_prim_pulm_htn.csv'>CPRD_prim_pulm_htn.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47794,7 +47794,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_prim_pulm_htn.csv'>ICD_prim_pulm_htn.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_prim_pulm_htn.csv'>ICD_prim_pulm_htn.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47821,7 +47821,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Psoriasis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_psoriasis.csv'>CPRD_psoriasis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_psoriasis.csv'>CPRD_psoriasis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -47976,7 +47976,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_psoriasis.csv'>ICD_psoriasis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_psoriasis.csv'>ICD_psoriasis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48023,7 +48023,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Psoriatic arthropathy or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_PSA.csv'>CPRD_PSA.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_PSA.csv'>CPRD_PSA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48062,7 +48062,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PSA.csv'>ICD_PSA.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PSA.csv'>ICD_PSA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48108,7 +48108,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Ptosis of eyelid' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_ptosis.csv'>CPRD_ptosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_ptosis.csv'>CPRD_ptosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48199,7 +48199,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_ptosis.csv'>ICD_ptosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_ptosis.csv'>ICD_ptosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48214,7 +48214,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_ptosis.csv'>OPCS_ptosis.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_ptosis.csv'>OPCS_ptosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48269,7 +48269,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Pulmonary collapse (excl pneumothorax)' (excl pneumothorax) or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_pulm_collapse.csv'>CPRD_pulm_collapse.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_pulm_collapse.csv'>CPRD_pulm_collapse.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48296,7 +48296,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_pulm_collapse.csv'>ICD_pulm_collapse.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_pulm_collapse.csv'>ICD_pulm_collapse.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48323,7 +48323,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Pulmonary embolism' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_PE.csv'>CPRD_PE.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_PE.csv'>CPRD_PE.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48374,7 +48374,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_PE.csv'>ICD_PE.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_PE.csv'>ICD_PE.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48449,7 +48449,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Raynaud's syndrome or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_raynauds.csv'>CPRD_raynauds.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_raynauds.csv'>CPRD_raynauds.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48480,7 +48480,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_raynauds.csv'>ICD_raynauds.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_raynauds.csv'>ICD_raynauds.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48507,7 +48507,7 @@ OR
 Secondary care
 1. ALL diagnoses of  Respiratory distress of newborn or history of diagnosis during a hospitalization AND IF the patient is aged < 1y at the first event date
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_RDN.csv'>CPRD_RDN.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_RDN.csv'>CPRD_RDN.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48546,7 +48546,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_RDN.csv'>ICD_RDN.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_RDN.csv'>ICD_RDN.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48573,7 +48573,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Respiratory failure' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_resp_failure.csv'>CPRD_resp_failure.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_resp_failure.csv'>CPRD_resp_failure.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48616,7 +48616,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_resp_failure.csv'>ICD_resp_failure.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_resp_failure.csv'>ICD_resp_failure.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48646,7 +48646,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Retinal detachments and breaks's during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_retinal_detach.csv'>CPRD_retinal_detach.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_retinal_detach.csv'>CPRD_retinal_detach.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48781,7 +48781,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_retinal_detach.csv'>ICD_retinal_detach.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_retinal_detach.csv'>ICD_retinal_detach.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48808,7 +48808,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_retinal_detach.csv'>OPCS_retinal_detach.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_retinal_detach.csv'>OPCS_retinal_detach.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48851,7 +48851,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Retinal vascular occlusions' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_retinal_vasc_occl.csv'>CPRD_retinal_vasc_occl.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_retinal_vasc_occl.csv'>CPRD_retinal_vasc_occl.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48934,7 +48934,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_retinal_vasc_occl.csv'>ICD_retinal_vasc_occl.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_retinal_vasc_occl.csv'>ICD_retinal_vasc_occl.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -48961,7 +48961,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Rheumatic fever' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_rh_fever.csv'>CPRD_rh_fever.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_rh_fever.csv'>CPRD_rh_fever.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49228,7 +49228,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_rh_fever.csv'>ICD_rh_fever.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_rh_fever.csv'>ICD_rh_fever.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49279,7 +49279,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Rheumatic valve dz' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_Rh_valve.csv'>CPRD_Rh_valve.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_Rh_valve.csv'>CPRD_Rh_valve.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49414,7 +49414,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_Rh_valve.csv'>ICD_Rh_valve.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_Rh_valve.csv'>ICD_Rh_valve.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49449,7 +49449,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Rheumatoid Arthritis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_RhA.csv'>CPRD_RhA.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_RhA.csv'>CPRD_RhA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49716,7 +49716,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_RhA.csv'>ICD_RhA.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_RhA.csv'>ICD_RhA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49751,7 +49751,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Right bundle branch block' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_RBBB.csv'>CPRD_RBBB.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_RBBB.csv'>CPRD_RBBB.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49782,7 +49782,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_RBBB.csv'>ICD_RBBB.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_RBBB.csv'>ICD_RBBB.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49809,7 +49809,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Rosacea' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_rosacea.csv'>CPRD_rosacea.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_rosacea.csv'>CPRD_rosacea.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49856,7 +49856,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_rosacea.csv'>ICD_rosacea.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_rosacea.csv'>ICD_rosacea.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49891,7 +49891,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Sarcoidosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sarcoid.csv'>CPRD_sarcoid.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sarcoid.csv'>CPRD_sarcoid.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -49974,7 +49974,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sarcoid.csv'>ICD_sarcoid.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sarcoid.csv'>ICD_sarcoid.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50009,7 +50009,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Schizophrenia, schizotypal and delusional disorders', schizotypal and delusional disorders or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_schizo.csv'>CPRD_schizo.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_schizo.csv'>CPRD_schizo.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50548,7 +50548,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_schizo.csv'>ICD_schizo.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_schizo.csv'>ICD_schizo.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50595,7 +50595,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Scleritis and episcleritis' and epi'Scleritis and episcleritis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_scleritis.csv'>CPRD_scleritis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_scleritis.csv'>CPRD_scleritis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50662,7 +50662,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_scleritis.csv'>ICD_scleritis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_scleritis.csv'>ICD_scleritis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50697,7 +50697,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Scoliosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_scoliosis.csv'>CPRD_scoliosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_scoliosis.csv'>CPRD_scoliosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50800,7 +50800,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_scoliosis.csv'>ICD_scoliosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_scoliosis.csv'>ICD_scoliosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50827,7 +50827,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Seborrheic dermatitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_seb_derm.csv'>CPRD_seb_derm.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_seb_derm.csv'>CPRD_seb_derm.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50914,7 +50914,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_seb_derm.csv'>ICD_seb_derm.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_seb_derm.csv'>ICD_seb_derm.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50941,7 +50941,7 @@ OR
 Secondary care
 1. ALL diagnoses of Secondary Malignancy Adrenal gland or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_adrenal.csv'>CPRD_sec_adrenal.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_adrenal.csv'>CPRD_sec_adrenal.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50956,7 +50956,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_adrenal.csv'>ICD_sec_adrenal.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_adrenal.csv'>ICD_sec_adrenal.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -50983,7 +50983,7 @@ OR
 Secondary care
 1. ALL diagnoses of Secondary Malignancy Bone or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_bone.csv'>CPRD_sec_bone.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_bone.csv'>CPRD_sec_bone.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51002,7 +51002,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_bone.csv'>ICD_sec_bone.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_bone.csv'>ICD_sec_bone.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51029,7 +51029,7 @@ OR
 Secondary care
 1. ALL diagnoses of Secondary Malignancy Bowel or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_bowel.csv'>CPRD_sec_bowel.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_bowel.csv'>CPRD_sec_bowel.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51076,7 +51076,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_bowel.csv'>ICD_sec_bowel.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_bowel.csv'>ICD_sec_bowel.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51107,7 +51107,7 @@ OR
 Secondary care
 1. ALL diagnoses of Secondary Malignancy Brain, Other CNS and Intracranial or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_brain.csv'>CPRD_sec_brain.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_brain.csv'>CPRD_sec_brain.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51138,7 +51138,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_brain.csv'>ICD_sec_brain.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_brain.csv'>ICD_sec_brain.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51169,7 +51169,7 @@ OR
 Secondary care
 1. ALL diagnoses of Secondary Malignancy Lung or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_lung.csv'>CPRD_sec_lung.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_lung.csv'>CPRD_sec_lung.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51184,7 +51184,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_lung.csv'>ICD_sec_lung.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_lung.csv'>ICD_sec_lung.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51211,7 +51211,7 @@ OR
 Secondary care
 1. ALL diagnoses of Secondary Malignancy Lymph Nodes or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_LN.csv'>CPRD_sec_LN.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_LN.csv'>CPRD_sec_LN.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51426,7 +51426,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_LN.csv'>ICD_sec_LN.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_LN.csv'>ICD_sec_LN.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51456,7 +51456,7 @@ Secondary care
 1. ALL diagnoses of Secondary Malignancy Other organs or history of diagnosis during a hospitalization
 2. ALL possible diagnosis of Secondary Malignancy Other organs during a hospitalization IF NO record satisfying criteria for Secondary Malignancy of any other organ
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_other.csv'>CPRD_sec_other.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_other.csv'>CPRD_sec_other.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51703,7 +51703,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_other.csv'>ICD_sec_other.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_other.csv'>ICD_sec_other.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51762,7 +51762,7 @@ OR
 Secondary care
 1. ALL diagnoses of Secondary Malignancy Pleura or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_pleura.csv'>CPRD_sec_pleura.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_pleura.csv'>CPRD_sec_pleura.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51777,7 +51777,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_pleura.csv'>ICD_sec_pleura.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_pleura.csv'>ICD_sec_pleura.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51804,7 +51804,7 @@ OR
 Secondary care
 1. ALL diagnoses of Secondary Malignancy_retroperitoneum and peritoneum or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_peritoneum.csv'>CPRD_sec_peritoneum.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_peritoneum.csv'>CPRD_sec_peritoneum.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51835,7 +51835,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_peritoneum.csv'>ICD_sec_peritoneum.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_peritoneum.csv'>ICD_sec_peritoneum.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51862,7 +51862,7 @@ OR
 Secondary care
 1. ALL diagnoses of Secondary malignancy Liver and intrahepatic bile duct or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_liver.csv'>CPRD_sec_liver.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_liver.csv'>CPRD_sec_liver.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51885,7 +51885,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_liver.csv'>ICD_sec_liver.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_liver.csv'>ICD_sec_liver.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51912,7 +51912,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Secondary or other Thrombocytopaenia or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_oth_thrombocytopaenia.csv'>CPRD_sec_oth_thrombocytopaenia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_oth_thrombocytopaenia.csv'>CPRD_sec_oth_thrombocytopaenia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -51971,7 +51971,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_oth_thrombocytopaenia.csv'>ICD_sec_oth_thrombocytopaenia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_oth_thrombocytopaenia.csv'>ICD_sec_oth_thrombocytopaenia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52010,7 +52010,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Secondary polycythaemia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_2ry_polycythaemia.csv'>CPRD_2ry_polycythaemia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_2ry_polycythaemia.csv'>CPRD_2ry_polycythaemia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52053,7 +52053,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_2ry_polycythaemia.csv'>ICD_2ry_polycythaemia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_2ry_polycythaemia.csv'>ICD_2ry_polycythaemia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52080,7 +52080,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Secondary pulmonary hypertension' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sec_pulm_htn.csv'>CPRD_sec_pulm_htn.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sec_pulm_htn.csv'>CPRD_sec_pulm_htn.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52099,7 +52099,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sec_pulm_htn.csv'>ICD_sec_pulm_htn.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sec_pulm_htn.csv'>ICD_sec_pulm_htn.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52123,7 +52123,7 @@ At the specified date, a patient is defined as having had 'Septicaemia' IF they 
 Secondary care
 1. ALL diagnoses of 'Septicaemia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sepsis.csv'>ICD_sepsis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sepsis.csv'>ICD_sepsis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52202,7 +52202,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Sick sinus syndrome' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sick_sinus.csv'>CPRD_sick_sinus.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sick_sinus.csv'>CPRD_sick_sinus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52221,7 +52221,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sick_sinus.csv'>ICD_sick_sinus.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sick_sinus.csv'>ICD_sick_sinus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52248,7 +52248,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Sickle-cell anaemia or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sickle_cell.csv'>CPRD_sickle_cell.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sickle_cell.csv'>CPRD_sickle_cell.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52311,7 +52311,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sickle_cell.csv'>ICD_sickle_cell.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sickle_cell.csv'>ICD_sickle_cell.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52350,7 +52350,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Sickle-cell trait or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sickle_trait.csv'>CPRD_sickle_trait.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sickle_trait.csv'>CPRD_sickle_trait.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52369,7 +52369,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sickle_trait.csv'>ICD_sickle_trait.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sickle_trait.csv'>ICD_sickle_trait.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52396,7 +52396,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Sjogren's disease or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sjogren.csv'>CPRD_sjogren.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sjogren.csv'>CPRD_sjogren.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52419,7 +52419,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sjogren.csv'>ICD_sjogren.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sjogren.csv'>ICD_sjogren.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52446,7 +52446,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Sleep apnoea' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sleep_apnoea.csv'>CPRD_sleep_apnoea.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sleep_apnoea.csv'>CPRD_sleep_apnoea.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52489,7 +52489,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sleep_apnoea.csv'>ICD_sleep_apnoea.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sleep_apnoea.csv'>ICD_sleep_apnoea.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52516,7 +52516,7 @@ OR
 Secondary care
 1. ALL diagnoses of  Slow fetal growth or 'Slow fetal growth or low birth weight' or history of diagnosis during a hospitalization AND IF the patient is aged < 1y at the first event date
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_LBW.csv'>CPRD_LBW.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_LBW.csv'>CPRD_LBW.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52615,7 +52615,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_LBW.csv'>ICD_LBW.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_LBW.csv'>ICD_LBW.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52661,7 +52661,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Spina bifida' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_spina_bifida.csv'>CPRD_spina_bifida.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_spina_bifida.csv'>CPRD_spina_bifida.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -52988,7 +52988,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_spina_bifida.csv'>ICD_spina_bifida.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_spina_bifida.csv'>ICD_spina_bifida.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53007,7 +53007,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_spina_bifida.csv'>OPCS_spina_bifida.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_spina_bifida.csv'>OPCS_spina_bifida.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53058,7 +53058,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Spinal stenosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_spinal_stenosis.csv'>CPRD_spinal_stenosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_spinal_stenosis.csv'>CPRD_spinal_stenosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53149,7 +53149,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_spinal_stenosis.csv'>ICD_spinal_stenosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_spinal_stenosis.csv'>ICD_spinal_stenosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53176,7 +53176,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Splenomegaly or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_splenomegaly.csv'>CPRD_splenomegaly.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_splenomegaly.csv'>CPRD_splenomegaly.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53219,7 +53219,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_splenomegaly.csv'>ICD_splenomegaly.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_splenomegaly.csv'>ICD_splenomegaly.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53258,7 +53258,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Spondylolisthesis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_spondylolisthesis.csv'>CPRD_spondylolisthesis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_spondylolisthesis.csv'>CPRD_spondylolisthesis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53325,7 +53325,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_spondylolisthesis.csv'>ICD_spondylolisthesis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_spondylolisthesis.csv'>ICD_spondylolisthesis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53352,7 +53352,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Spondylosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_spondylosis.csv'>CPRD_spondylosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_spondylosis.csv'>CPRD_spondylosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53603,7 +53603,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_spondylosis.csv'>ICD_spondylosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_spondylosis.csv'>ICD_spondylosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53674,7 +53674,7 @@ OR
 Secondary care
 1. ALL diagnoses of stroke NOS or stroke NOS during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_Stroke_NOS.csv'>CPRD_Stroke_NOS.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_Stroke_NOS.csv'>CPRD_Stroke_NOS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53825,7 +53825,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_Stroke_NOS.csv'>ICD_Stroke_NOS.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_Stroke_NOS.csv'>ICD_Stroke_NOS.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53880,7 +53880,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Subarachnoid haemorrhage' or sequelae of 'Subarachnoid haemorrhage' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_Subarach.csv'>CPRD_Subarach.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_Subarach.csv'>CPRD_Subarach.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53947,7 +53947,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_Subarach.csv'>ICD_Subarach.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_Subarach.csv'>ICD_Subarach.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53978,7 +53978,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Subdural haemorrhage (acute)(nontraumatic) or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_subdural_haem.csv'>CPRD_subdural_haem.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_subdural_haem.csv'>CPRD_subdural_haem.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -53997,7 +53997,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_subdural_haem.csv'>ICD_subdural_haem.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_subdural_haem.csv'>ICD_subdural_haem.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54024,7 +54024,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Supraventricular tachycardia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_SVT.csv'>CPRD_SVT.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_SVT.csv'>CPRD_SVT.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54071,7 +54071,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_SVT.csv'>ICD_SVT.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_SVT.csv'>ICD_SVT.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54095,7 +54095,7 @@ At the specified date, a patient is defined as having had SIADH IF they meet the
 Secondary care (ICD10)
 1. ALL diagnoses of SIADH or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_SIADH.csv'>ICD_SIADH.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_SIADH.csv'>ICD_SIADH.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54122,7 +54122,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Systemic sclerosis or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_sys_sclerosis.csv'>CPRD_sys_sclerosis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_sys_sclerosis.csv'>CPRD_sys_sclerosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54177,7 +54177,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_sys_sclerosis.csv'>ICD_sys_sclerosis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_sys_sclerosis.csv'>ICD_sys_sclerosis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54204,7 +54204,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Thalassaemia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_thala.csv'>CPRD_thala.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_thala.csv'>CPRD_thala.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54279,7 +54279,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_thala.csv'>ICD_thala.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_thala.csv'>ICD_thala.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54322,7 +54322,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Thalassaemia trait' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_thal_trait.csv'>CPRD_thal_trait.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_thal_trait.csv'>CPRD_thal_trait.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54349,7 +54349,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_thal_trait.csv'>ICD_thal_trait.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_thal_trait.csv'>ICD_thal_trait.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54376,7 +54376,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Thrombophilia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_thrombophilia.csv'>CPRD_thrombophilia.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_thrombophilia.csv'>CPRD_thrombophilia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54435,7 +54435,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_thrombophilia.csv'>ICD_thrombophilia.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_thrombophilia.csv'>ICD_thrombophilia.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54466,7 +54466,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Tinnitus' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_tinnitus.csv'>CPRD_tinnitus.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_tinnitus.csv'>CPRD_tinnitus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54521,7 +54521,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_tinnitus.csv'>ICD_tinnitus.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_tinnitus.csv'>ICD_tinnitus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54548,7 +54548,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Transient ischaemic attack' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_TIA.csv'>CPRD_TIA.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_TIA.csv'>CPRD_TIA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54639,7 +54639,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_TIA.csv'>ICD_TIA.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_TIA.csv'>ICD_TIA.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54710,7 +54710,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Trifascicular block' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_trifasc_block.csv'>CPRD_trifasc_block.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_trifasc_block.csv'>CPRD_trifasc_block.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54729,7 +54729,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_trifasc_block.csv'>ICD_trifasc_block.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_trifasc_block.csv'>ICD_trifasc_block.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54756,7 +54756,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Trigeminal neuralgia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_trigem_neur.csv'>CPRD_trigem_neur.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_trigem_neur.csv'>CPRD_trigem_neur.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54791,7 +54791,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_trigem_neur.csv'>ICD_trigem_neur.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_trigem_neur.csv'>ICD_trigem_neur.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -54818,7 +54818,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Tuberculosis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_TB.csv'>CPRD_TB.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_TB.csv'>CPRD_TB.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -55777,7 +55777,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_TB.csv'>ICD_TB.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_TB.csv'>ICD_TB.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -55872,7 +55872,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Tubulo-interstitial nephritis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_TIN.csv'>CPRD_TIN.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_TIN.csv'>CPRD_TIN.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -55959,7 +55959,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_TIN.csv'>ICD_TIN.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_TIN.csv'>ICD_TIN.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -56074,7 +56074,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Ulcerative colitis' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_ulc_colitis.csv'>CPRD_ulc_colitis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_ulc_colitis.csv'>CPRD_ulc_colitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -56165,7 +56165,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_ulc_colitis.csv'>ICD_ulc_colitis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_ulc_colitis.csv'>ICD_ulc_colitis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -56192,7 +56192,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Undescended testicle or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_undescended_testis.csv'>CPRD_undescended_testis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_undescended_testis.csv'>CPRD_undescended_testis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -56267,7 +56267,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_undescended_testis.csv'>ICD_undescended_testis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_undescended_testis.csv'>ICD_undescended_testis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -56312,7 +56312,7 @@ OR
 Secondary care
 1. ALL diagnoses of 'Urinary Incontinence' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_urine_incont.csv'>CPRD_urine_incont.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_urine_incont.csv'>CPRD_urine_incont.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -56415,7 +56415,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_urine_incont.csv'>ICD_urine_incont.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_urine_incont.csv'>ICD_urine_incont.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -56443,7 +56443,7 @@ At the specified date, a patient is defined as having had 'Urinary Tract Infecti
 Secondary care
 1. ALL diagnoses of 'Urinary Tract Infections's or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_uti.csv'>ICD_uti.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_uti.csv'>ICD_uti.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -56521,7 +56521,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Urolithiasis' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_urolithiasis.csv'>CPRD_urolithiasis.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_urolithiasis.csv'>CPRD_urolithiasis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -56976,7 +56976,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_urolithiasis.csv'>ICD_urolithiasis.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_urolithiasis.csv'>ICD_urolithiasis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -57031,7 +57031,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_urolithiasis.csv'>OPCS_urolithiasis.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_urolithiasis.csv'>OPCS_urolithiasis.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -57198,7 +57198,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Urticaria' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_urticaria.csv'>CPRD_urticaria.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_urticaria.csv'>CPRD_urticaria.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -57329,7 +57329,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_urticaria.csv'>ICD_urticaria.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_urticaria.csv'>ICD_urticaria.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -57356,7 +57356,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of Venous thromboembolic disease (Excl PE) or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_vte_ex_pe.csv'>CPRD_vte_ex_pe.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_vte_ex_pe.csv'>CPRD_vte_ex_pe.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -57615,7 +57615,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_vte_ex_pe.csv'>ICD_vte_ex_pe.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_vte_ex_pe.csv'>ICD_vte_ex_pe.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -57670,7 +57670,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Ventricular tachycardia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_VT.csv'>CPRD_VT.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_VT.csv'>CPRD_VT.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -57697,7 +57697,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_VT.csv'>ICD_VT.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_VT.csv'>ICD_VT.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -57721,7 +57721,7 @@ At the specified date, a patient is defined as having had Viral diseases (excl c
 Secondary care
 1. ALL diagnoses of Viral diseases (excl chronic hepatitis/HIV) or history of diagnosis during a hospitalization
 ~~~
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_viral.csv'>ICD_viral.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_viral.csv'>ICD_viral.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -58056,7 +58056,7 @@ OR
 Secondary care
 1. ALL diagnoses of Visual impairment and 'Visual impairment and blindness' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_blind.csv'>CPRD_blind.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_blind.csv'>CPRD_blind.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -58447,7 +58447,7 @@ Secondary care
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_blind.csv'>ICD_blind.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_blind.csv'>ICD_blind.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -58474,7 +58474,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Vitamin B12 deficiency anaemia' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_b12_def.csv'>CPRD_b12_def.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_b12_def.csv'>CPRD_b12_def.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -58613,7 +58613,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_b12_def.csv'>ICD_b12_def.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_b12_def.csv'>ICD_b12_def.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -58640,7 +58640,7 @@ OR
 Secondary care (ICD10)
 1. ALL diagnoses of 'Vitiligo' or history of diagnosis during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_vitiligo.csv'>CPRD_vitiligo.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_vitiligo.csv'>CPRD_vitiligo.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -58659,7 +58659,7 @@ Secondary care (ICD10)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_vitiligo.csv'>ICD_vitiligo.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_vitiligo.csv'>ICD_vitiligo.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -58689,7 +58689,7 @@ OR
 Secondary care (OPCS4)
 1. ALL procedures for 'Volvulus' during a hospitalization
 ~~~
-<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/primary_care/CPRD_volvulus.csv'>CPRD_volvulus.csv</a>)</h4>
+<h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_volvulus.csv'>CPRD_volvulus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -58744,7 +58744,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/ICD_volvulus.csv'>ICD_volvulus.csv</a>)</h4>
+<h4>Secondary care diagnoses (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/ICD_volvulus.csv'>ICD_volvulus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -58759,7 +58759,7 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/secondary_care/OPCS_volvulus.csv'>OPCS_volvulus.csv</a>)</h4>
+<h4>Secondary care procedures (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//secondary_care/OPCS_volvulus.csv'>OPCS_volvulus.csv</a>)</h4>
 <table>
     <thead>
         <tr>
@@ -58786,4 +58786,4 @@ Secondary care (OPCS4)
         </tr>
     </tbody>
 </table>
-File generated: 2019-09-18 14:02:13.488786
+File generated: 2019-09-18 14:09:04.886117

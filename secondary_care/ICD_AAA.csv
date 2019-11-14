@@ -1,0 +1,4 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Abdominal aortic aneurysm,I714,"Abdominal aortic aneurysm, without mention of rupture",AAA without leak or rupture
+Abdominal aortic aneurysm,I716,"Thoracoabdominal aortic aneurysm, without mention of rupture",AAA without leak or rupture
+Abdominal aortic aneurysm,I719,"Aortic aneurysm of unspecified site, without mention of rupture",AAA without leak or rupture

@@ -1,0 +1,24 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Atrial fibrillation,14AN.00,6345,H/O: atrial fibrillation,History of atrial fibrillation or flutter (1)
+Atrial fibrillation,14AR.00,93460,History of atrial flutter,History of atrial fibrillation or flutter (1)
+Atrial fibrillation,212R.00,28994,Atrial fibrillation resolved,History of atrial fibrillation or flutter (1)
+Atrial fibrillation,662S.00,18746,Atrial fibrillation monitoring,Atrial fibrillation monitoring (2)
+Atrial fibrillation,6A9..00,45773,Atrial fibrillation annual review,Atrial fibrillation monitoring (2)
+Atrial fibrillation,9Os..00,57832,Atrial fibrillation monitoring administration,Atrial fibrillation monitoring (2)
+Atrial fibrillation,9Os0.00,90187,Atrial fibrillation monitoring first letter,Atrial fibrillation monitoring (2)
+Atrial fibrillation,9Os1.00,90188,Atrial fibrillation monitoring second letter,Atrial fibrillation monitoring (2)
+Atrial fibrillation,9Os2.00,90189,Atrial fibrillation monitoring third letter,Atrial fibrillation monitoring (2)
+Atrial fibrillation,9Os3.00,90190,Atrial fibrillation monitoring verbal invite,Atrial fibrillation monitoring (2)
+Atrial fibrillation,9Os4.00,90191,Atrial fibrillation monitoring telephone invite,Atrial fibrillation monitoring (2)
+Atrial fibrillation,9hF..00,63350,Exception reporting: atrial fibrillation quality indicators,Atrial fibrillation monitoring (2)
+Atrial fibrillation,9hF1.00,39114,Excepted from atrial fibrillation qual indic: Inform dissent,Atrial fibrillation monitoring (2)
+Atrial fibrillation,G573200,1268,Paroxysmal atrial fibrillation,Paroxysmal atrial fibrillation (3)
+Atrial fibrillation,G573400,96277,Permanent atrial fibrillation,Persistent or permanent atrial fibrillation (4)
+Atrial fibrillation,G573500,96076,Persistent atrial fibrillation,Persistent or permanent atrial fibrillation (4)
+Atrial fibrillation,3272.00,3757,ECG: atrial fibrillation,"Atrial fibrillation, not otherwise specified (5)"
+Atrial fibrillation,G573000,1664,Atrial fibrillation,"Atrial fibrillation, not otherwise specified (5)"
+Atrial fibrillation,G573300,35127,Non-rheumatic atrial fibrillation,"Atrial fibrillation, not otherwise specified (5)"
+Atrial fibrillation,G573.00,2212,Atrial fibrillation and flutter,Atrial fibrillation or flutter (6)
+Atrial fibrillation,G573z00,23437,Atrial fibrillation and flutter NOS,Atrial fibrillation or flutter (6)
+Atrial fibrillation,3273.00,6771,ECG: atrial flutter,Atrial flutter (7)
+Atrial fibrillation,G573100,1757,Atrial flutter,Atrial flutter (7)

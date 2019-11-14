@@ -1,0 +1,6 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Myocardial infarction,I252,Old myocardial infarction,History of MI (1)
+Myocardial infarction,I21,Acute myocardial infarction,Acute MI not further specified (5)
+Myocardial infarction,I22,Subsequent myocardial infarction,Subsequent MI (6)
+Myocardial infarction,I23,Certain current complications following acute myocardial infarction,Complications of MI (7)
+Myocardial infarction,I241,Dressler's syndrome,Complications of MI (7)

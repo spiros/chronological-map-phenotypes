@@ -1,0 +1,9 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Coronary heart disease not otherwise specified,I250,"Atherosclerotic cardiovascular disease, so described",Diagnosed
+Coronary heart disease not otherwise specified,I251,Atherosclerotic heart disease,Diagnosed
+Coronary heart disease not otherwise specified,I253,Aneurysm of heart,Diagnosed
+Coronary heart disease not otherwise specified,I254,Coronary artery aneurysm,Diagnosed
+Coronary heart disease not otherwise specified,I255,Ischaemic cardiomyopathy,Diagnosed
+Coronary heart disease not otherwise specified,I256,Silent myocardial ischaemia,Diagnosed
+Coronary heart disease not otherwise specified,I258,Other forms of chronic ischaemic heart disease,Diagnosed
+Coronary heart disease not otherwise specified,I259,"Chronic ischaemic heart disease, unspecified",Diagnosed

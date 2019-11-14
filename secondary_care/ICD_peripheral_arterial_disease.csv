@@ -1,0 +1,7 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Peripheral arterial disease,I731,Thromboangiitis obliterans [Buerger],Peripheral vascular disease (7)
+Peripheral arterial disease,I738,Other specified peripheral vascular diseases,Peripheral vascular disease (7)
+Peripheral arterial disease,I739,"Peripheral vascular disease, unspecified",Peripheral vascular disease (7)
+Peripheral arterial disease,I743,Embolism and thrombosis of arteries of lower extremities,Leg or aortic embolism or thrombosis (8)
+Peripheral arterial disease,I744,"Embolism and thrombosis of arteries of extremities, unspecified",Leg or aortic embolism or thrombosis (8)
+Peripheral arterial disease,I745,Embolism and thrombosis of iliac artery,Leg or aortic embolism or thrombosis (8)

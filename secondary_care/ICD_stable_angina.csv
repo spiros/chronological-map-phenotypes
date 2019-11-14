@@ -1,0 +1,4 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Stable angina,I201,Angina pectoris with documented spasm,Stable angina admission (4)
+Stable angina,I208,Other forms of angina pectoris,Stable angina admission (4)
+Stable angina,I209,"Angina pectoris, unspecified",Stable angina admission (4)

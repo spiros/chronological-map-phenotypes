@@ -1,0 +1,6 @@
+Disease,ICD10code,ICD10codeDescr,Category
+Hypertension,I10,Essential (primary) hypertension,Hypertension (3)
+Hypertension,I11,Hypertensive heart disease,Hypertension (3)
+Hypertension,I12,Hypertensive renal disease,Hypertension (3)
+Hypertension,I13,Hypertensive heart and renal disease,Hypertension (3)
+Hypertension,I15,Secondary hypertension,Secondary hypertension (4)

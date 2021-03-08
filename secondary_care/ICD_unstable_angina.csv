@@ -1,2 +1,2 @@
 Disease,ICD10code,ICD10codeDescr,Category
-Unstable Angina,I200,Unstable angina,yes (1)
+Unstable Angina,I20.0,Unstable angina,yes (1)

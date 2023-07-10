@@ -9375,8 +9375,8 @@ alpha = -0.329 for females, -0.411 for males
 K = 0.7 for females, 0.9 for males
 
 Where egfr_ckdepi from and including 1 Jan 2014 is defined as: 
-egfr_ckdepi = 141 * min(crea_gprd * 0.010746 / K, 1)^alpha
-* max(crea_gprd * 0.0.011312/ K, 1)^-1.209 
+egfr_ckdepi = 141 * min(crea_gprd * 0.011312 / K, 1)^alpha
+* max(crea_gprd * 0.011312/ K, 1)^-1.209 
 * 0.993^age * 1.018 [if female]  * 1.159 [if black]
 
 where:

@@ -12863,6 +12863,10 @@ ELSE if there are no diabdiag_gprd records for this patient:
 
 ELSE classify as no 'Diabetes'
 ~~~
+
+**NOTE**: This algorithm uses components from an existing phenotyping algorithm created by Julie George and Anoop Shah for the CALIBER project: [dm_cprd](/primary_care/CPRD_caliber_dm_cprd.csv), [diabdiag_cprd](/primary_care/CPRD_caliber_diabdiag_cprd.csv) and [dm_hes](/secondary_care/ICD_caliber_dm_hes.csv). More information on the algorithm in the associated publication [Lancet Diabetes Endocrinol
+. 2015 Feb;3(2):105-13. doi: 10.1016/S2213-8587(14)70219-0. Epub 2014 Nov 11.](https://www.sciencedirect.com/science/article/pii/S2213858714702190?via%3Dihub)
+
 <h4>Primary care (<a href='https://github.com/spiros/chronological-map-phenotypes/tree/master//primary_care/CPRD_diabetes.csv'>CPRD_diabetes.csv</a>)</h4>
 <table>
     <thead>

@@ -1,0 +1,514 @@
+"metadata","category","readcode","readterm","medcode"
+"Name: dm_cprd                                                                 ",1,"1434.00","H/O: diabetes mellitus",6813
+"Version: 2                                                                    ",1,"14F4.00","H/O: Admission in last year for diabetes foot problem",7045
+"Source: CPRD                                                                  ",1,"14P3.00","H/O: insulin therapy",17236
+"Author: Julie George, Emily Herrett, Anoop Shah, Liam Smeeth, Harry Hemingway ",1,"2126300","Diabetes resolved",28622
+"Date: 06 Jan 2012                                                             ",1,"212H.00","Diabetes resolved",18766
+"Timestamp: 15.04 23-Apr-13                                                    ",1,"9OL9.00","Diabetes monitoring deleted",54846
+"Categories:                                                                   ",2,"13Y1.00","Diabetic association member",46533
+"1. H/O diabetes                                                               ",2,"3881.00","Education score - diabetes",12703
+"2. Possible diabetes                                                          ",2,"3882.00","Diabetes well being questionnaire",34528
+"3. Insulin dependent diabetes                                                 ",2,"66A..00","Diabetic monitoring",3550
+"4. Non insulin dependent diabetes                                             ",2,"66A1.00","Initial diabetic assessment",13070
+"5. Secondary diabetes                                                         ",2,"66A2.00","Follow-up diabetic assessment",608
+"6. Diabetes, not otherwise specified                                          ",2,"66AM.00","Diabetic - follow-up default",17886
+"7. Diabetes excluded                                                          ",2,"66AZ.00","Diabetic monitoring NOS",13067
+"8. Diabetes resolved                                                          ",2,"66Af.00","Patient diabetes education review",32619
+"                                                                              ",2,"66Ak.00","Diabetic monitoring - lower risk albumin excretion",66475
+"                                                                              ",2,"66Al.00","Diabetic monitoring - higher risk albumin excretion",61470
+"                                                                              ",2,"679L.00","Health education - diabetes",13057
+"                                                                              ",2,"679R.00","Patient offered diabetes structured education programme",12682
+"                                                                              ",2,"8A12.00","Diabetic crisis monitoring",47341
+"                                                                              ",2,"8A17.00","Self monitoring of blood glucose",17478
+"                                                                              ",2,"8A18.00","Self monitoring of urine glucose",17846
+"                                                                              ",2,"8A19.00","Self monitoring of blood and urine glucose",42217
+"                                                                              ",2,"8A1A.00","Self monitoring urine ketones",55140
+"                                                                              ",2,"8CR2.00","Diabetes clinical management plan",63412
+"                                                                              ",2,"8CS0.00","Diabetes care plan agreed",47032
+"                                                                              ",2,"8HHy.00","Referral to diabetic register",57723
+"                                                                              ",2,"8HTe.00","Referral to diabetes preconception counselling clinic",50937
+"                                                                              ",2,"8HTk.00","Referral to diabetic eye clinic",19381
+"                                                                              ",2,"8Hg4.00","Discharged from care of diabetes specialist nurse",47058
+"                                                                              ",2,"8Hj0.00","Referral to diabetes structured education programme",47011
+"                                                                              ",2,"8Hj3.00","Referral to DAFNE diabetes structured education programme",93704
+"                                                                              ",2,"8Hj4.00","Referral to DESMOND diabetes structured education programme",93657
+"                                                                              ",2,"8Hj5.00","Referral to XPERT diabetes structured education programme",93870
+"                                                                              ",2,"8I6F.00","Diabetic retinopathy screening not indicated",18747
+"                                                                              ",2,"8I6G.00","Diabetic foot examination not indicated",12247
+"                                                                              ",2,"8I81.00","Did not complete diabetes structured education programme",95094
+"                                                                              ",2,"8I82.00","Did not complete DAFNE diabetes structured education program",97809
+"                                                                              ",2,"8I83.00","Did not complete DESMOND diabetes structured educat program",95093
+"                                                                              ",2,"8I84.00","Did not complete XPERT diabetes structured education program",94956
+"                                                                              ",2,"93C4.00","Patient consent given for addition to diabetic register",57389
+"                                                                              ",2,"9N0m.00","Seen in diabetic nurse consultant clinic",38103
+"                                                                              ",2,"9N0n.00","Seen in community diabetes specialist clinic",32739
+"                                                                              ",2,"9N0o.00","Seen in community diabetic specialist nurse clinic",38129
+"                                                                              ",2,"9N1Q.00","Seen in diabetic clinic",2379
+"                                                                              ",2,"9N1i.00","Seen in diabetic foot clinic",10824
+"                                                                              ",2,"9N1o.00","Seen in multidisciplinary diabetic clinic",95813
+"                                                                              ",2,"9N1v.00","Seen in diabetic eye clinic",9974
+"                                                                              ",2,"9N2d.00","Seen by diabetologist",46521
+"                                                                              ",2,"9N2i.00","Seen by diabetic liaison nurse",12507
+"                                                                              ",2,"9N4I.00","DNA - Did not attend diabetic clinic",9145
+"                                                                              ",2,"9N4p.00","Did not attend diabetic retinopathy clinic",30648
+"                                                                              ",2,"9NM0.00","Attending diabetes clinic",6430
+"                                                                              ",2,"9NN8.00","Under care of diabetologist",54601
+"                                                                              ",2,"9NN9.00","Under care of diabetes specialist nurse",11930
+"                                                                              ",2,"9NND.00","Under care of diabetic foot screener",11094
+"                                                                              ",2,"9NiA.00","Did not attend diabetes structured education programme",95553
+"                                                                              ",2,"9NiD.00","Did not attend DESMOND diabetes structured education program",95159
+"                                                                              ",2,"9NiE.00","Did not attend XPERT diabetes structured education programme",94955
+"                                                                              ",2,"9Nl4.00","Seen by general practitioner special interest in diabetes",97281
+"                                                                              ",2,"9OL..00","Diabetes monitoring admin.",9897
+"                                                                              ",2,"9OL1.00","Attends diabetes monitoring",13197
+"                                                                              ",2,"9OL2.00","Refuses diabetes monitoring",26603
+"                                                                              ",2,"9OL3.00","Diabetes monitoring default",22130
+"                                                                              ",2,"9OL4.00","Diabetes monitoring 1st letter",13194
+"                                                                              ",2,"9OL5.00","Diabetes monitoring 2nd letter",13195
+"                                                                              ",2,"9OL6.00","Diabetes monitoring 3rd letter",12030
+"                                                                              ",2,"9OL7.00","Diabetes monitor.verbal invite",31240
+"                                                                              ",2,"9OL8.00","Diabetes monitor.phone invite",31141
+"                                                                              ",2,"9OLA.00","Diabetes monitor. check done",13192
+"                                                                              ",2,"9OLA.11","Diabetes monitored",20900
+"                                                                              ",2,"9OLB.00","Attended diabetes structured education programme",26605
+"                                                                              ",2,"9OLF.00","Diabetes structured education programme completed",94186
+"                                                                              ",2,"9OLG.00","Attended XPERT diabetes structured education programme",94011
+"                                                                              ",2,"9OLH.00","Attended DAFNE diabetes structured education programme",93390
+"                                                                              ",2,"9OLJ.00","DAFNE diabetes structured education programme completed",93491
+"                                                                              ",2,"9OLK.00","DESMOND diabetes structured education programme completed",93529
+"                                                                              ",2,"9OLL.00","XPERT diabetes structured education programme completed",93631
+"                                                                              ",2,"9OLM.00","Diabetes structured education programme declined",93854
+"                                                                              ",2,"9OLZ.00","Diabetes monitoring admin.NOS",31241
+"                                                                              ",2,"9h4..00","Exception reporting: diabetes quality indicators",28574
+"                                                                              ",2,"9h41.00","Excepted from diabetes qual indicators: Patient unsuitable",11041
+"                                                                              ",2,"9h42.00","Excepted from diabetes quality indicators: Informed dissent",11348
+"                                                                              ",2,"ZL22500","Under care of diabetic liaison nurse",45250
+"                                                                              ",2,"ZLA2500","Seen by diabetic liaison nurse",8618
+"                                                                              ",2,"ZLD7500","Discharge by diabetic liaison nurse",58133
+"                                                                              ",2,"ZRB4.00","Diabetes clinic satisfaction questionnaire",68546
+"                                                                              ",2,"ZRB4.11","CSQ - Diabetes clinic satisfaction questionnaire",91164
+"                                                                              ",2,"ZRB5.00","Diabetes treatment satisfaction questionnaire",94699
+"                                                                              ",2,"ZRB5.11","DTSQ - Diabetes treatment satisfaction questionnaire",68818
+"                                                                              ",2,"ZRB6.00","Diabetes wellbeing questionnaire",38130
+"                                                                              ",2,"ZRB6.11","DWBQ - Diabetes wellbeing questionnaire",97824
+"                                                                              ",2,"ZRBa.00","Education score - diabetes",67664
+"                                                                              ",3,"66An.00","Diabetes type 1 review",85660
+"                                                                              ",3,"C100000","Diabetes mellitus, juvenile type, no mention of complication",24490
+"                                                                              ",3,"C100011","Insulin dependent diabetes mellitus",1038
+"                                                                              ",3,"C101000","Diabetes mellitus, juvenile type, with ketoacidosis",53200
+"                                                                              ",3,"C102000","Diabetes mellitus, juvenile type, with hyperosmolar coma",40023
+"                                                                              ",3,"C103000","Diabetes mellitus, juvenile type, with ketoacidotic coma",42567
+"                                                                              ",3,"C104000","Diabetes mellitus, juvenile type, with renal manifestation",93922
+"                                                                              ",3,"C105000","Diabetes mellitus, juvenile type, + ophthalmic manifestation",69748
+"                                                                              ",3,"C106000","Diabetes mellitus, juvenile, + neurological manifestation",67853
+"                                                                              ",3,"C107000","Diabetes mellitus, juvenile +peripheral circulatory disorder",70448
+"                                                                              ",3,"C107300","IDDM with peripheral circulatory disorder",69124
+"                                                                              ",3,"C108.00","Insulin dependent diabetes mellitus",1647
+"                                                                              ",3,"C108.11","IDDM-Insulin dependent diabetes mellitus",18505
+"                                                                              ",3,"C108.12","Type 1 diabetes mellitus",17858
+"                                                                              ",3,"C108.13","Type I diabetes mellitus",24423
+"                                                                              ",3,"C108000","Insulin-dependent diabetes mellitus with renal complications",46963
+"                                                                              ",3,"C108011","Type I diabetes mellitus with renal complications",61344
+"                                                                              ",3,"C108012","Type 1 diabetes mellitus with renal complications",21983
+"                                                                              ",3,"C108100","Insulin-dependent diabetes mellitus with ophthalmic comps",49276
+"                                                                              ",3,"C108200","Insulin-dependent diabetes mellitus with neurological comps",52283
+"                                                                              ",3,"C108211","Type I diabetes mellitus with neurological complications",49146
+"                                                                              ",3,"C108212","Type 1 diabetes mellitus with neurological complications",61829
+"                                                                              ",3,"C108300","Insulin dependent diabetes mellitus with multiple complicatn",52104
+"                                                                              ",3,"C108400","Unstable insulin dependant diabetes mellitus",26855
+"                                                                              ",3,"C108411","Unstable type I diabetes mellitus",60107
+"                                                                              ",3,"C108412","Unstable type 1 diabetes mellitus",97474
+"                                                                              ",3,"C108500","Insulin dependent diabetes mellitus with ulcer",44443
+"                                                                              ",3,"C108511","Type I diabetes mellitus with ulcer",51957
+"                                                                              ",3,"C108512","Type 1 diabetes mellitus with ulcer",68390
+"                                                                              ",3,"C108600","Insulin dependent diabetes mellitus with gangrene",60499
+"                                                                              ",3,"C108700","Insulin dependent diabetes mellitus with retinopathy",6509
+"                                                                              ",3,"C108711","Type I diabetes mellitus with retinopathy",38161
+"                                                                              ",3,"C108712","Type 1 diabetes mellitus with retinopathy",41049
+"                                                                              ",3,"C108800","Insulin dependant diabetes mellitus - poor control",6791
+"                                                                              ",3,"C108811","Type I diabetes mellitus - poor control",46850
+"                                                                              ",3,"C108812","Type 1 diabetes mellitus - poor control",45914
+"                                                                              ",3,"C108900","Insulin dependant diabetes maturity onset",31310
+"                                                                              ",3,"C108911","Type I diabetes mellitus maturity onset",63017
+"                                                                              ",3,"C108912","Type 1 diabetes mellitus maturity onset",97446
+"                                                                              ",3,"C108A00","Insulin-dependent diabetes without complication",56448
+"                                                                              ",3,"C108A11","Type I diabetes mellitus without complication",95992
+"                                                                              ",3,"C108B00","Insulin dependent diabetes mellitus with mononeuropathy",24694
+"                                                                              ",3,"C108C00","Insulin dependent diabetes mellitus with polyneuropathy",41716
+"                                                                              ",3,"C108D00","Insulin dependent diabetes mellitus with nephropathy",57621
+"                                                                              ",3,"C108D11","Type I diabetes mellitus with nephropathy",66872
+"                                                                              ",3,"C108E00","Insulin dependent diabetes mellitus with hypoglycaemic coma",44440
+"                                                                              ",3,"C108E11","Type I diabetes mellitus with hypoglycaemic coma",42729
+"                                                                              ",3,"C108E12","Type 1 diabetes mellitus with hypoglycaemic coma",70766
+"                                                                              ",3,"C108F00","Insulin dependent diabetes mellitus with diabetic cataract",44260
+"                                                                              ",3,"C108F11","Type I diabetes mellitus with diabetic cataract",17545
+"                                                                              ",3,"C108G00","Insulin dependent diab mell with peripheral angiopathy",64446
+"                                                                              ",3,"C108H00","Insulin dependent diabetes mellitus with arthropathy",65616
+"                                                                              ",3,"C108H11","Type I diabetes mellitus with arthropathy",62352
+"                                                                              ",3,"C108J00","Insulin dependent diab mell with neuropathic arthropathy",39809
+"                                                                              ",3,"C108J11","Type I diabetes mellitus with neuropathic arthropathy",60208
+"                                                                              ",3,"C108J12","Type 1 diabetes mellitus with neuropathic arthropathy",18230
+"                                                                              ",3,"C10C.12","Maturity onset diabetes in youth type 1",98392
+"                                                                              ",3,"C10E.00","Type 1 diabetes mellitus",1549
+"                                                                              ",3,"C10E.11","Type I diabetes mellitus",12455
+"                                                                              ",3,"C10E.12","Insulin dependent diabetes mellitus",51261
+"                                                                              ",3,"C10E000","Type 1 diabetes mellitus with renal complications",47582
+"                                                                              ",3,"C10E100","Type 1 diabetes mellitus with ophthalmic complications",47649
+"                                                                              ",3,"C10E112","Insulin-dependent diabetes mellitus with ophthalmic comps",98071
+"                                                                              ",3,"C10E200","Type 1 diabetes mellitus with neurological complications",42831
+"                                                                              ",3,"C10E300","Type 1 diabetes mellitus with multiple complications",47650
+"                                                                              ",3,"C10E311","Type I diabetes mellitus with multiple complications",91942
+"                                                                              ",3,"C10E312","Insulin dependent diabetes mellitus with multiple complicat",45276
+"                                                                              ",3,"C10E400","Unstable type 1 diabetes mellitus",43921
+"                                                                              ",3,"C10E411","Unstable type I diabetes mellitus",49949
+"                                                                              ",3,"C10E412","Unstable insulin dependent diabetes mellitus",54600
+"                                                                              ",3,"C10E500","Type 1 diabetes mellitus with ulcer",18683
+"                                                                              ",3,"C10E511","Type I diabetes mellitus with ulcer",93878
+"                                                                              ",3,"C10E512","Insulin dependent diabetes mellitus with ulcer",98704
+"                                                                              ",3,"C10E600","Type 1 diabetes mellitus with gangrene",69993
+"                                                                              ",3,"C10E700","Type 1 diabetes mellitus with retinopathy",18387
+"                                                                              ",3,"C10E711","Type I diabetes mellitus with retinopathy",95343
+"                                                                              ",3,"C10E712","Insulin dependent diabetes mellitus with retinopathy",93875
+"                                                                              ",3,"C10E800","Type 1 diabetes mellitus - poor control",35288
+"                                                                              ",3,"C10E812","Insulin dependent diabetes mellitus - poor control",72702
+"                                                                              ",3,"C10E900","Type 1 diabetes mellitus maturity onset",40682
+"                                                                              ",3,"C10E911","Type I diabetes mellitus maturity onset",96235
+"                                                                              ",3,"C10E912","Insulin dependent diabetes maturity onset",97849
+"                                                                              ",3,"C10EA00","Type 1 diabetes mellitus without complication",69676
+"                                                                              ",3,"C10EA11","Type I diabetes mellitus without complication",62613
+"                                                                              ",3,"C10EB00","Type 1 diabetes mellitus with mononeuropathy",68105
+"                                                                              ",3,"C10EC00","Type 1 diabetes mellitus with polyneuropathy",46301
+"                                                                              ",3,"C10EC11","Type I diabetes mellitus with polyneuropathy",91943
+"                                                                              ",3,"C10ED00","Type 1 diabetes mellitus with nephropathy",10418
+"                                                                              ",3,"C10EE00","Type 1 diabetes mellitus with hypoglycaemic coma",39070
+"                                                                              ",3,"C10EF00","Type 1 diabetes mellitus with diabetic cataract",49554
+"                                                                              ",3,"C10EG00","Type 1 diabetes mellitus with peripheral angiopathy",93468
+"                                                                              ",3,"C10EH00","Type 1 diabetes mellitus with arthropathy",18642
+"                                                                              ",3,"C10EJ00","Type 1 diabetes mellitus with neuropathic arthropathy",54008
+"                                                                              ",3,"C10EK00","Type 1 diabetes mellitus with persistent proteinuria",30323
+"                                                                              ",3,"C10EL00","Type 1 diabetes mellitus with persistent microalbuminuria",30294
+"                                                                              ",3,"C10EM00","Type 1 diabetes mellitus with ketoacidosis",10692
+"                                                                              ",3,"C10EM11","Type I diabetes mellitus with ketoacidosis",62209
+"                                                                              ",3,"C10EN00","Type 1 diabetes mellitus with ketoacidotic coma",40837
+"                                                                              ",3,"C10EN11","Type I diabetes mellitus with ketoacidotic coma",66145
+"                                                                              ",3,"C10EP00","Type 1 diabetes mellitus with exudative maculopathy",22871
+"                                                                              ",3,"C10EP11","Type I diabetes mellitus with exudative maculopathy",97894
+"                                                                              ",3,"C10EQ00","Type 1 diabetes mellitus with gastroparesis",55239
+"                                                                              ",3,"C10z000","Diabetes mellitus, juvenile type, + unspecified complication",68792
+"                                                                              ",3,"L180500","Pre-existing diabetes mellitus, insulin-dependent",50960
+"                                                                              ",3,"M21yC00","Insulin lipohypertrophy",38076
+"                                                                              ",3,"M21yC11","Insulin site lipohypertrophy",43493
+"                                                                              ",3,"ZC2C900","Dietary advice for type I diabetes",69043
+"                                                                              ",3,"ZRbH.00","Perceived control of insulin-dependent diabetes",32359
+"                                                                              ",4,"66Ao.00","Diabetes type 2 review",83532
+"                                                                              ",4,"C100100","Diabetes mellitus, adult onset, no mention of complication",14803
+"                                                                              ",4,"C100111","Maturity onset diabetes",14889
+"                                                                              ",4,"C100112","Non-insulin dependent diabetes mellitus",506
+"                                                                              ",4,"C101100","Diabetes mellitus, adult onset, with ketoacidosis",54856
+"                                                                              ",4,"C102100","Diabetes mellitus, adult onset, with hyperosmolar coma",43139
+"                                                                              ",4,"C103100","Diabetes mellitus, adult onset, with ketoacidotic coma",68843
+"                                                                              ",4,"C104100","Diabetes mellitus, adult onset, with renal manifestation",35105
+"                                                                              ",4,"C105100","Diabetes mellitus, adult onset, + ophthalmic manifestation",41389
+"                                                                              ",4,"C106100","Diabetes mellitus, adult onset, + neurological manifestation",39317
+"                                                                              ",4,"C107100","Diabetes mellitus, adult, + peripheral circulatory disorder",63357
+"                                                                              ",4,"C107200","Diabetes mellitus, adult with gangrene",33807
+"                                                                              ",4,"C107400","NIDDM with peripheral circulatory disorder",56803
+"                                                                              ",4,"C109.00","Non-insulin dependent diabetes mellitus",4513
+"                                                                              ",4,"C109.11","NIDDM - Non-insulin dependent diabetes mellitus",5884
+"                                                                              ",4,"C109.12","Type 2 diabetes mellitus",17859
+"                                                                              ",4,"C109.13","Type II diabetes mellitus",18219
+"                                                                              ",4,"C109000","Non-insulin-dependent diabetes mellitus with renal comps",52303
+"                                                                              ",4,"C109011","Type II diabetes mellitus with renal complications",50225
+"                                                                              ",4,"C109012","Type 2 diabetes mellitus with renal complications",18209
+"                                                                              ",4,"C109100","Non-insulin-dependent diabetes mellitus with ophthalm comps",50429
+"                                                                              ",4,"C109111","Type II diabetes mellitus with ophthalmic complications",59725
+"                                                                              ",4,"C109112","Type 2 diabetes mellitus with ophthalmic complications",70316
+"                                                                              ",4,"C109200","Non-insulin-dependent diabetes mellitus with neuro comps",55842
+"                                                                              ",4,"C109211","Type II diabetes mellitus with neurological complications",67905
+"                                                                              ",4,"C109212","Type 2 diabetes mellitus with neurological complications",45919
+"                                                                              ",4,"C109300","Non-insulin-dependent diabetes mellitus with multiple comps",62146
+"                                                                              ",4,"C109400","Non-insulin dependent diabetes mellitus with ulcer",34912
+"                                                                              ",4,"C109411","Type II diabetes mellitus with ulcer",55075
+"                                                                              ",4,"C109412","Type 2 diabetes mellitus with ulcer",65704
+"                                                                              ",4,"C109500","Non-insulin dependent diabetes mellitus with gangrene",40401
+"                                                                              ",4,"C109511","Type II diabetes mellitus with gangrene",62107
+"                                                                              ",4,"C109512","Type 2 diabetes mellitus with gangrene",46150
+"                                                                              ",4,"C109600","Non-insulin-dependent diabetes mellitus with retinopathy",17262
+"                                                                              ",4,"C109611","Type II diabetes mellitus with retinopathy",58604
+"                                                                              ",4,"C109612","Type 2 diabetes mellitus with retinopathy",42762
+"                                                                              ",4,"C109700","Non-insulin dependant diabetes mellitus - poor control",8403
+"                                                                              ",4,"C109711","Type II diabetes mellitus - poor control",24458
+"                                                                              ",4,"C109712","Type 2 diabetes mellitus - poor control",45913
+"                                                                              ",4,"C109900","Non-insulin-dependent diabetes mellitus without complication",29979
+"                                                                              ",4,"C109A00","Non-insulin dependent diabetes mellitus with mononeuropathy",72320
+"                                                                              ",4,"C109A11","Type II diabetes mellitus with mononeuropathy",50813
+"                                                                              ",4,"C109B00","Non-insulin dependent diabetes mellitus with polyneuropathy",45467
+"                                                                              ",4,"C109B11","Type II diabetes mellitus with polyneuropathy",47409
+"                                                                              ",4,"C109C00","Non-insulin dependent diabetes mellitus with nephropathy",59365
+"                                                                              ",4,"C109C11","Type II diabetes mellitus with nephropathy",64571
+"                                                                              ",4,"C109C12","Type 2 diabetes mellitus with nephropathy",24836
+"                                                                              ",4,"C109D00","Non-insulin dependent diabetes mellitus with hypoglyca coma",43785
+"                                                                              ",4,"C109D11","Type II diabetes mellitus with hypoglycaemic coma",56268
+"                                                                              ",4,"C109D12","Type 2 diabetes mellitus with hypoglycaemic coma",61071
+"                                                                              ",4,"C109E00","Non-insulin depend diabetes mellitus with diabetic cataract",69278
+"                                                                              ",4,"C109E11","Type II diabetes mellitus with diabetic cataract",48192
+"                                                                              ",4,"C109E12","Type 2 diabetes mellitus with diabetic cataract",44779
+"                                                                              ",4,"C109F00","Non-insulin-dependent d m with peripheral angiopath",54212
+"                                                                              ",4,"C109F11","Type II diabetes mellitus with peripheral angiopathy",54899
+"                                                                              ",4,"C109F12","Type 2 diabetes mellitus with peripheral angiopathy",60699
+"                                                                              ",4,"C109G00","Non-insulin dependent diabetes mellitus with arthropathy",24693
+"                                                                              ",4,"C109G11","Type II diabetes mellitus with arthropathy",18143
+"                                                                              ",4,"C109G12","Type 2 diabetes mellitus with arthropathy",49869
+"                                                                              ",4,"C109H00","Non-insulin dependent d m with neuropathic arthropathy",40962
+"                                                                              ",4,"C109H11","Type II diabetes mellitus with neuropathic arthropathy",47816
+"                                                                              ",4,"C109H12","Type 2 diabetes mellitus with neuropathic arthropathy",66965
+"                                                                              ",4,"C109J00","Insulin treated Type 2 diabetes mellitus",18278
+"                                                                              ",4,"C109J11","Insulin treated non-insulin dependent diabetes mellitus",37648
+"                                                                              ",4,"C109J12","Insulin treated Type II diabetes mellitus",18264
+"                                                                              ",4,"C109K00","Hyperosmolar non-ketotic state in type 2 diabetes mellitus",36633
+"                                                                              ",4,"C10C.11","Maturity onset diabetes in youth",46624
+"                                                                              ",4,"C10D.00","Diabetes mellitus autosomal dominant type 2",36695
+"                                                                              ",4,"C10D.11","Maturity onset diabetes in youth type 2",59991
+"                                                                              ",4,"C10ER00","Latent autoimmune diabetes mellitus in adult",95636
+"                                                                              ",4,"C10F.00","Type 2 diabetes mellitus",758
+"                                                                              ",4,"C10F.11","Type II diabetes mellitus",22884
+"                                                                              ",4,"C10F000","Type 2 diabetes mellitus with renal complications",18777
+"                                                                              ",4,"C10F011","Type II diabetes mellitus with renal complications",57278
+"                                                                              ",4,"C10F100","Type 2 diabetes mellitus with ophthalmic complications",47321
+"                                                                              ",4,"C10F200","Type 2 diabetes mellitus with neurological complications",34268
+"                                                                              ",4,"C10F211","Type II diabetes mellitus with neurological complications",98616
+"                                                                              ",4,"C10F300","Type 2 diabetes mellitus with multiple complications",65267
+"                                                                              ",4,"C10F311","Type II diabetes mellitus with multiple complications",43227
+"                                                                              ",4,"C10F400","Type 2 diabetes mellitus with ulcer",49074
+"                                                                              ",4,"C10F411","Type II diabetes mellitus with ulcer",91646
+"                                                                              ",4,"C10F500","Type 2 diabetes mellitus with gangrene",12736
+"                                                                              ",4,"C10F600","Type 2 diabetes mellitus with retinopathy",18496
+"                                                                              ",4,"C10F611","Type II diabetes mellitus with retinopathy",49655
+"                                                                              ",4,"C10F700","Type 2 diabetes mellitus - poor control",25627
+"                                                                              ",4,"C10F711","Type II diabetes mellitus - poor control",47315
+"                                                                              ",4,"C10F900","Type 2 diabetes mellitus without complication",47954
+"                                                                              ",4,"C10F911","Type II diabetes mellitus without complication",53392
+"                                                                              ",4,"C10FA00","Type 2 diabetes mellitus with mononeuropathy",62674
+"                                                                              ",4,"C10FA11","Type II diabetes mellitus with mononeuropathy",95351
+"                                                                              ",4,"C10FB00","Type 2 diabetes mellitus with polyneuropathy",18425
+"                                                                              ",4,"C10FB11","Type II diabetes mellitus with polyneuropathy",50527
+"                                                                              ",4,"C10FC00","Type 2 diabetes mellitus with nephropathy",12640
+"                                                                              ",4,"C10FD00","Type 2 diabetes mellitus with hypoglycaemic coma",46917
+"                                                                              ",4,"C10FD11","Type II diabetes mellitus with hypoglycaemic coma",98723
+"                                                                              ",4,"C10FE00","Type 2 diabetes mellitus with diabetic cataract",44982
+"                                                                              ",4,"C10FE11","Type II diabetes mellitus with diabetic cataract",93727
+"                                                                              ",4,"C10FF00","Type 2 diabetes mellitus with peripheral angiopathy",37806
+"                                                                              ",4,"C10FG00","Type 2 diabetes mellitus with arthropathy",59253
+"                                                                              ",4,"C10FH00","Type 2 diabetes mellitus with neuropathic arthropathy",35385
+"                                                                              ",4,"C10FJ00","Insulin treated Type 2 diabetes mellitus",1407
+"                                                                              ",4,"C10FJ11","Insulin treated Type II diabetes mellitus",64668
+"                                                                              ",4,"C10FK00","Hyperosmolar non-ketotic state in type 2 diabetes mellitus",34450
+"                                                                              ",4,"C10FL00","Type 2 diabetes mellitus with persistent proteinuria",26054
+"                                                                              ",4,"C10FL11","Type II diabetes mellitus with persistent proteinuria",60796
+"                                                                              ",4,"C10FM00","Type 2 diabetes mellitus with persistent microalbuminuria",18390
+"                                                                              ",4,"C10FM11","Type II diabetes mellitus with persistent microalbuminuria",85991
+"                                                                              ",4,"C10FN00","Type 2 diabetes mellitus with ketoacidosis",32627
+"                                                                              ",4,"C10FP00","Type 2 diabetes mellitus with ketoacidotic coma",51756
+"                                                                              ",4,"C10FQ00","Type 2 diabetes mellitus with exudative maculopathy",25591
+"                                                                              ",4,"C10FR00","Type 2 diabetes mellitus with gastroparesis",63690
+"                                                                              ",4,"C10y100","Diabetes mellitus, adult, + other specified manifestation",63371
+"                                                                              ",4,"C10z100","Diabetes mellitus, adult onset, + unspecified complication",63762
+"                                                                              ",4,"L180600","Pre-existing diabetes mellitus, non-insulin-dependent",50609
+"                                                                              ",4,"ZC2CA00","Dietary advice for type II diabetes",25041
+"                                                                              ",5,"C10B.00","Diabetes mellitus induced by steroids",11551
+"                                                                              ",5,"C10B000","Steroid induced diabetes mellitus without complication",26108
+"                                                                              ",5,"C10FS00","Maternally inherited diabetes mellitus",95539
+"                                                                              ",5,"C10G.00","Secondary pancreatic diabetes mellitus",51697
+"                                                                              ",5,"C10G000","Secondary pancreatic diabetes mellitus without complication",96506
+"                                                                              ",5,"C10H.00","Diabetes mellitus induced by non-steroid drugs",61122
+"                                                                              ",5,"C10H000","DM induced by non-steroid drugs without complication",67212
+"                                                                              ",5,"C10N.00","Secondary diabetes mellitus",22487
+"                                                                              ",5,"C10N000","Secondary diabetes mellitus without complication",94383
+"                                                                              ",5,"C10N100","Cystic fibrosis related diabetes mellitus",93380
+"                                                                              ",5,"C11y000","Steroid induced diabetes",32193
+"                                                                              ",6,"13AB.00","Diabetic lipid lowering diet",21689
+"                                                                              ",6,"13AC.00","Diabetic weight reducing diet",13078
+"                                                                              ",6,"13B1.00","Diabetic diet",13074
+"                                                                              ",6,"2BBF.00","Retinal abnormality - diabetes related",22967
+"                                                                              ",6,"2BBL.00","O/E - diabetic maculopathy present both eyes",9835
+"                                                                              ",6,"2BBM.00","O/E - diabetic maculopathy absent both eyes",47144
+"                                                                              ",6,"2BBP.00","O/E - right eye background diabetic retinopathy",11433
+"                                                                              ",6,"2BBQ.00","O/E - left eye background diabetic retinopathy",11129
+"                                                                              ",6,"2BBR.00","O/E - right eye preproliferative diabetic retinopathy",13099
+"                                                                              ",6,"2BBS.00","O/E - left eye preproliferative diabetic retinopathy",13103
+"                                                                              ",6,"2BBT.00","O/E - right eye proliferative diabetic retinopathy",13097
+"                                                                              ",6,"2BBV.00","O/E - left eye proliferative diabetic retinopathy",13101
+"                                                                              ",6,"2BBW.00","O/E - right eye diabetic maculopathy",13102
+"                                                                              ",6,"2BBX.00","O/E - left eye diabetic maculopathy",13108
+"                                                                              ",6,"2BBk.00","O/E - right eye stable treated prolif diabetic retinopathy",47328
+"                                                                              ",6,"2BBl.00","O/E - left eye stable treated prolif diabetic retinopathy",52041
+"                                                                              ",6,"2BBo.00","O/E - sight threatening diabetic retinopathy",52630
+"                                                                              ",6,"2G51000","Foot abnormality - diabetes related",27921
+"                                                                              ",6,"2G5A.00","O/E - Right diabetic foot at risk",17095
+"                                                                              ",6,"2G5B.00","O/E - Left diabetic foot at risk",26664
+"                                                                              ",6,"2G5C.00","Foot abnormality - diabetes related",18056
+"                                                                              ",6,"2G5E.00","O/E - Right diabetic foot at low risk",26666
+"                                                                              ",6,"2G5F.00","O/E - Right diabetic foot at moderate risk",31157
+"                                                                              ",6,"2G5G.00","O/E - Right diabetic foot at high risk",31171
+"                                                                              ",6,"2G5H.00","O/E - Right diabetic foot - ulcerated",35316
+"                                                                              ",6,"2G5I.00","O/E - Left diabetic foot at low risk",26667
+"                                                                              ",6,"2G5J.00","O/E - Left diabetic foot at moderate risk",31156
+"                                                                              ",6,"2G5K.00","O/E - Left diabetic foot at high risk",31172
+"                                                                              ",6,"2G5L.00","O/E - Left diabetic foot - ulcerated",35116
+"                                                                              ",6,"2G5V.00","O/E - right chronic diabetic foot ulcer",62384
+"                                                                              ",6,"2G5W.00","O/E - left chronic diabetic foot ulcer",49640
+"                                                                              ",6,"66A3.00","Diabetic on diet only",7563
+"                                                                              ",6,"66A4.00","Diabetic on oral treatment",1684
+"                                                                              ",6,"66A5.00","Diabetic on insulin",8842
+"                                                                              ",6,"66A8.00","Has seen dietician - diabetes",13069
+"                                                                              ",6,"66A9.00","Understands diet - diabetes",38078
+"                                                                              ",6,"66AA.11","Injection sites - diabetic",20696
+"                                                                              ",6,"66AD.00","Fundoscopy - diabetic check",13196
+"                                                                              ",6,"66AG.00","Diabetic drug side effects",53238
+"                                                                              ",6,"66AH.00","Diabetic treatment changed",16490
+"                                                                              ",6,"66AI.00","Diabetic - good control",13071
+"                                                                              ",6,"66AJ.00","Diabetic - poor control",2378
+"                                                                              ",6,"66AJ.11","Unstable diabetes",9013
+"                                                                              ",6,"66AJ100","Brittle diabetes",2478
+"                                                                              ",6,"66AJz00","Diabetic - poor control NOS",22023
+"                                                                              ",6,"66AK.00","Diabetic - cooperative patient",43951
+"                                                                              ",6,"66AL.00","Diabetic-uncooperative patient",17869
+"                                                                              ",6,"66AN.00","Date diabetic treatment start",29041
+"                                                                              ",6,"66AO.00","Date diabetic treatment stopp.",55123
+"                                                                              ",6,"66AP.00","Diabetes: practice programme",12506
+"                                                                              ",6,"66AQ.00","Diabetes: shared care programme",12675
+"                                                                              ",6,"66AR.00","Diabetes management plan given",8836
+"                                                                              ",6,"66AS.00","Diabetic annual review",6125
+"                                                                              ",6,"66AT.00","Annual diabetic blood test",18167
+"                                                                              ",6,"66AU.00","Diabetes care by hospital only",12307
+"                                                                              ",6,"66AV.00","Diabetic on insulin and oral treatment",28769
+"                                                                              ",6,"66AW.00","Diabetic foot risk assessment",50175
+"                                                                              ",6,"66AX.00","Diabetes: shared care in pregnancy - diabetol and obstet",46577
+"                                                                              ",6,"66AY.00","Diabetic diet - good compliance",26604
+"                                                                              ",6,"66Aa.00","Diabetic diet - poor compliance",25636
+"                                                                              ",6,"66Ab.00","Diabetic foot examination",22823
+"                                                                              ",6,"66Ac.00","Diabetic peripheral neuropathy screening",10977
+"                                                                              ",6,"66Ag.00","Insulin needles changed daily",90301
+"                                                                              ",6,"66Ah.00","Insulin needles changed for each injection",66274
+"                                                                              ",6,"66Ai.00","Diabetic 6 month review",28873
+"                                                                              ",6,"66Aj.00","Insulin needles changed less than once a day",69152
+"                                                                              ",6,"66Am.00","Insulin dose changed",83485
+"                                                                              ",6,"66Ap.00","Insulin treatment initiated",96010
+"                                                                              ",6,"66Aq.00","Diabetic foot screen",95994
+"                                                                              ",6,"6761.00","Diabetic pre-pregnancy counselling",49884
+"                                                                              ",6,"68A7.00","Diabetic retinopathy screening",18311
+"                                                                              ",6,"68A9.00","Diabetic retinopathy screening offered",19739
+"                                                                              ",6,"68AB.00","Diabetic digital retinopathy screening offered",61021
+"                                                                              ",6,"7276.00","Pan retinal photocoagulation for diabetes",11599
+"                                                                              ",6,"7L10000","Continuous subcutaneous infusion of insulin",36798
+"                                                                              ",6,"7L19800","Subcutaneous injection of insulin",17817
+"                                                                              ",6,"889A.00","Diab mellit insulin-glucose infus acute myocardial infarct",61670
+"                                                                              ",6,"8A13.00","Diabetic stabilisation",24363
+"                                                                              ",6,"8B3l.00","Diabetes medication review",11471
+"                                                                              ",6,"8BL2.00","Patient on maximal tolerated therapy for diabetes",12213
+"                                                                              ",6,"8CA4100","Pt advised re diabetic diet",8414
+"                                                                              ",6,"8CAQ.00","Advice about blood glucose control",12483
+"                                                                              ",6,"8CP2.00","Transition of diabetes care options discussed",28856
+"                                                                              ",6,"8H2J.00","Admit diabetic emergency",7059
+"                                                                              ",6,"8H3O.00","Non-urgent diabetic admission",35321
+"                                                                              ",6,"8H7r.00","Refer to diabetic foot screener",11677
+"                                                                              ",6,"8HBG.00","Diabetic retinopathy 12 month review",11018
+"                                                                              ",6,"8HBH.00","Diabetic retinopathy 6 month review",18662
+"                                                                              ",6,"8HLE.00","Diabetology D.V. done",47370
+"                                                                              ",6,"8Hl1.00","Referral for diabetic retinopathy screening",64142
+"                                                                              ",6,"8I3W.00","Diabetic foot examination declined",18824
+"                                                                              ",6,"8I3X.00","Diabetic retinopathy screening refused",12262
+"                                                                              ",6,"8I3k.00","Insulin therapy declined",58159
+"                                                                              ",6,"8I57.00","Patient held diabetic record declined",58639
+"                                                                              ",6,"9360.00","Patient held diabetic record issued",52237
+"                                                                              ",6,"9OLD.00","Diabetic patient unsuitable for digital retinal photography",35383
+"                                                                              ",6,"C10..00","Diabetes mellitus",711
+"                                                                              ",6,"C100.00","Diabetes mellitus with no mention of complication",38986
+"                                                                              ",6,"C100z00","Diabetes mellitus NOS with no mention of complication",50972
+"                                                                              ",6,"C101.00","Diabetes mellitus with ketoacidosis",1682
+"                                                                              ",6,"C101y00","Other specified diabetes mellitus with ketoacidosis",38617
+"                                                                              ",6,"C101z00","Diabetes mellitus NOS with ketoacidosis",42505
+"                                                                              ",6,"C102.00","Diabetes mellitus with hyperosmolar coma",21482
+"                                                                              ",6,"C102z00","Diabetes mellitus NOS with hyperosmolar coma",72345
+"                                                                              ",6,"C103.00","Diabetes mellitus with ketoacidotic coma",15690
+"                                                                              ",6,"C103y00","Other specified diabetes mellitus with coma",59288
+"                                                                              ",6,"C103z00","Diabetes mellitus NOS with ketoacidotic coma",65062
+"                                                                              ",6,"C104.00","Diabetes mellitus with renal manifestation",16502
+"                                                                              ",6,"C104.11","Diabetic nephropathy",2475
+"                                                                              ",6,"C104y00","Other specified diabetes mellitus with renal complications",13279
+"                                                                              ",6,"C104z00","Diabetes mellitis with nephropathy NOS",35107
+"                                                                              ",6,"C105.00","Diabetes mellitus with ophthalmic manifestation",33254
+"                                                                              ",6,"C105y00","Other specified diabetes mellitus with ophthalmic complicatn",47377
+"                                                                              ",6,"C105z00","Diabetes mellitus NOS with ophthalmic manifestation",34283
+"                                                                              ",6,"C106.00","Diabetes mellitus with neurological manifestation",16230
+"                                                                              ",6,"C106.11","Diabetic amyotrophy",59903
+"                                                                              ",6,"C106.12","Diabetes mellitus with neuropathy",7795
+"                                                                              ",6,"C106.13","Diabetes mellitus with polyneuropathy",16491
+"                                                                              ",6,"C106y00","Other specified diabetes mellitus with neurological comps",61523
+"                                                                              ",6,"C106z00","Diabetes mellitus NOS with neurological manifestation",22573
+"                                                                              ",6,"C107.00","Diabetes mellitus with peripheral circulatory disorder",35399
+"                                                                              ",6,"C107.11","Diabetes mellitus with gangrene",32403
+"                                                                              ",6,"C107.12","Diabetes with gangrene",32556
+"                                                                              ",6,"C107z00","Diabetes mellitus NOS with peripheral circulatory disorder",65025
+"                                                                              ",6,"C108y00","Other specified diabetes mellitus with multiple comps",46290
+"                                                                              ",6,"C108z00","Unspecified diabetes mellitus with multiple complications",64449
+"                                                                              ",6,"C10A.00","Malnutrition-related diabetes mellitus",52236
+"                                                                              ",6,"C10A000","Malnutrition-related diabetes mellitus with coma",66675
+"                                                                              ",6,"C10A100","Malnutrition-related diabetes mellitus with ketoacidosis",33969
+"                                                                              ",6,"C10C.00","Diabetes mellitus autosomal dominant",43453
+"                                                                              ",6,"C10M.00","Lipoatrophic diabetes mellitus",43857
+"                                                                              ",6,"C10y.00","Diabetes mellitus with other specified manifestation",33343
+"                                                                              ",6,"C10yy00","Other specified diabetes mellitus with other spec comps",10098
+"                                                                              ",6,"C10yz00","Diabetes mellitus NOS with other specified manifestation",70821
+"                                                                              ",6,"C10z.00","Diabetes mellitus with unspecified complication",45491
+"                                                                              ",6,"C10zy00","Other specified diabetes mellitus with unspecified comps",64283
+"                                                                              ",6,"C10zz00","Diabetes mellitus NOS with unspecified complication",64357
+"                                                                              ",6,"C314.11","Renal diabetes",11848
+"                                                                              ",6,"C350011","Bronzed diabetes",23479
+"                                                                              ",6,"Cyu2.00","[X]Diabetes mellitus",52212
+"                                                                              ",6,"Cyu2000","[X]Other specified diabetes mellitus",41686
+"                                                                              ",6,"F171100","Autonomic neuropathy due to diabetes",17067
+"                                                                              ",6,"F345000","Diabetic mononeuritis multiplex",44033
+"                                                                              ",6,"F35z000","Diabetic mononeuritis NOS",17247
+"                                                                              ",6,"F372.00","Polyneuropathy in diabetes",31790
+"                                                                              ",6,"F372.11","Diabetic polyneuropathy",5002
+"                                                                              ",6,"F372.12","Diabetic neuropathy",2342
+"                                                                              ",6,"F372000","Acute painful diabetic neuropathy",48078
+"                                                                              ",6,"F372100","Chronic painful diabetic neuropathy",35785
+"                                                                              ",6,"F372200","Asymptomatic diabetic neuropathy",24571
+"                                                                              ",6,"F381300","Myasthenic syndrome due to diabetic amyotrophy",39420
+"                                                                              ",6,"F381311","Diabetic amyotrophy",2340
+"                                                                              ",6,"F3y0.00","Diabetic mononeuropathy",37315
+"                                                                              ",6,"F420.00","Diabetic retinopathy",1323
+"                                                                              ",6,"F420000","Background diabetic retinopathy",7069
+"                                                                              ",6,"F420100","Proliferative diabetic retinopathy",3286
+"                                                                              ",6,"F420200","Preproliferative diabetic retinopathy",2986
+"                                                                              ",6,"F420300","Advanced diabetic maculopathy",10099
+"                                                                              ",6,"F420400","Diabetic maculopathy",3837
+"                                                                              ",6,"F420500","Advanced diabetic retinal disease",47584
+"                                                                              ",6,"F420600","Non proliferative diabetic retinopathy",10755
+"                                                                              ",6,"F420700","High risk proliferative diabetic retinopathy",30477
+"                                                                              ",6,"F420800","High risk non proliferative diabetic retinopathy",65463
+"                                                                              ",6,"F420z00","Diabetic retinopathy NOS",11626
+"                                                                              ",6,"F440700","Diabetic iritis",17313
+"                                                                              ",6,"F464000","Diabetic cataract",10659
+"                                                                              ",6,"G73y000","Diabetic peripheral angiopathy",34152
+"                                                                              ",6,"K01x100","Nephrotic syndrome in diabetes mellitus",2471
+"                                                                              ",6,"K01x111","Kimmelstiel - Wilson disease",45499
+"                                                                              ",6,"L180X00","Pre-existing diabetes mellitus, unspecified",55431
+"                                                                              ",6,"M037200","Cellulitis in diabetic foot",7328
+"                                                                              ",6,"M271000","Ischaemic ulcer diabetic foot",24327
+"                                                                              ",6,"M271100","Neuropathic diabetic ulcer - foot",11663
+"                                                                              ",6,"M271200","Mixed diabetic ulcer - foot",9881
+"                                                                              ",6,"N030000","Diabetic cheiroarthropathy",18142
+"                                                                              ",6,"N030011","Diabetic cheiropathy",57333
+"                                                                              ",6,"N030100","Diabetic Charcot arthropathy",27891
+"                                                                              ",6,"Q441.00","Neonatal diabetes mellitus",21472
+"                                                                              ",6,"R054200","[D]Gangrene of toe in diabetic",53634
+"                                                                              ",6,"R054300","[D]Widespread diabetic foot gangrene",31053
+"                                                                              ",6,"TJ23.00","Adverse reaction to insulins and antidiabetic agents",68928
+"                                                                              ",6,"TJ23z00","Adverse reaction to insulins and antidiabetic agents NOS",61210
+"                                                                              ",6,"U602311","[X] Adverse reaction to insulins and antidiabetic agents",65684
+"                                                                              ",6,"ZC2C800","Dietary advice for diabetes mellitus",10642
+"                                                                              ",6,"ZV65312","[V]Dietary counselling in diabetes mellitus",16881
+"                                                                              ",7,"1I0..00","Diabetes mellitus excluded",19203

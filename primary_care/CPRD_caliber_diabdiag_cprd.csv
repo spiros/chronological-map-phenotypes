@@ -1,0 +1,136 @@
+"metadata","category","readcode","readterm","medcode"
+"Name: diabdiag_cprd          ",3,"C108.12","Type 1 diabetes mellitus",17858
+"Version: 1                   ",3,"C108.13","Type I diabetes mellitus",24423
+"Source: CPRD                 ",3,"C108011","Type I diabetes mellitus with renal complications",61344
+"Author: Anoop Shah           ",3,"C108012","Type 1 diabetes mellitus with renal complications",21983
+"Date: 18 Sep 2012            ",3,"C108211","Type I diabetes mellitus with neurological complications",49146
+"Timestamp: 15.04 23-Apr-13   ",3,"C108212","Type 1 diabetes mellitus with neurological complications",61829
+"Categories:                  ",3,"C108411","Unstable type I diabetes mellitus",60107
+"3. Type I diabetes mellitus  ",3,"C108412","Unstable type 1 diabetes mellitus",97474
+"4. Type II diabetes mellitus ",3,"C108511","Type I diabetes mellitus with ulcer",51957
+"                             ",3,"C108512","Type 1 diabetes mellitus with ulcer",68390
+"                             ",3,"C108711","Type I diabetes mellitus with retinopathy",38161
+"                             ",3,"C108712","Type 1 diabetes mellitus with retinopathy",41049
+"                             ",3,"C108811","Type I diabetes mellitus - poor control",46850
+"                             ",3,"C108812","Type 1 diabetes mellitus - poor control",45914
+"                             ",3,"C108911","Type I diabetes mellitus maturity onset",63017
+"                             ",3,"C108912","Type 1 diabetes mellitus maturity onset",97446
+"                             ",3,"C108A11","Type I diabetes mellitus without complication",95992
+"                             ",3,"C108D11","Type I diabetes mellitus with nephropathy",66872
+"                             ",3,"C108E11","Type I diabetes mellitus with hypoglycaemic coma",42729
+"                             ",3,"C108E12","Type 1 diabetes mellitus with hypoglycaemic coma",70766
+"                             ",3,"C108F11","Type I diabetes mellitus with diabetic cataract",17545
+"                             ",3,"C108H11","Type I diabetes mellitus with arthropathy",62352
+"                             ",3,"C108J11","Type I diabetes mellitus with neuropathic arthropathy",60208
+"                             ",3,"C108J12","Type 1 diabetes mellitus with neuropathic arthropathy",18230
+"                             ",3,"C10E.00","Type 1 diabetes mellitus",1549
+"                             ",3,"C10E.11","Type I diabetes mellitus",12455
+"                             ",3,"C10E000","Type 1 diabetes mellitus with renal complications",47582
+"                             ",3,"C10E100","Type 1 diabetes mellitus with ophthalmic complications",47649
+"                             ",3,"C10E200","Type 1 diabetes mellitus with neurological complications",42831
+"                             ",3,"C10E300","Type 1 diabetes mellitus with multiple complications",47650
+"                             ",3,"C10E311","Type I diabetes mellitus with multiple complications",91942
+"                             ",3,"C10E400","Unstable type 1 diabetes mellitus",43921
+"                             ",3,"C10E411","Unstable type I diabetes mellitus",49949
+"                             ",3,"C10E500","Type 1 diabetes mellitus with ulcer",18683
+"                             ",3,"C10E511","Type I diabetes mellitus with ulcer",93878
+"                             ",3,"C10E600","Type 1 diabetes mellitus with gangrene",69993
+"                             ",3,"C10E700","Type 1 diabetes mellitus with retinopathy",18387
+"                             ",3,"C10E711","Type I diabetes mellitus with retinopathy",95343
+"                             ",3,"C10E800","Type 1 diabetes mellitus - poor control",35288
+"                             ",3,"C10E900","Type 1 diabetes mellitus maturity onset",40682
+"                             ",3,"C10E911","Type I diabetes mellitus maturity onset",96235
+"                             ",3,"C10EA00","Type 1 diabetes mellitus without complication",69676
+"                             ",3,"C10EA11","Type I diabetes mellitus without complication",62613
+"                             ",3,"C10EB00","Type 1 diabetes mellitus with mononeuropathy",68105
+"                             ",3,"C10EC00","Type 1 diabetes mellitus with polyneuropathy",46301
+"                             ",3,"C10EC11","Type I diabetes mellitus with polyneuropathy",91943
+"                             ",3,"C10ED00","Type 1 diabetes mellitus with nephropathy",10418
+"                             ",3,"C10EE00","Type 1 diabetes mellitus with hypoglycaemic coma",39070
+"                             ",3,"C10EF00","Type 1 diabetes mellitus with diabetic cataract",49554
+"                             ",3,"C10EG00","Type 1 diabetes mellitus with peripheral angiopathy",93468
+"                             ",3,"C10EH00","Type 1 diabetes mellitus with arthropathy",18642
+"                             ",3,"C10EJ00","Type 1 diabetes mellitus with neuropathic arthropathy",54008
+"                             ",3,"C10EK00","Type 1 diabetes mellitus with persistent proteinuria",30323
+"                             ",3,"C10EL00","Type 1 diabetes mellitus with persistent microalbuminuria",30294
+"                             ",3,"C10EM00","Type 1 diabetes mellitus with ketoacidosis",10692
+"                             ",3,"C10EM11","Type I diabetes mellitus with ketoacidosis",62209
+"                             ",3,"C10EN00","Type 1 diabetes mellitus with ketoacidotic coma",40837
+"                             ",3,"C10EN11","Type I diabetes mellitus with ketoacidotic coma",66145
+"                             ",3,"C10EP00","Type 1 diabetes mellitus with exudative maculopathy",22871
+"                             ",3,"C10EP11","Type I diabetes mellitus with exudative maculopathy",97894
+"                             ",3,"C10EQ00","Type 1 diabetes mellitus with gastroparesis",55239
+"                             ",4,"C109.12","Type 2 diabetes mellitus",17859
+"                             ",4,"C109.13","Type II diabetes mellitus",18219
+"                             ",4,"C109011","Type II diabetes mellitus with renal complications",50225
+"                             ",4,"C109012","Type 2 diabetes mellitus with renal complications",18209
+"                             ",4,"C109111","Type II diabetes mellitus with ophthalmic complications",59725
+"                             ",4,"C109112","Type 2 diabetes mellitus with ophthalmic complications",70316
+"                             ",4,"C109211","Type II diabetes mellitus with neurological complications",67905
+"                             ",4,"C109212","Type 2 diabetes mellitus with neurological complications",45919
+"                             ",4,"C109411","Type II diabetes mellitus with ulcer",55075
+"                             ",4,"C109412","Type 2 diabetes mellitus with ulcer",65704
+"                             ",4,"C109511","Type II diabetes mellitus with gangrene",62107
+"                             ",4,"C109512","Type 2 diabetes mellitus with gangrene",46150
+"                             ",4,"C109611","Type II diabetes mellitus with retinopathy",58604
+"                             ",4,"C109612","Type 2 diabetes mellitus with retinopathy",42762
+"                             ",4,"C109711","Type II diabetes mellitus - poor control",24458
+"                             ",4,"C109712","Type 2 diabetes mellitus - poor control",45913
+"                             ",4,"C109A11","Type II diabetes mellitus with mononeuropathy",50813
+"                             ",4,"C109B11","Type II diabetes mellitus with polyneuropathy",47409
+"                             ",4,"C109C11","Type II diabetes mellitus with nephropathy",64571
+"                             ",4,"C109C12","Type 2 diabetes mellitus with nephropathy",24836
+"                             ",4,"C109D11","Type II diabetes mellitus with hypoglycaemic coma",56268
+"                             ",4,"C109D12","Type 2 diabetes mellitus with hypoglycaemic coma",61071
+"                             ",4,"C109E11","Type II diabetes mellitus with diabetic cataract",48192
+"                             ",4,"C109E12","Type 2 diabetes mellitus with diabetic cataract",44779
+"                             ",4,"C109F11","Type II diabetes mellitus with peripheral angiopathy",54899
+"                             ",4,"C109F12","Type 2 diabetes mellitus with peripheral angiopathy",60699
+"                             ",4,"C109G11","Type II diabetes mellitus with arthropathy",18143
+"                             ",4,"C109G12","Type 2 diabetes mellitus with arthropathy",49869
+"                             ",4,"C109H11","Type II diabetes mellitus with neuropathic arthropathy",47816
+"                             ",4,"C109H12","Type 2 diabetes mellitus with neuropathic arthropathy",66965
+"                             ",4,"C109J00","Insulin treated Type 2 diabetes mellitus",18278
+"                             ",4,"C109J12","Insulin treated Type II diabetes mellitus",18264
+"                             ",4,"C109K00","Hyperosmolar non-ketotic state in type 2 diabetes mellitus",36633
+"                             ",4,"C10F.00","Type 2 diabetes mellitus",758
+"                             ",4,"C10F.11","Type II diabetes mellitus",22884
+"                             ",4,"C10F000","Type 2 diabetes mellitus with renal complications",18777
+"                             ",4,"C10F011","Type II diabetes mellitus with renal complications",57278
+"                             ",4,"C10F100","Type 2 diabetes mellitus with ophthalmic complications",47321
+"                             ",4,"C10F200","Type 2 diabetes mellitus with neurological complications",34268
+"                             ",4,"C10F211","Type II diabetes mellitus with neurological complications",98616
+"                             ",4,"C10F300","Type 2 diabetes mellitus with multiple complications",65267
+"                             ",4,"C10F311","Type II diabetes mellitus with multiple complications",43227
+"                             ",4,"C10F400","Type 2 diabetes mellitus with ulcer",49074
+"                             ",4,"C10F411","Type II diabetes mellitus with ulcer",91646
+"                             ",4,"C10F500","Type 2 diabetes mellitus with gangrene",12736
+"                             ",4,"C10F600","Type 2 diabetes mellitus with retinopathy",18496
+"                             ",4,"C10F611","Type II diabetes mellitus with retinopathy",49655
+"                             ",4,"C10F700","Type 2 diabetes mellitus - poor control",25627
+"                             ",4,"C10F711","Type II diabetes mellitus - poor control",47315
+"                             ",4,"C10F900","Type 2 diabetes mellitus without complication",47954
+"                             ",4,"C10F911","Type II diabetes mellitus without complication",53392
+"                             ",4,"C10FA00","Type 2 diabetes mellitus with mononeuropathy",62674
+"                             ",4,"C10FA11","Type II diabetes mellitus with mononeuropathy",95351
+"                             ",4,"C10FB00","Type 2 diabetes mellitus with polyneuropathy",18425
+"                             ",4,"C10FB11","Type II diabetes mellitus with polyneuropathy",50527
+"                             ",4,"C10FC00","Type 2 diabetes mellitus with nephropathy",12640
+"                             ",4,"C10FD00","Type 2 diabetes mellitus with hypoglycaemic coma",46917
+"                             ",4,"C10FD11","Type II diabetes mellitus with hypoglycaemic coma",98723
+"                             ",4,"C10FE00","Type 2 diabetes mellitus with diabetic cataract",44982
+"                             ",4,"C10FE11","Type II diabetes mellitus with diabetic cataract",93727
+"                             ",4,"C10FF00","Type 2 diabetes mellitus with peripheral angiopathy",37806
+"                             ",4,"C10FG00","Type 2 diabetes mellitus with arthropathy",59253
+"                             ",4,"C10FH00","Type 2 diabetes mellitus with neuropathic arthropathy",35385
+"                             ",4,"C10FJ00","Insulin treated Type 2 diabetes mellitus",1407
+"                             ",4,"C10FJ11","Insulin treated Type II diabetes mellitus",64668
+"                             ",4,"C10FK00","Hyperosmolar non-ketotic state in type 2 diabetes mellitus",34450
+"                             ",4,"C10FL00","Type 2 diabetes mellitus with persistent proteinuria",26054
+"                             ",4,"C10FL11","Type II diabetes mellitus with persistent proteinuria",60796
+"                             ",4,"C10FM00","Type 2 diabetes mellitus with persistent microalbuminuria",18390
+"                             ",4,"C10FM11","Type II diabetes mellitus with persistent microalbuminuria",85991
+"                             ",4,"C10FN00","Type 2 diabetes mellitus with ketoacidosis",32627
+"                             ",4,"C10FP00","Type 2 diabetes mellitus with ketoacidotic coma",51756
+"                             ",4,"C10FQ00","Type 2 diabetes mellitus with exudative maculopathy",25591
+"                             ",4,"C10FR00","Type 2 diabetes mellitus with gastroparesis",63690

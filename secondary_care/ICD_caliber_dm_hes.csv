@@ -1,0 +1,16 @@
+"metadata","icd_code","icd_term","category"
+"Name: dm_hes                        ","E10","Insulin-dependent diabetes mellitus",3
+"Version: 1                          ","E11","Non-insulin-dependent diabetes mellitus",4
+"Source: HES                         ","E12","Malnutrition-related diabetes mellitus",5
+"Author: Julie George, Emily Herrett ","O242","Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus",5
+"Date: 19 Dec 2012                   ","E13","Other specified diabetes mellitus",6
+"Timestamp: 15.04 23-Apr-13          ","E14","Unspecified diabetes mellitus",6
+"Categories:                         ","G590","Diabetic mononeuropathy",6
+"1. History of diabetes              ","G632","Diabetic polyneuropathy",6
+"2. Possible diabetes                ","H280","Diabetic cataract",6
+"3. Insulin dependent diabetes       ","H360","Diabetic retinopathy",6
+"4. Non insulin dependent diabetes   ","M142","Diabetic arthropathy",6
+"5. Secondary diabetes               ","N083","Glomerular disorders in diabetes mellitus",6
+"6. Diabetes not otherwise specified ","O240","Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent",6
+"7. Diabetes excluded                ","O241","Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent",6
+"8. Diabetes resolved                ","O243","Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",6
